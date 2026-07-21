@@ -1,5 +1,5 @@
 event_id,chronological_placement,what_occurred,participants,witnesses,digital_records,physical_records,related_messages,related_facts
-E-DELIV,"~8 yrs ago → recurring (placeholder)","Recurring restaurant delivery to the building lobby, timed to the doorman's shift end.",C18;C20;C19,C19,"delivery-app logs; payment records","restaurant order tickets",TODO,F020;F021;F022;F023;F024;F025;F026;F027;F030;F031
-E-ANNOUNCE,"Final week, T-?","Journalist announces the AI article.",C11;C12,,"published announcement",,TODO,F009;F014
-E-DISAPPEAR,"T=0","Journalist disappears; article not published as scheduled.",,,"last known comms",,TODO,F010;F015;F016
+E-DELIV,"~8 yrs ago -> recurring (placeholder)","Recurring restaurant delivery to the building lobby, timed to the doorman's shift end.",C14;C16;C15,C15,"delivery-app logs; payment records","restaurant order tickets",TODO,F020;F021;F022;F023;F024;F025;F026;F027;F030;F031
+E-ANNOUNCE,"Final week, T-?","The journalist announces the AI article.",C10;C03,,"published announcement",,TODO,F009;F014
+E-DISAPPEAR,"T=0","The journalist disappears; article not published as scheduled.",,,"last known comms",,TODO,F010;F015;F016
 E-GATHER,"Game night","~20 connected people gathered at the venue.",TODO,,,,TODO,TODO

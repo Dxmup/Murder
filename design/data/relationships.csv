@@ -1,3 +1,5 @@
 character_a,character_b,public_relationship,private_relationship,relevant_event,information_imbalance,conflict,dependency,goal_connection
-C18,C19,"restaurateur & building doorman (acquainted)",TODO,E-DELIV,"C18 knows order history; C19 knows shift timing",TODO,"each holds half the delivery picture","both needed to reconstruct the routine"
-C19,C20,"doorman & delivery driver",TODO,E-DELIV,"C20 knows drop timing; C19 knows who was/wasn't present",TODO,TODO,"corroborate lobby hand-off"
+C14,C15,"restaurateur & building doorman (acquainted)",TODO,E-DELIV,"C14 knows order history; C15 knows shift timing",TODO,"each holds half the delivery picture","both needed to reconstruct the routine"
+C15,C16,"doorman & delivery driver",TODO,E-DELIV,"C16 knows drop timing; C15 knows who was/wasn't present",TODO,TODO,"corroborate the lobby hand-off"
+C11,C17,"rival online figures (debunker vs believer)",TODO,TODO,"same public facts, opposite conclusions","open ideological conflict (D vs A/C)","each needs the other's audience to be wrong","drive the identity debate in the room"
+C01,C03,"grieving relative & old colleague of the journalist",TODO,TODO,"C01 claims one real person; C03 knows the byline's origin","A vs B over who the journalist was",TODO,"competing claims about identity"

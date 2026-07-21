@@ -1,21 +1,21 @@
-character_id,character_name,public_role,private_background,main_goal,sub_goal_one,sub_goal_two,relationships,starting_facts,starting_assets,ai_configuration,messages_received,endgame_questions
-C01,,NYPD detective,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C02,,Federal prosecutor / investigator,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C03,,NYC councilwoman / political figure,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C04,,Hedge fund founder,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C05,,Quantitative trader,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C06,,Venture capitalist,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C07,,AI safety researcher,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C08,,AI evangelist / AI-company executive,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C09,,Open-source AI developer,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C10,,Hacker / cybersecurity specialist,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C11,,Investigative journalist,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C12,,Editor-in-chief,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C13,,Celebrity podcaster / broadcaster,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C14,,Conspiracy livestreamer,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C15,,Broadway actor,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C16,,Gallery owner,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C17,,AI artist,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C18,,Restaurant owner,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C19,,Apartment-building doorman / concierge / super,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C20,,Delivery / ride-share driver (mobile witness),TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+character_id,character_name,public_role,framework_lean,private_background,main_goal,sub_goal_one,sub_goal_two,relationships,starting_facts,starting_assets,ai_configuration,messages_received,endgame_questions
+C01,,Estranged sibling / adult child of the journalist,A,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C02,,Former lover / ex-partner,A-B-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C03,,Retired editor-mentor (first published the byline),B,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C04,,Protege / possible successor,B,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C05,,Hedge-fund founder / activist short-seller,agnostic,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C06,,AI-company executive,anti-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C07,,Labor / gig-worker organizer,agnostic,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C08,,AI-safety researcher / whistleblower,C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C09,,Hacker / digital-forensics freelancer,B-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C10,,Editor-in-chief (runs the byline now),A-B,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C11,,Conspiracy livestreamer (debunker),D,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C12,,NYPD detective,A-B,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C13,,City councilwoman / political figure,agnostic,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C14,,Restaurant owner,A,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C15,,Doorman / concierge / super,C-D,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C16,,Delivery / gig driver (undocumented; mobile witness),A,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C17,,Myth-keeper / online source-community moderator (true believer),A-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C18,,Forensic-authorship / linguist expert,B-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C19,,Faith / mutual-aid community figure (or librarian confidant),agnostic,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C20,,AI artist (remote collaborator; believes it was an AI),C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
