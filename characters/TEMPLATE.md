@@ -1,39 +1,34 @@
-# Character Sheet Template (§8)
+# [Name] — [Public Role]
 
-> Keep it **as simple as the Freeform model.** Add special mechanics **only** to characters who genuinely need them. Do **not** add mandatory fields for fears/resources/secrets — that material appears naturally inside the sections below.
+**Character ID:** C— · **Owns:** [their cluster/anchor] · **You lean toward:** *[their framework read, phrased as their own uncertainty — never a label]*
+
+> House style (from the exemplars C10 & C20): second person, in-character voice, ~400–550 words. Keep it playable, not encyclopedic.
 
 ---
 
-## [Character Name] — [Public Role]
+## Character Background
+Who you are and why you're in this room tonight. 2–4 short paragraphs, second person.
 
-**Character ID:** C— · **Owns fact cluster(s):** —
+## What You Know
+Split into three, because the split is where the fully-interpretive discipline lives:
+- **Facts you're sure of:** things that objectively happened (draw from your `starting_facts`). State them plainly; do not interpret them for the player.
+- **What you can't prove / what you privately suspect:** the ambiguities you carry.
+- **Keep this to yourself:** *(the secret callout — bold it)* your one real secret/leverage/vulnerability. This is a fact about YOU, never a fact that resolves what R. was (nobody knows that).
 
-### Character Background
-_Who the character is and why they are involved._
+## Main Goal
+[verbatim from characters.csv] — must be winnable without solving the mystery.
 
-### What the Character Knows
-_Facts, observations, memories, rumors, relationships, and private information available at the start. Distinguish where useful:_
-- _Facts I personally know:_
-- _Things I believe but can’t prove:_
-- _Rumors I’ve heard:_
+## Sub-Goal One / Sub-Goal Two
+[verbatim] — bold the **named characters** each goal points you toward.
 
-### Main Goal
-_The single most important objective for the evening. Should be achievable even if the player misreads the central mystery (§7)._
+## Relationships
+The specific people you need tonight, one line each, public vs. private where it matters.
 
-### Sub-Goal One
-_A secondary personal / professional / social / investigative objective._
+## Starting Materials
+Your concrete handouts, each referencing an **evidence ID** from `design/data/evidence.csv` (this is our 'facts-not-clues' layer — evidence carries facts, it doesn't announce their meaning). Quote the **message(s)** already in your inbox. Tease what's coming later if useful.
 
-### Sub-Goal Two
-_Another secondary objective._
+## Special Ability *(ONLY for the ~8 characters who need one — omit this section entirely otherwise, per §8)*
+**[Name]** — what it does, when it can be used, and its limit. A mechanic must never resolve R.'s nature (e.g., forensics gives a verdict on a *message's* origin, not on what R. was).
 
-### Relationships
-_Relevant connections to other characters (public vs. private where it matters)._
-
-### Starting Materials
-_Documents, messages, recordings, photographs, maps, credentials, or data — only where required. Cross-reference `../design/data/evidence.csv`._
-
-### Special Mechanic (optional)
-_Only if this character genuinely needs one._
-
-### AI Assistant Configuration (§12)
-_Tone/bias, and confirmation that it is scoped to this character only — never other players’ private info, the full solution, host-only info, or future messages._
+## AI Assistant
+One short paragraph: your assistant knows this sheet, your facts, your materials, and your messages — and does **not** know who/what R. was (nobody does), any other player's private business, or any 'answer'. Use it to organize your view, not to solve the game.

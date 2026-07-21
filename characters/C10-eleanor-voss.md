@@ -17,10 +17,11 @@ Now R. is gone, the biggest story of your life is sitting half-assembled in your
 - The “R.” style is unmistakable. It could reshape markets, policy, and public trust.
 - The disappearance could have been voluntary.
 
-**What you cannot prove (and must protect):**
-- That a single human ever wrote a word of it. **You never verified the author.** Your authority in this room rests on everyone *assuming* you did.
+**What you can't prove:** that a single human ever wrote a word of it.
 
-**What you believe:** you'd like there to have been a person — or an honorable succession — behind all this. But wanting it doesn't make it so, and you know that better than anyone.
+**Keep this to yourself:** **you never verified the author — not once in seven years.** Your authority in this room rests entirely on everyone *assuming* you did. If that assumption breaks, so does your control of the story.
+
+**What you believe:** you'd like there to have been a person — or an honorable succession — behind all this. But wanting it doesn't make it so.
 
 ## Main Goal
 Decide the article's fate **on your terms** — publish, verify, or hold — and walk out with the paper's credibility and your control of the byline intact.
@@ -39,11 +40,14 @@ Fend off the buyers and suppressors (**Grayson Mott**, **Vivian Ko**) and the th
 - **Dr. Amara Osei** — a possible source who keeps implying R. was never human.
 
 ## Starting Materials
-- **The filed fragments** (“what's left of the file”) — disputed, multi-voice, incomplete.
-- Your secure-drop credentials and seven years of delivery logs (no identity attached).
+- **The filed fragments** (EV01) — disputed, multi-voice, incomplete.
+- **Your secure-drop logs** (EV02) — seven years of deliveries, no identity attached.
 - **Message already in your inbox (M02):** *“Hold the piece. The version they'll bring you is not the one I filed. —R.”*
 
-*Later tonight you'll get a call from the publisher forcing your hand — and R.'s final word to the whole room.*
+*Later tonight (M38) the publisher forces your hand — “kill it or run it by midnight” — and R.'s final word (M40) drops to the whole room.*
+
+## Special Ability
+**Publish / Hold** — you alone can greenlight, spike, or delay the article. In the endgame this is the room's biggest lever; until then, the *threat* of it is your leverage. (Whether you actually control the auto-publish in M40 is exactly what the night decides.)
 
 ## AI Assistant
 Your assistant knows this sheet, your facts, your drop history, and the messages you receive. It does **not** know who or what R. really was (neither do you — and neither does anyone), any other player's private business, or any “answer” to the mystery. Use it to keep your story straight and your options open — not to solve anything.
