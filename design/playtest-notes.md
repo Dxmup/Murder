@@ -4,9 +4,35 @@ A running log of playtests — simulated and live. The host guide (§8) points h
 
 > **Goal:** all readings of R. stay arguable, every player stays engaged and can win goals without solving the mystery, and the room doesn’t converge on one flat answer.
 
+## Current simulation standard (adopted after Playtest 02)
+
+The layered-sequential canon tested below is retired. Future simulations must test four incompatible complete reconstructions, including **synthetic origin with no human R ever** and **human founder to human mantle**, without supplying any character or GM agent a hidden solution.
+
+Required controls:
+
+- one isolated agent per character, receiving only that character's sheet, observed conversations, possessed/shown evidence, and addressed messages;
+- a deterministic state engine for time, message delivery, evidence custody, deals, and abilities;
+- a GM agent that may trigger momentum beats but may not know or steer toward a correct ontology;
+- separate post-game evaluators for mechanics, mystery balance, character agency, social centrality, exploits, and GM intervention;
+- round-by-round belief logging so the report shows when and why conclusions changed;
+- matched-seed comparisons for mechanic variants, with at least ten runs per candidate before calling a result robust.
+
+Primary balance questions:
+
+1. Do synthetic origin and human mantle each have an affirmative, coherent case of comparable strength?
+2. Does any artifact, ability, pooled testimony, or GM intervention prove human embodiment?
+3. Can players establish a crime around R. while still disagreeing about whether the victim was R.?
+4. Does Ruiz's immunity offer expose only a bounded observed act, or does it collapse crime, victim, identity, and culprit into one conclusion?
+
+### Ruiz mechanic experiment
+
+Compare identical simulations across: no immunity; narrow immunity for one named offense; broad/conclusive immunity (negative control); and narrow immunity with explicit credibility/cooperation costs. Track murder belief, synthetic-origin belief, number of viable suspects, dependence on Ruiz, and whether the conclusion survives without the immunized testimony.
+
 ---
 
-## Playtest 02 — 3-run validation of the layered-timeline refit (COMPLETE)
+---
+
+## Playtest 02 — 3-run validation of the layered-timeline refit (COMPLETE, now superseded)
 
 **Method:** three independent full simulations (84 agents each, 252 total) of the refit — arc timeline, EV21 (Founder letter) arming A, rewritten M40, nerfed Farah / retargeted Eleanor / triggered Rick, arc-reconstruction endgame. Ran to check whether the fixes are *robust* (replicate) or lucky.
 
@@ -44,8 +70,8 @@ The **20/20 arc-consensus may be a FEATURE, not a bug** — it’s literally the
 
 **Keep (working):** the arc timeline, EV21/A revival, Ruiz’s Compel, Wren’s Forensics, Cody’s Go Live, Vivian’s Buy/Bury, the nerf *letter* on Farah/Eleanor.
 
-### Verdict
-The refit **decisively fixed the two headline baseline failures** (single-era runaway + mystery collapse) and made all four eras playable — confirmed robust over 3 runs. It **did not** fix endgame convergence, the partial-goal epidemic, or Eleanor’s dominance, and left Rick’s ability dead. Those are now the clear next targets.
+### Historical verdict
+Within its former assumptions, the refit fixed the two headline baseline failures and made all four eras playable. It also exposed that a canonical sequence converts the central mystery into consensus. Its claims of robustness should not be carried forward until reproduced under the isolated-agent, auditable protocol above.
 
 ### Actions taken as a result
 _(pending decision on the Tier-1/Tier-2 fixes)_

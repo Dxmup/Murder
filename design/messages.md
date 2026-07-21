@@ -2,8 +2,8 @@
 
 The dynamic inbox -- the game's core mechanic (section 11). Source of truth is [`data/messages.csv`](data/messages.csv); this is the readable view + design notes. 40 messages across 3 phases; every character C01-C20 receives at least one private beat.
 
-## The spine: scheduled-from-R.
-R. queued a set of messages **before disappearing** (M01, M02, M06, M11, M14, M24, M26, M27*, M34, M40). This keeps R. an active force all game -- but a scheduled message **never proves R. is alive** (dead-man switch / successor / AI cron), so it can't collapse C or D. (*M27 is deliberately ambiguous origin.)
+## The spine: scheduled messages from R.'s accounts
+A set of messages was queued through channels associated with R. before the apparent disappearance (M01, M02, M06, M11, M14, M24, M26, M27*, M34, M40). Who or what scheduled them is unresolved: a human, mantle member, AI process, or institutional operator. Account authenticity never proves a human sender, and M27 is deliberately ambiguous even at the account level.
 
 ## Design rules honored (section 11)
 - **Resolve one uncertainty, open another.** No message is a pure explanation dump.
@@ -24,7 +24,7 @@ Destabilize, then decide. M26 is the bomb (C/D); M27 arms the AI theory; M28/M29
 - **B** peaks mid-game (M10, M11, M15, M22).
 - **C** gets its leading evidence in Phase 2-3 (M12, M16, M27) so it isn't out-argued early.
 - **D** gets affirmative cards only in Phase 3 (M23->M28, M29) so it converts from 'gesture' to 'playable' late.
-- **A** is never handed a proof -- its support stays belief/claim (the fabricators' messages actually *threaten* A's champions).
+- **A** receives affirmative but deniable support through Arthur's encounter memory and attributed letter; neither authenticates the person's authorship.
 
 ## To finalize
 - Attach real **document/evidence** payloads (the-article.pdf, timing-analysis.json, archive-stub.txt, clip.mp4) -- cross-ref `data/evidence.csv`.

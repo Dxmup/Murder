@@ -12,7 +12,7 @@ The six CSVs here are the canonical, machine-readable spine of the game. Everyth
 | `relationships.csv` | Relationship Matrix | (`character_a`, `character_b`) |
 
 ## Conventions
-- **Frameworks:** `A` = one real human · `B` = passed-down mantle (Dread Pirate Roberts) · `C` = rogue AI faking a human · `D` = never existed / emergent myth. Used in `facts.csv` (`interpretations_supported`/`weakened`) and as `framework_lean` in `characters.csv`.
+- **Frameworks:** `A` = one private human · `B` = human-origin passed-down mantle · `C` = synthetic/AI persona from the beginning · `D` = no single coherent journalist / emergent institutional myth. These are incompatible complete reconstructions, not eras in a canonical sequence. Used in `facts.csv` (`interpretations_supported`/`weakened`) and as `framework_lean` in `characters.csv`.
 - **`relationship_status` (characters.csv helper):** how that character’s apparent tie to the “journalist” works — `none` / `mediated` (remote-only) / `remembered` / `inherited` / `fabricated` / `parasocial`. **Hard rule:** no value is ever a *verified in-person* relationship — that would kill Frameworks C and D. See [`../roster.md`](../roster.md#-hard-rule-no-verifiable-relationship-with-the-human).
 - **Release phase:** `1`, `2`, `3`, or `pre` / `any`.
 - **Status:** `immutable` or `provisional` (§13 vs §14).

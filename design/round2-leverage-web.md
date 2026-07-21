@@ -3,7 +3,7 @@
 > Driven by Playtest 02: the mystery works, but the **endgame has nowhere to fight**, **Eleanor chokes the ownership goals**, and **too many players end “partial.”** The fix gives every character a **third goal** driven by a **personal pressure** — but of *varied types*, mostly **stable**, with only a **few** genuine twists.
 
 ## Design guardrails (from the note that revised this doc)
-- **Stability first.** A character’s core — who they are, their era-witness role, their mystery stance — stays constant. Pressures **escalate**; they don’t **upend**. What you claim in Act 1 is mostly still true in Act 3.
+- **Stability first.** A character’s core—who they are, the evidence lens they hold, their mystery stance—stays constant. Pressures **escalate**; they don’t **upend**. What you claim in Act 1 is mostly still true in Act 3.
 - **Not everyone gets a twist, and not everyone is in a mutually-assured-destruction feud.** Reserve genuine reveals for **~3–4 threads**. The rest are steady pressures that force a *decision*, not an identity flip.
 - **Diversify the pressure types.** Blackmail is one flavor among many: institutional/career, financial, legal, social/reputational, personal/emotional. Many pressures are **top-down or internal** (an offstage authority, a moral dilemma) and need no second player at all.
 
@@ -14,7 +14,7 @@ Each character gains a **third goal**: how they answer their pressure — **comp
 
 ## A. Eleanor rework + the four mechanical fixes (unchanged from prior draft)
 - **Eleanor → “The Masthead”:** once/phase she may publicly **authenticate or discredit** one claim/document — she *sways* the room, does not *bind* it. Ownership is decided by the vote + evidence + pressures, not her say-so.
-- **Murder convertible path:** the dead-drop/#4471/locker becomes forensically conclusive **iff** Ruiz secures a cooperating witness — the “runner wall” cracks via an **immunity-flip** (Eddie/Rafi/Manny). A named culprit becomes *earnable*.
+- **Crime convertible path:** the dead-drop/#4471/locker can establish a concrete act of handling, payment, or concealment **iff** Ruiz secures a cooperating witness. A narrow immunity offer may crack the “runner wall,” but it never proves that an unidentified person was R., that murder occurred, or that the named actor is responsible for more than the supported act.
 - **Lockable goals:** a goal banks the moment it’s met, not at the buzzer.
 - **Rick’s Print It** auto-arms on **public** surfacing of Eleanor’s 7-year gap; **Farah’s** rebuttal (Amara) is **free/non-purchasable** and her stamp is **one-era-only**.
 
@@ -37,13 +37,13 @@ Each character gains a **third goal**: how they answer their pressure — **comp
 | C01 | Renata | FIN/LEG | The estate defaults at midnight unless she proves relation. | no |
 | C14 | Nikos | LEG | A subpoena that could expose his undocumented cook and off-books payroll. | no |
 | C19 | Manny | LEG | Immigration jeopardy from any police case; he holds the dead-drop as his only chip. | no |
-| C15 | Eddie | LEG | Ruiz’s obstruction pressure over the footage gap; an immunity offer to flip. *(the runner-wall crack)* | no |
+| C15 | Eddie | LEG | Ruiz’s obstruction pressure over the footage gap; a narrow offer covering one specified offense in exchange for first-hand testimony. *(a contestable crack in the runner wall, not a solution switch)* | no |
 | C07 | Marisol | LEG/PER | Her workers subpoenaed and scared; a moral duty to shield them. | no |
 | C06 | Vivian | LEG | Meridian’s disclosure liability if the byline was its model. | no |
 | C02 | Dorian | SOC | Rick hunting the hole in his romance; his standing rests on staying unexposed. | no |
 | C17 | Simone | PER/SOC | Her identity and community collapse if R. was “nothing”; an anonymous “recant or be exposed” threat. | no |
 | **C04** | **Nadia** | **LEV** | She **coerced** her way to the succession — blackmailed Arthur (Jan 12), leaned on Wren. *(flagship twist)* | **YES** |
-| **C03** | **Arthur** | **LEV** | Nadia’s coercion of him; his legacy hangs on the founder letter he can’t fully bridge. | **YES** |
+| **C03** | **Arthur** | **LEV** | Nadia’s coercion of him; his legacy hangs on an attributed early letter whose authorship link he cannot prove. | **YES** |
 | **C09** | **Wren** | **LEV** | Nadia’s hold over her (a video) vs. the proof Wren keeps that could sink Nadia. | **YES** |
 | **C08** | **Amara** | **LEV** | Existential standoff with Vivian: expose Meridian’s model, or be exposed as the leaking source. | **YES** |
 
@@ -90,7 +90,7 @@ Most threads **escalate** across the acts (stakes ratchet: hint → pressure →
 ### Flagship B — a TWIST that detonates (Nadia)
 - **Act 1 → Nadia:** *“Congratulations on the byline. I remember when it was earned, not taken. —R.”*
 - **Act 2 → Arthur:** *“She has your January email — the one admitting the letter proves nothing after year three. She’ll publish it the moment you cross her. —a friend”*
-- **Act 3 → Nadia:** *“You blackmailed Arthur on January 12th — I have the copy of the email. You threatened nullset with the Rotterdam video. And now you’re coming for me. Do you actually believe you can carry this weight? The byline was never a crown, Nadia. It’s a debt. —R.”* — recontextualizes Nadia, arms Arthur/Wren, and makes her a *named* suspect in the erasure.
+- **Act 3 → Nadia:** *“You blackmailed Arthur on January 12th — I have the copy of the email. You threatened nullset with the Rotterdam video. And now you’re coming for me. Do you actually believe you can carry this weight? The byline was never a crown, Nadia. It’s a debt. —R.”* — recontextualizes Nadia, arms Arthur/Wren, and makes her a named suspect in coercion or concealment around the apparent disappearance without proving a victim or murder.
 
 ### Everyone else — rich but STABLE
 Most characters get a 2–3 message ladder that deepens their existing situation without a reversal. E.g., Nikos: Act 1 “reporters are asking” → Act 2 “health dept will pull your payroll if the subpoena lands” → Act 3 “they want the cook’s name; give them a story instead.” The pressure grows; Nikos stays Nikos.
@@ -100,6 +100,6 @@ Most characters get a 2–3 message ladder that deepens their existing situation
 ## E. Execution plan
 1. Wire the **third (pressure) goals** into `characters.csv` + sheets.
 2. Note each character’s **pressure type/source** (a `pressure` column) — the ~4 twist threads flagged; the rest stable.
-3. Apply **Eleanor / Rick / Farah** changes + **runner-wall immunity** + **lockable goals** to sheets & host guide.
+3. Apply **Eleanor / Rick / Farah** changes + **bounded runner-wall immunity** + **lockable goals** to sheets & host guide. Audit that no testimony authenticates a person as R.
 4. **Rewrite messages** as rich ladders — mostly escalation, ~4 detonations (fan out across agents).
 5. **Re-run the 3-sim** to confirm the endgame has a live fight, goals spread, and the cast still feels stable (not everyone twisting).
