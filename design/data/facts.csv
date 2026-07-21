@@ -1,77 +1,77 @@
 fact_id,objective_statement,cluster,time,location,who_knows,evidence,release_phase,interpretations_supported,interpretations_weakened,status
-F001,"A journalist under a pseudonym has published major investigative work for ~15 years.",public-identity,TODO,TODO,TODO,TODO,1,,,immutable
-F002,"The journalist has a highly respected public reputation.",public-identity,TODO,TODO,TODO,TODO,1,,,immutable
-F003,"No verified photograph of the journalist exists.",public-identity,TODO,TODO,TODO,TODO,1,B;C;D,A,immutable
-F004,"The reporting has been accurate enough to attract important sources.",public-identity,TODO,TODO,TODO,TODO,1,,,immutable
-F005,"Whistleblowers and insiders have trusted the identity with sensitive information.",public-identity,TODO,TODO,TODO,TODO,1,,,immutable
-F006,"Different people describe the journalist's voice or physical presence differently.",public-identity,TODO,TODO,TODO,TODO,2,B;C;D,A,immutable
-F007,"It is not established that those describing encounters all met the same person.",public-identity,TODO,TODO,TODO,TODO,2,B;C;D,A,immutable
-F008,"The identity may function as a mantle, collective, digital persona, or myth.",public-identity,TODO,TODO,TODO,TODO,2,B;C;D,A,immutable
-F009,"The journalist announced an article that would allegedly change the course of AI and humanity.",unpublished-article,TODO,TODO,TODO,TODO,1,,,immutable
-F010,"The article was not published as scheduled.",unpublished-article,TODO,TODO,TODO,TODO,1,,,immutable
-F011,"At least part of the article may exist.",unpublished-article,TODO,TODO,TODO,TODO,2,,,immutable
-F012,"Different parties want the article published, suppressed, purchased, verified, or destroyed.",unpublished-article,TODO,TODO,TODO,TODO,1,,,immutable
-F013,"The article's exact subject has not yet been finalized.",unpublished-article,TODO,TODO,TODO,TODO,any,,,immutable
-F014,"The article is the central object many characters want to control.",unpublished-article,TODO,TODO,TODO,TODO,1,,,immutable
-F015,"The journalist disappeared shortly before the article's planned publication.",disappearance,TODO,TODO,TODO,TODO,1,,,immutable
-F016,"The journalist's death has not been confirmed.",disappearance,TODO,TODO,TODO,TODO,1,,,immutable
-F017,"Voluntary disappearance remains possible.",disappearance,TODO,TODO,TODO,TODO,1,A;B,,immutable
-F018,"Murder or forced disappearance remains possible.",disappearance,TODO,TODO,TODO,TODO,1,A;B,,immutable
-F019,"The disappearance may refer to a person, an identity, an AI system, or a network ceasing activity.",disappearance,TODO,TODO,TODO,TODO,2,C;D,A,immutable
-F020,"For several years the identity regularly ordered food from the same restaurant.",restaurant-orders,TODO,TODO,TODO,TODO,1,A,C;D,immutable
-F021,"The delivery was always sent to the same New York apartment building.",restaurant-orders,TODO,TODO,TODO,TODO,1,A,,immutable
-F022,"No apartment number was included.",restaurant-orders,TODO,TODO,TODO,TODO,1,B;C;D,A,immutable
-F023,"Delivery instructions said to leave the food in the lobby.",restaurant-orders,TODO,TODO,TODO,TODO,1,,,immutable
-F024,"The delivery worker marked or messaged that the order had arrived.",restaurant-orders,TODO,TODO,TODO,TODO,1,,,immutable
-F025,"The order was deliberately timed to arrive near the end of the doorman's shift.",restaurant-orders,TODO,TODO,TODO,TODO,1,,,immutable
-F026,"The doorman's shift ended shortly after the delivery.",restaurant-orders,TODO,TODO,TODO,TODO,1,,,immutable
-F027,"The doorman never saw who collected the food.",restaurant-orders,TODO,TODO,TODO,TODO,1,B;C;D,A,immutable
-F028,"The overnight staff did not normally see the food remain in the lobby.",restaurant-orders,TODO,TODO,TODO,TODO,2,,,immutable
-F029,"No known witness has definitively seen the recipient collect the food.",restaurant-orders,TODO,TODO,TODO,TODO,2,B;C;D,A,immutable
-F030,"The food was gone by the following morning.",restaurant-orders,TODO,TODO,TODO,TODO,2,A,,immutable
-F031,"The restaurant owner or records can establish the repeated pattern.",restaurant-orders,TODO,TODO,TODO,TODO,1,,,immutable
-F032,"This does not prove the journalist lived in the building.",restaurant-orders,TODO,TODO,TODO,TODO,2,C;D,A,immutable
-F033,"This does not prove the same person collected each order.",restaurant-orders,TODO,TODO,TODO,TODO,2,B;D,A,immutable
-F034,"This does not prove the journalist personally ate the food.",restaurant-orders,TODO,TODO,TODO,TODO,2,C;D,A,immutable
-F035,"The restaurant delivery pattern must be retained as a core fact.",restaurant-orders,TODO,TODO,TODO,TODO,any,,,immutable
-F036,"The apartment building is connected to the food-delivery routine.",apartment-building,TODO,TODO,TODO,TODO,1,,,immutable
-F037,"Enough people pass through that entering or leaving does not establish residency.",apartment-building,TODO,TODO,TODO,TODO,1,B;C;D,A,immutable
-F038,"The journalist's pseudonym is not necessarily known to building management.",apartment-building,TODO,TODO,TODO,TODO,2,,,immutable
-F039,"The lobby operates as an accidental or intentional anonymity mechanism.",apartment-building,TODO,TODO,TODO,TODO,2,,,immutable
-F040,"Shift changes are important to the absence of a direct witness.",apartment-building,TODO,TODO,TODO,TODO,2,,,immutable
-F041,"Building security records may be incomplete.",apartment-building,TODO,TODO,TODO,TODO,2,,,immutable
-F042,"A period of surveillance footage may be missing, deleted, corrupted, or unavailable.",apartment-building,TODO,TODO,TODO,TODO,3,,,provisional
-F043,"The journalist communicates remotely through secure or encrypted systems.",digital-identity,TODO,TODO,TODO,TODO,1,C,,immutable
-F044,"May have used voice, text, email, secure-drop, or AI-mediated communication.",digital-identity,TODO,TODO,TODO,TODO,2,,,immutable
-F045,"Different communication channels may present different apparent identities.",digital-identity,TODO,TODO,TODO,TODO,2,B;C;D,A,immutable
-F046,"Some communications may have been scheduled rather than sent live.",digital-identity,TODO,TODO,TODO,TODO,2,C;D,A,immutable
-F047,"Someone may have impersonated the journalist.",digital-identity,TODO,TODO,TODO,TODO,2,B;D,,immutable
-F048,"An authentic account does not prove the human author was present.",digital-identity,TODO,TODO,TODO,TODO,3,C;D,A,immutable
-F049,"The journalist's digital infrastructure may continue functioning after the disappearance.",digital-identity,TODO,TODO,TODO,TODO,3,C;D,A,immutable
-F050,"The published work has a recognizable style.",authorship-style,TODO,TODO,TODO,TODO,1,A,,immutable
-F051,"Some experts read the consistent style as evidence of one author.",authorship-style,TODO,TODO,TODO,TODO,2,A,,immutable
-F052,"Other experts read variations as evidence of multiple authors.",authorship-style,TODO,TODO,TODO,TODO,2,B,A,immutable
-F053,"AI-assisted editing, shared standards, imitation, or model prose could explain either.",authorship-style,TODO,TODO,TODO,TODO,3,B;C;D,A,immutable
-F054,"Writing analysis should provide evidence but not a definitive answer.",authorship-style,TODO,TODO,TODO,TODO,3,,,immutable
-F055,"The article may materially affect AI companies, investors, markets, policy, and public trust.",money-influence,TODO,TODO,TODO,TODO,1,,,immutable
-F056,"Financial actors have reason to learn whether the article is authentic.",money-influence,TODO,TODO,TODO,TODO,1,,,immutable
-F057,"Technology companies have reason to control its release.",money-influence,TODO,TODO,TODO,TODO,1,,,immutable
-F058,"Journalists and public-interest figures have reason to publish it.",money-influence,TODO,TODO,TODO,TODO,1,,,immutable
-F059,"An unusual financial transaction / market position shortly before the disappearance has been proposed.",money-influence,TODO,TODO,TODO,TODO,2,,,provisional
-PF01,"A Thursday-night encrypted chatroom appearance.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF02,"A missed weekly AI chat.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF03,"A large cryptocurrency transfer immediately before the disappearance.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF04,"Twenty-three minutes of deleted building footage.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF05,"Taxi trips billed to the journalist.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF06,"Rare-library-book reservations.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF07,"Dry-cleaning pickups under the pseudonym.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF08,"A long-running PO box.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF09,"Annual charity donations signed 'Questions matter'.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF10,"One disputed photograph.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF11,"Multiple people collecting clothing or documents.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF12,"A guest Wi-Fi connection at the apartment building.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF13,"Changing device identifiers.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF14,"A romantic relationship between the journalist and an actor.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF15,"A private meeting at the restaurant; a newsroom summons.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF16,"A specific final message naming a successor.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
-PF17,"A hidden locker or physical dead drop.",provisional,TODO,TODO,TODO,TODO,TODO,,,provisional
+F001,"A journalist under a pseudonym has published major investigative work for ~15 years.",public-identity,TODO,TODO,ALL,TODO,1,,,immutable
+F002,"The journalist has a highly respected public reputation.",public-identity,TODO,TODO,ALL,TODO,1,,,immutable
+F003,"No verified photograph of the journalist exists.",public-identity,TODO,TODO,ALL,TODO,1,B;C;D,A,immutable
+F004,"The reporting has been accurate enough to attract important sources.",public-identity,TODO,TODO,C10;C08;C03;C12,TODO,1,,,immutable
+F005,"Whistleblowers and insiders have trusted the identity with sensitive information.",public-identity,TODO,TODO,C08;C10;C06,TODO,2,,,immutable
+F006,"Different people describe the journalist's voice or physical presence differently.",public-identity,TODO,TODO,C02;C03;C15;C20;C16;C12,TODO,2,B;C;D,A,immutable
+F007,"It is not established that those describing encounters all met the same person.",public-identity,TODO,TODO,C12;C18;C11;C16,TODO,2,B;C;D,A,immutable
+F008,"The identity may function as a mantle, collective, digital persona, or myth.",public-identity,TODO,TODO,C11;C17;C18;C03;C08,TODO,2,B;C;D,A,immutable
+F009,"The journalist announced an article that would allegedly change the course of AI and humanity.",unpublished-article,TODO,TODO,ALL,TODO,1,,,immutable
+F010,"The article was not published as scheduled.",unpublished-article,TODO,TODO,ALL,TODO,1,,,immutable
+F011,"At least part of the article may exist.",unpublished-article,TODO,TODO,C10;C04;C08;C06,TODO,2,,,immutable
+F012,"Different parties want the article published, suppressed, purchased, verified, or destroyed.",unpublished-article,TODO,TODO,C10;C05;C06;C07,TODO,1,,,immutable
+F013,"The article's exact subject is unconfirmed and contested.",unpublished-article,TODO,TODO,C10;C08;C05,TODO,2,,,immutable
+F014,"The article is the central object many characters want to control.",unpublished-article,TODO,TODO,ALL,TODO,1,,,immutable
+F015,"The journalist disappeared shortly before the article's planned publication.",disappearance,TODO,TODO,ALL,TODO,1,,,immutable
+F016,"The journalist's death has not been confirmed.",disappearance,TODO,TODO,ALL,TODO,1,,,immutable
+F017,"Voluntary disappearance remains possible.",disappearance,TODO,TODO,C12;C10,TODO,1,A;B,,immutable
+F018,"Murder or forced disappearance remains possible.",disappearance,TODO,TODO,C12,TODO,1,A;B,,immutable
+F019,"The disappearance may refer to a person, an identity, an AI system, or a network ceasing activity.",disappearance,TODO,TODO,C08;C11;C09;C17,TODO,2,C;D,A,immutable
+F020,"For several years the identity regularly ordered food from the same restaurant.",delivery-bodega,TODO,TODO,C14;C15;C12,TODO,1,A,C;D,immutable
+F021,"The delivery was always sent to the same New York apartment building.",delivery-bodega,TODO,TODO,C14;C15;C19;C20;C12,TODO,1,A,,immutable
+F022,"No apartment number was included.",delivery-bodega,TODO,TODO,C14;C15;C12,TODO,1,B;C;D,A,immutable
+F023,"Delivery instructions said to leave the food in the lobby.",delivery-bodega,TODO,TODO,C15;C14,TODO,1,,,immutable
+F024,"The delivery worker marked or messaged that the order had arrived.",delivery-bodega,TODO,TODO,C12;C19,TODO,2,,,immutable
+F025,"The order was deliberately timed to arrive near the end of the doorman's shift.",delivery-bodega,TODO,TODO,C15;C12,TODO,2,,,immutable
+F026,"The doorman's shift ended shortly after the delivery.",delivery-bodega,TODO,TODO,C15;C12,TODO,1,,,immutable
+F027,"The doorman never saw who collected the food.",delivery-bodega,TODO,TODO,C15;C12,TODO,2,B;C;D,A,immutable
+F028,"The overnight staff did not normally see the food remain in the lobby.",delivery-bodega,TODO,TODO,C15;C12,TODO,2,,,immutable
+F029,"No known witness has definitively seen the recipient collect the food.",delivery-bodega,TODO,TODO,C15;C19;C20;C12,TODO,2,B;C;D,A,immutable
+F030,"The food was gone by the following morning.",delivery-bodega,TODO,TODO,C15;C12,TODO,2,A,,immutable
+F031,"The restaurant owner or records can establish the repeated pattern.",delivery-bodega,TODO,TODO,C14;C12,TODO,1,,,immutable
+F032,"This does not prove the journalist lived in the building.",delivery-bodega,TODO,TODO,C12;C18;C11,TODO,2,C;D,A,immutable
+F033,"This does not prove the same person collected each order.",delivery-bodega,TODO,TODO,C12;C18;C20,TODO,2,B;D,A,immutable
+F034,"This does not prove the journalist personally ate the food.",delivery-bodega,TODO,TODO,C12;C11;C18,TODO,3,C;D,A,immutable
+F035,"The restaurant/bodega delivery pattern is a core, must-keep fact.",delivery-bodega,TODO,TODO,C14;C15;C12,TODO,1,,,immutable
+F036,"The apartment building is connected to the food-delivery routine.",apartment-building,TODO,TODO,C15;C19;C20;C12,TODO,1,,,immutable
+F037,"Enough people pass through that entering or leaving does not establish residency.",apartment-building,TODO,TODO,C15;C19;C20;C12,TODO,2,B;C;D,A,immutable
+F038,"The journalist's pseudonym is not necessarily known to building management.",apartment-building,TODO,TODO,C15;C09;C12,TODO,2,,,immutable
+F039,"The lobby operates as an accidental or intentional anonymity mechanism.",apartment-building,TODO,TODO,C15;C19;C12,TODO,2,,,immutable
+F040,"Shift changes are important to the absence of a direct witness.",apartment-building,TODO,TODO,C15;C12,TODO,2,,,immutable
+F041,"Building security records may be incomplete.",apartment-building,TODO,TODO,C15;C09;C12,TODO,2,,,immutable
+F042,"A period of surveillance footage may be missing, deleted, corrupted, or unavailable.",apartment-building,TODO,TODO,C15;C09;C12,TODO,3,,,provisional
+F043,"The journalist communicates remotely through secure or encrypted systems.",digital-identity,TODO,TODO,C09;C08;C10,TODO,1,C,,immutable
+F044,"May have used voice, text, email, secure-drop, or AI-mediated communication.",digital-identity,TODO,TODO,C09;C08;C10,TODO,2,,,immutable
+F045,"Different communication channels may present different apparent identities.",digital-identity,TODO,TODO,C09;C08;C20,TODO,2,B;C;D,A,immutable
+F046,"Some communications may have been scheduled rather than sent live.",digital-identity,TODO,TODO,C09;C08;C04,TODO,3,C;D,A,immutable
+F047,"Someone may have impersonated the journalist.",digital-identity,TODO,TODO,C09;C16;C12,TODO,2,B;D,,immutable
+F048,"An authentic account does not prove the human author was present.",digital-identity,TODO,TODO,C09;C08;C18,TODO,3,C;D,A,immutable
+F049,"The journalist's digital infrastructure may continue functioning after the disappearance.",digital-identity,TODO,TODO,C09;C08;C17,TODO,3,C;D,A,immutable
+F050,"The published work has a recognizable style.",authorship-style,TODO,TODO,C18;C10;C17,TODO,1,A,,immutable
+F051,"Some experts read the consistent style as evidence of one author.",authorship-style,TODO,TODO,C18;C17;C10,TODO,2,A,,immutable
+F052,"Other experts read variations as evidence of multiple authors.",authorship-style,TODO,TODO,C18;C03;C11,TODO,2,B,A,immutable
+F053,"AI-assisted editing, shared standards, imitation, or model prose could explain either.",authorship-style,TODO,TODO,C18;C08;C20,TODO,3,B;C;D,A,immutable
+F054,"Writing analysis provides evidence but not a definitive answer.",authorship-style,TODO,TODO,C18;C10;C08,TODO,3,,,immutable
+F055,"The article may materially affect AI companies, investors, markets, policy, and public trust.",money-influence,TODO,TODO,C05;C06;C13;C07;C10,TODO,1,,,immutable
+F056,"Financial actors have reason to learn whether the article is authentic.",money-influence,TODO,TODO,C05;C06;C09,TODO,1,,,immutable
+F057,"Technology companies have reason to control its release.",money-influence,TODO,TODO,C06;C05;C13,TODO,1,,,immutable
+F058,"Journalists and public-interest figures have reason to publish it.",money-influence,TODO,TODO,C10;C07;C17,TODO,1,,,immutable
+F059,"An unusual financial transaction / market position shortly before the disappearance has been proposed.",money-influence,TODO,TODO,C05;C09;C12,TODO,2,,,provisional
+PF01,"A Thursday-night encrypted chatroom appearance.",provisional,TODO,TODO,C08;C09;C11,TODO,3,C,,provisional
+PF02,"A missed weekly AI chat.",provisional,TODO,TODO,C08;C11,TODO,3,C;D,A,provisional
+PF03,"A large cryptocurrency transfer immediately before the disappearance.",provisional,TODO,TODO,C05;C09;C12,TODO,2,,,provisional
+PF04,"Twenty-three minutes of deleted building footage.",provisional,TODO,TODO,C15;C09;C12,TODO,3,,,provisional
+PF05,"Taxi trips billed to the journalist.",provisional,TODO,TODO,C09;C12;C16,TODO,3,A,C;D,provisional
+PF06,"Rare-library-book reservations.",provisional,TODO,TODO,C18;C16,TODO,3,A,,provisional
+PF07,"Dry-cleaning pickups under the pseudonym.",provisional,TODO,TODO,C19;C16,TODO,3,A,,provisional
+PF08,"A long-running PO box.",provisional,TODO,TODO,C16;C12;C19,TODO,3,,,provisional
+PF09,"Annual charity donations signed 'Questions matter'.",provisional,TODO,TODO,C17;C13;C16,TODO,3,A;B,,provisional
+PF10,"One disputed photograph.",provisional,TODO,TODO,C16;C11;C12,TODO,2,A,,provisional
+PF11,"Multiple people collecting clothing or documents.",provisional,TODO,TODO,C19;C15;C20,TODO,3,B,A,provisional
+PF12,"A guest Wi-Fi connection at the apartment building.",provisional,TODO,TODO,C09;C15,TODO,3,,,provisional
+PF13,"Changing device identifiers.",provisional,TODO,TODO,C09;C08,TODO,2,B;C,A,provisional
+PF14,"A romantic relationship between the journalist and an actor.",provisional,TODO,TODO,C02;C16;C13,TODO,2,A,C;D,provisional
+PF15,"A private meeting at the restaurant; a newsroom summons.",provisional,TODO,TODO,C14;C10;C16,TODO,3,A,,provisional
+PF16,"A specific final message naming a successor.",provisional,TODO,TODO,C04;C10;C17;C09,TODO,2,B,A,provisional
+PF17,"A hidden locker or physical dead drop.",provisional,TODO,TODO,C19;C12;C16,TODO,3,A,,provisional
