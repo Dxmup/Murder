@@ -63,15 +63,19 @@ PF02,"A missed weekly AI chat.",provisional,TODO,TODO,C08;C11,TODO,3,C;D,A,provi
 PF03,"A large cryptocurrency transfer immediately before the disappearance.",provisional,TODO,TODO,C05;C09;C12,TODO,2,,,provisional
 PF04,"Twenty-three minutes of deleted building footage.",provisional,TODO,TODO,C15;C09;C12,TODO,3,,,provisional
 PF05,"Taxi trips billed to the journalist.",provisional,TODO,TODO,C09;C12;C16,TODO,3,A,C;D,provisional
-PF06,"Rare-library-book reservations.",provisional,TODO,TODO,C18;C16,TODO,3,A,,provisional
-PF07,"Dry-cleaning pickups under the pseudonym.",provisional,TODO,TODO,C19;C16,TODO,3,A,,provisional
-PF08,"A long-running PO box.",provisional,TODO,TODO,C16;C12;C19,TODO,3,,,provisional
-PF09,"Annual charity donations signed 'Questions matter'.",provisional,TODO,TODO,C17;C13;C16,TODO,3,A;B,,provisional
-PF10,"One disputed photograph.",provisional,TODO,TODO,C16;C11;C12,TODO,2,A,,provisional
+PF06,"Rare-library-book reservations.",provisional,TODO,TODO,C18;C19,TODO,3,A,,provisional
+PF07,"Dry-cleaning pickups under the pseudonym.",provisional,TODO,TODO,C19;C20,TODO,3,A,,provisional
+PF08,"A long-running PO box.",provisional,TODO,TODO,C12;C19,TODO,3,,,provisional
+PF09,"Annual charity donations signed 'Questions matter'.",provisional,TODO,TODO,C17;C13,TODO,3,A;B,,provisional
+PF10,"One disputed photograph (never verified; may be anyone).",provisional,TODO,TODO,C16;C11;C12,TODO,2,A,,provisional
 PF11,"Multiple people collecting clothing or documents.",provisional,TODO,TODO,C19;C15;C20,TODO,3,B,A,provisional
 PF12,"A guest Wi-Fi connection at the apartment building.",provisional,TODO,TODO,C09;C15,TODO,3,,,provisional
 PF13,"Changing device identifiers.",provisional,TODO,TODO,C09;C08,TODO,2,B;C,A,provisional
-PF14,"A romantic relationship between the journalist and an actor.",provisional,TODO,TODO,C02;C16;C13,TODO,2,A,C;D,provisional
-PF15,"A private meeting at the restaurant; a newsroom summons.",provisional,TODO,TODO,C14;C10;C16,TODO,3,A,,provisional
+PF14,"An actor CLAIMS a past romance with the journalist -- disputed and uncorroborated (the claimant admits, privately, it may be fabricated).",provisional,TODO,TODO,C02;C13;C16,TODO,2,A,,provisional
+PF15,"A meeting was proposed or a newsroom summons was sent, but attendance was never confirmed (second-hand for C10/C14; no one attests the journalist actually appeared).",provisional,TODO,TODO,C14;C10;C16,TODO,3,,A,provisional
 PF16,"A specific final message naming a successor.",provisional,TODO,TODO,C04;C10;C17;C09,TODO,2,B,A,provisional
-PF17,"A hidden locker or physical dead drop.",provisional,TODO,TODO,C19;C12;C16,TODO,3,A,,provisional
+PF17,"A hidden locker or physical dead drop.",provisional,TODO,TODO,C19;C12,TODO,3,A,,provisional
+PF18,"Forensic timing analysis of the byline's responses shows near-zero-variance latency and no diurnal/timezone/sleep cycle, sustained for years.",provisional,TODO,TODO,C09;C08,TODO,3,C,D,provisional
+PF19,"Forensic check: the successor-naming message carries the same scheduled/automated signature as F046/F049 -- it could be machine-emitted or self-authored.",provisional,TODO,TODO,C09;C10,TODO,2,C;D,B,provisional
+PF20,"At least two 'journalist' breadcrumb trails trace to different unrelated real people (e.g., the taxi account to a real-estate agent, the library reservations to a grad student) who never knew each other or the byline.",provisional,TODO,TODO,C16;C11,TODO,3,D,A,provisional
+PF21,"The byline may have begun as an in-house editorial pseudonym / desk brand the paper attached to miscellaneous and freelance pieces, with a biography accreting over time (contested; C03 may misremember or be self-serving).",provisional,TODO,TODO,C03;C10;C11,TODO,3,D,A;C,provisional
