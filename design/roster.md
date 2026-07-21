@@ -34,24 +34,24 @@
 ### Money & power *(collapsed 3 finance → 1; kept the stakes)*
 - **C05 — Hedge-fund founder / activist short-seller.** Wants to know if the article moves markets. Framework-agnostic; follows money.
 - **C06 — AI-company executive.** Wants the article suppressed. An AI-that-faked-a-journalist is existential for them — so they push *hard against* **C** (or quietly fear it).
-- **C07 — Labor / gig-worker organizer.** Represents the people the AI exposé is *about*. Class counterweight; a moral, non-transactional stake.
+- **C07 — Labor / gig-worker organizer.** Represents the people the AI exposé is *about*. Class counterweight; a moral, non-transactional stake. *(Now also carries the working-class perspective the driver used to — see tradeoff note.)*
 
 ### Tech *(collapsed 4 → 2)*
 - **C08 — AI-safety researcher / whistleblower.** May be the actual source. **Champions C** (“a system could absolutely do this”).
 - **C09 — Hacker / digital-forensics freelancer.** Device & account metadata — scheduled messages, changing device IDs. Evidence cuts toward **B or C**.
 
-### Media *(collapsed 4 → 2)*
+### Media *(3 distinct modes — institutional, tabloid, fringe)*
 - **C10 — Editor-in-chief** who runs the byline now. Gatekeeper of the unpublished article — but note: even *they* only ever received copy remotely (no verified author). Institutional **A/B**.
 - **C11 — Conspiracy livestreamer (the debunker).** Loud **champion of D** — “there was never a person; it’s a psyop, or it’s the AI.” *(Conspiracy theorist #1.)*
+- **C16 — Tabloid / gossip reporter (TMZ-style).** Hunting the human-interest scoop behind the vanished legend — the affairs, the secret family, the face. A natural **predator of the fabricators**: digs to verify or blow up C01’s kinship, C02’s romance, C04’s anointment. **Chases A** (wants a real person with dirty secrets), but every faker they out quietly feeds **C/D**. **Secret:** once ran a “photo of the journalist” that got debunked (PF10) — credibility and vendetta ride on being right this time. No tie to the journalist; pure scoop motive.
 
 ### State
 - **C12 — NYPD detective.** The investigation. Wants **A/B** — a crime needs a victim. *(Federal prosecutor cut — redundant LE.)*
 - **C13 — City councilwoman / political figure.** Wants to control the public narrative.
 
-### Institutional NYC *(kept — they carry the delivery/doorman cluster and widen the class range)*
+### Institutional NYC *(carry the delivery/doorman cluster and widen the class range)*
 - **C14 — Restaurant owner.** Someone ordered food for years — but they never saw who ate it. Leans **A**.
 - **C15 — Doorman / concierge / super.** Never actually saw anyone collect it. Leans **C/D**.
-- **C16 — Delivery / gig driver (undocumented).** Mobile witness with real personal jeopardy — can “win” their game without solving anything (§7). Never saw the recipient.
 
 ### Belief, culture & community *(the other missing axis)*
 - **C17 — Myth-keeper / online source-community moderator (the true believer).** Devoutly insists the journalist is real and heroic — on faith, not evidence. **Direct opposite of C11.** *(Conspiracy theorist #2.)*
@@ -63,21 +63,22 @@
 
 | Framework | Human champions |
 |---|---|
-| **A** — one real person | C01 claimed kin (unreliable), C14 restaurant owner, C16 driver, C12 detective |
+| **A** — one real person | C01 claimed kin (unreliable), C14 restaurant owner, C12 detective; C16 tabloid reporter *chases* A |
 | **B** — the mantle | C03 mentor, C04 successor, C18 authorship expert |
 | **C** — rogue AI | C08 researcher, C20 AI artist, C09 metadata, C02 phantom “lover”; feared by C06 |
 | **D** — never existed | C11 debunker, C15 non-witness, emergent-myth reading of the whole file |
-| **Contrast pair** | C11 debunker ↔ C17 true believer |
+| **Contrast pairs** | C11 debunker ↔ C17 true believer · C16 reporter ↔ the fabricators (C01/C02/C04) |
 
-**Note:** none of A’s champions can actually *prove* a human — they champion A on belief, memory, or claim. That’s deliberate: it keeps A alive without ever confirming it and closing off C/D.
+**Note:** none of A’s champions can actually *prove* a human — they champion A on belief, memory, claim, or (the reporter) on wanting it to be true. That’s deliberate: it keeps A alive without ever confirming it and closing off C/D.
 
 ## Diversity axes now covered
-- **Stake / relationship:** claimed-kin, phantom-lover, mentor, successor, worker, believer, community — not only investigators.
-- **Class & occupation:** hedge-fund/exec → organizer, restaurant owner, doorman, undocumented driver, librarian.
+- **Stake / relationship:** claimed-kin, phantom-lover, mentor, successor, worker, believer, community, scoop-hunter — not only investigators.
+- **Class & occupation:** hedge-fund/exec → organizer, restaurant owner, doorman, librarian. *(Tradeoff: swapping the driver for the reporter removed the undocumented gig-worker — restore working-class jeopardy via C07 organizer or C19 community.)*
 - **Belief & ideology:** AI-doomer, evangelist/exec, populist debunker, devout believer, labor-left, faith/community.
-- **Age & background:** young successor → retired mentor; immigrant gig worker; diaspora authorship expert.
+- **Age & background:** young successor → retired mentor; diaspora authorship expert.
 
 ## Still to finalize (Next Step #1)
+- **Restore the working-class beat** lost with the driver (fold into C07 or C19).
 - Lock the specific flavor of each **either/or** role (short-seller vs. hedge founder; pastor vs. librarian; AI artist vs. “wrong-neighbor”).
 - Decide, per personal role, **which** relationship-status applies (mediated / remembered / inherited / fabricated) and whether more than one character is knowingly faking.
 - Confirm each C01–C20 **owns ≥1 fact cluster** ([`fact-clusters.md`](fact-clusters.md)).
@@ -86,4 +87,4 @@
 ---
 
 ### Non-player color (documents / recordings / secondhand only)
-Chef, kitchen manager, janitor, postal worker, photographer, dry cleaner, additional delivery workers, overnight concierge. Promote to PC only if a role needs carrying.
+**Delivery / gig driver** (demoted from PC — their app logs and “arrived” pings survive as evidence F024, carrying the delivery routine without a live witness). Also: chef, kitchen manager, janitor, postal worker, photographer, dry cleaner, overnight concierge. Promote to PC only if a role needs carrying.
