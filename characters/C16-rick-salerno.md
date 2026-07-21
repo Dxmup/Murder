@@ -37,7 +37,7 @@ Get an exclusive from an insider — **Eleanor Voss** or **Wren Kaczmarek** — 
 - **Renata Kessler** — Claims to be next-of-kin. A claim you'd love to debunk on the record.
 - **Dorian Ashe** — The self-described former lover. His romance smells fabricated, and you mean to prove it.
 - **Nadia Kaur** — The named successor. A tidy claim you want to test until it breaks.
-- **Eleanor Voss** — The editor-in-chief. The insider you most want an exclusive from.
+- **Eleanor Voss** — The editor-in-chief, sitting on a seven-year gap: she never verified the author. Crack that and it's your scoop.
 - **Wren Kaczmarek** — The hacker who sells you dirt. Pay the toll, get the goods.
 - **Rafi Nunez** — A talkative source who can't help but say more than he should.
 - **Eddie Nowak** — A source who'll sell you what he saw, for the right number.
@@ -51,7 +51,7 @@ You also drive the tabloid's public push — watch for **M28** on misattributed 
 
 ## Special Ability
 
-**Print It** — you can push a story to the public app feed, where it lands as "fact" even when it's unverified. It bends the room. It cannot prove what R. actually was — a headline is not a witness.
+**Print It** — push a story to the public app feed, where it lands as "fact" even when it's unverified. It bends the room. **Forcing trigger:** if by Phase 3 you have uncovered **Eleanor's seven-year gap** (that she never verified the author) and she still hasn't given you an exclusive, you may **auto-print it** to the whole room — so your best card can't just sit in your pocket all night. It cannot prove what R. actually was — a headline is not a witness.
 
 ## AI Assistant
 

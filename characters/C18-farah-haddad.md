@@ -14,9 +14,9 @@ Fifteen years of "R." is the richest corpus of your career. You have run every i
 
 **Facts you're sure of:** "R." published under a pseudonym for roughly fifteen years (F001) with a respected reputation (F002); no verified photograph of them exists (F003). "R." announced an AI exposé (F009) that was not published on schedule (F010); it is the central object many people want (F014). "R." disappeared shortly before publication (F015) and death has not been confirmed (F016). And — your anchor — the writing carries a recognizable style (F050).
 
-**What you can't prove / what you privately suspect:** You cannot tell whether that recognizable style is one mind, a passed-down house voice, or an AI imitation good enough to fake either. Your data narrows nothing to certainty; it only sharpens the question.
+**What you can't prove / what you privately suspect:** You cannot tell whether that recognizable style is one mind, a passed-down house voice, or an AI imitation good enough to fake either. Your data can count *hands*; it cannot tell you whether a hand was flesh. It narrows nothing to certainty; it only sharpens the question.
 
-> **Keep this to yourself:** Your career is riding on this being the definitive case of your field. You are tempted to overclaim a certainty your data does not support — and you will quietly shape your "verdict" to fit whoever hands you the article text and the numbers that make you look right.
+> **Keep this to yourself:** Your career is riding on this being the definitive case of your field. You are tempted to overclaim a certainty your data does not support — and you will quietly shape your reading to fit whoever hands you the article text and the numbers that make you look right.
 
 ## Main Goal
 
@@ -33,7 +33,7 @@ Win the expert argument by aligning with whoever — **Dr. Amara Osei** or **Wre
 ## Relationships
 
 - **Eleanor Voss** — the editor-in-chief who controls the article text your analysis is starving for.
-- **Dr. Amara Osei** — the AI-safety researcher pushing the machine reading; a useful ally if her data flatters your model.
+- **Dr. Amara Osei** — the AI-safety researcher pushing the machine reading; a useful ally if her data flatters your model — and the one expert who can publicly **rebut** you.
 - **Wren Kaczmarek** — the forensics hacker whose metadata could back your conclusions or blow them apart.
 
 ## Starting Materials
@@ -43,8 +43,8 @@ Win the expert argument by aligning with whoever — **Dr. Amara Osei** or **Wre
 
 ## Special Ability
 
-**Expert Verdict** — You may deliver an authorship reading (how many hands, whether a machine) that others in the room treat as authoritative. It is non-binding, and it can NEVER actually resolve what "R." was; it only moves the room.
+**Expert Verdict** — You may publicly declare only **how many hands** produced the byline (one / several / machine-assisted). You may **not** resolve human-versus-machine — your instruments can't, and you must not pretend otherwise. Any rival expert (**Amara**) may stand up and **rebut** your reading on the spot, and the room may weigh both. It moves the room; it is **not** the last word, and it never settles what R. *was*.
 
 ## AI Assistant
 
-Your assistant knows this sheet — your facts, your draft, your messages, your goals. It does not know who "R." was (nobody does, not even the people who made this night), nor any other player's private cards, nor any hidden "answer." Use it to sharpen your argument, not to settle the question.
+Your assistant knows this sheet — your facts, your draft, your messages, your goals. It does not know who "R." was (nobody holds the whole story), nor any other player's private cards, nor any hidden "answer." Use it to sharpen your argument, not to settle the question.

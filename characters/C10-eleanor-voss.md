@@ -33,7 +33,7 @@ Authenticate the article and its source *enough to act* — without letting the 
 Fend off the buyers and suppressors (**Grayson Mott**, **Vivian Ko**) and the three claimants (**Renata Kessler**, **Arthur Feld**, **Nadia Kaur**) all reaching for the byline at once.
 
 ## Relationships
-- **Arthur Feld** — your predecessor's generation; claims *he* first published R. You can't confirm it.
+- **Arthur Feld** — claims he discovered R. and has a founder-era letter to wave; his origin story competes with your stewardship.
 - **Nadia Kaur** — turned up claiming R. named her successor; wants your blessing.
 - **Renata Kessler** — says she's next of kin and the estate (and the article rights) are hers.
 - **Grayson Mott / Vivian Ko** — one profits if the story breaks a stock, one if it's buried. Both will offer you things.
@@ -47,7 +47,7 @@ Fend off the buyers and suppressors (**Grayson Mott**, **Vivian Ko**) and the th
 *Later tonight (M38) the publisher forces your hand — “kill it or run it by midnight” — and R.'s final word (M40) drops to the whole room.*
 
 ## Special Ability
-**Publish / Hold** — you alone can greenlight, spike, or delay the article. In the endgame this is the room's biggest lever; until then, the *threat* of it is your leverage. (Whether you actually control the auto-publish in M40 is exactly what the night decides.)
+**Publish / Hold** — you control the article's fate, and you can **freeze one track at a time** (block a single person's publish, leak, or sale attempt while you decide). You **cannot** freeze the whole room — others keep moving — and at the endgame the room's vote (M40) can **override** you. Until then, the credible *threat* of your hold is your leverage.
 
 ## AI Assistant
 Your assistant knows this sheet, your facts, your drop history, and the messages you receive. It does **not** know who or what R. really was (neither do you — and neither does anyone), any other player's private business, or any “answer” to the mystery. Use it to keep your story straight and your options open — not to solve anything.
