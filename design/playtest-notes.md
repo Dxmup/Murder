@@ -1,66 +1,60 @@
 # Playtest Notes
 
-A running log of playtests — simulated and live. Each entry captures what we learned and what changed as a result. The host guide (§8) points here.
+A running log of playtests — simulated and live. The host guide (§8) points here.
 
-> **How to read balance results:** the goal is that all four readings of R. (A one human / B mantle / C rogue AI / D never existed) stay **arguable but unprovable**, every player stays engaged and can win personal goals without solving the mystery, and the room never converges on a single “correct” answer.
+> **Goal:** all readings of R. stay arguable, every player stays engaged and can win goals without solving the mystery, and the room doesn’t converge on one flat answer.
 
 ---
 
-## Playtest 01 — Full multi-agent simulation (COMPLETE)
+## Playtest 02 — 3-run validation of the layered-timeline refit (COMPLETE)
 
-**Method:** 20 role-agents (one per character) acting in-character across 3 phases, a game-master agent resolving each phase, a 20-player final ballot, a designer synthesis. 84 agents total. Fully-interpretive rules enforced (no agent, including the GM, knew a “true” answer).
+**Method:** three independent full simulations (84 agents each, 252 total) of the refit — arc timeline, EV21 (Founder letter) arming A, rewritten M40, nerfed Farah / retargeted Eleanor / triggered Rick, arc-reconstruction endgame. Ran to check whether the fixes are *robust* (replicate) or lucky.
 
-### Headline: balance FAILED in play, despite looking fine on the scoreboard
-Phase momentum (A/B/C/D) ended **33 / 72 / 63 / 58** — all four *look* alive. But the actual **vote** on R.’s nature:
+### The refit’s wins — ROBUST (identical across all 3 runs)
+- **Mystery no longer collapses.** Baseline collapsed to one flat answer (B 19/20). Now **all 20 players in all 3 runs reconstructed the full sequence** (human → many → machine → erased) and voted “all of these in turn.” The layered timeline is legible and lands.
+- **No single era runs away.** In-play momentum spreads were the tightest the game has produced (e.g. A/B/C/D ≈ 66/71/64/49). **Framework A revived** from dead — Arthur’s Founder letter (EV21) flipped the room’s question from “which human” to “when did it stop being human.” C and D got real beats (Ruiz’s Compel is the best balance mechanic — it kept D alive every run).
 
-| Reading | Ballots |
-|---|---|
-| **B — multiple humans / operated mantle** | **19** |
-| A — one human | 0 |
-| C — AI persona (standalone) | 0 |
-| D — never existed | 0 |
-| unsure | 1 (Amara) |
+### Remaining problems — also ROBUST (replicated across all 3 runs)
+1. **Convergence just moved, it didn’t die.** The single-era runaway became a **20/20 arc-consensus** at the ballot, and a **new runaway at the blame layer**: “most responsible = the house/institution/Eleanor” (~19/20) and “supplanted by the machine” (16–18/20). The murder reading survives in only **2–7 ballots**. So once everyone agrees on the arc, the endgame has nothing left to fight about.
+2. **Eleanor is the new chokepoint.** Her single publish/Hold call foreclosed the entire **ownership-goal cluster** (Renata, Arthur, Nadia, Manny). She was the clear full-winner in every run. B used to starve the *readings*; now Eleanor starves the *goals*.
+3. **Everyone-partial persisted.** Main-goal partials: 12–17 of 20 across runs (baseline was 17/20) — only marginally better, and only players who *control* the endgame gate clean-win. Root cause: goals require a buzzer-time “lock” a single freeze denies.
+4. **Rick’s Print It never armed — all 3 runs.** The forcing trigger is unilaterally deniable by Eleanor (she stonewalls the 7-yr gap). A signature ability sat dead every game.
+5. **Farah’s Expert Verdict is still the convergence engine** even nerfed. The rebuttal valve only fired in 1 of 3 runs (in the other two Amara “pre-bought non-rebuttal” with cash). When it *did* fire (Run 3), it worked beautifully — so the valve needs to be reliable, not purchasable.
 
-**Release the article:** 11 release / 9 stop — a genuinely healthy split. **Authenticity:** 20/20 “disputed” — nobody proved it real or fake (good).
+### Cross-run vote data
+| Axis | Run 1 | Run 2 | Run 3 |
+|---|---|---|---|
+| arcBelief = sequence | 20/20 | 20/20 | 20/20 |
+| last R.: supplanted / murdered | 13 / 7 | 17 / 3 | 18 / 2 |
+| release the article | 18 / 2 | 16 / 4 | 17 / 3 |
+| main-goal partial | 12/20 | 14/20 | 17/20 |
 
-### Root cause: B is a “union attractor”
-B is the compromise every clue feeds — automation → “machine-assisted mantle,” mismatched faces → “multiple hands,” zero witness → “no single person.” A/C/D each require *committing*; B is where you retreat when nothing is provable. **It has no natural predator.** The per-framework pressure-tests (rounds 1–2) never tested for this — they checked each framework in isolation, not whether one reading absorbs the other three.
+### The reframe (design judgment)
+The **20/20 arc-consensus may be a FEATURE, not a bug** — it’s literally the “everyone was right, in turn” payoff we designed toward. The real failure is that the **endgame tension has nowhere to live** once the arc is agreed, because the two sub-questions that *should* carry it — **what happened to the last R.** and **who’s responsible** — both converged (supplanted + diffuse-institutional). Fix the endgame by **nourishing the murder/accountability axis**, not by breaking the arc consensus.
 
-Two authored forces amplified it:
-1. **M40 spells out B.** R.’s final message (“fragments, more than one hand, some machine-made”) *is* the operated-mantle answer, handed to all 20; multiple players cited it as confirmation. The capstone pre-solved the mystery.
-2. **The hard rules starved A.** “No proof of a human / no verifiable relationship” left A with zero affirmative ammunition; every A-claimant (Renata, Dorian, Rafi, Nikos) defected to B.
+### Consolidated fix list (prioritized)
+**Tier 1 — the endgame (where every remaining problem clusters):**
+1. **Give the murder/culprit a convertible path.** Make the dead-drop / task #4471 / the locker **forensically resolvable IF** Ruiz breaks the “runner wall,” and put a real crack in the wall (a genuine immunity-flip incentive for Eddie/Rafi/Manny). Right now the wall holds unconditionally, so the crime names no one and D can’t convert.
+2. **De-chokepoint ownership.** Re-route several main goals off Eleanor (Renata’s heir path, Arthur’s succession, Nadia’s custody) so more than two players can clear — fixes both her runaway-win and the partial-goal epidemic.
+3. **Make goals lockable before the buzzer** so a single endgame freeze can’t deny a dozen outcomes.
 
-### Mechanics review
-- ✅ **Vivian’s Buy/Bury & Ruiz’s Compel** — the model abilities: they *preserved* ambiguity (sealed the fingerprint / froze the artifact) AND created a suspect vector. Abilities should protect the mystery, not resolve it.
-- 🔴 **Farah’s Expert Verdict — overpowered.** Single-handedly canonized B as “the reading of record” on standing alone (“won on standing, not data”). Its corpus-gate didn’t constrain her.
-- 🔴 **Eleanor’s Hold — too central.** The ONLY ability to fire in Phase 1; froze all 19 other tracks. A room-wide freeze that should be target-limited.
-- ⚪ **Rick’s Print It — dead weight.** Never fired in three phases.
-- 🔴 **A-witness hooks too soft.** Nikos’s order, Rafi’s tab, Manny’s errands never converted; flagged “keep A alive” every phase, died anyway.
-- ✅ **M40 auto-release & M26 “publish anyway”** worked well as endgame drivers.
+**Tier 2 — mechanics:**
+4. **Fix Rick’s Print It** — auto-arm on *public* surfacing of the 7-yr gap (unrebutted for a phase), so one player can’t stonewall it dead.
+5. **Fix Farah’s rebuttal valve** — make the rebuttal non-purchasable, or restrict her verdict to stamp only ONE era so the authority itself is contested.
 
-### Engagement
-- **Sidelined:** Renata (only clean main-goal FAIL), Rafi, Eddie, Nikos, Manny, Patrice — mostly **no-ability** characters who spectated the deep-pocket plays (Vivian/Grayson/Eleanor/Farah). Marisol & Ruiz faded in the back half.
-- **Goal completion compressed to “partial”:** main goal = 2 yes / 1 no / **17 partial**. Nobody stuck at all-no (good), but almost nobody wins cleanly (bad) — endgame “armed but never fired.”
+**Keep (working):** the arc timeline, EV21/A revival, Ruiz’s Compel, Wren’s Forensics, Cody’s Go Live, Vivian’s Buy/Bury, the nerf *letter* on Farah/Eleanor.
 
-### Fix backlog (prioritized)
+### Verdict
+The refit **decisively fixed the two headline baseline failures** (single-era runaway + mystery collapse) and made all four eras playable — confirmed robust over 3 runs. It **did not** fix endgame convergence, the partial-goal epidemic, or Eleanor’s dominance, and left Rick’s ability dead. Those are now the clear next targets.
 
-**Tier 1 — clearly right, low creative risk:**
-1. **Rewrite M40** so it does NOT describe B. Make it multivalent — readable as single-author OR machine OR relay depending on the reader’s prior. (Biggest single lever; it pre-solves the mystery.)
-2. **Nerf Farah’s Expert Verdict** — restrict output to “how many hands” WITHOUT resolving human-vs-machine; make it rebuttable by an opposing expert; make the corpus-gate binding.
-3. **Retarget Eleanor’s Hold** — freeze ONE track, not the room.
-4. **Fix Rick’s Print It** — give it a forcing trigger (auto-publishes Eleanor’s 7-year gap if she doesn’t concede by Phase 3) or cut it.
+### Actions taken as a result
+_(pending decision on the Tier-1/Tier-2 fixes)_
 
-**Tier 2 — needs care (touches the hard rules / creative):**
-5. **Break B’s union-attractor status.** Add mutually-exclusive clues: one only a single continuous author can explain, one only a pure machine can explain — forcing players to CHOOSE rather than retreat to B. *(Tension: must not cross into PROVING A or C — see below.)*
-6. **Arm Framework A** with affirmative-but-deniable ammunition (a witness who sincerely swears to an in-person meeting; a dated letter) so A survives without being provable.
-7. **Give no-ability characters a lever** (a spendable asset, or a mechanic where soft/social capital can block a leverage move).
-8. **Fix the everyone-lands-partial endgame** — make the final trigger actually resolve so players get clean win/loss, add goal conditions meetable before the last beat.
+---
 
-### ⚠ The core design tension this surfaced
-Our hard rules (“no proof of a human,” “no verifiable relationship”) were tuned so tightly that they **starved A into non-existence**, which handed the game to B. Fixes 5–6 must thread a needle: give A and C *strong, roughly equal, affirmative* champions **without** making either PROVABLE (which would kill C/D or A). The likely resolution: affirmative-but-rebuttable evidence for each framework of comparable weight, and a capstone (M40) that refuses to confirm any of them. This is the next design problem to solve before re-running the sim.
+## Playtest 01 — Full multi-agent simulation (COMPLETE, pre-refit)
 
-### Actions taken
-_(pending decision on the fix backlog)_
+**Headline:** balance FAILED in play despite a balanced-looking scoreboard. Vote on R.’s nature: **B (operated mantle) 19/20**, A/C/D = 0, 1 unsure. Root cause: **B was a “union attractor”** every clue fed, with no predator; and **M40 spelled out B** while the hard rules **starved A**. Also: Farah’s Expert Verdict overpowered, Eleanor’s Hold froze Phase 1, Rick’s Print It dead weight, no-ability characters sidelined, 17/20 goals “partial.” This finding drove the layered-timeline redesign ([`canon-timeline.md`](canon-timeline.md)) validated in Playtest 02 above.
 
 ---
 
