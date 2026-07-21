@@ -1,0 +1,29 @@
+# Node / app
+node_modules/
+.next/
+dist/
+build/
+.vercel/
+*.log
+npm-debug.log*
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Print build outputs
+print/out/
+*.pdf.tmp
+
+# Local scratch
+scratch/
+*.local
