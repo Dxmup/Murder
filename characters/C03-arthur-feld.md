@@ -1,28 +1,28 @@
 # Arthur Feld — Retired Editor
 
-**Character ID:** C03 · **Owns:** the byline's origin story · **You lean toward:** *You handed the name on — a lineage of writers you seeded and blessed. Unless the name was never a person at all, just a desk you invented and taught the world to believe in. Some nights you can't tell which memory is the real one.*
+**Character ID:** C03 · **Owns:** the byline's origin — and the one person who can say a real human R. once existed · **You lean toward:** *there was a real writer at the start — you met them, you have their letter — even if you can no longer prove the “R.” everyone’s chasing tonight is the same person you knew.*
 
 ---
 
 ## Character Background
 
-You were an editor for thirty years, and you have earned the right to be listened to. Fifteen years ago, by your account, a byline appeared under your care: a single initial, **"R."** You say you gave it its first ink. You say you shaped the voice, defended it upstairs, and — when the time came — passed it to someone younger and hungrier. That is the story you have told at retirement dinners and to anyone who asks: a mantle, a lineage, a name handed down like a good desk handed down like a trade.
+You were an editor for thirty years, and you have earned the right to be listened to. Long ago you needed a byline for sensitive and freelance copy, and you coined one: a single initial, **“R.”** A house name, nothing more — at first.
 
-Tonight R. is gone, an AI exposé unpublished, and a room full of people are arguing about what R. *was*. You came because if anyone is the origin — the steward, the one who made the name — it is you. You want that on the record before someone else claims it.
+Then a real young writer *became* it. You met them. You published them. You watched them turn a desk convention into a legend, and you kept a letter they sent you in those early days — dated, hand-signed, unmistakably a *person*. You are, as far as you know, the only one in this room who ever sat across a table from the human at the root of all this.
 
-But you are old enough to be honest with yourself in the dark. The clean story has soft edges you don't examine in company.
+But that was fifteen years ago. The copy that came later arrived through a drop, not a handshake. The voice changed, more than once. Tonight R. is gone and a room full of people argue over what R. *was* — and you cannot honestly swear the R. they’re chasing is the one whose letter is in your pocket.
 
 ## What You Know
 
-**Facts you're sure of:** R. published under a pseudonym for roughly fifteen years (F001) and earned a serious, respected reputation (F002). No verified photograph of R. has ever existed (F003). The reporting was accurate enough to draw real sources into the open (F004) — you saw copy land that only a trusted name could have pulled. And the prose had a *recognizable style* (F050), a fingerprint you'd know anywhere. You believe you know it because you helped set it.
+**Facts you're sure of:** R. published under a pseudonym for ~15 years (F001) with a serious reputation (F002); no verified photograph exists (F003). The reporting was accurate enough to draw real sources (F004). The prose has a recognizable style (F050) — a fingerprint you helped set. **And this, which no one else can say: you met the young writer who first became R., in person, and you have their dated letter.**
 
-**What you can't prove / what you privately suspect:** Whether "R." was ever a single writer, or a name you seeded that grew its own bio over the years. Different people describe R. differently; you've heard the collective-persona theory and you can't rule it out — partly because you may have started it.
+**What you can't prove / what you privately suspect:** Whether the person you met is continuous with the “R.” who vanished last week. You seeded the name as a house byline; a real writer took it up; then the copy started arriving remotely and the voice multiplied. Somewhere in there the person you knew stepped back — into a mantle, or something else. You can’t prove the line from your letter to tonight.
 
-> **Keep this to yourself:** You never actually met the young writer. Every piece came to you through a drop — copy arriving, no face across a desk, ever. The "meeting" you describe so warmly is a story you've retold until you half-believe it happened. Worse: you privately suspect "R." began as an *in-house editorial pseudonym* — a desk brand with a fabricated bio that simply accreted into a legend. You may be misremembering. You may be protecting yourself. You genuinely cannot always tell.
+> **Keep this to yourself:** You have kept the founder’s letter for years because it is your proof that you *mattered* — that you didn’t just coin a brand, you discovered a person. But you also can’t account for the fifteen years since, and you’re terrified that if the room decides “R.” was always a construct or a machine, then the one real thing you built gets erased with it. You will push the single-human story hard — partly because it’s true, partly because you need it to be.
 
 ## Main Goal
 
-Be recognized as the origin and rightful steward of the byline — the one who created and handed on the name.
+Be recognized as the origin and rightful steward of the byline — the one who discovered the real R.
 
 ## Sub-Goal One
 
@@ -30,21 +30,22 @@ Ensure the byline continues under a successor you can influence — negotiate di
 
 ## Sub-Goal Two
 
-Suppress any proof that you never actually met the writer. Watch **Rick Salerno** and **Wren Kaczmarek** closely; either could pull that thread.
+Establish that there was a real human at the root (your letter is the proof) before the room dissolves R. into a mantle or a machine. Watch **Rick Salerno** and **Wren Kaczmarek**, who could muddy the letter’s provenance.
 
 ## Relationships
 
-- **Nadia Kaur** — the named successor. You want the mantle to continue through her, and you want your hand on that continuation.
-- **Eleanor Voss** — the current editor-in-chief. She holds the paper's version of the story; her account may confirm or contradict yours.
-- **Rick Salerno** — tabloid reporter, scoop-hunter. If he learns you only ever got copy through a drop, he'll run it.
-- **Wren Kaczmarek** — forensics and drop-history. Could reconstruct exactly how the copy actually reached you.
+- **Nadia Kaur** — the named successor. You want the mantle to continue through her, with your hand on it.
+- **Eleanor Voss** — the current editor-in-chief; her account of the later years may confirm or contradict your origin story.
+- **Rick Salerno** — tabloid reporter; he’ll either trumpet your letter as the scoop that proves a real R., or tear at whether it’s the *same* R.
+- **Wren Kaczmarek** — forensics; could date the letter and reconstruct how the *later* copy actually arrived (and expose the gap you can’t explain).
 
 ## Starting Materials
 
-- **EV17** — an archive stub: the byline "R." first attached to *desk copy*, editor listed as [redacted]. A document that flatters and threatens you at once.
-- **M14** (scheduled, arrives to you mid-game — quote it to no one): *"You published the name. You never met the writer. We both know that."*
-- Later, an **archive bot** stirs — **M29**: *"Byline 'R.' first attached to desk copy ~15 yrs ago. Editor: [redacted]."* The redaction may be your name. Decide before someone else reads it whether that helps you or buries you.
+- **EV21 — the Founder’s letter:** dated, hand-signed, from the young writer who first became R. Your hard proof that a real person existed. Strong — but you can’t prove they’re the R. who vanished.
+- **EV17 — the archive stub:** the byline first attached to desk copy, editor [redacted]. Flatters and threatens you at once (it’s the “just a house name” reading).
+- **M14** (scheduled, arrives mid-game): *“You published the name. You never met the writer. We both know that.”* — a message that calls you a liar. But you *did* meet the writer. So who sent this, and why do they want your letter doubted?
+- Later, the **archive bot** stirs (**M29**): *“Byline ‘R.’ first attached to desk copy ~15 yrs ago. Editor: [redacted].”*
 
 ## AI Assistant
 
-Your assistant knows this sheet — your facts, your materials, your messages — and can help you rehearse the origin story or war-game a negotiation. It does **not** know who R. truly was (no one does, not even the game), nor other players' secrets, nor any "answer" to hand you. If you ask it to settle what R. was, it can only give you another theory to argue.
+Your assistant knows this sheet — your facts, your letter, your messages — and can help you argue the founder story or war-game a negotiation. It does **not** know the full arc of what R. became after you (nobody in this room holds the whole timeline), nor other players’ secrets. It can help you make the case that a real person existed; it cannot prove the line from your letter to tonight.
