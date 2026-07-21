@@ -34,7 +34,7 @@
 ### Money & power *(collapsed 3 finance → 1; kept the stakes)*
 - **C05 — Hedge-fund founder / activist short-seller.** Wants to know if the article moves markets. Framework-agnostic; follows money.
 - **C06 — AI-company executive.** Wants the article suppressed. An AI-that-faked-a-journalist is existential for them — so they push *hard against* **C** (or quietly fear it).
-- **C07 — Labor / gig-worker organizer.** Represents the people the AI exposé is *about*. Class counterweight; a moral, non-transactional stake. *(Now also carries the working-class perspective the driver used to — see tradeoff note.)*
+- **C07 — Labor / gig-worker organizer.** Represents the people the AI exposé is *about*. Class counterweight; a moral, non-transactional stake.
 
 ### Tech *(collapsed 4 → 2)*
 - **C08 — AI-safety researcher / whistleblower.** May be the actual source. **Champions C** (“a system could absolutely do this”).
@@ -49,37 +49,36 @@
 - **C12 — NYPD detective.** The investigation. Wants **A/B** — a crime needs a victim. *(Federal prosecutor cut — redundant LE.)*
 - **C13 — City councilwoman / political figure.** Wants to control the public narrative.
 
-### Institutional NYC *(carry the delivery/doorman cluster and widen the class range)*
+### Institutional NYC & working world *(carry the delivery/building clusters and the class range)*
 - **C14 — Restaurant owner.** Someone ordered food for years — but they never saw who ate it. Leans **A**.
-- **C15 — Doorman / concierge / super.** Never actually saw anyone collect it. Leans **C/D**.
+- **C15 — Doorman / concierge / super.** Never saw anyone collect the food — and the regular face he *did* see was the fixer (C19), not any resident. Leans **C/D**.
+- **C19 — Remote “fixer” / errand-runner.** For years did app-dispatched pickups, drops, and building errands for the pseudonym; paid in transfers; **never once met the employer.** The purest embodiment of the hard rule — literally *worked for* the journalist and still can’t say a human existed. **Champions A** (“someone was paying me”) while proving nothing. **Secret:** some tasks arrived at impossible hours or contradicted each other — he privately suspects he served *several* bosses, or a machine (→ **B/C**); may still be holding one undelivered item (a dead-drop, PF17). *Restores the working-class stake lost when the driver was demoted.*
 
-### Belief, culture & community *(the other missing axis)*
+### Belief, culture & community
 - **C17 — Myth-keeper / online source-community moderator (the true believer).** Devoutly insists the journalist is real and heroic — on faith, not evidence. **Direct opposite of C11.** *(Conspiracy theorist #2.)*
 - **C18 — Forensic-authorship / linguist expert** (promoted from document to PC; plausibly diaspora / multilingual-press background). Style analysis argues **B vs C** — keeps the mystery balanced.
-- **C19 — Faith / mutual-aid community figure** (pastor / imam / rabbi, or a librarian the journalist “confided in” remotely). A different value system entirely: truth, forgiveness, protecting people over the scoop.
 - **C20 — AI artist** who *collaborated with the “journalist” remotely* and believes it was an AI partner all along. **Champions C.**
 
 ## Framework coverage check
 
 | Framework | Human champions |
 |---|---|
-| **A** — one real person | C01 claimed kin (unreliable), C14 restaurant owner, C12 detective; C16 tabloid reporter *chases* A |
-| **B** — the mantle | C03 mentor, C04 successor, C18 authorship expert |
+| **A** — one real person | C01 claimed kin (unreliable), C14 restaurant owner, C19 fixer (“someone paid me”), C12 detective; C16 tabloid *chases* A |
+| **B** — the mantle | C03 mentor, C04 successor, C18 authorship expert; C19 (“several bosses”) |
 | **C** — rogue AI | C08 researcher, C20 AI artist, C09 metadata, C02 phantom “lover”; feared by C06 |
 | **D** — never existed | C11 debunker, C15 non-witness, emergent-myth reading of the whole file |
 | **Contrast pairs** | C11 debunker ↔ C17 true believer · C16 reporter ↔ the fabricators (C01/C02/C04) |
 
-**Note:** none of A’s champions can actually *prove* a human — they champion A on belief, memory, claim, or (the reporter) on wanting it to be true. That’s deliberate: it keeps A alive without ever confirming it and closing off C/D.
+**Note:** none of A’s champions can actually *prove* a human — they champion A on belief, memory, claim, or wanting it to be true. That’s deliberate: it keeps A alive without ever confirming it and closing off C/D.
 
 ## Diversity axes now covered
-- **Stake / relationship:** claimed-kin, phantom-lover, mentor, successor, worker, believer, community, scoop-hunter — not only investigators.
-- **Class & occupation:** hedge-fund/exec → organizer, restaurant owner, doorman, librarian. *(Tradeoff: swapping the driver for the reporter removed the undocumented gig-worker — restore working-class jeopardy via C07 organizer or C19 community.)*
-- **Belief & ideology:** AI-doomer, evangelist/exec, populist debunker, devout believer, labor-left, faith/community.
+- **Stake / relationship:** claimed-kin, phantom-lover, mentor, successor, worker, fixer, believer, scoop-hunter — not only investigators.
+- **Class & occupation:** hedge-fund/exec → organizer, restaurant owner, doorman, **gig fixer** — working-class stake restored.
+- **Belief & ideology:** AI-doomer, evangelist/exec, populist debunker, devout believer, labor-left.
 - **Age & background:** young successor → retired mentor; diaspora authorship expert.
 
 ## Still to finalize (Next Step #1)
-- **Restore the working-class beat** lost with the driver (fold into C07 or C19).
-- Lock the specific flavor of each **either/or** role (short-seller vs. hedge founder; pastor vs. librarian; AI artist vs. “wrong-neighbor”).
+- Lock the specific flavor of each **either/or** role (short-seller vs. hedge founder; AI artist vs. “wrong-neighbor”).
 - Decide, per personal role, **which** relationship-status applies (mediated / remembered / inherited / fabricated) and whether more than one character is knowingly faking.
 - Confirm each C01–C20 **owns ≥1 fact cluster** ([`fact-clusters.md`](fact-clusters.md)).
 - Pressure-test: after assigning facts, do all four frameworks still survive? (Next Step #8.)
