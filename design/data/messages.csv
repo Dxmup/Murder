@@ -1,0 +1,3 @@
+message_id,sender_displayed,actual_origin,recipient_or_group,trigger_condition,delivery_time,content,attachments,truth_status,facts_introduced,intended_interaction
+M-EXAMPLE-1,"The Journalist (scheduled)","pre-scheduled by journalist",C11,"Phase 1 start","00:05","Do not trust the person who claims to have my last draft. — Q",,"technically-authentic-but-misleading",,"Send C11 to confront a specific character"
+M-EXAMPLE-2,"Breaking News Alert","host broadcast",all,"host-triggered when room stalls","Phase 2","Unconfirmed reports: sources dispute whether the journalist was ever a single person.",,"true",F006;F007,"Reopen the identity question publicly"

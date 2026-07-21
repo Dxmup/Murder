@@ -1,0 +1,3 @@
+evidence_id,type,owner,initial_visibility,unlock_condition,related_facts,authenticity,shareable,app_display_requirements
+EV-EXAMPLE-1,document,C18,private,"shown after Phase 1",F020;F031,authentic,yes,"render as scanned order ticket"
+EV-EXAMPLE-2,audio,C10,hidden,"unlocked by host in Phase 2",F043;F045,disputed,no,"in-app audio player; no download"
