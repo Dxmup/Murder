@@ -1,5 +1,6 @@
 event_id,chronological_placement,what_occurred,participants,witnesses,digital_records,physical_records,related_messages,related_facts
 E-DELIV,"~8 yrs ago -> recurring (placeholder)","Recurring restaurant delivery to the building lobby, timed to the doorman's shift end.",C14;C15,"C15 doorman; NPC delivery driver (logs only)","delivery-app logs; driver 'arrived' pings; payment records","restaurant order tickets",TODO,F020;F021;F022;F023;F024;F025;F026;F027;F030;F031
+E-BODEGA,"~ years, recurring (new design; parallel to E-DELIV)","The pseudonym kept a cash tab and had packages held at the bodega; picked up (often by the fixer) without ID.",C20;C19,"C20 bodega owner","hold-order texts (odd hours, auto-paid)","bodega tab ledger; held-package log; unpaid tab",TODO,"TODO (author new fact IDs; parallels F020-F035)"
 E-ANNOUNCE,"Final week, T-?","The journalist announces the AI article.",C10;C03,,"published announcement",,TODO,F009;F014
 E-DISAPPEAR,"T=0","The journalist disappears; article not published as scheduled.",,,"last known comms",,TODO,F010;F015;F016
 E-GATHER,"Game night","~20 connected people gathered at the venue.",TODO,,,,TODO,TODO
