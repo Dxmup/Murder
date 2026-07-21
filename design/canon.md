@@ -1,34 +1,35 @@
 # Locked Canon
 
-Running list of canonical decisions locked during design (things §3–§13 of the handoff left open). Everything here is fixed and propagates into character sheets, evidence, messages, and the app.
+Running list of canonical decisions. Everything here is fixed and propagates into character sheets, evidence, messages, and the app.
 
-## ⚠ The game is FULLY INTERPRETIVE (locked)
+## ⚠ The truth of R. is a LAYERED, SEQUENTIAL arc (revised after Playtest 01)
 
-**There is no hidden canonical truth about what R. was.** The designer does not secretly “know” whether R. was one human (A), a mantle (B), a rogue AI (C), or never a coherent entity (D). All four are *equally true* — the game is about how people construct truth from incomplete, contradictory, mediated information, and the answer is whatever the room decides at the vote (§6, §17).
+**Previously “fully interpretive” (no truth at all). That failed** — the multi-agent playtest collapsed to a single reading (Framework B won 19/20) because no framework had affirmative evidence, so everyone retreated to the B compromise. **Revised model:** all four readings are **true, in sequence** — R. was one human, then a mantle, then an AI, then a human who tried to reclaim it and was erased. Full arc in [`canon-timeline.md`](canon-timeline.md).
 
-**Writing constraints this imposes (binding on every character sheet, message, and evidence item):**
-1. **No document, fact, secret, or private note may resolve R.’s nature.** A character may *believe* fiercely — but every such belief is labeled and held as *belief/claim*, never as verified fact.
-2. **Secrets are facts about the CHARACTER, not about R.**
-3. **The AI assistants (§12) contain no solution** — there is none to leak.
-4. **The endgame ballot is genuinely open.** No “correct” answer.
-5. Authors must not privately decide the answer and seed toward it.
+**What this means for design:**
+1. **Each era leaves real, hard, but still-deniable evidence** — so A, B, C, and D can each be *argued with ammunition*, not just gestured at. No framework is starved; no one retreats to a compromise.
+2. **The full arc is discoverable but contested.** No single piece proves the whole timeline; the transitions and the final erasure stay unprovable.
+3. **The reveal is OPTIONAL.** The canonical arc lives in the host’s pocket; the host may disclose it after the vote or leave the room’s verdict standing.
+4. **Characters still don’t “know” the arc** — each is a sincere witness to ONE era (see the character-era map in `canon-timeline.md`). Beliefs are still labeled as beliefs on the sheets.
+5. **AI assistants still contain no solution** — they know only their character’s slice.
 
-## ⚠ Hard rules (from pressure-test rounds 1–2)
+## ⚠ Revised hard rules
 
-**Rule 1 — no proof of a single living human.** No character's fact-set, nor any plausible pooling, may *prove* one real person existed — that would kill C and D.
+**Rule 1 (revised) — no single piece of evidence proves the WHOLE arc.** There *was* a founding human (A is real) and there *was* an AI (C is real) — but no artifact collapses the timeline or confirms the erasure. Every anchor is strong-but-rebuttable.
 
-**Rule 2 — no proof of coherent single authorship.** No artifact or message may *prove* a single coherent author produced the body of work — that would kill D. Consequence: the unpublished article, whenever shown, is **fragmentary, multi-voice, disputed/possibly-machine authorship** — never a clean single-author manuscript (message M40; ties F011/F053).
+**Rule 2 — keep the four eras balanced.** Each era (A/B/C/D) must retain a champion with real evidence of comparable weight, so none dominates as a compromise. (This is what Playtest 01 broke; re-test after every change.)
+
+**Rule 3 — the article artifact is the reclaimer’s exposé,** fragmentary and disputed, and never confirms the whole truth on its own (ties F011/F053).
 
 ## The byline: **“R.”**
-The journalist publishes under the single-initial byline **“R.”** — pieces read *“by R.”* A byline that is almost *nothing* — maximally Satoshi/Dread-Pirate-Roberts hollow, impossible to attach to a face. Echoes the title, *How Many R's in Murder?* Characters may speculate what the “R” stands for; never resolved. C17's community (“The Questionry”) and the charity donations signed *“Questions matter”* (PF09) orbit its mystique.
+Single-initial byline; pieces read *“by R.”* Maximally hollow, impossible to attach to one face — which is *true*, because “R.” was never one face for long. Echoes the title, *How Many R’s in Murder?* C17’s community (“The Questionry”) and the donations signed *“Questions matter”* (PF09) orbit its mystique.
 
 ## The AI company: **Meridian Cognitive Systems**
-The AI firm the article may implicate — Vivian Ko (C06) is its CEO; Grayson Mott (C05) is short its stock; Patrice Okonkwo (C13) took its donations. Use “Meridian” (or “the firm”) consistently across sheets, evidence, and the app. Whether R. was *Meridian's* model is exactly the unanswerable question — canon never confirms it.
+The firm the article implicates; Vivian Ko (C06) is CEO, Grayson Mott (C05) shorts it, Patrice Okonkwo (C13) took its donations. **Canonically, the AI that took over R. in Era 3 may be Meridian’s model** — making Vivian potentially complicit, though it stays contestable (autonomous machine vs. corporate negligence).
 
 ## The article artifact
-Canonically **never a clean manuscript** (Rule 2). When surfaced (M40) it is fragments — more than one hand in the prose, some passages possibly model-generated, authenticity disputed.
+The last human R.’s exposé that the byline had become an AI — fragmentary, multi-voice, disputed. Auto-publishes at midnight (M40) as their dead-man’s switch.
 
 ## Still open (to lock later)
-- **Venue** for the gathering (§3).
-- **The article's exact subject** (§13.13 / F013): contested in-game; per the fully-interpretive rule there is **no secret true subject** — only competing accounts.
-- **Delivery cadence / meal / duration** (§13.4): placeholders (Thursday evenings, ~8 years).
+- **Venue** (§3) — leaning: an invite-only tribute evening, invitations sent as scheduled messages from R. (i.e., the reclaimer’s dead-man switch summoned everyone).
+- **Delivery cadence / meal** (§13.4) — placeholders (Thursday evenings, ~8 years).
