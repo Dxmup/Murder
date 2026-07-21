@@ -1,21 +1,21 @@
-character_id,character_name,public_role,framework_lean,private_background,main_goal,sub_goal_one,sub_goal_two,relationships,starting_facts,starting_assets,ai_configuration,messages_received,endgame_questions
-C01,,Estranged sibling / adult child of the journalist,A,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C02,,Former lover / ex-partner,A-B-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C03,,Retired editor-mentor (first published the byline),B,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C04,,Protege / possible successor,B,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C05,,Hedge-fund founder / activist short-seller,agnostic,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C06,,AI-company executive,anti-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C07,,Labor / gig-worker organizer,agnostic,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C08,,AI-safety researcher / whistleblower,C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C09,,Hacker / digital-forensics freelancer,B-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C10,,Editor-in-chief (runs the byline now),A-B,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C11,,Conspiracy livestreamer (debunker),D,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C12,,NYPD detective,A-B,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C13,,City councilwoman / political figure,agnostic,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C14,,Restaurant owner,A,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C15,,Doorman / concierge / super,C-D,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C16,,Delivery / gig driver (undocumented; mobile witness),A,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C17,,Myth-keeper / online source-community moderator (true believer),A-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C18,,Forensic-authorship / linguist expert,B-C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C19,,Faith / mutual-aid community figure (or librarian confidant),agnostic,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
-C20,,AI artist (remote collaborator; believes it was an AI),C,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+character_id,character_name,public_role,framework_lean,relationship_status,private_background,main_goal,sub_goal_one,sub_goal_two,relationships,starting_facts,starting_assets,ai_configuration,messages_received,endgame_questions
+C01,,Claimed next-of-kin (estranged sibling / adult child),A (unreliable),claimed/possibly-fabricated,"Claims kinship; last contact was wire transfers and cards, no in-person meeting in ~15 yrs. Secret: kinship may be invented to claim the estate and article rights.",TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C02,,Self-described former lover,A-claim -> C/D,fabricated/remote-only,"Publicly grieves a long romance. Secret: the affair was entirely remote and at least partly faked for leverage; the partner may have been several people or an AI. Never verifiably met a human.",TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C03,,Retired mentor who first published the byline,B,remembered/mediated,"Claims to have met the young writer 15 yrs ago. Secret: only ever received copy via a drop; the meeting is a story retold into belief.",TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C04,,Named successor to the byline,B,inherited/mediated,"Publicly anointed heir. Secret: the naming came as a scheduled/automated message; could be the journalist, the AI, or self-authored to seize the mantle.",TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C05,,Hedge-fund founder / activist short-seller,agnostic,none,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C06,,AI-company executive,anti-C,none,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C07,,Labor / gig-worker organizer,agnostic,none,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C08,,AI-safety researcher / whistleblower,C,mediated (possible source),TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C09,,Hacker / digital-forensics freelancer,B-C,none,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C10,,Editor-in-chief (runs the byline now),A-B,mediated (copy via drop only),TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C11,,Conspiracy livestreamer (debunker),D,none,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C12,,NYPD detective,A-B,none,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C13,,City councilwoman / political figure,agnostic,none,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C14,,Restaurant owner,A,mediated (orders only; never saw diner),TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C15,,Doorman / concierge / super,C-D,none (never saw recipient),TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C16,,Delivery / gig driver (undocumented; mobile witness),A,mediated (drop-off only),TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C17,,Myth-keeper / online community moderator (true believer),A-C,parasocial/faith,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C18,,Forensic-authorship / linguist expert,B-C,none (analyzes text only),TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C19,,Faith / mutual-aid community figure (or librarian confidant),agnostic,mediated (remote confidences),TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
+C20,,AI artist (remote collaborator; believes it was an AI),C,mediated (remote collaboration),TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO,TODO
