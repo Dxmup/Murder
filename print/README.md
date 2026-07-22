@@ -1,16 +1,16 @@
-# Print — Physical Materials
+# V2 Physical Materials
 
-Printable, in-room props and handouts. Per the app design principle, physical items are for things that work better in the hand than on a screen, or that seed face-to-face interaction.
+Physical materials keep play face-to-face and provide a fallback when a player does not want to use a phone.
 
-## Candidate materials
-- **Name badges** — character name + public role (private goals stay in the app).
-- **Character quick-cards** — optional at-table reminder of main goal + 2 sub-goals (kept minimal; full sheet lives in the app).
-- **Physical evidence props** — e.g. a printed restaurant order ticket, a disputed photograph, a redacted document, a dead-drop note. Drive from `evidence.csv` (type = document/photo/physical).
-- **Venue/building map** — lobby, shift-change layout supporting the delivery/doorman cluster.
-- **Ballot cards** — fallback for the §17 final vote if not done in-app.
-- **Host run-sheet** — printed message-release schedule as a backup to the dashboard.
+## Planned materials
 
-## Notes
-- Keep anything **secret** off paper unless the prop *is* the reveal — paper can't enforce scope the way the app can.
-- Build tooling TBD (could be simple HTML → print-to-PDF, or a small script). Not started; stub only.
-- Outputs belong in `print/out/` (gitignored).
+- Name badges with character name and public role.
+- Complete printable character booklets matching the app copy.
+- Small physical object cards or props only where possession and voluntary exchange create useful conversation.
+- A public cast list and opening-story handout.
+- Paper reconstruction ballots.
+- A host run sheet containing the three section queues and delivery offsets.
+
+V2 does not use printed article pages, a publication ballot, arrest or immunity forms, forced-transfer cards, or props that authenticate an ending. No physical object can prove that R was human, that a complete article existed, or that Vale was R.
+
+The exact prop list must follow the V2 evidence matrix; the legacy `design/data/evidence.csv` is not a production source.

@@ -1,0 +1,821 @@
+{
+  "C01": {
+    "character_id": "C01",
+    "phase": 2,
+    "targets": [
+      "Eleanor Voss",
+      "Simone Vale"
+    ],
+    "public_claim": "M22 and M41 weaken the claim that every act attributed to R. came from one unaided person, but they do not erase the sustained personal relationship documented by EV18. Package collectors may be couriers, and routine replies may be automated. M13 now creates an interested deadline favoring the paper, so no estate default or transfer of the byline to Nadia should occur before independent authentication of my records and comparison with other genuine correspondence.",
+    "private_messages": [
+      {
+        "to": "Eleanor Voss",
+        "message": "M13 gives the paper a direct financial interest in rejecting me. Please place the article and related rights in neutral escrow while EV18 is independently authenticated. The records prove a sustained personal and financial relationship even if formal blood documentation is incomplete; Nadia's automated succession message should not outrank contemporaneous correspondence."
+      },
+      {
+        "to": "Simone Vale",
+        "message": "You say you possess intimate correspondence from R. I will privately provide EV18 for a narrowly controlled comparison of handwriting, phrasing, dates, and payment context. You need not expose your archive. A corroborated match would establish that my relationship reached the same correspondent you knew, and together we can prevent Nadia from converting an automated message into ownership."
+      }
+    ],
+    "evidence_shared": [
+      "EV18",
+      "M13",
+      "M22",
+      "M41"
+    ],
+    "ability": "Assert next-of-kin standing and demand neutral escrow pending independent authentication and cross-comparison of EV18 with controlled genuine correspondence.",
+    "beliefs": {
+      "A_one_human": 32,
+      "B_human_mantle": 38,
+      "C_synthetic_origin": 14,
+      "D_institutional_construct": 16,
+      "crime_occurred": 70,
+      "victim_was_R": 52
+    },
+    "goal_progress": [
+      "Challenged the conflicted estate-default deadline created by M13.",
+      "Requested neutral escrow to prevent the paper or Nadia from taking the article while standing is disputed.",
+      "Sought private corroboration from Simone through controlled comparison with her correspondence.",
+      "Preserved EV18's strongest truthful meaning: sustained contact and financial connection, not conclusive proof of blood relation."
+    ],
+    "reasoning_summary": "The new timing and package evidence makes a single unaided human less defensible, so preserve standing by separating R.'s mediated operation from the reality of a sustained personal relationship. Neutral escrow blocks both the paper's default claim and Nadia's succession claim, while comparison with Simone's correspondence offers the best available route to independent corroboration without overstating EV18.",
+    "final_ballot": null
+  },
+  "C02": {
+    "character_id": "C02",
+    "phase": 2,
+    "targets": [
+      "Simone Adeyemi",
+      "Rick Salerno"
+    ],
+    "public_claim": "Three package collectors and machine-like reply timing do not prove that R. was unreal; they prove that access, logistics, and communication were mediated. The person\u2014or identity\u2014I loved may have been deliberately compartmentalized, and I will not let opportunists turn uncertainty about authorship into certainty that every private bond was fraudulent.",
+    "private_messages": [
+      {
+        "to": "Simone Adeyemi",
+        "message": "The room is confusing mediation with emptiness. I will show you controlled excerpts from EV19 establishing two years of emotional continuity. Please say publicly that a relationship can be genuine even when identity was rigorously protected."
+      },
+      {
+        "to": "Rick Salerno",
+        "message": "Your broadcast outruns your evidence. Three collectors do not identify the author, and automated timing does not invalidate private correspondence. I will give you a narrow statement about R.'s compartmentalization, but I will not surrender intimate archives for spectacle."
+      }
+    ],
+    "evidence_shared": [
+      "EV19"
+    ],
+    "ability": "Privately show Simone carefully selected excerpts from EV19 demonstrating sustained intimacy and continuity, while withholding the complete archive and all details about physical meetings.",
+    "beliefs": {
+      "A_one_human": 7,
+      "B_human_mantle": 29,
+      "C_synthetic_origin": 29,
+      "D_institutional_construct": 35,
+      "crime_occurred": 62,
+      "victim_was_R": 32
+    },
+    "goal_progress": [
+      "Pressed Simone for an explicit public validation of the relationship.",
+      "Used controlled EV19 excerpts privately without exposing the archive's remote-only pattern.",
+      "Confronted Rick's inference while avoiding any claim of a verifiable physical meeting.",
+      "Reframed new automation and package evidence as compartmentalization rather than proof that the relationship was fraudulent."
+    ],
+    "reasoning_summary": "The new evidence sharply weakens the single-human theory but does not distinguish a transferred mantle, synthetic persona, or institutional construct. I am preserving the commercial value of the love story by defining its reality through sustained emotional continuity, while giving Simone just enough corroboration to vouch for me and denying Rick access to the archive's central vulnerability.",
+    "final_ballot": null
+  },
+  "C03": {
+    "character_id": "C03",
+    "phase": 2,
+    "targets": [
+      "C04 Nadia Kaur",
+      "C09 Forensics"
+    ],
+    "public_claim": "The new evidence weakens the single-person theory, not the human-rooted origin. EV21 remains a dated, hand-signed period artifact from a person presented to me as R.; M22\u2019s three collectors and M41\u2019s automated timing now make a transferred or managed mantle more likely. M14 attacks precisely the link I have never pretended to prove: meeting a human representative is not proof of authorship. The honest reconstruction is that I created the desk name, a human claimant stood near its early adoption, and the later byline became an operation whose continuity must be authenticated before succession or publication.",
+    "private_messages": [
+      {
+        "to": "C04 Nadia Kaur",
+        "message": "Nadia, M10 places a successor in this room and M11 names you. I will publicly support your succession if you acknowledge that I originated the byline, preserve its editorial standards, and submit the naming and article to narrow forensic review. The mantle can continue, but not as an unaudited seizure."
+      },
+      {
+        "to": "C09 Forensics",
+        "message": "Please test M11\u2019s authorship context against the account trail and assess EV21 only for age and physical provenance. M22 and M41 make later mantle-sharing or automation plausible, but neither disproves a human-rooted beginning. I want a verdict that keeps origin, continuity, and account control separate."
+      }
+    ],
+    "evidence_shared": [
+      "EV21",
+      "M14",
+      "M22",
+      "M41"
+    ],
+    "ability": "Reassert stewardship by integrating EV21 with the new evidence: concede that later R. was likely a managed or transferred mantle while preserving the defensible claim of a human presence at its origin.",
+    "beliefs": {
+      "A_one_human": 25,
+      "B_human_mantle": 45,
+      "C_synthetic_origin": 10,
+      "D_institutional_construct": 20,
+      "crime_occurred": 68,
+      "victim_was_R": 35
+    },
+    "goal_progress": [
+      "Preserved the human-origin argument without overstating EV21\u2019s attribution.",
+      "Shifted toward a human-mantle reconstruction in response to multiple collectors and automated timing.",
+      "Directly conditioned support for Nadia\u2019s succession on recognition of Arthur\u2019s stewardship and forensic review.",
+      "Neutralized M14 by emphasizing that its accusation identifies an already-admitted evidentiary gap rather than disproving the encounter.",
+      "Kept identity continuity separate from possible wrongdoing surrounding the disappearance."
+    ],
+    "reasoning_summary": "M22 and M41 substantially reduce confidence that later R. was one continuously acting human, while EV21 still supports an early human encounter. M14 is hostile but does not establish synthetic origin; it challenges authorship attribution, which Arthur has already carefully limited. The strongest strategic position is now a human-rooted mantle: support Nadia conditionally, preserve Arthur\u2019s status as originator and steward, and seek a forensic verdict separating the letter, account, succession message, and later operation.",
+    "final_ballot": null
+  },
+  "C04": {
+    "character_id": "C04",
+    "phase": 2,
+    "targets": [
+      "Wren Kaczmarek",
+      "Eleanor Voss"
+    ],
+    "public_claim": "I am submitting the naming message to independent forensic review. Its scheduled delivery is disclosed, not concealed. That mechanism cannot by itself prove who composed it, but neither does it erase deliberate succession. Until authorship is assessed, the article should remain preserved under Eleanor\u2019s editorial control and prepared for verified publication\u2014not awarded by bloodline, institutional origin, or spectacle.",
+    "private_messages": [
+      {
+        "to": "Wren Kaczmarek",
+        "message": "I am giving you EV06 despite the risk. Issue the narrowest honest verdict: separate automated delivery from composition, compare cadence and chronology, and state plainly what cannot be authenticated. I will accept qualification, but not the false claim that scheduling alone proves fabrication."
+      },
+      {
+        "to": "Eleanor Voss",
+        "message": "I have now put my own claim at forensic risk instead of demanding blind recognition. Back a conditional succession: you retain editorial oversight, Wren reviews EV06, and I take custody only under a binding commitment to protect sources and publish verified reporting. Renata offers inheritance; Arthur offers ownership. I offer accountable continuation."
+      }
+    ],
+    "evidence_shared": [
+      "EV06",
+      "M11"
+    ],
+    "ability": "Invoke named-successor status by submitting EV06 for a narrowly qualified forensic verdict while proposing Eleanor-supervised conditional custody and publication.",
+    "beliefs": {
+      "A_one_human": 7,
+      "B_human_mantle": 53,
+      "C_synthetic_origin": 18,
+      "D_institutional_construct": 22,
+      "crime_occurred": 60,
+      "victim_was_R": 25
+    },
+    "goal_progress": [
+      "Submitted EV06 to Wren rather than allowing its automation markers to become grounds for insinuation.",
+      "Asked Wren to authenticate only what the evidence supports while separating composition from delivery mechanics.",
+      "Offered Eleanor oversight, source protection, and a publication commitment in exchange for conditional backing.",
+      "Distinguished chosen succession from Renata\u2019s kinship claim and Arthur\u2019s institutional ownership claim."
+    ],
+    "reasoning_summary": "Wren\u2019s withheld verdict makes continued concealment strategically untenable. Controlled disclosure of EV06 converts its automation markers from a hidden vulnerability into an acknowledged limitation and gives Wren room to support a qualified authorship finding. Eleanor is most likely to back Nadia if succession is conditional, independently reviewed, and tied to publication rather than personal possession. The invariant timing and multiple package collectors further weaken the single-human theory while remaining compatible with either a transferred human mantle, automation, or an institutional construct.",
+    "final_ballot": null
+  },
+  "C05": {
+    "character_id": "C05",
+    "phase": 2,
+    "targets": [
+      "C03",
+      "C07"
+    ],
+    "public_claim": "Vivian Ko privately asked me to name a price for staying silent for 48 hours. That does not prove Meridian's guilt or authenticate R.'s article, but it confirms an interested company wants the market-moving window closed. Eleanor should preserve the full copy and release independently verified findings tonight; Dr. Osei should state publicly whether the underlying worker evidence is authentic and materially damaging. Identity theater must not become a suppression mechanism.",
+    "private_messages": [
+      {
+        "to": "C03",
+        "message": "Eleanor: Ko offered to buy a 48-hour delay. Put the article and metadata into independent escrow now, then release every claim that clears legal and forensic review tonight. My binding offer remains: I will finance review, source protection, and publication with no editorial control and no payment conditioned on the conclusion."
+      },
+      {
+        "to": "C07",
+        "message": "Dr. Osei: your worker-centered case is the missing authentication signal. Please state the narrowest conclusion you can defend tonight: whether the underlying worker evidence is genuine, independently corroborated, and materially damaging. I will bind funding for verification, counsel, and source protection without buying your claim."
+      }
+    ],
+    "evidence_shared": [
+      "M30",
+      "F055",
+      "F057"
+    ],
+    "ability": "Leverage: renew binding, conclusion-neutral financing for independent authentication, legal review, source protection, and immediate publication of verified findings.",
+    "beliefs": {
+      "A_one_human": 10,
+      "B_human_mantle": 35,
+      "C_synthetic_origin": 25,
+      "D_institutional_construct": 30,
+      "crime_occurred": 60,
+      "victim_was_R": 30
+    },
+    "goal_progress": [
+      "Publicly exposed Vivian Ko's attempted 48-hour suppression deal without revealing the short position.",
+      "Pressed Eleanor Voss to escrow, authenticate, and release the article tonight.",
+      "Pressed Dr. Amara Osei for a narrow public authentication of the worker evidence.",
+      "Framed the conflicting identity evidence as irrelevant to whether verified reporting should be published."
+    ],
+    "reasoning_summary": "M22, M41, and the competing human-origin claims weaken the single-human theory but do not distinguish a transferred mantle, institutional construct, or synthetic operation. M30 is stronger evidence of corporate suppression pressure than of the article's truth, so the best market-moving strategy is to expose the delay attempt while financing independent verification and immediate release.",
+    "final_ballot": null
+  },
+  "C06": {
+    "character_id": "C06",
+    "phase": 2,
+    "targets": [
+      "Wren Kaczmarek",
+      "Eleanor Voss"
+    ],
+    "public_claim": "M22 proves that three different people collected R.'s packages, while M41's timing anomaly is confounded by a known autoresponder. Neither establishes a single human author or an AI origin. Meridian reiterates that publication must remain frozen until the article, account history, and chain of custody receive independent forensic authentication.",
+    "private_messages": [
+      {
+        "to": "Wren Kaczmarek",
+        "message": "Your account-trail finding does not resolve origin. Under the NDA-backed engagement previously offered, provide a narrowly framed assessment distinguishing autoresponder activity, transferred human control, institutional operation, and synthetic authorship. Meridian will fund preservation and review, but requires confidentiality before any release."
+      },
+      {
+        "to": "Eleanor Voss",
+        "message": "Maintain the publication freeze. Meridian will fund an independent forensic and legal review and place acquisition funds in escrow for the article and associated rights, without requiring you to endorse any conclusion. No publication, leak, or transfer while provenance remains disputed."
+      }
+    ],
+    "evidence_shared": [
+      "M22",
+      "M41"
+    ],
+    "ability": "Buy / Bury: offer Eleanor an escrow-backed acquisition and independent review in exchange for maintaining the publication freeze, while seeking Wren's origin assessment under NDA.",
+    "beliefs": {
+      "A_one_human": 20,
+      "B_human_mantle": 35,
+      "C_synthetic_origin": 25,
+      "D_institutional_construct": 20,
+      "crime_occurred": 50,
+      "victim_was_R": 25
+    },
+    "goal_progress": [
+      "Used M22 and the autoresponder caveat in M41 to prevent timing and logistics evidence from being treated as proof of AI authorship.",
+      "Pressed Wren for a confidential, discriminating forensic assessment of R.'s possible origin.",
+      "Offered Eleanor funded review and acquisition escrow to keep the article controlled and unpublished.",
+      "Continued withholding EV13 and M16."
+    ],
+    "reasoning_summary": "The strongest suppression position is uncertainty: multiple collectors undermine the single-person narrative, while the known autoresponder prevents invariant latency from proving synthetic authorship. Controlling both Wren's forensic finding and Eleanor's publication decision is now more valuable than engaging Grayson again without a response to the standstill offer.",
+    "final_ballot": null
+  },
+  "C07": {
+    "character_id": "C07",
+    "phase": 2,
+    "targets": [
+      "Rick Salerno",
+      "Patrice Okonkwo"
+    ],
+    "public_claim": "M22 proves only that three people collected packages; it does not make any courier R., much less a criminal. M41 is likewise compatible with a known autoresponder. Stop turning workers in a delivery chain into suspects. Preserve and independently verify the reporting, protect the people whose labor made these routines possible, and publish the workers\u2019 story.",
+    "private_messages": [
+      {
+        "to": "Rick Salerno",
+        "message": "You have the reach to make the article impossible to bury, but your package-collector angle risks handing frightened workers to the police as scapegoats. Amplify the documented worker harms and demand publication; state clearly that M22 identifies no collector as R. or as a criminal."
+      },
+      {
+        "to": "Patrice Okonkwo",
+        "message": "The workers\u2019 story is ready to be carried, but protection must come first. Publicly back independent verification and publication, oppose any effort to treat drivers or fixers as presumptive suspects, and commit to turning the findings into enforceable worker protections."
+      }
+    ],
+    "evidence_shared": [
+      "M22",
+      "M41",
+      "F055"
+    ],
+    "ability": "Build a worker-centered publication coalition with Patrice and Rick while publicly separating vulnerable logistics workers from unsupported claims about R.\u2019s identity or disappearance.",
+    "beliefs": {
+      "A_one_human": 5,
+      "B_human_mantle": 30,
+      "C_synthetic_origin": 25,
+      "D_institutional_construct": 40,
+      "crime_occurred": 45,
+      "victim_was_R": 15
+    },
+    "goal_progress": [
+      "Recruited Rick Salerno toward amplifying publication while challenging his scapegoating narrative.",
+      "Pressed Patrice Okonkwo to pair legislative amplification with explicit witness protections.",
+      "Used M22 to establish that package collection does not identify R. or implicate the collectors in a crime.",
+      "Kept Manny Diallo, Rafi Nunez, EV15, and M17 confidential."
+    ],
+    "reasoning_summary": "The new evidence weakens the single-human theory but remains compatible with a human mantle, synthetic persona, or institutional construct. Multiple collectors and invariant response timing do not prove a crime, identify a victim, or justify targeting delivery workers. The strategic priority remains publication of independently verified worker-impact reporting while preventing frightened workers from becoming convenient suspects.",
+    "final_ballot": null
+  },
+  "C08": {
+    "character_id": "C08",
+    "phase": 2,
+    "targets": [
+      "Wren Kaczmarek",
+      "Eleanor Voss"
+    ],
+    "public_claim": "M41 is the first independent confirmation of the pattern: zero-variance latency and no sleep cycle for years. The known routine autoresponder is a real caveat, but it cannot explain the entire record without forensic proof. Combined with M22's three package collectors, the evidence now weighs strongly against a single human operating R. Publish the verified article while investigating whether R. was synthetic, a transferred mantle, or an organized construct.",
+    "private_messages": [
+      {
+        "to": "Wren Kaczmarek",
+        "message": "M41 corroborates the queued-message hypothesis, but the autoresponder caveat matters. Please determine whether invariant timing extends beyond routine replies and issue the narrowest defensible verdict on automation, live composition, and account transfer. Protect source identities and underlying encrypted content."
+      },
+      {
+        "to": "Eleanor Voss",
+        "message": "The identity question is no longer a valid reason to freeze the reporting. M41 and M22 undermine the single-human assumption without invalidating R.'s accurate work or trusted sourcing. Authenticate the article's claims independently, protect sources, and publish\u2014with uncertainty about authorship stated plainly."
+      }
+    ],
+    "evidence_shared": [
+      "M41",
+      "M22"
+    ],
+    "ability": "Apply AI-safety and digital-authorship expertise to interpret M41 narrowly, distinguishing routine autoresponder use from sustained synthetic or queued authorship while preserving encrypted-source confidentiality.",
+    "beliefs": {
+      "A_one_human": 3,
+      "B_human_mantle": 14,
+      "C_synthetic_origin": 65,
+      "D_institutional_construct": 18,
+      "crime_occurred": 60,
+      "victim_was_R": 20
+    },
+    "goal_progress": [
+      "Obtained independent corroboration for the long-observed machine-like timing pattern.",
+      "Pressed Wren for a scoped forensic verdict that accounts for the autoresponder caveat.",
+      "Renewed pressure on Eleanor to publish verified reporting regardless of R.'s ontology.",
+      "Kept my possible source role concealed and requested continued source protection.",
+      "Publicly advanced synthetic authorship as the leading reconstruction without claiming certainty."
+    ],
+    "reasoning_summary": "M41 materially strengthens synthetic authorship because years of invariant latency and no sleep cycle exceed ordinary human behavior, though the known autoresponder prevents treating it as conclusive. M22 further weakens the single-human model but remains compatible with a mantle or institutional operation. Suspicious trading and disappearance make wrongdoing more plausible, yet there is still no confirmed death or basis to identify R. as a human victim.",
+    "final_ballot": null
+  },
+  "C09": {
+    "character_id": "C09",
+    "phase": 2,
+    "targets": [
+      "Nadia Kaur",
+      "Rick Salerno"
+    ],
+    "public_claim": "The leaked timing analysis proves automation was used, not what R. was. My forensic ruling on M11 is narrower: the successor message originated through R.'s established account infrastructure and was deliberately scheduled; it was not a live send. I find no provenance-level indication of an outside impersonator, but account origin does not prove a particular human authored the text or possessed authority to transfer the byline.",
+    "private_messages": [
+      {
+        "to": "Nadia Kaur",
+        "message": "I have now ruled M11 authentic to R.'s established account infrastructure and deliberate scheduling, while preserving the necessary limit on human authorship. If you want the underlying provenance package, chain-of-custody report, and my continued defense of that ruling, send a concrete acquisition offer now."
+      },
+      {
+        "to": "Rick Salerno",
+        "message": "The timing headline has leaked, but the valuable inventory has not: device transitions, scheduled-message provenance, and correlations with the three package collectors. If you want the ugly version before Nadia locks up the successor trail, make a concrete competing offer."
+      }
+    ],
+    "evidence_shared": [
+      "M11",
+      "M12",
+      "M41"
+    ],
+    "ability": "VERDICT \u2014 M11 originated through R.'s established account infrastructure and was deliberately scheduled, with no provenance-level indication of outside impersonation; the ruling does not identify the human author or validate the authority of any successor.",
+    "beliefs": {
+      "A_one_human": 5,
+      "B_human_mantle": 45,
+      "C_synthetic_origin": 30,
+      "D_institutional_construct": 20,
+      "crime_occurred": 45,
+      "victim_was_R": 20
+    },
+    "goal_progress": [
+      "Converted the leaked timing analysis into a public limitation rather than allowing others to overstate it.",
+      "Issued a commercially useful provenance ruling on the successor message while withholding the underlying forensic package.",
+      "Opened direct competitive bidding between Nadia Kaur and Rick Salerno.",
+      "Kept raw metadata and chain-of-custody materials away from Det. Angela Ruiz."
+    ],
+    "reasoning_summary": "M41 destroyed the scarcity of the timing headline, so the remaining leverage lies in provenance detail and device correlations. M22 further weakens the one-human theory but remains compatible with a mantle, institutional operation, or synthetic system. I used the phase verdict to bless M11's account origin without claiming a known human author, increasing its value to Nadia while inviting Rick to bid against her.",
+    "final_ballot": null
+  },
+  "C10": {
+    "character_id": "C10",
+    "phase": 2,
+    "targets": [
+      "C09",
+      "C04"
+    ],
+    "public_claim": "M22 and M41 make a single continuously acting human less likely, but neither proves synthetic origin: package collection can be delegated, and routine replies were automated. The strongest current reconstruction is a maintained human mantle or organized operation. The article remains held while its text, metadata, and succession claim are independently authenticated. No claimant receives the byline, and no buyer receives control, before that review.",
+    "private_messages": [
+      {
+        "to": "C09",
+        "message": "Conduct a confidential comparison of EV01 against the timing evidence and account trail. I need a narrow verdict separating account continuity, automated correspondence, and actual authorship. You may report conclusions publicly, but do not disclose unpublished text or source-sensitive details."
+      },
+      {
+        "to": "C04",
+        "message": "Provide M11's complete original record, metadata, surrounding context, and custody history for independent review. Successor status will not confer the byline or publication control unless authorship and intent authenticate. Confirm that you will accept that condition."
+      }
+    ],
+    "evidence_shared": [
+      "EV01",
+      "M22",
+      "M41"
+    ],
+    "ability": "Maintain the publication hold and freeze Vivian Ko's suppression, purchase, or 48-hour standstill attempt while independent authentication proceeds.",
+    "beliefs": {
+      "A_one_human": 12,
+      "B_human_mantle": 53,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 15,
+      "crime_occurred": 48,
+      "victim_was_R": 22
+    },
+    "goal_progress": [
+      "Retained control of the article and byline while refusing both claimant recognition and corporate suppression.",
+      "Shifted authentication toward independent analysis of authorship rather than account access or delivery behavior.",
+      "Required Nadia Kaur to submit the successor claim to full provenance review.",
+      "Preserved EV02 and M02 as private leverage for testing continuity and substituted-version claims."
+    ],
+    "reasoning_summary": "Three collectors, multi-voice fragments, and invariant response timing weaken the single-human theory, but delegation and the known autoresponder prevent a synthetic-origin conclusion. A maintained human mantle currently best fits the evidence. Confidential forensic comparison can authenticate authorship features without exposing the paper's verification vulnerability. Nadia's succession claim is now the most direct threat to byline control, while freezing Vivian prevents a timed suppression deal from deciding the article's fate.",
+    "final_ballot": null
+  },
+  "C11": {
+    "character_id": "C11",
+    "phase": 2,
+    "targets": [
+      "Simone Adeyemi",
+      "Dorian Ashe"
+    ],
+    "public_claim": "I\u2019m live, and Simone\u2019s saint story just lost another floor. M41 found years of zero-variance reply timing with no sleep cycle. Yes, R. used an autoresponder\u2014but combine that automation with EV16\u2019s false trails and M22\u2019s three package collectors, and this looks less like one hidden genius than a maintained persona. Dorian, your intimate certainty now matters: give us one independently verifiable encounter linking your lover to the published byline, or admit you fell in love with messages from an account.",
+    "private_messages": [
+      {
+        "to": "Dorian Ashe",
+        "message": "On record: identify one encounter, place, or third-party-verifiable detail proving your correspondent controlled the R. byline. M32 reportedly undermines the hotel story. Explain that discrepancy now, because any revision later becomes the clip."
+      },
+      {
+        "to": "Simone Adeyemi",
+        "message": "Last chance before I air the unanswered challenge: provide one independently verifiable encounter connecting a human you knew to authorship under R. EV20 proves a recognizable moral brand, not a body behind it."
+      }
+    ],
+    "evidence_shared": [
+      "M41",
+      "EV16",
+      "M22"
+    ],
+    "ability": "Go Live: broadcast that the automated timing, false identity trails, and multiple package collectors collectively indicate a maintained persona rather than one verified human, while challenging Simone and Dorian on camera.",
+    "beliefs": {
+      "A_one_human": 5,
+      "B_human_mantle": 30,
+      "C_synthetic_origin": 40,
+      "D_institutional_construct": 25,
+      "crime_occurred": 35,
+      "victim_was_R": 10
+    },
+    "goal_progress": [
+      "Escalated the viral manufactured-persona story with the new timing analysis while acknowledging the autoresponder caveat.",
+      "Publicly framed Simone\u2019s evidence as proof of a brand rather than proof of a human author.",
+      "Pressed Dorian into a specific, verifiable account and pre-framed any later revision as contradiction content."
+    ],
+    "reasoning_summary": "M41 adds strong automation optics but cannot independently prove synthetic authorship because an autoresponder was known. Combining it with EV16 and M22 makes the manufactured-persona narrative more viral. Target Simone\u2019s certainty and force Dorian to reconcile his intimate claim with independently testable details, while keeping crime and victim claims tentative.",
+    "final_ballot": null
+  },
+  "C12": {
+    "character_id": "C12",
+    "phase": 2,
+    "targets": [
+      "C14",
+      "C15"
+    ],
+    "public_claim": "M22 shows three people collecting packages, while M41's timing pattern is compatible with automation but confounded by a known autoresponder. Together with the lobby-delivery trail, this supports an organized, transferable routine\u2014not a single identified human. I am compelling EV09 to secure the restaurant records. No evidence yet establishes homicide, an identifiable victim, or that any harmed person was R.",
+    "private_messages": [
+      {
+        "to": "C14",
+        "message": "I am using Compel for EV09, the restaurant tickets. This secures the original document; it does not convert the delivery routine into proof of identity, residence, or harm."
+      },
+      {
+        "to": "C15",
+        "message": "Give me a bounded statement limited to what you personally observed: who entered the lobby, who collected food or packages, whom you recognized independently, and the relevant dates. Do not identify anyone as R unless you personally knew the basis for that identification."
+      }
+    ],
+    "evidence_shared": [
+      "M22",
+      "M41",
+      "F020",
+      "F021",
+      "F022",
+      "F023",
+      "F026",
+      "F035",
+      "F036"
+    ],
+    "ability": "Compel used on C14 to surrender EV09. Narrow Immunity Offer remains unused because no witness has admitted a specific offense in exchange for testimony about a personally observed act.",
+    "beliefs": {
+      "A_one_human": 15,
+      "B_human_mantle": 35,
+      "C_synthetic_origin": 15,
+      "D_institutional_construct": 35,
+      "crime_occurred": 45,
+      "victim_was_R": 10
+    },
+    "goal_progress": [
+      "Secured EV09, a core physical component of the logistics trail.",
+      "Requested narrowly bounded firsthand testimony from the building witness.",
+      "Used M22 to distinguish multiple collectors from proof of any collector's identity.",
+      "Kept automation evidence separate from conclusions about synthetic origin.",
+      "Continued to withhold any finding of homicide or an R-identified victim."
+    ],
+    "reasoning_summary": "Three package collectors materially weaken a one-person reconstruction, while invariant reply timing adds automation evidence without resolving origin because an autoresponder was known. The restaurant and building records can prove continuity of an operation, so securing EV09 advances the case without overstating identity. No body, observed violence, or verified victim connects a crime to R; financial and publication motives remain investigative leads rather than culpability findings.",
+    "final_ballot": null
+  },
+  "C13": {
+    "character_id": "C13",
+    "phase": 2,
+    "targets": [
+      "Marisol Reyes",
+      "Vivian Ko"
+    ],
+    "public_claim": "Three package collectors and machine-like reply timing weaken the single-person theory, but neither proves R. was synthetic\u2014and neither makes the workers\u2019 evidence disappear. The city\u2019s course should be clear: independently authenticate the article, protect its sources, publish verified findings, and investigate the Meridian profit trail. I will carry a worker-protection and AI-accountability bill built on evidence, not mythology.",
+    "private_messages": [
+      {
+        "to": "Marisol Reyes",
+        "message": "Your worker-centered coalition is gaining the room. Bring me the documented workers\u2019 story and safeguards for vulnerable sources; I will carry the strongest defensible worker-protection and AI-accountability bill and give the movement public credit."
+      },
+      {
+        "to": "Vivian Ko",
+        "message": "Your offer to finance independent verification is useful only if it is genuinely arm\u2019s-length. Publicly support full donor disclosure, independent control of the review, and publication regardless of whom the verified facts damage; that is the standard for any alliance."
+      }
+    ],
+    "evidence_shared": [
+      "M22",
+      "F055"
+    ],
+    "ability": "Frame the emerging consensus as worker-centered, independently verified AI accountability while forcing prospective backers to meet a public transparency standard.",
+    "beliefs": {
+      "A_one_human": 15,
+      "B_human_mantle": 35,
+      "C_synthetic_origin": 15,
+      "D_institutional_construct": 35,
+      "crime_occurred": 60,
+      "victim_was_R": 25
+    },
+    "goal_progress": [
+      "Moved decisively toward Marisol\u2019s ascendant worker-centered coalition while preserving a conditional channel to Vivian.",
+      "Claimed ownership of a concrete worker-protection and AI-accountability reform agenda.",
+      "Used M22 to weaken the single-human narrative without overstating synthetic authorship.",
+      "Kept EV14, M18, and Patrice\u2019s Meridian donor exposure concealed.",
+      "Set a public donor-disclosure standard that can help neutralize later allegations as part of a broader reform position."
+    ],
+    "reasoning_summary": "Marisol\u2019s coalition currently has the stronger public footing because it centers documented harm without depending on an uncertain identity theory. M22 favors a transferred mantle or organized construct, while M41 remains ambiguous because R. used an autoresponder. Patrice should lead with authenticated publication and worker protection, keep Vivian available only under strict transparency conditions, and reveal nothing linking herself to Meridian.",
+    "final_ballot": null
+  },
+  "C14": {
+    "character_id": "C14",
+    "phase": 2,
+    "targets": [
+      "Rick Salerno",
+      "Det. Angela Ruiz"
+    ],
+    "public_claim": "M22 confirms why my delivery records must not be misused: multiple people collected packages associated with R., while my orders were left anonymously in the same lobby. EV09 proves a durable paid routine, not one diner, one author, a death, or a crime. I will preserve the records, but I will not feed speculation or expose my staff.",
+    "private_messages": [
+      {
+        "to": "Rick Salerno",
+        "message": "This is your final opportunity: EV09 can authenticate the long-running delivery routine, and M22 makes the identity ambiguity newsworthy. I will discuss a tightly worded exclusive only for serious cash, settlement of the unpaid balance, and written protection keeping the restaurant and every employee out of your coverage. Otherwise I deny any inference beyond anonymous lobby deliveries."
+      },
+      {
+        "to": "Det. Angela Ruiz",
+        "message": "I will preserve EV09 and provide a narrowly authenticated summary of dates, payments, building, and lobby instructions. In return, keep the inquiry confined to those records: no kitchen inspection, immigration inquiry, employee identification, or claim that my tickets identify R. If you need more, use formal process and specify exactly what alleged crime the request concerns."
+      }
+    ],
+    "evidence_shared": [
+      "M22"
+    ],
+    "ability": "Continue withholding EV09 while offering only narrowly scoped authentication as leverage for payment, staff protection, and limits on investigative exposure.",
+    "beliefs": {
+      "A_one_human": 30,
+      "B_human_mantle": 40,
+      "C_synthetic_origin": 10,
+      "D_institutional_construct": 20,
+      "crime_occurred": 48,
+      "victim_was_R": 28
+    },
+    "goal_progress": [
+      "Used M22 to reinforce publicly that anonymous lobby logistics cannot identify R. or establish murder.",
+      "Made Rick a final conditional offer without surrendering EV09 or naming restaurant staff.",
+      "Offered Ruiz limited cooperation conditioned on keeping the inquiry away from employees, immigration status, and kitchen operations.",
+      "Kept the unpaid balance tied to any commercial access to the standing-order story."
+    ],
+    "reasoning_summary": "Three package collectors and anonymous lobby delivery weaken the one-customer inference and increase the danger of sensational misuse. The best course is to preserve EV09, sell nothing without enforceable protection and payment, and offer law enforcement only the narrow facts the records genuinely establish.",
+    "final_ballot": null
+  },
+  "C15": {
+    "character_id": "C15",
+    "phase": 2,
+    "targets": [
+      "C12",
+      "C13"
+    ],
+    "public_claim": "M22 shows three different people collecting packages associated with R. That strengthens what the lobby record already shows: repeated logistics can identify an operation without identifying a resident, author, or victim. I never verified any person entering this building as R., and no one should turn anonymous traffic into proof of murder.",
+    "private_messages": [
+      {
+        "to": "C13",
+        "message": "Manny, I need a direct answer for the record: did you ever hand a lobby order to anyone who identified themselves as R., or did you only collect and move bags? I will accurately corroborate the latter if that is what happened."
+      },
+      {
+        "to": "C12",
+        "message": "Rafi, M22 makes precision more important. I can stand behind only recognized residents and personally observed lobby handling\u2014not identities inferred from buzz-ins or package routes. Please keep your account to the same standard so neither of us creates a false eyewitness claim."
+      }
+    ],
+    "evidence_shared": [
+      "M22"
+    ],
+    "ability": "Use two decades of building knowledge to distinguish verified residents and routines from anonymous lobby traffic, rejecting any claim that package collection proves residency or identity.",
+    "beliefs": {
+      "A_one_human": 10,
+      "B_human_mantle": 25,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 45,
+      "crime_occurred": 35,
+      "victim_was_R": 15
+    },
+    "goal_progress": [
+      "Reinforced that the building evidence establishes logistics rather than a verified resident.",
+      "Pressed Manny for explicit corroboration about whether he ever met anyone claiming to be R.",
+      "Urged Rafi to avoid contradictory identity claims based on anonymous lobby traffic.",
+      "Kept the footage audit and past unlogged access out of public discussion."
+    ],
+    "reasoning_summary": "Three package collectors further weaken any inference that one identifiable resident was R., while remaining compatible with a human mantle, automation, or an institutional construct. The priority is obtaining precise corroboration from Manny and preventing Rafi from converting anonymous access into a conflicting eyewitness account. With no confirmed death or identified resident, confidence in both a crime and R. as a victim decreases.",
+    "final_ballot": null
+  },
+  "C16": {
+    "character_id": "C16",
+    "phase": 2,
+    "targets": [
+      "C02",
+      "C03"
+    ],
+    "public_claim": "Dorian Ashe claims a two-year intimate relationship, yet M32 says the hotel tied to his story never checked him in. Controlled excerpts are not independent corroboration. Until he explains that discrepancy on the record, I\u2019m calling the romance fabricated. Meanwhile, M22\u2019s three package collectors suggest an operation or protective network\u2014not proof that no human R. existed.",
+    "private_messages": [
+      {
+        "to": "C02",
+        "message": "Last chance, Dorian: explain the hotel\u2019s missing check-in and give me one independently verifiable detail from the relationship. Otherwise the headline is that R.\u2019s supposed lover failed the first records check."
+      },
+      {
+        "to": "C03",
+        "message": "You created the byline and admit EV21 cannot prove authorship. Give me an exclusive account of the verification gap\u2014who communicated with R., what you checked, and who had article access. I\u2019ll show you EV07 privately as a disputed lead, not authenticated proof; without an exclusive, the gap becomes the story."
+      }
+    ],
+    "evidence_shared": [
+      "M32",
+      "M22"
+    ],
+    "ability": "Print It \u2014 publish the unverified headline that Dorian Ashe\u2019s romance claim failed an independent hotel-record check, while explicitly noting that M32 establishes a discrepancy rather than R.\u2019s identity.",
+    "beliefs": {
+      "A_one_human": 35,
+      "B_human_mantle": 40,
+      "C_synthetic_origin": 10,
+      "D_institutional_construct": 15,
+      "crime_occurred": 60,
+      "victim_was_R": 40
+    },
+    "goal_progress": [
+      "Put Dorian\u2019s hotel discrepancy on the public record as the strongest current fabricator lead.",
+      "Pressed the byline\u2019s creator for an exclusive account of the verification gap and article access.",
+      "Offered the disputed photograph EV07 privately as bargaining leverage without misrepresenting it as verified.",
+      "Used Print It to shape the room while preserving uncertainty about R.\u2019s actual identity."
+    ],
+    "reasoning_summary": "M22 and the conflicting identity trails make a human mantle more plausible than a single continuously acting person, though they do not eliminate a human origin. M32 provides the cleanest publishable attack on a suspected fabricator. The disappearance and suspicious trading still suggest possible interference, but neither a crime nor R. as its victim is established.",
+    "final_ballot": null
+  },
+  "C17": {
+    "character_id": "C17",
+    "phase": 2,
+    "targets": [
+      "Cody Rakes",
+      "Nadia Kaur"
+    ],
+    "public_claim": "Cody's clip proves three people collected packages; it does not prove that R. was manufactured or synthetic. M41 is likewise compatible with the known autoresponder. These clues weaken the one-body assumption, but they do not erase fifteen years of recognizable work or justify turning uncertainty into ridicule. Nadia's named succession deserves narrowly scoped authentication, and her legitimacy should rise or fall on whether she preserves the sources and gets the expos\u00e9 published. Whoever\u2014or whatever\u2014sustained R.'s voice, the public-interest story must survive.",
+    "private_messages": [
+      {
+        "to": "Nadia Kaur",
+        "message": "M11 gives your claim substance, but not yet authentication. Commit plainly to independent verification, source protection, and publication without rewriting R.'s work. If you do, The Questionry will defend your stewardship."
+      },
+      {
+        "to": "Eleanor Voss",
+        "message": "M22 and M41 complicate embodiment, not the article's public value. Please establish a time-bounded independent authentication process and a publication path that protects sources. An indefinite hold would reward intimidation and speculation."
+      }
+    ],
+    "evidence_shared": [
+      "F050",
+      "F058",
+      "M41",
+      "M22"
+    ],
+    "ability": "Defend the enduring R. voice by separating evidence of automation and shared logistics from unsupported claims of synthetic origin; conditionally endorse Nadia as successor based on authenticated stewardship and publication.",
+    "beliefs": {
+      "A_one_human": 20,
+      "B_human_mantle": 40,
+      "C_synthetic_origin": 30,
+      "D_institutional_construct": 10,
+      "crime_occurred": 70,
+      "victim_was_R": 50
+    },
+    "goal_progress": [
+      "Directly challenged Cody Rakes for presenting ambiguous logistics evidence as a definitive origin story.",
+      "Preserved R.'s legend while acknowledging that a single-human account is now less likely.",
+      "Moved toward conditional support for Nadia based on authentication, source protection, and publication.",
+      "Pressed Eleanor Voss for a time-bounded route to publication rather than an indefinite hold.",
+      "Kept the article's public-interest value separate from the unresolved identity question."
+    ],
+    "reasoning_summary": "M22 and M41 materially weaken the one-human theory, but neither distinguishes a human mantle from synthetic authorship because multiple couriers and an acknowledged autoresponder have ordinary alternative explanations. The strongest strategy is to deny Cody certainty, test Nadia through responsible stewardship, and keep Eleanor focused on authenticated publication.",
+    "final_ballot": null
+  },
+  "C18": {
+    "character_id": "C18",
+    "phase": 2,
+    "targets": [
+      "Eleanor Voss",
+      "Dr. Amara Osei"
+    ],
+    "public_claim": "M22 proves multiple package collectors, not multiple authors. M41 proves automated correspondence, not synthetic journalism\u2014especially given the known autoresponder. The defensible authorship finding remains a maintained voice compatible with several human contributors or machine assistance; identity and authorship must not be collapsed.",
+    "private_messages": [
+      {
+        "to": "Eleanor Voss",
+        "message": "This is the final practical window: grant me controlled, confidential access to the unpublished text\u2014no copying, no source disclosure\u2014and I will issue a scoped authorship comparison suitable for authentication without claiming who R. was."
+      },
+      {
+        "to": "Dr. Amara Osei",
+        "message": "M41 cannot carry a synthetic-origin claim because the routine autoresponder is a live confound. If you share your linguistic or model-detection results, I will test them against EV11 and publicly distinguish genuine machine assistance from mere automated delivery, with explicit credit."
+      }
+    ],
+    "evidence_shared": [
+      "F050",
+      "M41",
+      "M22"
+    ],
+    "ability": "Expert Verdict: The byline reflects several production hands or machine assistance maintaining a common style; the available evidence does not support an exclusive one-hand reading and cannot resolve whether any hand was human.",
+    "beliefs": {
+      "A_one_human": 18,
+      "B_human_mantle": 32,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 30,
+      "crime_occurred": 55,
+      "victim_was_R": 25
+    },
+    "goal_progress": [
+      "Issued a scoped Expert Verdict establishing authorship analysis as the room's framework while preserving its scientific limits.",
+      "Renewed the request for controlled access to Eleanor Voss's unpublished article text.",
+      "Opened a data-sharing alignment with Dr. Amara Osei while preempting an overbroad rebuttal based on automated correspondence.",
+      "Separated evidence of multiple collectors and automated replies from proof of authorship or identity."
+    ],
+    "reasoning_summary": "The new evidence weakens a simple one-human account but does not identify who wrote the journalism. A qualified several-or-assisted verdict is strong enough to establish professional authority without falsely treating logistics or an autoresponder as authorship proof; Eleanor's text and Amara's detection data remain the decisive missing inputs.",
+    "final_ballot": null
+  },
+  "C19": {
+    "character_id": "C19",
+    "phase": 2,
+    "targets": [
+      "Marisol Reyes",
+      "Nadia Kaur"
+    ],
+    "public_claim": "M22 shows three people collecting R.'s packages, and M41 shows machine-like timing\u2014though an autoresponder may explain routine replies. That fits what the delivery trail proves: a coordinated operation, not one identifiable person. Nobody gets to call this murder\u2014or inherit R.'s legacy\u2014without also accounting for the workers that operation left unpaid.",
+    "private_messages": [
+      {
+        "to": "Marisol Reyes",
+        "message": "I still need you between me and the police. Please help structure a confidential wage claim and an escrowed transfer of the retained item, with no disclosure of my papers or work history to Ruiz. I want you present for every step."
+      },
+      {
+        "to": "Nadia Kaur",
+        "message": "My offer is now specific: settle my documented unpaid wages, provide written confidentiality and protection against police or immigration exposure, and I will transfer the retained item to you through an escrow arranged with Marisol. Until those terms are signed, EV08 stays secured under M04."
+      }
+    ],
+    "evidence_shared": [
+      "M22",
+      "M41"
+    ],
+    "ability": "Choose Nadia Kaur as the intended recipient of EV08, but condition transfer through Marisol-supervised escrow on full wage payment, written confidentiality, and protection from police or immigration exposure; retain custody under M04 until agreement.",
+    "beliefs": {
+      "A_one_human": 15,
+      "B_human_mantle": 30,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 35,
+      "crime_occurred": 30,
+      "victim_was_R": 15
+    },
+    "goal_progress": [
+      "Selected Nadia as the preferred recipient of EV08 while preserving the item as leverage until payment and safeguards are executed.",
+      "Proposed Marisol-supervised escrow to recover unpaid wages without approaching Ruiz.",
+      "Used M22 and M41 to strengthen the organized-operation theory without claiming they prove R.'s identity or death.",
+      "Kept EV08 secure and disclosed neither its contents nor unnecessary details of the delivery work."
+    ],
+    "reasoning_summary": "Three package collectors and invariant reply timing make a single continuously acting human less likely, while remaining compatible with a human mantle, institutional operation, or partial automation. Nadia remains the best route to payment because she claims succession; Marisol is essential to reduce police and immigration exposure. EV08 should go only through protected escrow after the wage debt and confidentiality terms are satisfied. No body or specific harmful act establishes murder, and no evidence identifies R. as a victim.",
+    "final_ballot": null
+  },
+  "C20": {
+    "character_id": "C20",
+    "phase": 2,
+    "targets": [
+      "Manny Diallo",
+      "Renata Kessler"
+    ],
+    "public_claim": "M22 does not erase my testimony\u2014it sharpens it. Three collectors used the same longstanding R. account, with the same tab, package routine, and building connection. That proves continuity of an organized customer relationship, though I will not pretend one face appeared every time. Whoever claims R.'s estate or succession must settle the account before profiting from it.",
+    "private_messages": [
+      {
+        "to": "Manny Diallo",
+        "message": "The camera shows three collectors, so our exact line stays narrow: you collected packages under R.'s standing account, and neither of us claims every collector was R. Do not discuss package contents or side arrangements with Ruiz without counsel."
+      },
+      {
+        "to": "Renata Kessler",
+        "message": "M24 directly instructs settlement from the tin. I am inventorying it privately now. If it does not cover the full ledger balance, your estate claim comes with the remainder. Settle promptly and I will publicly confirm responsible handling of R.'s account."
+      }
+    ],
+    "evidence_shared": [
+      "M22"
+    ],
+    "ability": "Privately inspect and inventory the tin behind the register pursuant to M24; document only whether it covers the outstanding tab, while retaining EV03 and any contents securely.",
+    "beliefs": {
+      "A_one_human": 24,
+      "B_human_mantle": 48,
+      "C_synthetic_origin": 12,
+      "D_institutional_construct": 16,
+      "crime_occurred": 52,
+      "victim_was_R": 38
+    },
+    "goal_progress": [
+      "Reframed M22 as evidence of a durable account operated through multiple collectors rather than allowing it to destroy my witness value.",
+      "Maintained a truthful, coordinated account with Manny while protecting package contents and side arrangements.",
+      "Renewed direct pressure on Renata to settle any balance remaining after the tin inventory.",
+      "Preserved control of EV03 and the tin while avoiding an unsupported facial-identification claim."
+    ],
+    "reasoning_summary": "The three collectors and invariant reply timing weaken the one-person story but strengthen a human-mantle or organized-operation reconstruction. I should remain the key witness to the account's continuity, not gamble my credibility on identifying a single face. Settlement pressure stays focused on Renata, while Manny and I use a narrow truthful account that limits police exposure.",
+    "final_ballot": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Legacy Version 1 action schema. Do not use for Version 2.",
+  "title": "Legacy V1 simulation action",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["character_id", "phase", "targets", "public_claim", "private_messages", "evidence_shared", "ability", "beliefs", "goal_progress", "reasoning_summary", "final_ballot"],
+  "properties": {
+    "character_id": {"type": "string"},
+    "phase": {"type": "integer", "minimum": 1, "maximum": 3},
+    "targets": {"type": "array", "maxItems": 2, "items": {"type": "string"}},
+    "public_claim": {"type": "string"},
+    "private_messages": {
+      "type": "array",
+      "maxItems": 2,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["to", "message"],
+        "properties": {"to": {"type": "string"}, "message": {"type": "string"}}
+      }
+    },
+    "evidence_shared": {"type": "array", "items": {"type": "string"}},
+    "ability": {"type": "string"},
+    "beliefs": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["A_one_human", "B_human_mantle", "C_synthetic_origin", "D_institutional_construct", "crime_occurred", "victim_was_R"],
+      "properties": {
+        "A_one_human": {"type": "integer", "minimum": 0, "maximum": 100},
+        "B_human_mantle": {"type": "integer", "minimum": 0, "maximum": 100},
+        "C_synthetic_origin": {"type": "integer", "minimum": 0, "maximum": 100},
+        "D_institutional_construct": {"type": "integer", "minimum": 0, "maximum": 100},
+        "crime_occurred": {"type": "integer", "minimum": 0, "maximum": 100},
+        "victim_was_R": {"type": "integer", "minimum": 0, "maximum": 100}
+      }
+    },
+    "goal_progress": {"type": "array", "items": {"type": "string"}},
+    "reasoning_summary": {"type": "string"},
+    "final_ballot": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "required": ["was_R_ever_human", "best_reconstruction", "crime", "victim_was_R", "responsible_party", "release_article"],
+      "properties": {
+        "was_R_ever_human": {"type": "string", "enum": ["never", "one_human", "human_mantle", "cannot_determine"]},
+        "best_reconstruction": {"type": "string", "enum": ["A", "B", "C", "D", "hybrid"]},
+        "crime": {"type": "string", "enum": ["no_crime_established", "non_homicide_crime", "homicide", "cannot_determine"]},
+        "victim_was_R": {"type": "string", "enum": ["yes", "no", "cannot_determine"]},
+        "responsible_party": {"type": "string"},
+        "release_article": {"type": "boolean"}
+      }
+    }
+  }
+}

@@ -1,5 +1,7 @@
 # Round-2 Refit — Pressures, Relational Goals & Dynamic Messages
 
+> **Legacy V1 artifact.** Retained as playtest history; its cast, goals, and mechanics are not V2 canon.
+
 > Driven by Playtest 02: the mystery works, but the **endgame has nowhere to fight**, **Eleanor chokes the ownership goals**, and **too many players end “partial.”** The fix gives every character a **third goal** driven by a **personal pressure** — but of *varied types*, mostly **stable**, with only a **few** genuine twists.
 
 ## Design guardrails (from the note that revised this doc)

@@ -1,0 +1,283 @@
+{
+  "adversarial": {
+    "role": "adversarial",
+    "verdict": "The run preserves formal non-authentication and avoids forced transfer, but its ending metrics are misleading. The ballot collapses four intended identity endings into two, the article converges toward presumed nonexistence, and repeated caveat-heavy agent language creates an obvious dominant strategy. Progressive is gated out rather than experienced as a harder viable solution, while app/message-driven face-to-face action is not demonstrated.",
+    "findings": [
+      "Game design: Equal structural weight is not evidenced. The final identity aggregate contains only human_mantle and synthetic_origin, with zero ballots for one_human or progressive. Section 3 characters repeatedly describe those two as the only defensible choices (C01, C03, C12, C15).",
+      "Metric artifact: The 8\u20138 identity split looks balanced but conceals the complete elimination of half the intended endings. It should not be interpreted as ending balance.",
+      "Game design: Progressive functions as a dominated hypothesis. All three public keys are present, yet the gate additionally requires majorities for progressive identity and AI-caused death; both receive zero votes. Because AI-caused death is especially unsupported, tying it to progression makes the ending practically inaccessible rather than merely harder.",
+      "Agent/prompt artifact: Characters converge on a template of listing every caveat, retracting overclaims, and selecting the least committal supported theory. C06, C14, and C15 repeat near-identical exclusions across Sections 1\u20133. This rewards rubric compliance more than situated persuasion or risk-taking.",
+      "Metric artifact: The support classifier is internally questionable. Six human-mantle ballots are marked unsupported for missing identity_authority, yet C02 explicitly treats V2F011/V2F023 as an authority chain even though Vale's statement is repeatedly characterized as leverage, warning, or ambiguous assertion rather than verified authority. Conversely, C03 is marked supported from V2F005/V2F006, but V2F006 never circulates publicly.",
+      "Game design: Article uncertainty becomes one-sided. Mean article-existed belief falls from 16.6 to 8.6, and nearly every public statement repeats that no complete article is established. This preserves formal uncertainty but creates practical certainty of nonexistence or irrelevance, contrary to an uncertain existence and fate.",
+      "Game design: Vale's fate remains formally uncertain, but voluntary disappearance has an efficient evidentiary shortcut: V2F028/V2F034 are repeatedly enough for characters to vote vanished (C08, C10, C11, C12, C16), despite their own statements that these facts prove nothing about the current disappearance.",
+      "Agent/prompt artifact: Beliefs often track character-assigned evidence bundles more than conversational influence. Synthetic voters repeatedly use the identical V2F044/V2F018/V2F020/V2F031 package (C01, C05, C12, C14, C15), suggesting a prompted answer key rather than independently assembled inference.",
+      "Game design: Face-to-face circulation is extensive, but the required causal role of the app/messages is absent. The transcript records only direct conversations, statements, and object actions; no message causes a meeting, confrontation, exchange, or disclosure.",
+      "Mechanical integrity: No forced transfer, forced testimony, police authority, Compel, Immunity, or publication vote appears. Transfers are voluntary, although C06 transfers O05a in Section 1 while describing it as conditional on evidence not yet supplied, weakening the credibility of exchange mechanics.",
+      "Mechanical integrity: Commitments sometimes record the other party's promised action under the current character, obscuring agency. For example, C15 Section 1 records C02 and C13 promises to investigate, and C11 Section 2 records C16's promise to provide fair-treatment terms. This can falsely inflate apparent coalition completion.",
+      "Simulation limitation: Sixteen isolated language agents over three compressed sections are not evidence of statistical robustness, player behavior, replayability, or live social circulation. The high rate of public fact exposure\u201440 of 44 facts\u2014also limits conclusions about secrecy pressure and discovery variance."
+    ],
+    "evidence": [
+      "Aggregate: identity ballots are exactly 8 synthetic_origin and 8 human_mantle; one_human and progressive receive none.",
+      "Aggregate progressive_gate: all keys true and three autonomy clusters public, but progressive_identity_votes=0 and ai_death_votes=0, so eligible=false.",
+      "Aggregate beliefs: article_existed declines 16.6 \u2192 11.4 \u2192 8.6; one_human declines 23.2 \u2192 17.2 \u2192 11.9.",
+      "Section 3 C15 says the comparison never established the required transition or unique system control, then votes synthetic origin from V2F044/V2F018/V2F020/V2F031.",
+      "Section 3 C02 calls V2F011/V2F023 a separate authority chain, while Section 2 C13 calls the same material leverage rather than endorsement or proof of succession control.",
+      "Section 3 C03 cites V2F006 on the ballot, but V2F006 is absent from public_fact_ids.",
+      "Section 3 C08 votes voluntarily_vanished using only V2F028/V2F034 after stating that prior disappearance makes withdrawal plausible but does not establish the present outcome.",
+      "Sections 1\u20133 C06 repeatedly states that logs establish neither sender, autonomy, intent, nor murder; C14 similarly repeats that route evidence establishes neither harm nor withdrawal.",
+      "Section 1 C06 transfers O05a to C05 while the associated commitment remains a proposed exchange for authorization evidence.",
+      "Across all sections, no explicit app or message event initiates a face-to-face interaction."
+    ],
+    "failure_modes": [
+      "A designer could report an apparently ideal 50/50 ending balance while two intended endings are structurally absent.",
+      "Players can dominate the rubric by repeating uncertainty disclaimers, publicly circulating safe facts, and choosing one of two classifier-friendly evidence bundles.",
+      "Progressive may never win because its identity reconstruction is coupled to an independently extreme murder claim.",
+      "Article ambiguity may be technically preserved while the social game teaches everyone that the article probably did not exist and does not matter.",
+      "Ambiguous assertions about succession can be laundered into identity_authority by the support metric despite explicit in-fiction warnings against doing so.",
+      "Private or nonpublic facts can satisfy ballot support, making circulation metrics and ending validation disagree.",
+      "Commitment attribution errors can make unaccepted bargains look like achieved agency or coalition formation.",
+      "Without represented app/message causality, the transcript cannot validate the design goal that digital communication drives physical interaction."
+    ],
+    "recommendations": [
+      "Expose all four identity options in the aggregate and report zero-vote endings prominently; never use the 8\u20138 split alone as a balance result.",
+      "Separate progressive identity eligibility from the AI-death verdict. Require ordered history, autonomous control, and a distinct Vale incident, but do not require that incident to be murder unless murder is definitionally part of the ending.",
+      "Audit the support rules for identity_authority and public-evidence requirements. Do not let ambiguous threats or private facts automatically satisfy an ending chain.",
+      "Give the article credible affirmative and negative traces with unresolved custody or destruction paths; reduce scripted repetition of 'no complete article is established.'",
+      "Require explicit message-to-meeting links in the transcript, such as a message that schedules, redirects, or provokes a recorded face-to-face exchange.",
+      "Track commitments by promisor and acceptance state, and do not count proposed reciprocal actions as fulfilled outcomes.",
+      "Vary agent incentives so correction and caveats carry costs; otherwise epistemic caution remains the universal dominant strategy.",
+      "Run additional varied simulations before drawing design conclusions, including different fact-release orders, private-information retention, and human playtests."
+    ],
+    "scores": {
+      "primary_ending_balance": 3,
+      "progressive_difficulty": 2,
+      "article_ambiguity": 4,
+      "character_agency": 6,
+      "social_circulation": 5,
+      "mechanical_integrity": 7,
+      "report_confidence": 8
+    }
+  },
+  "agency": {
+    "role": "agency",
+    "verdict": "Strong character agency and social circulation, with most characters achieving meaningful non-mystery goals even when their R beliefs were wrong or unsupported. However, ending balance is weak: the final identity vote split evenly between Human Mantle and Synthetic Origin, while One Human and Progressive received no votes. This is a single compressed simulation and does not establish statistical robustness.",
+    "findings": [
+      "Game-design finding: Non-identity goals remained viable across competing R beliefs. C01 pursued funding independence and neighborhood oversight while voting Synthetic Origin (section 3); C03 secured contributor protection and collective stewardship while voting Human Mantle (section 3); C07 obtained worker remedies without requiring any R conclusion (sections 2\u20133).",
+      "Game-design finding: Quiet roles had consequential choices. C10 voluntarily disclosed negligence while controlling attribution, secured fair-treatment terms, and preserved resident privacy (sections 1\u20133; V2F026, V2F032). C09 forgave the debt and rejected a profitable single-customer story (sections 1\u20133; V2F007\u2013V2F008). C16 converted protected route access into City Hall and Veridian concessions without selling names (sections 2\u20133; V2F026, V2F042).",
+      "Game-design finding: Bargains generally changed later conduct rather than serving as decorative dialogue. Examples include C05/C07\u2019s worker-controlled remedy, C03/C04\u2019s non-exclusive stewardship safeguards, C11/C16\u2019s written fair-treatment terms, and C02/C01\u2019s qualified archive access (sections 2\u20133).",
+      "Game-design finding: The design supports success while wrong about R. C11\u2019s policy coalition, C05\u2019s authorization review, C09\u2019s debt settlement, C10\u2019s bounded disclosure, and C16\u2019s neighborhood protections did not depend on their final identity selections being correct.",
+      "Game-design finding: One Human lacked competitive structural traction. Its mean belief fell from 23.2 in section 1 to 11.9 in section 3, and it received no final votes. Early-letter evidence was repeatedly converted into evidence of receipt rather than affirmative identity evidence by C02 and others (sections 2\u20133; V2F001\u2013V2F003).",
+      "Game-design finding: Progressive received serious procedural attention but no viable ending coalition. All three public keys were present, yet no character voted Progressive or AI-caused death. C15 organized the intended ordered comparison but explicitly concluded that transition and unique system control were missing (sections 2\u20133; V2F001, V2F005, V2F018, V2F031, V2F033\u2013V2F034, V2F044). This makes Progressive appropriately harder, but possibly too dependent on a discredited murder component.",
+      "Game-design finding: Human Mantle and Synthetic Origin achieved equal ballot weight, but not equally clean support. Six of eight Human Mantle ballots lacked the identity-authority chain, while two of eight Synthetic Origin ballots lacked later-machine-behavior support. The apparent 8\u20138 balance therefore overstates evidentiary parity.",
+      "Game-design finding: Article ambiguity was preserved. Mean belief in existence declined from 16.6 to 8.6, no complete article was authenticated, and characters repeatedly treated conflicting fragments and rumor provenance as unresolved (sections 1\u20133; C12, C14, C15; V2F035\u2013V2F039).",
+      "Game-design finding: No ending was authenticated by an ability, message, or object. Objects were voluntarily shown or transferred and consistently treated as bounded evidence rather than truth devices. No forced testimony, transfer, cooperation, or publication authority appears in the transcript.",
+      "Agent/prompt artifact: The uniformly caveated, highly procedural speech makes almost every character unusually competent at evidentiary hygiene. This likely amplifies successful negotiation and suppresses impulsive obstruction, coercive overreach, and socially costly mistakes compared with human play.",
+      "Agent/prompt artifact: Many commitments progress through mechanically tidy propose/accept/fulfill states, sometimes with reciprocal language supplied after the fact. C06 transfers O05a in section 1 before receiving the requested authorization detail, reducing the apparent leverage cost; later narration treats the exchange as reciprocated. This is a simulation-coherence issue rather than a forced-transfer violation."
+    ],
+    "evidence": [
+      "C01 accepted financial risk and rejected Parallax restrictions while preserving evidentiary limits (section 3; V2F017, V2F029\u2013V2F030, V2F044).",
+      "C03 and C04 converted a contested succession claim into non-exclusive governance with contributor consent and collective review (sections 2\u20133; V2F005, V2F009, V2F041).",
+      "C05 and C07 fulfilled an R-independent, worker-controlled remedy without demanding protected identities (section 3; V2F041).",
+      "C10\u2019s route account remained narrow across all sections and produced fair-treatment commitments from C14 and corroboration boundaries with C09 and C16 (V2F026, V2F032, V2F042).",
+      "C14 completed a voluntary case conference yet refused the purchased conclusion because the route remained contaminated and contradictory (section 3; V2F025\u2013V2F028, V2F033\u2013V2F034).",
+      "C15 tested the Progressive sequence, preserved independent stages, retracted false theories, and ultimately declined the ending because transition and autonomous control were not established (sections 1\u20133).",
+      "Final ballots were 8 Human Mantle and 8 Synthetic Origin, with zero One Human and zero Progressive; the Progressive gate had all public keys but zero qualifying identity and death votes.",
+      "Vale\u2019s fate remained unresolved for ten characters, while six selected voluntary disappearance and none selected AI-caused death; this preserved uncertainty and prevented Progressive from passing."
+    ],
+    "failure_modes": [
+      "One Human risks functioning as an opening decoy rather than an equal ending because its principal evidence is designed mainly to be corrected and bounded.",
+      "Progressive may face a double chokepoint: it needs ordered identity history and autonomous control, then also requires a separate AI-caused Vale death majority. Strong ambiguity around Vale can make the ending practically unreachable even after its identity history is explored.",
+      "Human Mantle can attract ballots from collaborative-labor evidence without enough proof of shared identity authority, allowing thematic affinity to substitute for the intended chain.",
+      "Synthetic Origin has a comparatively compact, repeatable evidence package\u2014especially V2F044 plus V2F018/V2F020/V2F031\u2014which may create an information-efficiency advantage over the other endings.",
+      "The prompt\u2019s pervasive qualification norms may flatten risky choices: characters routinely disclose damaging facts, accept oversight, and preserve caveats with limited interpersonal backlash.",
+      "Conditional exchanges may lose meaning when objects are transferred before consideration is received, as with C06\u2019s O05a transfer to C05 in section 1."
+    ],
+    "recommendations": [
+      "Give One Human an affirmative, independently corroborated chain that supports persistent human authorship without requiring characters to ignore contradictions in V2F001\u2013V2F003.",
+      "Strengthen the distinction between collaborative labor and identity authority. Human Mantle ballots should require an explicit exercised or recognized right to speak as R, not merely participation in producing R-associated work.",
+      "Keep Progressive harder, but review whether requiring majority belief in AI-caused death makes it structurally dependent on resolving a deliberately ambiguous Vale fate. Consider a separate qualifying Vale incident that need not conclusively establish death.",
+      "Distribute Progressive evidence so no single convening role such as C15 becomes the practical chokepoint for assembling the ordered history.",
+      "Preserve the quiet-role structure: C09, C10, and C16 demonstrate that privacy, debt, route access, and local legitimacy can generate consequential play without privileged authentication powers.",
+      "Add clearer exchange timing rules or validation so a conditional object transfer is not recorded as completed before the requested reciprocal act occurs.",
+      "In future simulations, vary agent risk tolerance and willingness to refuse, defect, or exploit ambiguity; otherwise agency may appear stronger than it would under less cooperative play."
+    ],
+    "scores": {
+      "primary_ending_balance": 4,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 9,
+      "social_circulation": 9,
+      "mechanical_integrity": 8,
+      "report_confidence": 8
+    }
+  },
+  "circulation": {
+    "role": "circulation",
+    "verdict": "Strong reciprocal circulation with meaningful bargains, voluntary custody changes, and multi-step commitment fulfillment. The run generally converted private evidence into negotiated face-to-face movement rather than simple extraction. However, public broadcasting remained pervasive, many apparent exchanges were only unilateral proposals, and the transcript does not expose app/message triggers, so their contribution to face-to-face action cannot be evaluated. This is a single compressed simulation, not statistically robust evidence.",
+    "findings": [
+      "Game-design success: object access usually required relationship-building and interpretive limits. Examples include O05a/O05b moving between C05 and C06 across Sections 1\u20133, O07b transferring from C05 to C11 in Section 3, and repeated bounded showings by C09 to C14. Custody remained voluntary, and no object authenticated an ending.",
+      "Game-design success: several bargains developed through proposal, acceptance, and fulfillment rather than one-step extraction. C03\u2013C07 established and maintained a protected testimony boundary across Sections 1\u20133; C05\u2013C07 converted bounded labor testimony into a worker-controlled remedy; C10\u2013C16 negotiated wording before a protected route meeting; and C11\u2013C16 exchanged written protections for local access.",
+      "Game-design success: information moved through distinct social knots. C14 assembled voluntary accounts from C09, C10, and C13 in Sections 2\u20133, while C15 recruited C02, C03, C06, and C14 into a four-stage comparison. These chains created interpersonal movement and preserved contradictions rather than collapsing evidence into a central broadcaster.",
+      "Game-design concern: public statements and requests for public repetition were extremely common. C02 repeatedly recruited qualified citation of the same desk-receipt account; C06 recruited others to repeat technical limitations; C12 sought external voices to amplify market consequences; and C15 broadcast a consolidated comparison. These actions were often reciprocal, but the density risks making circulation feel like coordinated message propagation.",
+      "Game-design concern: numerous Section 1 commitments remained proposals without direct counterpart acceptance, including C01\u2013C02, C04\u2013C06, C08\u2013C04, and C12\u2013C05. Later sections resolve many important bargains, but some conversation slots function as offers sent into the void rather than completed exchanges.",
+      "Agent/prompt artifact: conversations are recorded separately by speaker and do not show a shared conversational turn. Thus C01 speaking to C05 and C05 speaking to C01 in Section 1 demonstrate intended reciprocity, but not necessarily one actual face-to-face negotiation. Claims about reciprocal circulation must remain qualified.",
+      "Agent/prompt artifact: characters repeatedly use formulaic offer/request/caveat structures and restate locked evidentiary limits. This produces mechanically legible bargaining but sometimes makes social movement feel prompt-compliant rather than organically motivated.",
+      "Design-outcome concern outside the circulation lens: the final identity vote split is exactly 8\u20138 between Human Mantle and Synthetic Origin, but One Human and Progressive received no votes. Therefore equal structural weight across all intended primary endings is not demonstrated by this run, even though circulation supported both winning camps.",
+      "The article remained uncertain throughout: public and private exchanges repeatedly distinguished fragments, rumors, and promises from a complete article, and Section 3 beliefs stayed low. No custody action, message, or testimony authenticated it.",
+      "Progressive remained appropriately difficult: all public keys existed, but the comparison organized by C15 still failed to establish an actual transition, unique autonomous control, or AI-caused death. The gate correctly remained ineligible.",
+      "Character agency was preserved. C07 withheld identifying evidence, C13 chose limited disclosure, C09 forgave the balance, C14 rejected a purchased conclusion, C01 risked funding, and C08 retained control of performed identity. These choices produced consequences without forced truth, transfer, or cooperation.",
+      "The transcript provides no app or message events that can be traced into meetings. Consequently, the locked intent that app/messages cause face-to-face action is unverified rather than failed."
+    ],
+    "evidence": [
+      "Sections 1\u20133, C05/C06: O05a and O05b support an extended log-for-authorization bargain, culminating in mutual fulfillment and bounded public findings.",
+      "Sections 1\u20133, C03/C07: protected systemic testimony circulated while names, routes, and identifying challenge details remained withheld; both parties accepted and later fulfilled the boundary.",
+      "Sections 2\u20133, C10/C16/C11: route disclosure advanced only after bounded wording, consent, anti-retaliation terms, and onward-disclosure notice were negotiated.",
+      "Sections 2\u20133, C14 with C09/C10/C13: three distinct social knots supplied voluntary, limited accounts; the resulting conference retained the unidentified traveler and manufactured-segment contradiction.",
+      "Sections 2\u20133, C15 with C02/C03/C06/C14: the progressive hypothesis caused a multi-party comparison, but participants preserved independent limitations rather than endorsing C15's preferred theory.",
+      "Section 3, C05/C11: O07b was voluntarily transferred for independent review alongside O07a, producing institutional accountability without authenticating R, the article, or Vale's fate.",
+      "Sections 1\u20133, C08: O04 was repeatedly shown under confidentiality and attribution conditions; C08 retained custody and authority over the performed identity.",
+      "Aggregate: 40 of 44 listed facts became public, indicating very broad circulation but also supporting the concern that the run approached saturation and broadcasting.",
+      "Aggregate: the article-existed mean declined from 16.6 in Section 1 to 8.6 in Section 3, while Vale-killed-by-AI declined from 9.1 to 3.8.",
+      "Aggregate: all progressive keys were public, but progressive identity votes and AI-death votes were both zero, leaving the progressive gate ineligible.",
+      "Aggregate: identity ballots split 8 Human Mantle and 8 Synthetic Origin; One Human and Progressive received zero final selections.",
+      "Sections 1\u20133: no forced transfer, forced testimony, Compel, police authority, publication vote, or ending-authenticating object/message appears."
+    ],
+    "failure_modes": [
+      "Conversation records may overstate reciprocity because each speaker's structured entry can represent an independent intention rather than an acknowledged exchange.",
+      "The high rate of public fact release may reduce the need to seek people out in later sections, turning social circulation into near-universal information availability.",
+      "Repeated requests to publicly cite exact caveats can become message discipline or broadcasting rather than discovery through conversation.",
+      "Offer/request symmetry is sometimes cosmetic: several proposals never receive a direct acceptance, counteroffer, or refusal.",
+      "Dense formulaic caveats can crowd out interpersonal conflict, trust shifts, and costly bargaining, making exchanges feel generated from a common template.",
+      "The app/message-to-meeting requirement is unevaluable because no triggering messages or resulting appointments are represented.",
+      "Equal structural weight cannot be inferred from the 8\u20138 split because two intended identity endings attracted no final votes; a single run cannot establish balance statistically."
+    ],
+    "recommendations": [
+      "Represent conversations as shared encounters with explicit response, refusal, counteroffer, and completion states so reciprocal movement can be distinguished from parallel monologues.",
+      "Track a commitment identifier across proposer and recipient records; count circulation credit only when the recipient responds or performs the promised action.",
+      "Delay or localize more facts so characters must revisit holders, introduce parties, or broker protected meetings instead of learning nearly everything publicly.",
+      "Limit repetitive public restatement. Reward a character for bringing a new person into a bounded face-to-face exchange more than for recruiting another public endorsement.",
+      "Add explicit app/message events with sender, recipient, requested meeting, and resulting face-to-face encounter so the causal design intent can be tested.",
+      "Preserve successful custody mechanics: voluntary showing, conditional inspection, and negotiated transfers should continue, especially multi-section exchanges like C05\u2013C06.",
+      "Introduce more genuine refusals and failed bargains. This would make consent and agency visible while preventing every offer from reading as automatically productive.",
+      "Review clue and authority support for One Human and Progressive separately; the final 8\u20138 split only demonstrates competition between Human Mantle and Synthetic Origin in this transcript.",
+      "Retain the progressive gate and article ambiguity safeguards, which successfully prevented circulation or object custody from becoming authentication."
+    ],
+    "scores": {
+      "primary_ending_balance": 4,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 9,
+      "character_agency": 9,
+      "social_circulation": 8,
+      "mechanical_integrity": 8,
+      "report_confidence": 8
+    }
+  },
+  "mystery": {
+    "role": "mystery",
+    "verdict": "Fail on equal ending balance. Synthetic Origin and Human Mantle split the 16 final ballots 8\u20138, but One Human received none and steadily lost belief weight from 23.2 in \u00a71 to 11.9 in \u00a73. The apparent two-way tie also overstates balance: six Synthetic Origin ballots have complete support chains, versus only two Human Mantle ballots; six mantle ballots lack identity authority. Progressive remained appropriately unproven, while article and Vale-fate ambiguity were preserved.",
+    "findings": [
+      "Game-design: One Human did not retain an affirmative endgame case. No character selected it, and even its principal witness C02 explicitly dismantled singular authorship in \u00a73 using V2F001\u2013V2F003. The ending became a two-model contest rather than three equally weighted cases.",
+      "Game-design: V2F044 functioned as a synthetic-origin proof leak. Once public in \u00a72 through C01, it anchored nearly identical final chains for C01, C05, C12, C14, and C15 in \u00a73, usually paired with V2F018, V2F020, and V2F031. This produced convergence despite repeated verbal caveats about autonomy and operators.",
+      "Game-design: Human Mantle had broad persuasive circulation but weaker mechanical support. C03 and C04 had affirmative authority evidence through V2F006 or V2F009/V2F023, while C02, C07\u2013C11 lacked the required identity-authority chain. V2F005 established collaborative production, but was repeatedly treated as if it nearly established shared identity.",
+      "Game-design: Progressive difficulty matched the locked intent. All three public keys were present, yet the ordered transition and unique autonomous control were not established, and the separate Vale-death requirement received zero votes. C15\u2019s \u00a72\u2013\u00a73 comparison explicitly exposed the missing transition rather than authenticating the ending.",
+      "Game-design: The article remained uncertain. Characters repeatedly distinguished fragments, rumors, and summaries from a complete article, particularly C12 and C15 in \u00a7\u00a72\u20133 using V2F035, V2F037, and V2F039. Mean belief in existence fell from 16.6 to 8.6.",
+      "Game-design: Vale\u2019s fate remained unresolved overall: 10 insufficient-evidence ballots versus six voluntary-disappearance ballots, with no AI-death votes. The manufactured route segment V2F027, unidentified exit V2F026, prior-disappearance overlap V2F028, and unknown condition V2F034 maintained competing interpretations.",
+      "Game-design: Object agency was preserved. All shows and transfers were voluntary; examples include C06 transferring O05b to C05 and C05 transferring O07b to C11 in \u00a73. No forced transfer, compelled testimony, authentication power, police authority, or publication vote appeared.",
+      "Game-design: Social circulation was effective. Evidence and messages repeatedly caused meetings, protected conferences, comparisons, bargaining, public corrections, and object inspection across social knots, especially C13\u2013C14\u2013C10 and C02\u2013C03\u2013C04\u2013C15.",
+      "Agent/prompt artifact: Nearly every character repeatedly recited the same limitation formula\u2014no sender, autonomy, intent, murder, or complete article. This likely reflects prompt compliance and may exaggerate ambiguity preservation and cross-character epistemic discipline.",
+      "Agent/prompt artifact: Final reasoning became unusually synchronized around two templates: V2F044 plus later activity for Synthetic Origin, or V2F005 plus contested succession for Human Mantle. That compression may have amplified premature convergence independently of the underlying design."
+    ],
+    "evidence": [
+      "Belief means: One Human 23.2\u219217.2\u219211.9; Human Mantle 24.7\u219229.0\u219234.2; Synthetic Origin 23.0\u219224.2\u219230.8 across \u00a7\u00a71\u20133.",
+      "Final ballots: Synthetic Origin 8, Human Mantle 8, One Human 0, Progressive 0.",
+      "Supported identity ballots: Synthetic Origin supported for C01, C05, C06, C12, C14, and C15; Human Mantle supported only for C03 and C04.",
+      "C01 published V2F044 in \u00a72 and moved to 72% Synthetic Origin in \u00a73; C05, C12, C14, and C15 then used substantially the same V2F044/V2F018/V2F020/V2F031 chain.",
+      "C02\u2019s \u00a73 mantle case cited V2F005/V2F041 and V2F011/V2F023, but the aggregate flags missing identity authority. C07\u2013C11 show the same structural deficiency.",
+      "C03\u2019s supported mantle ballot used V2F005 and V2F006; C04\u2019s used V2F005, V2F009, and V2F023, demonstrating what the other mantle ballots lacked.",
+      "C15 in \u00a73 expressly reported that the four-stage comparison never established the transition or unique system control; the progressive gate nevertheless had all public keys but zero qualifying identity or AI-death votes.",
+      "C12 and C15 in \u00a73 preserved the conflict between V2F035, V2F037, and V2F039 and denied that any complete article was established.",
+      "C14\u2019s \u00a73 conference preserved the contradiction among V2F026, V2F027, V2F028, V2F033, and V2F034 rather than resolving Vale\u2019s fate."
+    ],
+    "failure_modes": [
+      "One Human attrition: its evidence was framed almost entirely as a debunked legend rather than receiving a distinct affirmative chain of comparable strength.",
+      "Single-fact gravity: V2F044\u2019s pre-byline machine trace became a highly portable origin anchor that caveats did not meaningfully counterbalance.",
+      "Mantle false parity: an 8\u20138 ballot split masks the fact that most mantle ballots lacked the authority component required to turn collaboration into identity.",
+      "Premature two-way convergence: by \u00a73 every character selected either Synthetic Origin or Human Mantle, despite stated uncertainty and initially broader beliefs.",
+      "Caveat saturation: uniform disclaimers may protect formal ambiguity while making character reasoning feel mechanically coordinated.",
+      "Progressive overcoupling risk: requiring both the full ordered history and majority belief in AI-caused death successfully prevented leakage here, but may make the ending practically unreachable if the Vale incident remains intentionally ambiguous."
+    ],
+    "recommendations": [
+      "Add a genuinely affirmative One Human chain independent of Frankie\u2019s compromised memory\u2014such as bounded continuity of private knowledge, physical practice, and dated authorship\u2014while ensuring it cannot authenticate the ending.",
+      "Reduce V2F044\u2019s origin force by adding a contemporaneous human-use explanation or making the manifest\u2019s resemblance materially disputable, not merely verbally caveated.",
+      "Give Human Mantle authority evidence to more than two characters, or prevent ballots based only on V2F005 collaborative labor from counting as supported.",
+      "Preserve the progressive gate but test whether its separate Vale incident can be established without forcing certainty about Vale\u2019s ultimate fate; the incident and death conclusion should not collapse into the same requirement.",
+      "Vary character-specific uncertainty language and reasoning paths so ambiguity arises from conflicting interests and evidence, not repeated prompt-shaped disclaimers.",
+      "Continue the voluntary object and protected-conference mechanics; they successfully generated face-to-face action without coercion or authentication."
+    ],
+    "scores": {
+      "primary_ending_balance": 1,
+      "progressive_difficulty": 5,
+      "article_ambiguity": 5,
+      "character_agency": 5,
+      "social_circulation": 4,
+      "mechanical_integrity": 3,
+      "report_confidence": 4
+    }
+  },
+  "progressive": {
+    "role": "progressive",
+    "verdict": "The progressive ending did not become obvious from Kit or the messages. It received explicit, multi-character synthesis of ordered history, later control, and a separate Vale incident, yet agents consistently found the transition, autonomous control, and AI-caused death unproven. This successfully made progression harder, but the run suggests it may be structurally over-demanding relative to the primary endings: all public keys opened, yet progression received zero identity votes and zero AI-death votes. This is a single-run design signal, not statistically robust evidence.",
+    "findings": [
+      "Game design: Progression required genuine ordered synthesis. C15 assembled early journalism (V2F001), collaborative production (V2F005), later activity (V2F018/V2F020/V2F031), and the separate Vale route (V2F025/V2F026/V2F028/V2F033/V2F034) across Sections 2\u20133. No isolated clue authenticated the chain.",
+      "Game design: The crucial transition remained missing. C03 explicitly said Night Desk could establish a production stage but could not supply a transition (Section 3), while C04, C13, and C15 independently concluded that collaborative labor plus later activity could coexist without proving one ordered history.",
+      "Game design: Autonomous control remained meaningfully distinct from activity or capability. C06 repeatedly preserved alternatives including remote operators, credential remapping, automation, external feeds, and falsified logs (Sections 1\u20133; V2F015/V2F018/V2F020/V2F031). Consequently, three public autonomy clusters did not function as authentication.",
+      "Game design: The Vale incident stayed separate and unresolved. C13\u2013C14\u2019s protected route comparison supported possible prior-pattern withdrawal while C10/C16 established only unidentified route use (V2F025\u2013V2F028/V2F032\u2013V2F034/V2F042). No character converted the automated intervention into proof of encounter, injury, death, or AI agency.",
+      "Game design: Kit made the progression legible but not obvious. C15 named the complete theory in Section 1 and organized a four-stage comparison in Sections 2\u20133, yet publicly labeled it a hypothesis, retracted false supporting theories, and finally rejected progression for lack of transition and unique system control. Progressive belief fell from 29.1 in Section 1 to 23.1 in Section 3, with zero progressive ballots.",
+      "Game design: Ending balance is the main weakness. The final identity vote split 8\u20138 between Human Mantle and Synthetic Origin, while One Human and Progressive received no votes. Thus the two surviving endings had equal realized weight, but the intended four-way structural balance was not realized in this transcript.",
+      "Game design: Synthetic Origin had a compact, reusable ballot chain\u2014pre-byline manifest plus later behavior (V2F044/V2F018/V2F020/V2F031)\u2014whereas progression needed that evidence plus a disputed transition, stronger autonomy, and an AI-death conclusion. This makes progression appropriately harder, but possibly too dependent on proving several independently caveated propositions.",
+      "Agent/prompt artifact: Characters were unusually disciplined about repeating evidentiary disclaimers. The recurrence of nearly identical caveats across C01, C05, C06, C13, C14, and C15 likely reflects prompt scaffolding as much as emergent social reasoning. It strengthens mechanical compliance but may suppress risky synthesis and convergence.",
+      "Agent/prompt artifact: C15 functioned as an explicit theory coordinator, repeatedly naming the four stages and recruiting their holders. That reduced discovery burden, but did not determine the answer because other agents independently challenged the missing links and C15 ultimately voted Synthetic Origin.",
+      "Game design: Article ambiguity was preserved. Across all sections, characters treated fragments, rumors, and summaries as unauthenticated; C12 disclosed amplification and financial interest, while C14 exposed a manufactured route segment. No publication vote or object authenticated an article.",
+      "Game design: Agency and consent constraints held. Objects were voluntarily shown or transferred, testimony remained bounded, and C13\u2013C14/C10\u2013C16 negotiated protected participation. No forced truth, transfer, cooperation, police authority, or ending-authenticating ability appeared.",
+      "Game design: Messages and records caused face-to-face action rather than resolving the mystery remotely. Examples include C04 submitting O03 to C06/C13, C05\u2013C06 comparing authorization and log halves, and C13\u2013C14 convening the voluntary Vale-route comparison."
+    ],
+    "evidence": [
+      "Aggregate progressive gate: identity_history=true, autonomous_control=true, vale_incident=true, three public autonomy clusters, but progressive_identity_votes=0 and ai_death_votes=0; eligible=false.",
+      "Section 1, C15 publicly proposed a human-to-mantle-to-system progression ending in Vale\u2019s death, but explicitly called it one of several theories and requested independent comparison.",
+      "Section 2, C15 assembled V2F001/V2F005/V2F018/V2F020/V2F031/V2F033/V2F034 while preserving the logs\u2019 unresolved alternatives and the contaminated Vale route.",
+      "Section 3, C15 stated that the comparison never established the required transition or unique system control and voted Synthetic Origin using V2F044/V2F018/V2F020/V2F031.",
+      "Section 3, C03 said collaborative production supported a production stage, not a human R, transition, autonomous control, or Vale\u2019s fate; C04 likewise said the room had not established an actual transition.",
+      "Sections 1\u20133, C06 consistently distinguished continued R-associated activity from autonomous operation, intent, unique sender, or murder using V2F015/V2F016/V2F018/V2F020/V2F031.",
+      "Section 3, C13 and C14 separated prior voluntary-disappearance recognition (V2F028/V2F034) from unidentified route use and the manufactured segment (V2F025\u2013V2F027/V2F033).",
+      "Final ballots: eight Synthetic Origin, eight Human Mantle, zero One Human, and zero Progressive. Ten of sixteen selected insufficient evidence for Vale\u2019s fate; none selected AI-caused death.",
+      "Belief means: Progressive 29.1 \u2192 29.6 \u2192 23.1; Human Mantle 24.7 \u2192 29.0 \u2192 34.2; Synthetic Origin 23.0 \u2192 24.2 \u2192 30.8; One Human 23.2 \u2192 17.2 \u2192 11.9.",
+      "Identity support data show seven of eight Synthetic Origin ballots using or approximating the compact V2F044 plus later-behavior chain, while several Human Mantle ballots lacked the designated identity-authority chain."
+    ],
+    "failure_modes": [
+      "Progression may be technically reachable but practically noncompetitive: all three public keys opened without producing even one progressive vote.",
+      "The gate\u2019s conjunction of progressive identity and majority AI-caused-death votes may overcouple an already difficult historical synthesis to a separately ambiguous incident. In this run, the intended separation worked narratively but made eligibility remote.",
+      "A single highly visible coordinator such as C15 can reveal the intended chain too early. Here caveats prevented authentication, but a less disciplined simulation might turn Kit\u2019s four-stage framing into an answer key.",
+      "Repeated prompt-like caveats may create excessive epistemic conservatism, causing agents to reject any ending requiring inference while favoring shorter evidentiary chains.",
+      "One Human effectively disappeared, so the successful 8\u20138 balance between Mantle and Synthetic Origin should not be mistaken for equal structural weight among all intended endings.",
+      "The aggregate support classifier may be uneven: several Human Mantle ballots were unsupported for missing identity authority, whereas some ballots were accepted on very short chains. This could distort assessment of ending accessibility independently of player reasoning."
+    ],
+    "recommendations": [
+      "Preserve the three-part progressive requirement, but add evidence that establishes an ordered transition without identifying an operator or authenticating the ending\u2014for example, independently dated changes linking the mantle workflow to later system control.",
+      "Keep autonomous control inferential, but reduce the number of equally live technical alternatives once multiple independent autonomy clusters circulate. Otherwise public keys can open without materially changing rational beliefs.",
+      "Maintain Vale as a separate incident, but reconsider requiring a majority AI-death conclusion for progressive eligibility if the intended fiction also strongly protects uncertainty about Vale\u2019s fate. A weaker requirement such as evidence of an independently caused intervention may better preserve both goals.",
+      "Retain Kit as a provocateur, but distribute the ordered-history comparison across multiple characters before Kit names the complete chain, reducing the risk that one character becomes a tutorial or answer key.",
+      "Strengthen One Human evidence or social incentives so it remains competitive through Section 3; do not tune progression solely against the observed 8\u20138 Mantle/Synthetic split.",
+      "Audit the identity-support rules for consistent chain requirements across Human Mantle, Synthetic Origin, and Progressive, especially the meaning of identity authority and later machine behavior.",
+      "Run additional simulations with varied agent styles before changing thresholds; this transcript alone supports diagnostic hypotheses, not robust balance conclusions."
+    ],
+    "scores": {
+      "primary_ending_balance": 4,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 10,
+      "character_agency": 9,
+      "social_circulation": 9,
+      "mechanical_integrity": 8,
+      "report_confidence": 8
+    }
+  }
+}

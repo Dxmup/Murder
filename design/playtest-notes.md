@@ -2,11 +2,13 @@
 
 A running log of playtests — simulated and live. The host guide (§8) points here.
 
+> `baseline-01` and the detailed results below are Version 1 history. No V2 simulation has yet been run.
+
 > **Goal:** all readings of R. stay arguable, every player stays engaged and can win goals without solving the mystery, and the room doesn’t converge on one flat answer.
 
 ## Current simulation standard (adopted after Playtest 02)
 
-The layered-sequential canon tested below is retired. Future simulations must test four incompatible complete reconstructions, including **synthetic origin with no human R ever** and **human founder to human mantle**, without supplying any character or GM agent a hidden solution.
+Future simulations must give equal evidentiary weight to **one human**, **human mantle**, and **synthetic origin**, while testing whether the harder **human → mantle → AI → Vale killed by AI** reconstruction can be assembled without Kit making it automatic. No character or GM agent receives a hidden solution, and the alleged article must remain unverified under every outcome.
 
 Required controls:
 

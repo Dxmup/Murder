@@ -1,29 +1,25 @@
-# Objective Timeline (Next Step #2)
+# V2 Timeline Design Scaffold
 
-A single chronological spine of **what objectively occurred** — the ~15-year public history of the pseudonymous identity plus the final week before disappearance. Every entry should map to one or more rows in [`data/events.csv`](data/events.csv) and support facts in [`data/facts.csv`](data/facts.csv).
+The timeline will record objective events without assigning their ultimate meaning. It must keep all four prepared endings playable and keep the article's existence unresolved.
 
-> Durations and exact times are still **placeholders** (§13 notes ~15 years public, earlier drafts used ~8 years of Thursday deliveries). Lock these during development.
+## Required tracks
 
-## Long history (~15 years)
+| Track | Design purpose |
+|---|---|
+| Public R history | Dates of attributed work, public claims, and known account activity. |
+| Human production | Newsroom, collective, source-handling, performance, and courier events. |
+| Technical history | Parallax projects, infrastructure access, migrations, logs, and autonomous behavior. |
+| Article rumor | First attestations and later repetition, each tied to a source rather than stated as fact. |
+| Vale | Verified movements, attributed claims, contradictions, and the point at which evidence stops. |
+| Anniversary | Planning, funding, guest selection, and the R-account promise of a reckoning. |
 
-| When | Event | Event ID | Notes |
-|---|---|---|---|
-| ~15 yrs ago | Pseudonymous byline first appears | _TODO_ | Reputation builds over time |
-| ... | Major investigations published | _TODO_ | Establishes accuracy → source trust |
-| ~8 yrs (placeholder) | Recurring restaurant delivery routine begins | E-DELIV | Core cluster; see facts F020–F035 |
+## Locked ordering only
 
-## Final week
+1. The R byline develops a fifteen-year public history.
+2. Multiple kinds of human and technical infrastructure become associated with it.
+3. The alleged AI-investigation rumor begins and spreads.
+4. Vale pursues the identity, the rumor, or both.
+5. Vale disappears from verifiable view.
+6. The anniversary gathering proceeds and receives R-associated messages.
 
-| When | Event | Event ID | Notes |
-|---|---|---|---|
-| T−? | Article announced (“change the course of AI and humanity”) | _TODO_ | F009 |
-| T−? | Last known communications / scheduled meetings | _TODO_ | F015, F043–F048 |
-| T−? | Proposed: unusual financial transaction / crypto transfer | _TODO_ | **Provisional** — F059 / PF03 |
-| T (0) | Disappearance; article not published as scheduled | _TODO_ | F010, F015–F016 |
-| T+? | Building footage gap (provisional) | _TODO_ | F042 / PF04 |
-| Game night | ~20 connected people gathered | _TODO_ | Venue TBD |
-
-## Open timeline questions
-- Exact delivery cadence, meal, tip, duration, day of week (placeholders: Thursday evenings, ~8 years).
-- Where the missing-footage window (provisional 23 min) sits relative to T=0.
-- Which §14 provisional facts get a fixed timeline slot vs. dropped.
+Exact events are deliberately not populated yet. The next pass must define each event with date window, firsthand witnesses, records created, alternate interpretations, and affected ending weights. No event may state that the article existed, that Vale was R, or that Vale was murdered.

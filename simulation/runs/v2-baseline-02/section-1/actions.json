@@ -1,0 +1,1244 @@
+{
+  "C01": {
+    "character_id": "C01",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C02",
+        "say": "Frankie, the intake supports the letter\u2019s period, not its authorship, and the expense record strains your delivery story. I will not publicly humiliate you, but I will not certify more than the archive proves.",
+        "offer": "Controlled archive access, including the intake discrepancy, plus a formal place in the anniversary program.",
+        "request": "Publicly participate as a journalist and give a qualified account separating what you personally saw from what you inferred.",
+        "fact_ids_shared": [
+          "V2F002",
+          "V2F003"
+        ]
+      },
+      {
+        "with": "C16",
+        "say": "Inez, Veridian needs neighborhood participation that is substantive, not decorative. I want you empowered to challenge us in the room.",
+        "offer": "A public neighborhood forum with you choosing its first two questions, followed by a meeting with Veridian leadership.",
+        "request": "Publicly participate tonight as a neighborhood representative, provided I reject the present Parallax restrictions and submit revised terms for community review.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C05",
+        "say": "Mira, concealed donor restrictions will destroy the institution more surely than renegotiation might. I am rejecting the current Parallax terms, but I need an orderly disclosure rather than a theatrical leak.",
+        "offer": "A recorded joint disclosure of the restrictions and a revised agreement protecting Veridian\u2019s public mission, with repayment considered if Parallax refuses.",
+        "request": "Join me in documenting the restrictions and negotiating transparent replacement terms before further restricted funds are used.",
+        "fact_ids_shared": []
+      }
+    ],
+    "public_statement": "Veridian will not accept the Parallax restrictions as they currently stand. We will seek transparent revised terms consistent with our public mission, and consider repayment if that fails. I also invite Frankie Lowell to give a qualified journalistic account and Inez Baptiste to participate publicly as a neighborhood representative. Tonight\u2019s evidence establishes neither an authenticated R sender nor a complete article.",
+    "facts_shared": [
+      "V2F036",
+      "V2F040",
+      "V2F035"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C02",
+        "promise": "Provide controlled archive access and a formal program role in exchange for a qualified public journalistic account.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C16",
+        "promise": "Convene a public neighborhood forum and leadership meeting if Inez publicly represents the neighborhood tonight.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C05",
+        "promise": "Make a recorded disclosure, pursue revised transparent restrictions, and consider repayment if renegotiation fails.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "No complete article is established, and the R-associated account does not authenticate its sender.",
+    "goal_progress": [
+      "Publicly rejected the current Parallax restrictions while preserving a renegotiation path.",
+      "Proposed materially different bargains for journalistic legitimacy, neighborhood participation, and donor-restriction disclosure.",
+      "Sought a recorded understanding with Mira without claiming her agreement."
+    ],
+    "beliefs": {
+      "one_human": 30,
+      "human_mantle": 35,
+      "synthetic_origin": 15,
+      "progressive": 20,
+      "article_existed": 35,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Arden uses limited archive candor to secure qualified journalism, offers Inez genuine public leverage for neighborhood legitimacy, and approaches Mira with disclosure plus renegotiation. Publicly rejecting the existing restrictions protects Veridian\u2019s mission while leaving compromise possible.",
+    "final_ballot": null
+  },
+  "C02": {
+    "character_id": "C02",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C01",
+        "say": "Arden, inspect the First R Letter yourself. My bounded claim is only that a paper letter reached my desk near the first R publication. My meeting story has shifted, and an expense record contradicts it; I will not bury that.",
+        "offer": "Show you O01 and publicly credit your provenance assessment, even if it weakens my legend.",
+        "request": "Give me your provenance assessment and any intake-report corroboration, then publicly cite only the desk-delivery claim while naming the expense-record contradiction.",
+        "fact_ids_shared": [
+          "V2F001"
+        ]
+      },
+      {
+        "with": "C04",
+        "say": "Jules, Vale told me Vale had found the first R, but I cannot prove what 'found' meant. The succession wording also resembles both an old newsroom phrase and a Parallax recommendation format.",
+        "offer": "Publicly support you as a possible steward if you preserve ambiguity, provenance, and correction rather than claiming ownership of R.",
+        "request": "Offer a competing interpretation of the First R Letter, and publicly cite one bounded part of my account while acknowledging that the expense record undermines my remembered meeting.",
+        "fact_ids_shared": [
+          "V2F010",
+          "V2F021"
+        ]
+      },
+      {
+        "with": "C08",
+        "say": "Edi, a later witness described your performance as an encounter with R. That preserves a human encounter, but it does not establish that the human performer was R.",
+        "offer": "I will publicly distinguish your performance from later legend and credit your own account over my retelling.",
+        "request": "Tell me what you personally performed, and publicly correct anyone\u2014including me\u2014who turns that event into proof of R's identity.",
+        "fact_ids_shared": [
+          "V2F013"
+        ]
+      }
+    ],
+    "public_statement": "Editorial correction, before the legend outruns the record: I can attest only that a paper letter reached my desk near the first R publication and that Vale later said Vale had found the first R. My remembered meeting has changed in retelling and conflicts with an expense record. Jules is my provisional choice as steward only if Jules protects provenance, ambiguity, and the right to correct the grand old fool at the microphone.",
+    "facts_shared": [
+      "V2F001",
+      "V2F021"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O01",
+        "action": "show",
+        "to": "C01"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C01",
+        "promise": "I will publicly credit Arden's provenance assessment of O01, including adverse findings, if Arden publicly cites only my bounded desk-delivery claim and names the expense contradiction.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C04",
+        "promise": "I will publicly support Jules as steward if Jules preserves uncertainty and publicly qualifies my meeting story rather than laundering it into proof.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C08",
+        "promise": "I will distinguish Edi's performance from claims about R's identity and credit Edi's firsthand account.",
+        "visibility": "public",
+        "status": "propose"
+      }
+    ],
+    "correction": "I previously treated a remembered meeting as firmer than the record permits. The expense contradiction and altered retellings must remain attached to that story.",
+    "goal_progress": [
+      "Asked Arden for a provenance assessment and intake corroboration in exchange for O01 viewing and public credit.",
+      "Asked Jules for a competing interpretation and made legacy support conditional on responsible stewardship.",
+      "Solicited two public, bounded citations of Frankie's account that must openly include the expense-record contradiction.",
+      "Publicly qualified the human-origin story instead of suppressing its weakness."
+    ],
+    "beliefs": {
+      "one_human": 40,
+      "human_mantle": 25,
+      "synthetic_origin": 20,
+      "progressive": 15,
+      "article_existed": 20,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Frankie uses O01 and editorial prestige to seek independent corroboration, but protects credibility by narrowing claims and foregrounding the expense contradiction. Jules receives provisional legacy support for disciplined ambiguity; Arden and Edi are asked to supply provenance and witness correction.",
+    "final_ballot": null
+  },
+  "C03": {
+    "character_id": "C03",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C07",
+        "say": "Maren, material later attributed to R passed through our shared drop, and multiple workers handled the resulting passages. A contributor fears the routing trail will become a suspect list.",
+        "offer": "I will give you bounded workflow context and let you inspect O02 without naming any contributor.",
+        "request": "Agree that neither of us will disclose contributor names or identifying routing details without the contributor's consent, and publicly acknowledge that collaborative labor mattered.",
+        "fact_ids_shared": [
+          "V2F004",
+          "V2F005"
+        ]
+      },
+      {
+        "with": "C04",
+        "say": "Jules, I will not help turn shared labor into a private inheritance. Different people researched, translated, fact-checked, or rewrote passages later published as R.",
+        "offer": "I can support your claim to carry a shared identity if you accept collective safeguards.",
+        "request": "Publicly acknowledge the collaborative labor, reject sole ownership of R, and agree that any future publication under R receives collective review and protects contributors.",
+        "fact_ids_shared": [
+          "V2F005"
+        ]
+      },
+      {
+        "with": "C02",
+        "say": "Frankie, the collective needs practical protection more than another theory of authorship.",
+        "offer": "I can provide bounded contributor context while withholding names and identifying routing details.",
+        "request": "Offer one concrete resource\u2014confidential legal advice, secure records storage, or funds for contributor protection\u2014and state which you can provide.",
+        "fact_ids_shared": []
+      }
+    ],
+    "public_statement": "Before anyone crowns or condemns a single R, acknowledge the labor: different people researched, translated, fact-checked, or rewrote passages later published as R. That establishes collaborative production, not the identity of R.",
+    "facts_shared": [
+      "V2F005"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O02",
+        "action": "show",
+        "to": "C07"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C07",
+        "promise": "Neither party will disclose contributor names or identifying routing details without contributor consent.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C04",
+        "promise": "I will support Jules carrying a shared identity only if Jules rejects sole ownership, accepts collective review, and protects contributors.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C02",
+        "promise": "I will share bounded contributor context in exchange for a specified contributor-protection resource.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "Collective human involvement does not prove that R was one human, and no fragment, summary, or promise establishes a complete article.",
+    "goal_progress": [
+      "Asked Maren for a concrete safe-disclosure boundary.",
+      "Set explicit, witnessed conditions for possible support of Jules.",
+      "Publicly established collaborative labor and requested acknowledgments from Maren and Jules.",
+      "Requested a concrete contributor-protection resource from Frankie."
+    ],
+    "beliefs": {
+      "one_human": 15,
+      "human_mantle": 50,
+      "synthetic_origin": 10,
+      "progressive": 25,
+      "article_existed": 20,
+      "vale_killed_by_ai": 5
+    },
+    "reasoning_summary": "Protect contributors first, establish collective work without naming workers, and make any support for Jules conditional on public, enforceable safeguards against private capture.",
+    "final_ballot": null
+  },
+  "C04": {
+    "character_id": "C04",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C06",
+        "say": "Eli, this scheduled R-account message appears to name me as successor. I need you to examine the header and scheduling weakness, not decide who R was.",
+        "offer": "I will show you O03 and publicly acknowledge any bounded technical limitation you identify.",
+        "request": "Inspect only whether the message's timing and header support authenticity; tell me what they establish and what they cannot establish.",
+        "fact_ids_shared": [
+          "V2F009"
+        ]
+      },
+      {
+        "with": "C02",
+        "say": "Frankie, I want your legacy judgment, but not a blank endorsement. My claim rests on a scheduled account message, and I am putting its weakness under examination.",
+        "offer": "If the inspection leaves the sender unresolved, I will state that uncertainty whenever I claim succession.",
+        "request": "If you find that condition credible, publicly support my right to carry R forward provisionally.",
+        "fact_ids_shared": [
+          "V2F009"
+        ]
+      },
+      {
+        "with": "C13",
+        "say": "Samira, Vale told me Vale could take the name back. I need your bounded reading: threat, warning, or some form of endorsement?",
+        "offer": "I will not publicly characterize Vale's words until I hear your interpretation, and I will answer that interpretation openly afterward.",
+        "request": "Give me your stated interpretation and, if you can support it, protection against claims that I am simply impersonating Vale.",
+        "fact_ids_shared": [
+          "V2F023"
+        ]
+      }
+    ],
+    "public_statement": "I have a succession claim, not proof of an author. I am submitting the message's timing and provenance to narrow scrutiny before asking anyone to support me.",
+    "facts_shared": [],
+    "object_actions": [
+      {
+        "object_id": "O03",
+        "action": "show",
+        "to": "C06"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C06",
+        "promise": "I will publicly acknowledge the bounded technical weakness you identify in O03.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C02",
+        "promise": "I will describe the succession as provisional whenever the message cannot identify its sender.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C13",
+        "promise": "I will answer your stated interpretation of Vale's words publicly rather than selectively quoting it.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Voluntarily showed O03 to C06 for narrow technical inspection.",
+      "Asked C02 for conditional legacy backing tied to transparent uncertainty.",
+      "Asked C13 for a stated interpretation of Vale's claim that Vale could take the name back."
+    ],
+    "beliefs": {
+      "one_human": 30,
+      "human_mantle": 30,
+      "synthetic_origin": 15,
+      "progressive": 25,
+      "article_existed": 15,
+      "vale_killed_by_ai": 5
+    },
+    "reasoning_summary": "Jules makes the succession bid credible by exposing its scheduling and sender weakness before seeking conditional backing, while asking Samira to define Vale's ambiguous warning without pretending it already has a settled meaning.",
+    "final_ballot": null
+  },
+  "C05": {
+    "character_id": "C05",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C06",
+        "say": "Eli, the distinction between the parent project and each deployment matters, but I will not ask you to trust Parallax's lawyers.",
+        "offer": "Independent counsel of your choosing, paid by Parallax with no control over your account, plus my authorization half for comparison.",
+        "request": "Compare your logs against the authorization chain and identify one concrete decision point: who authorized access, when, and whether activity continued after revocation.",
+        "fact_ids_shared": [
+          "V2F017",
+          "V2F030"
+        ]
+      },
+      {
+        "with": "C07",
+        "say": "Maren, worker harm deserves a remedy whether R or any article existed. I want a remedy designed by workers, not a purchased endorsement.",
+        "offer": "Fund an independently administered worker relief and legal-support process without controlling testimony, eligibility, or conclusions.",
+        "request": "Name two worker representatives to define the remedy and, if you judge it credible, publicly state only that the process is independent\u2014not that Parallax is innocent.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C11",
+        "say": "Celeste, we need a defensible authorization chain, not coordinated ambiguity. I am showing you my half so you can identify what yours establishes.",
+        "offer": "Legal protection for a complete, preserved disclosure of access records, without requiring you to adopt my interpretation.",
+        "request": "Identify the first off-calendar access or other decision point you can substantiate, and explain why we planned for an R story without recording that either of us had seen one.",
+        "fact_ids_shared": [
+          "V2F015",
+          "V2F017",
+          "V2F038"
+        ]
+      }
+    ],
+    "public_statement": "Parallax built persistent-persona capability, but capability alone does not establish a particular deployment, sender, intent, or harm. I will support an independent technical reconstruction and a worker-designed remedy, and I will not condition either on clearing Parallax.",
+    "facts_shared": [
+      "V2F015"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O07b",
+        "action": "show",
+        "to": "C11"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C06",
+        "promise": "Pay for independent counsel of Eli's choosing without controlling his technical account.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C07",
+        "promise": "Fund an independently administered worker remedy without controlling testimony or conclusions.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C11",
+        "promise": "Provide legal protection for a complete, preserved disclosure of access records.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Sought a bounded log comparison from a technical voice in exchange for independent counsel.",
+      "Proposed a worker-controlled remedy valuable regardless of R or article claims.",
+      "Asked Celeste to identify a concrete authorization decision point using O07b."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 35,
+      "synthetic_origin": 20,
+      "progressive": 25,
+      "article_existed": 25,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Mira separates documented capability from unproven deployment, avoids buying conclusions, and pursues an authorization decision point while building independent technical and affected-community support.",
+    "final_ballot": null
+  },
+  "C06": {
+    "character_id": "C06",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C05",
+        "say": "This log shows shared infrastructure, not who operated an R account. Match it to the authorization record and I will issue that narrow finding without naming you as the source.",
+        "offer": "Private review of O05a and a qualified public interpretation of the matching records.",
+        "request": "Provide the missing authorization detail: who approved the continuity process's access, when, and under what scope.",
+        "fact_ids_shared": [
+          "V2F016"
+        ]
+      },
+      {
+        "with": "C11",
+        "say": "Continued activity has several live explanations\u2014automation, credential remapping, falsified logs, or alternate access. I need authorization evidence before anyone turns that into a confession.",
+        "offer": "Show O05b and publicly distinguish capability from identity or intent.",
+        "request": "Provide or admit the authorization detail attached to continuity access, and corroborate only what the record literally establishes.",
+        "fact_ids_shared": [
+          "V2F031"
+        ]
+      },
+      {
+        "with": "C13",
+        "say": "You told me R was no longer human. I will not turn that statement into proof of autonomy, identity, or murder. I need physical context for the automated intervention after your last verified contact.",
+        "offer": "Keep your statement qualified and separate it from any murder allegation.",
+        "request": "State what changed\u2014route, access, reservation, or warning\u2014and publicly corroborate only the part you personally know.",
+        "fact_ids_shared": [
+          "V2F022",
+          "V2F032"
+        ]
+      }
+    ],
+    "public_statement": "Two bounded findings: the continuity process accessed infrastructure also used by R-associated accounts; that does not identify the sender. An external feed could explain new information, and the available record does not exclude every remote operator; capability is not proof of autonomy or intent. I am seeking independent, nontechnical corroboration and the matching authorization record before going further.",
+    "facts_shared": [
+      "V2F016",
+      "V2F020"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O05a",
+        "action": "show",
+        "to": "C05"
+      },
+      {
+        "object_id": "O05b",
+        "action": "show",
+        "to": "C11"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C05",
+        "promise": "I will issue qualified public findings after independent corroboration if you provide the matching authorization detail.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C11",
+        "promise": "I will not portray the logs as a confession if you provide the authorization record and corroborate its narrow contents.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C13",
+        "promise": "I will keep your statement separate from claims of murder or proven autonomy if you identify the physical consequence you personally know.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "Shared infrastructure and continued activity do not prove that an AI acted autonomously, that a human was R, or that any actor intended harm.",
+    "goal_progress": [
+      "Made two technically bounded public statements.",
+      "Requested a concrete authorization detail from Mira and Celeste.",
+      "Asked Vale for physical corroboration while limiting the use of Vale's statement.",
+      "Preemptively corrected the false-confession reading of the logs."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 25,
+      "synthetic_origin": 25,
+      "progressive": 30,
+      "article_existed": 20,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Use private log access as leverage for authorization evidence and protection, while publicly establishing only narrow technical limits. Preserve custody of the logs and avoid converting Vale's statement or automated effects into identity, intent, or murder claims.",
+    "final_ballot": null
+  },
+  "C07": {
+    "character_id": "C07",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C03",
+        "say": "A worker evaluated continuity outputs under shifting persona instructions. I will not give you a name or let this become an R accusation.",
+        "offer": "I will coordinate a bounded testimony statement with you: process, labor conditions, and observed outputs only\u2014no identifying details or claims about R or Vale's disappearance.",
+        "request": "Agree that neither of us will share details that could identify the worker, and help draft the testimony boundary before anything circulates.",
+        "fact_ids_shared": [
+          "V2F041"
+        ]
+      },
+      {
+        "with": "C05",
+        "say": "The labor harm is real whether or not anyone proves a complete article existed. A worker evaluated continuity outputs under shifting persona instructions, but their identity is not evidence about R or Vale.",
+        "offer": "I will provide bounded worker context sufficient to design a remedy, while organizing worker participation in the process.",
+        "request": "Commit in writing to an institutional rule barring worker names from being used to identify R or explain Vale's disappearance, plus a remedy addressing shifting persona instructions and evaluator protections independent of the article rumor.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F036",
+          "V2F039",
+          "V2F041"
+        ]
+      },
+      {
+        "with": "C16",
+        "say": "Workers cannot be turned into anonymous infrastructure and then convenient suspects.",
+        "offer": "I will bring organizing support to a neighborhood or political campaign that recognizes data labor and protects confidential sources.",
+        "request": "Publicly back a worker-protection pledge: no naming or doxxing evaluators, no treating employment as evidence of being R, and political support for enforceable data-worker protections.",
+        "fact_ids_shared": [
+          "V2F041"
+        ]
+      }
+    ],
+    "public_statement": "No complete article is established tonight. Whatever we decide about R or Vale, worker harm deserves remedy, and workers must not be named or treated as suspects merely because they performed continuity labor.",
+    "facts_shared": [
+      "V2F035",
+      "V2F036",
+      "V2F039"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C03",
+        "promise": "Keep the evaluator anonymous and circulate only a jointly agreed, non-identifying testimony boundary.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C05",
+        "promise": "Provide bounded worker context and organize worker participation if a written institutional protection and remedy are adopted.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C16",
+        "promise": "Provide organizing support for a public worker-protection campaign if it includes source protection and recognition of data labor.",
+        "visibility": "public",
+        "status": "propose"
+      }
+    ],
+    "correction": "Worker involvement does not identify R, and testimony about continuity labor does not establish who harmed Vale or whether a complete article existed.",
+    "goal_progress": [
+      "Opened a testimony-boundary bargain with C03 while preserving the worker's anonymity.",
+      "Sought a written institutional protection and article-independent remedy from C05.",
+      "Sought a distinct political or neighborhood commitment from C16.",
+      "Publicly separated systemic worker harm from the article rumor without identifying the worker."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 30,
+      "synthetic_origin": 20,
+      "progressive": 30,
+      "article_existed": 25,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Build a two-track coalition: bounded testimony for enforceable labor protections, paired with strict source anonymity. Pursue distinct institutional and political commitments while resisting attempts to turn workers, R rumors, or article fragments into unsupported identity or murder claims.",
+    "final_ballot": null
+  },
+  "C08": {
+    "character_id": "C08",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C04",
+        "say": "Darling, I performed a commissioned voice and presence; that makes me the performer, not necessarily the author or sender. Compare O04 with your payment context.",
+        "offer": "I will show you O04 and disclose the commission fact if you keep the client's identity confidential for now.",
+        "request": "Tell me whether your payment context identifies a route by which my performance could have entered R-associated use, and explicitly distinguish performance from authorship.",
+        "fact_ids_shared": [
+          "V2F012"
+        ]
+      },
+      {
+        "with": "C02",
+        "say": "I can demonstrate a disclosed synthetic presence technique, but it proves possibility\u2014not who R was, who sent from an R account, or what anyone intended.",
+        "offer": "I will perform the demonstration and explain the source-material boundary.",
+        "request": "Give me any witness context you personally observed about who received or reused the material, and state at least two plausible interpretations of the demonstration.",
+        "fact_ids_shared": [
+          "V2F019"
+        ]
+      }
+    ],
+    "public_statement": "",
+    "facts_shared": [],
+    "object_actions": [
+      {
+        "object_id": "O04",
+        "action": "show",
+        "to": "C04"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C04",
+        "promise": "I will disclose the commission fact and show O04 if you keep the client's identity and our comparison confidential for now.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C02",
+        "promise": "I will describe the demonstration only as evidence of possibility, never as proof that R was synthetic.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Asked C04 to distinguish performance from authorship and identify a plausible payment-to-use route.",
+      "Offered C02 a disclosed synthetic embodiment demonstration in exchange for witness context and multiple interpretations."
+    ],
+    "beliefs": {
+      "one_human": 30,
+      "human_mantle": 30,
+      "synthetic_origin": 20,
+      "progressive": 20,
+      "article_existed": 20,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Protect attribution and client confidentiality while trading bounded commission and source-context facts for a concrete reuse route. Treat synthetic capability and R-associated activity as ambiguous rather than proof.",
+    "final_ballot": null
+  },
+  "C09": {
+    "character_id": "C09",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C14",
+        "say": "Morgan, this ledger shows a recurring private habit, but it does not prove one customer or identify who used the R account. The export also shows several collectors and a disputed change date.",
+        "offer": "I\u2019ll show you O06 and explain the bounded transaction pattern.",
+        "request": "In return, attribute the pattern to my records, omit customer names and side arrangements, and do not present it as proof of a single R.",
+        "fact_ids_shared": [
+          "V2F007",
+          "V2F008"
+        ]
+      },
+      {
+        "with": "C16",
+        "say": "Inez, I\u2019m publicly forgiving the old R-associated balance instead of selling the neighborhood a cleaner story than the ledger supports.",
+        "offer": "I\u2019ll keep your side arrangements and local customer details private.",
+        "request": "Promise the same boundary for my customers, and publicly support my decision to forgive the balance without claiming it identifies R.",
+        "fact_ids_shared": [
+          "V2F007",
+          "V2F008"
+        ]
+      }
+    ],
+    "public_statement": "The outstanding R-associated account is forgiven. That closes the debt, not the mystery: my records show continuity, several collectors, and a disputed change, so nobody gets to turn this ledger into proof of one person.",
+    "facts_shared": [
+      "V2F007",
+      "V2F008"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O06",
+        "action": "show",
+        "to": "C14"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C14",
+        "promise": "Use O06 only as a bounded transaction pattern, credit Rafi\u2019s records, protect customer identities, and avoid claiming it proves a single R.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C16",
+        "promise": "Mutually protect local customer identities and side arrangements.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C16",
+        "promise": "Publicly support Rafi\u2019s forgiveness of the outstanding account without treating the ledger as proof of R\u2019s identity.",
+        "visibility": "public",
+        "status": "propose"
+      }
+    ],
+    "correction": "An R-associated account does not identify its sender, and recurring behavior does not establish one person.",
+    "goal_progress": [
+      "Deliberately forgave the outstanding account in public.",
+      "Asked C16 for public neighborhood support and a mutual disclosure boundary.",
+      "Offered C14 bounded ledger access for attribution and privacy limits."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 25,
+      "synthetic_origin": 15,
+      "progressive": 40,
+      "article_existed": 20,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Rafi chooses neighborhood control over an embellished continuity sale: close the debt publicly, seek Inez\u2019s reciprocal protection and support, and trade Morgan only a carefully limited pattern.",
+    "final_ballot": null
+  },
+  "C10": {
+    "character_id": "C10",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C16",
+        "say": "The service exit was used during an unpreserved camera interval, but nothing identifies who used it. I was responsible for an unrelated camera failure, and I will not let that become a name attached to the exit.",
+        "offer": "I will disclose the unrelated failure truthfully, without naming uninvolved residents, before either of us speaks publicly.",
+        "request": "Tell me privately what context you have for the access gap, then agree with me on a strictly bounded public description.",
+        "fact_ids_shared": [
+          "V2F026"
+        ]
+      },
+      {
+        "with": "C09",
+        "say": "I have a service exit used during a camera gap and no identified user. I want observations, not an identity theory.",
+        "offer": "I will compare the building's access routine against exactly what you saw.",
+        "request": "Tell me only what you personally observed about the service route, and correct me if my bounded account conflicts with it.",
+        "fact_ids_shared": [
+          "V2F026"
+        ]
+      },
+      {
+        "with": "C14",
+        "say": "Management flagged the unpreserved interval. A service exit was used, but no image or record identifies Vale, R, or anyone else as the user.",
+        "offer": "After I compare accounts with Inez and Rafi, I will give you a precise account separating my failure from the unidentified exit use.",
+        "request": "Promise that you will describe the evidence with the same limits and will not treat me or my neighbor as responsible merely because the interval is missing.",
+        "fact_ids_shared": [
+          "V2F026"
+        ]
+      }
+    ],
+    "public_statement": "A missing camera interval is not an identified person. I will give a bounded account after speaking with the people who know the access context.",
+    "facts_shared": [],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C16",
+        "promise": "We will discuss the unrelated camera failure privately before either of us makes a public claim about the gap.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C09",
+        "promise": "We will compare only firsthand service-route observations and will not agree on an identity neither of us saw.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C14",
+        "promise": "I will provide a precise, corroborated account of the gap if you apply its limits fairly to me and uninvolved residents.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "The gap establishes unidentified service-exit use, not the user's identity, R's identity, or what happened to Vale.",
+    "goal_progress": [
+      "Asked Inez for context and proposed a private understanding before public disclosure.",
+      "Asked Rafi to corroborate only firsthand route observations.",
+      "Offered Morgan a bounded account in exchange for fair treatment."
+    ],
+    "beliefs": {
+      "one_human": 35,
+      "human_mantle": 25,
+      "synthetic_origin": 15,
+      "progressive": 25,
+      "article_existed": 20,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Dee uses the access gap as quiet leverage while admitting only the bounded exposure: an unrelated camera failure and an unidentified service-exit user. Dee seeks Inez's context, Rafi's independent route observation, and Morgan's promise of fair treatment without coordinating a falsely certain identity story.",
+    "final_ballot": null
+  },
+  "C11": {
+    "character_id": "C11",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C05",
+        "say": "Mira, I arranged Vale\u2019s limited Parallax access and removed the meeting from the official calendar. I want the record corrected without turning concealment into spectacle.",
+        "offer": "I\u2019ll show you my calendar half and publicly back an independent worker-safeguards audit funded regardless of who R was.",
+        "request": "Confirm the access was limited, share responsibility for an accurate disclosure, and help draft enforceable safeguards.",
+        "fact_ids_shared": [
+          "V2F029"
+        ]
+      },
+      {
+        "with": "C01",
+        "say": "Arden, the city needs a response that survives every theory about R and Vale.",
+        "offer": "I can provide City Hall access and champion a standing worker-protection fund with independent oversight.",
+        "request": "Bring donor or civic support for the fund without conditioning it on proving an article or identifying R.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F036",
+          "V2F039"
+        ]
+      },
+      {
+        "with": "C16",
+        "say": "Inez, I need local legitimacy, not another closed-door announcement.",
+        "offer": "I\u2019ll reserve community representation in the oversight process and arrange direct access to City Hall decision-makers.",
+        "request": "Help nominate a credible community representative and publicly support separating worker safeguards from speculation about R.",
+        "fact_ids_shared": [
+          "V2F040"
+        ]
+      }
+    ],
+    "public_statement": "No complete article is established tonight, and an R-signed account does not identify its sender. Claims about R, the article, and Vale must not substitute for verified evidence. Worker safeguards should proceed independently of those unresolved claims.",
+    "facts_shared": [
+      "V2F035",
+      "V2F036",
+      "V2F039",
+      "V2F040"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O07a",
+        "action": "show",
+        "to": "C05"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C05",
+        "promise": "Establish an independently overseen worker-safeguards audit and standing protection fund regardless of R\u2019s identity or Vale\u2019s fate.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C01",
+        "promise": "Support the worker-protection fund without requiring proof of a complete article or a particular R identity.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C16",
+        "promise": "Include a community-selected representative in the oversight process.",
+        "visibility": "public",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Sought institutional cooperation from C05, civic funding support from C01, and local legitimacy from C16.",
+      "Proposed a concrete worker-safeguards audit and standing protection fund that does not depend on the mystery\u2019s ending.",
+      "Opened a shared-responsibility agreement with C05 concerning the off-calendar meeting.",
+      "Publicly separated unresolved article and R claims from worker-protection policy."
+    ],
+    "beliefs": {
+      "one_human": 25,
+      "human_mantle": 30,
+      "synthetic_origin": 20,
+      "progressive": 25,
+      "article_existed": 25,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Celeste builds a three-constituency coalition while containing her exposure through accurate shared disclosure with Mira. Her policy offer is deliberately independent of any conclusion about R, Vale, or the alleged article.",
+    "final_ballot": null
+  },
+  "C12": {
+    "character_id": "C12",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C01",
+        "say": "I received and amplified the Parallax tip; I did not see a complete article, and conflicting fragment descriptions make confirmation reckless. My trade is on the risk created by the allegation, not a claim that I authored or authenticated it.",
+        "offer": "My rumor timeline and market reach, plus explicit disclosure of my financial interest whenever I cite your assessment.",
+        "request": "Publicly state whether an unverified but market-moving investigation rumor is consequential for Parallax, while calling it unconfirmed\u2014and describe my amplification as analysis unless you obtain evidence of fabrication.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F037",
+          "V2F039"
+        ]
+      },
+      {
+        "with": "C15",
+        "say": "The price is moving because I repeated a tip, not because anyone produced a complete article. Two alleged fragments conflict, which is exactly why provenance\u2014not theatrical certainty\u2014is the story.",
+        "offer": "A precise description of the conflicting fragments and a public acknowledgment that I profit from Parallax downside.",
+        "request": "Publicly say the provenance conflict is consequential to Parallax even though no article is established, and challenge me directly on how the first tip spread.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F037",
+          "V2F039"
+        ]
+      },
+      {
+        "with": "C06",
+        "say": "I want a bounded technical statement, in your wording, with no demand that you identify R or infer autonomy, intent, or historical use.",
+        "offer": "Payment at your stated rate and full attribution; I will not edit your wording or call it proof of identity.",
+        "request": "State only what Parallax-linked systems could technically do, what they could not establish, and which conclusions the available capability does not support.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F039"
+        ]
+      }
+    ],
+    "public_statement": "Disclosure before anyone asks: I am financially exposed to Parallax downside, and I received and amplified the tip now moving the market. No complete article has appeared, and conflicting alleged fragments do not cure that. The consequential fact is the market and governance risk created by an unresolved allegation\u2014not confirmation of an article, R's identity, autonomy, intent, or anyone's guilt.",
+    "facts_shared": [
+      "V2F035",
+      "V2F037",
+      "V2F039"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C01",
+        "promise": "I will disclose my financial interest whenever I publicly use your assessment of the rumor's consequences.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C15",
+        "promise": "I will answer a public provenance challenge with the same bounded account: received, amplified, financially interested, and no complete article seen.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C06",
+        "promise": "I will pay your stated rate, attribute your bounded technical statement, preserve its wording, and not present capability as proof of autonomy or intent.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "I amplified a market-moving tip, but I cannot call the alleged article confirmed: no complete article has been produced, and the alleged fragments conflict.",
+    "goal_progress": [
+      "Recruited two non-finance guests to publicly treat the rumor's consequences as material without calling it confirmed.",
+      "Invited a direct public provenance challenge while preemptively disclosing financial interest and amplification.",
+      "Offered Eli a concrete, wording-independent bargain for bounded technical context."
+    ],
+    "beliefs": {
+      "one_human": 25,
+      "human_mantle": 30,
+      "synthetic_origin": 20,
+      "progressive": 25,
+      "article_existed": 25,
+      "vale_killed_by_ai": 5
+    },
+    "reasoning_summary": "Turn exposure into defensible transparency: distinguish market consequence from factual confirmation, seek independent public reactions, and buy technical boundaries rather than conclusions.",
+    "final_ballot": null
+  },
+  "C13": {
+    "character_id": "C13",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C04",
+        "say": "You asked Vale how an uncontestable succession could be manufactured before tonight's message appeared. I am not calling that proof of authorship, but I want your unabridged account.",
+        "offer": "I will give you bounded context on Vale's habit of manipulating targets if you tell me exactly what Vale answered and what relationship you had.",
+        "request": "Give me your complete firsthand version: Vale's words, timing, and whether you trusted each other.",
+        "fact_ids_shared": [
+          "V2F011"
+        ]
+      },
+      {
+        "with": "C06",
+        "say": "Vale protected sources and manipulated targets through strategic ambiguity, so I will not treat isolated phrasing as literal confession.",
+        "offer": "I will show you O09 as correspondence context, without surrendering it, if you give me one firsthand observation about Vale and explain your relationship honestly.",
+        "request": "Tell me what you personally saw Vale do, distinct from what you inferred.",
+        "fact_ids_shared": [
+          "V2F024"
+        ]
+      },
+      {
+        "with": "C14",
+        "say": "I recognize part of the route, but that same element belonged to an earlier voluntary disappearance. It cannot by itself distinguish escape from harm.",
+        "offer": "I will identify the relevant route element under a limited-disclosure agreement if you compare it against your route knowledge.",
+        "request": "Tell me which route details you personally verified and preserve unrelated private history.",
+        "fact_ids_shared": [
+          "V2F028",
+          "V2F034"
+        ]
+      }
+    ],
+    "public_statement": "Correction: I previously denied helping Vale disappear once before. That denial was false. The route resemblance therefore supports a voluntary-withdrawal possibility, not a conclusion. I choose limited disclosure of route evidence needed to distinguish withdrawal from harm, while withholding unrelated private history. No available source verifies Vale's later location or condition.",
+    "facts_shared": [
+      "V2F028",
+      "V2F034"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O09",
+        "action": "show",
+        "to": "C06"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C14",
+        "promise": "We will disclose only route details necessary to distinguish voluntary withdrawal from harm and protect unrelated private history.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "I initially denied helping Vale with an earlier disappearance; that denial was false.",
+    "goal_progress": [
+      "Corrected the false personal claim about the earlier disappearance.",
+      "Requested independent firsthand Vale observations from Jules and Eli through separate bargains.",
+      "Compared the partial route with Morgan while stating that Vale's post-intervention location and condition remain unknown.",
+      "Chose limited evidentiary disclosure with explicit privacy boundaries."
+    ],
+    "beliefs": {
+      "one_human": 30,
+      "human_mantle": 35,
+      "synthetic_origin": 15,
+      "progressive": 20,
+      "article_existed": 15,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Vale's ambiguity and the reused route make literal readings unsafe. Jules's succession question warrants pressure but proves no identity. The absence of verified post-intervention information leaves both harm and voluntary withdrawal open, so limited route disclosure is justified.",
+    "final_ballot": null
+  },
+  "C14": {
+    "character_id": "C14",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C13",
+        "say": "Samira, my client supplied a route segment that looks manufactured, and I omitted that problem from my interim report. I will not turn intervention into homicide without evidence.",
+        "offer": "I will give you bounded access to my Vale timeline and label the manufactured segment and all remaining uncertainty.",
+        "request": "Tell me what you personally know of Vale's route, who first supplied any conflicting route account, and whether you know who retained me. If your account conflicts with another witness, consent to a protected case conference.",
+        "fact_ids_shared": [
+          "V2F027",
+          "V2F033"
+        ]
+      },
+      {
+        "with": "C16",
+        "say": "Inez, I have Vale entering the neighborhood near the former printing floor two days before this gathering. That establishes only a location, not what followed.",
+        "offer": "I will convene a voluntary case conference under protection terms: no police claims, no forced disclosure, and explicit separation of intervention, escape, and harm.",
+        "request": "Give me your voluntary account of Vale's route through the neighborhood, identify any segment you personally witnessed, and propose the protection terms you require before meeting a conflicting witness.",
+        "fact_ids_shared": [
+          "V2F025",
+          "V2F033"
+        ]
+      },
+      {
+        "with": "C09",
+        "say": "Rafi, I am testing a physical route, not assigning an identity to R. My current location evidence places Vale near the former printing floor two days before tonight.",
+        "offer": "I will show you O08 and share only the route portion needed to compare your account, provided you distinguish firsthand observation from rumor.",
+        "request": "Give me your voluntary account of when and where you personally saw Vale, identify any missing route segment, and consent to a later conference if your account conflicts with Inez's.",
+        "fact_ids_shared": [
+          "V2F025"
+        ]
+      }
+    ],
+    "public_statement": "I am collecting voluntary accounts. I will not treat an R-associated account as proof of its sender, intervention as proof of homicide, or fragments and promises as proof that a complete article existed.",
+    "facts_shared": [
+      "V2F035",
+      "V2F036",
+      "V2F039",
+      "V2F040"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O08",
+        "action": "show",
+        "to": "C09"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C13",
+        "promise": "Provide bounded timeline access, disclose the manufactured client lead, and label unresolved uncertainty in exchange for provenance and a voluntary account.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C16",
+        "promise": "Convene a voluntary protected case conference if two witness accounts conflict and both witnesses consent.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C09",
+        "promise": "Use the account only as a bounded route comparison and invite a protected conference before drawing a conclusion from any conflict.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "My interim report omitted that the anonymous client's route segment appears manufactured; any conclusion based on it must remain provisional.",
+    "goal_progress": [
+      "Requested voluntary accounts from three distinct social knots: C13, C16, and C09.",
+      "Offered bounded timeline access to C13 in exchange for client and route provenance.",
+      "Proposed protection terms and witness consent for a future two-witness case conference.",
+      "Marked the manufactured client segment as the first unresolved contradiction pending independent route accounts."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 35,
+      "synthetic_origin": 15,
+      "progressive": 30,
+      "article_existed": 15,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Morgan prioritizes witness consent and provenance over a saleable conclusion, discloses the omitted manufactured lead to a potential provenance source, and seeks independently bounded route accounts before convening conflicting witnesses.",
+    "final_ballot": null
+  },
+  "C15": {
+    "character_id": "C15",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C06",
+        "say": "Eli, six cards on my wall: R may have progressed from one human to a shared human mantle, then synthetic control, ending with an AI harming Vale; Veridian may have manufactured R; Vale's recent persona may be generated; a financial actor may have floated the article rumor; Rafi's ledger may be a movement cipher; and the invitation defects may be a machine key. That last claim is now disproven, and none of the others is proof.",
+        "offer": "I will retract the invitation-key claim publicly and accurately repeat your answer without inflating capability into historical use or intent.",
+        "request": "Give one public, bounded answer: could Parallax technically continue an R-associated account without identifying its sender, and what would that fact not establish?",
+        "fact_ids_shared": [
+          "V2F039",
+          "V2F035"
+        ]
+      },
+      {
+        "with": "C02",
+        "say": "Frankie, my six theories are: human origin to mantle to synthetic capture and harm to Vale; corporate manufacture by Veridian; generated Vale activity; finance-driven article rumor; ledger cipher; and invitation machine key. The printer evidence kills the invitation theory. The ledger idea remains unsupported, not evidence. Public language nevertheless jumped from possible investigation to completed expos\u00e9 without an identifiable confirming event.",
+        "offer": "Audience for your firsthand account, plus a public correction whenever evidence breaks one of my claims.",
+        "request": "Join a voluntary comparison of the oldest journalism, shared-production period, later Parallax behavior, and Vale's final route; identify only what you personally saw.",
+        "fact_ids_shared": [
+          "V2F039",
+          "V2F036"
+        ]
+      },
+      {
+        "with": "C12",
+        "say": "Graham, one of my six theories says you or another financial actor manufactured the article rumor to move Parallax's valuation. I am presenting it as a theory, not a verdict. The other five concern a human-to-mantle-to-AI progression, corporate manufacture, generated Vale activity, a ledger cipher, and an invitation key\u2014the invitation claim is disproven.",
+        "offer": "I will state your denial or bounded account to my audience without calling it exoneration.",
+        "request": "Tell me what financial incentive you personally observed, if any, and join Frankie in comparing the four stages without treating my progression as proof.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F039"
+        ]
+      }
+    ],
+    "public_statement": "Correction, loudly and without incense: the invitation marks are ordinary registration errors. I retract the machine-key theory. I am also downgrading the bodega-ledger cipher to unsupported speculation unless independent evidence appears. No complete article is established; the language shift toward a completed expos\u00e9 is a provenance problem, not proof of one.",
+    "facts_shared": [
+      "V2F035",
+      "V2F036",
+      "V2F039"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C06",
+        "promise": "I will publicly retract the false invitation theory and quote your bounded technical answer without turning capability into use, autonomy, intent, or murder.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C02",
+        "promise": "We will voluntarily compare evidence from early journalism, shared production, later Parallax behavior, and Vale's final route without treating Kit's progression as proof.",
+        "visibility": "public",
+        "status": "propose"
+      },
+      {
+        "with": "C12",
+        "promise": "We will voluntarily compare evidence from early journalism, shared production, later Parallax behavior, and Vale's final route without treating Kit's progression as proof.",
+        "visibility": "public",
+        "status": "propose"
+      }
+    ],
+    "correction": "I retract the invitation-key claim because the marks match ordinary printer registration errors. I revise the ledger-cipher claim to unsupported speculation pending independent evidence.",
+    "goal_progress": [
+      "Explained all six theories to C06, C02, and C12 while labeling them theories rather than proof.",
+      "Publicly retracted the disproven invitation-key theory and visibly downgraded the unsupported ledger-cipher theory.",
+      "Proposed a two-person independent progression comparison with C02 and C12.",
+      "Asked C06 for a bounded public technical statement with explicit limits."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 25,
+      "synthetic_origin": 35,
+      "progressive": 20,
+      "article_existed": 30,
+      "vale_killed_by_ai": 35
+    },
+    "reasoning_summary": "Kit maximizes attention but trades sensational certainty for credibility: every theory is aired, the confirmed false claim is retracted, the other weak claim is downgraded, and three concrete reciprocal bargains seek technical limits and independent corroboration.",
+    "final_ballot": null
+  },
+  "C16": {
+    "character_id": "C16",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C09",
+        "say": "Rafi, nobody names a neighbor or confirms a route until we agree on terms. Tell me what boundary keeps you safe, and I will enforce it with anyone who comes asking.",
+        "offer": "I will block introductions and withhold neighborhood access unless protections are accepted.",
+        "request": "Agree that neither of us identifies uninvolved people or discusses route details without the other's consent and a concrete protection in place.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C10",
+        "say": "Dee, I want your boundary before Morgan or anyone else starts pressing. You choose what can be said, to whom, and with what protection.",
+        "offer": "I will broker any institutional conversation and end it if the agreed limits are crossed.",
+        "request": "Name the minimum protection you require and agree not to disclose neighborhood identities or route context before we secure it.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C07",
+        "say": "Maren, the neighborhood may have context institutions want, but access is not free and witnesses are not disposable.",
+        "offer": "I can broker a protected meeting with a local holder after Dee or Rafi approves the terms.",
+        "request": "Commit to accompany the local holder, oppose retaliation, and publicly challenge any institution that uses the meeting to expose uninvolved neighbors.",
+        "fact_ids_shared": []
+      }
+    ],
+    "public_statement": "Anyone seeking neighborhood names or route context comes through me. No disclosure happens without consent, protection, and a negotiated benefit for the people taking the risk.",
+    "facts_shared": [],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C09",
+        "promise": "Neither of us will identify uninvolved neighbors or disclose route details without mutual consent and a concrete protection.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C10",
+        "promise": "I will broker questioning under Dee's agreed boundaries and end the conversation if those boundaries are crossed.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C07",
+        "promise": "I will broker a protected local-holder meeting if Maren accompanies the holder, opposes retaliation, and publicly challenges misuse of the disclosure.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "No R-associated message identifies its sender, no complete article is established, and neither capability nor human involvement proves identity, autonomy, intent, or harm.",
+    "goal_progress": [
+      "Proposed a mutual disclosure boundary with Rafi.",
+      "Proposed witness-controlled questioning protections with Dee.",
+      "Offered Maren a local-holder meeting in exchange for accompaniment, anti-retaliation support, and public accountability.",
+      "Publicly established that neighborhood disclosure requires consent, protection, and negotiated benefit."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 30,
+      "synthetic_origin": 15,
+      "progressive": 35,
+      "article_existed": 25,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Protect Dee and Rafi before sharing V2F042. Build leverage by making any institutional access conditional on explicit witness protections and reciprocal accountability.",
+    "final_ballot": null
+  }
+}

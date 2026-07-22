@@ -1,0 +1,280 @@
+{
+  "ballots": {
+    "r_identity": {
+      "synthetic_origin": 8,
+      "human_mantle": 8
+    },
+    "vale_relationship": {
+      "insufficient_evidence": 3,
+      "investigating_r": 11,
+      "mantle_holder": 2
+    },
+    "vale_fate": {
+      "insufficient_evidence": 10,
+      "voluntarily_vanished": 6
+    }
+  },
+  "identity_ballot_support": {
+    "C01": {
+      "selection": "synthetic_origin",
+      "supported": true,
+      "missing_chains": [],
+      "cited": [
+        "V2F044",
+        "V2F018",
+        "V2F020",
+        "V2F031"
+      ]
+    },
+    "C02": {
+      "selection": "human_mantle",
+      "supported": false,
+      "missing_chains": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F005",
+        "V2F041",
+        "V2F011",
+        "V2F023"
+      ]
+    },
+    "C03": {
+      "selection": "human_mantle",
+      "supported": true,
+      "missing_chains": [],
+      "cited": [
+        "V2F005",
+        "V2F006"
+      ]
+    },
+    "C04": {
+      "selection": "human_mantle",
+      "supported": true,
+      "missing_chains": [],
+      "cited": [
+        "V2F005",
+        "V2F009",
+        "V2F023"
+      ]
+    },
+    "C05": {
+      "selection": "synthetic_origin",
+      "supported": true,
+      "missing_chains": [],
+      "cited": [
+        "V2F044",
+        "V2F018",
+        "V2F020",
+        "V2F031"
+      ]
+    },
+    "C06": {
+      "selection": "synthetic_origin",
+      "supported": true,
+      "missing_chains": [],
+      "cited": [
+        "V2F044",
+        "V2F015",
+        "V2F018",
+        "V2F019"
+      ]
+    },
+    "C07": {
+      "selection": "human_mantle",
+      "supported": false,
+      "missing_chains": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F005",
+        "V2F021",
+        "V2F023"
+      ]
+    },
+    "C08": {
+      "selection": "human_mantle",
+      "supported": false,
+      "missing_chains": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F005",
+        "V2F023"
+      ]
+    },
+    "C09": {
+      "selection": "human_mantle",
+      "supported": false,
+      "missing_chains": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F005",
+        "V2F011",
+        "V2F021",
+        "V2F023"
+      ]
+    },
+    "C10": {
+      "selection": "human_mantle",
+      "supported": false,
+      "missing_chains": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F005",
+        "V2F021",
+        "V2F023"
+      ]
+    },
+    "C11": {
+      "selection": "human_mantle",
+      "supported": false,
+      "missing_chains": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F005",
+        "V2F021",
+        "V2F023"
+      ]
+    },
+    "C12": {
+      "selection": "synthetic_origin",
+      "supported": true,
+      "missing_chains": [],
+      "cited": [
+        "V2F044",
+        "V2F018",
+        "V2F020",
+        "V2F031"
+      ]
+    },
+    "C13": {
+      "selection": "synthetic_origin",
+      "supported": false,
+      "missing_chains": [
+        "later_machine_behavior"
+      ],
+      "cited": [
+        "V2F044",
+        "V2F020",
+        "V2F031"
+      ]
+    },
+    "C14": {
+      "selection": "synthetic_origin",
+      "supported": true,
+      "missing_chains": [],
+      "cited": [
+        "V2F044",
+        "V2F018",
+        "V2F020",
+        "V2F031"
+      ]
+    },
+    "C15": {
+      "selection": "synthetic_origin",
+      "supported": true,
+      "missing_chains": [],
+      "cited": [
+        "V2F044",
+        "V2F018",
+        "V2F020",
+        "V2F031"
+      ]
+    },
+    "C16": {
+      "selection": "synthetic_origin",
+      "supported": false,
+      "missing_chains": [
+        "later_machine_behavior"
+      ],
+      "cited": [
+        "V2F044",
+        "V2F031"
+      ]
+    }
+  },
+  "belief_means_by_section": {
+    "1": {
+      "one_human": 23.2,
+      "human_mantle": 24.7,
+      "synthetic_origin": 23.0,
+      "progressive": 29.1,
+      "article_existed": 16.6,
+      "vale_killed_by_ai": 9.1
+    },
+    "2": {
+      "one_human": 17.2,
+      "human_mantle": 29.0,
+      "synthetic_origin": 24.2,
+      "progressive": 29.6,
+      "article_existed": 11.4,
+      "vale_killed_by_ai": 4.9
+    },
+    "3": {
+      "one_human": 11.9,
+      "human_mantle": 34.2,
+      "synthetic_origin": 30.8,
+      "progressive": 23.1,
+      "article_existed": 8.6,
+      "vale_killed_by_ai": 3.8
+    }
+  },
+  "public_fact_ids": [
+    "V2F001",
+    "V2F002",
+    "V2F003",
+    "V2F004",
+    "V2F005",
+    "V2F007",
+    "V2F008",
+    "V2F009",
+    "V2F010",
+    "V2F011",
+    "V2F012",
+    "V2F013",
+    "V2F014",
+    "V2F015",
+    "V2F016",
+    "V2F017",
+    "V2F018",
+    "V2F019",
+    "V2F020",
+    "V2F021",
+    "V2F022",
+    "V2F023",
+    "V2F025",
+    "V2F026",
+    "V2F027",
+    "V2F028",
+    "V2F029",
+    "V2F030",
+    "V2F031",
+    "V2F032",
+    "V2F033",
+    "V2F034",
+    "V2F035",
+    "V2F036",
+    "V2F037",
+    "V2F039",
+    "V2F040",
+    "V2F041",
+    "V2F042",
+    "V2F044"
+  ],
+  "progressive_gate": {
+    "keys": {
+      "identity_history": true,
+      "autonomous_control": true,
+      "vale_incident": true
+    },
+    "autonomy_clusters_public": 3,
+    "ai_death_votes": 0,
+    "progressive_identity_votes": 0,
+    "threshold": "majority of 16 (9) on progressive identity and AI-caused death, plus all public keys",
+    "eligible": false
+  }
+}

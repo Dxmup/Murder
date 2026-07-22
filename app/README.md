@@ -1,48 +1,56 @@
-# App — Player Portal & Host Dashboard
+# V2 App — Opening, Booklets, and Messages
 
-A lightweight web app that delivers character materials and runs the **dynamic inbox** — the game's core mechanic (§10–§12). It **supplements** the room; it does not replace face-to-face play.
+The web app is a small dramaturgical delivery layer. It supports the gathering without becoming the place where players conduct the game.
 
-> **Design principle (§10):** Anything best done human-to-human happens in the room. Anything private, timed, multimedia, tedious, or administrative happens in the app.
+## Player experience
 
-## Scope
+Each player enters a private character code and can access only:
 
-### Player interface (§10)
-Login via **private per-character code**. After login, a player sees **only** their character's data:
-- Name & public role, background, what-they-know, main goal + 2 sub-goals, relationships
-- Private documents, photos, maps, audio, video
-- **Message inbox** (see below)
-- **Personal AI assistant** (character-scoped — see §12 rules)
-- **Final voting interface**
+1. the public opening story and cast list;
+2. their individual character booklet;
+3. their inbox.
 
-### Pre-game content (§10)
-Before the event, limited unlocks: character intro, costume suggestions, public bio, short video, basic relationships, prep guidance. Full private info unlocks at **check-in**.
+The opening can also be projected or read aloud. Booklets must have printable equivalents. The app has no player-to-player chat, AI assistant, inventory, deal tracking, location system, credibility score, ability targeting, or required written replies.
 
-### Host dashboard (§10)
-- Assign player codes & characters; view login status
-- **Trigger messages** (timed / manual / conditional)
-- Release documents & evidence
-- Broadcast public updates; send private updates to selected characters
-- Monitor final submissions; display/calculate results
+## Booklet release
 
-### Dynamic inbox (§11) — the priority feature
-Messages arrive by: predetermined time · host trigger · completion of another event · opening a specific item · host judgement that the room needs momentum. Messages can be **private, public broadcast, or public-with-per-character-variation**. Sources & display-sender can differ from **actual origin** (see `messages.csv` `truth_status`). Design rule: *resolve one uncertainty while creating another.*
+Before the event, the booklet may show public identity, costume guidance, and a short preparation note. At check-in it unlocks private background, wants, leverage, exposure, relationships, starting knowledge, and social suggestions.
 
-### Character-scoped AI assistant (§12)
-Not the GM. Scoped **strictly** to the assigned character: may know that character's sheet, facts, relationships, private docs, public facts released so far, that character's messages, and player-entered notes. Must **never** know other players' private info, the full solution, host-only info, future messages, or the objective meaning of ambiguous facts. Helps organize/interpret; does **not** solve the game. Assistants may carry distinct tone/bias but must not fabricate facts.
+The booklet is reference material. Players should not need to keep it open.
 
-### Explicitly out of scope (for now)
-- **No player-to-player chat** unless testing proves it necessary (§10). Players talk face-to-face.
+## Three-section inbox
 
-## Suggested build (proposal — not locked)
+Messages are organized into:
 
-Repo owner already uses Vercel, so:
+1. The Party and the Absence
+2. Who Was R.?
+3. What Happened to Vale?
 
-- **Next.js (App Router) on Vercel.** Server components for the character portal; server actions / route handlers for host triggers.
-- **Data:** the game spine lives in [`../design/data/`](../design/data/) CSVs during design. For runtime, import into a small DB (Vercel Postgres or SQLite/Turso). Keep CSV as authoring source; generate a seed script.
-- **Auth:** per-character login codes (no accounts). Signed session cookie carrying `character_id`. Host dashboard behind a separate host code + allowlist.
-- **Inbox delivery:** scheduled messages via time checks + host-triggered pushes. Live updates via polling or SSE (avoid heavy realtime infra for a 20-person, 3-hour event).
-- **AI assistant:** server-side calls to the Claude API with a **per-character system prompt** built only from that character's authorized data; hard filter so released-fact scope is enforced server-side, never trusting the client. (See the `claude-api` skill for current model IDs/params before wiring this up.)
-- **Multimedia:** store images/audio/video as static assets or blob storage; gate access by `character_id` + unlock condition from `evidence.csv`.
+For each section, the host reviews the queue and presses **Send Section** once. The opening group message goes to all players simultaneously. Personal messages then deliver at relative offsets unique to that section. The host can pause or resume a queue; unsent messages never roll into the next section silently.
 
-## Not started
-No code yet — this is the spec. Build order should follow the game design: finalize roster, facts, and the message schedule (see [`../docs/next-steps.md`](../docs/next-steps.md)) **before** committing app data models, so the schema matches real content. The `messages` and `evidence` tables are the two that most directly drive the app.
+Every message uses an email-style header. `From:` is fictional and may be unreliable. `To:` is mechanically truthful:
+
+- one character name means only that character received it;
+- `Everyone at Fifteen Years of R` means every player received the same message.
+
+V2 has no BCC or concealed subset delivery. Messages should take under twenty seconds to read and provoke a face-to-face action. See [`../design/v2/messaging.md`](../design/v2/messaging.md).
+
+## Host dashboard
+
+The dashboard needs only:
+
+- character assignment and check-in status;
+- opening-story display controls;
+- section preview with recipient, offset, subject, and delivery state;
+- **Send Section**, pause, resume, and failure/retry controls;
+- optional host-only ballot tally.
+
+The host does not use the dashboard to authenticate claims, compel players, adjudicate deals, or establish the truth of R.
+
+## Phone-time budget
+
+Required phone attention should remain below five minutes across a three-hour game: one check-in, occasional booklet reference, and roughly four to six meaningful personal messages total per character. There are no required in-app responses.
+
+## Build gate
+
+Do not implement content schemas from the legacy V1 CSVs. App development can begin after V2 booklets and a V2 message table exist. The current `design/data/messages.csv`, `facts.csv`, and `evidence.csv` are explicitly legacy.

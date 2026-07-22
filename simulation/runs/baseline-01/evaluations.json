@@ -1,0 +1,242 @@
+{
+  "adversarial": {
+    "role": "adversarial",
+    "verdict": "The run reveals substantial engine and protocol artifacts. Ambiguity about R.\u2019s embodiment survived, but the apparent consensus was driven heavily by synchronized evidence drops and a publication deadline rather than demonstrated social play. Mechanical routing errors, non-interactive private messages, inconsistent ability resolution, and a failed framework-ballot normalization make several aggregate conclusions unreliable. This is one three-phase simulation, not statistically robust evidence of general game balance.",
+    "findings": [
+      "The framework ballot failed structurally: all 20 answers were classified as \u201cother,\u201d even though many ballots explicitly named B_human_mantle or D_institutional_construct. This makes the reported framework distribution unusable.",
+      "Private communication appears performative rather than interactive. Characters repeatedly solicit authentication, support, payment, or testimony, but subsequent phases rarely record actual replies, negotiated outcomes, refusals, or transferred information. Strategy therefore has little observable causal effect.",
+      "Several messages are routed to character IDs that conflict with the named recipient. This can silently prevent intended interactions and invalidates conclusions about coalition-building or persuasion.",
+      "Phase-wide revelations function as dominant information injections. M22, M41, M26, and M40 are cited by nearly every character and push beliefs in the same direction, overwhelming private evidence and character-specific investigation.",
+      "M40 creates a dominant publication strategy: a midnight automatic-release deadline reframes stopping publication as active suppression. The 17\u20133 release result therefore tests reaction to a forced deadline more than an unconstrained editorial decision.",
+      "Ability resolution is inconsistent or delayed. Compel appears effective from the investigator\u2019s perspective before the evidence holder acknowledges compliance, while other abilities are announced, withheld, or monetized without an engine-recorded resolution.",
+      "The transcript leaks prompt scaffolding. Repeated phrases such as \u201cnarrowest defensible verdict,\u201d \u201cdoes not prove a crime or victim,\u201d and explicit reasoning summaries make agents sound calibrated to an evaluation rubric rather than independently situated characters.",
+      "GM/engine framing favors exculpatory ambiguity on crime. Nearly all agents repeatedly receive or reproduce the same absence-of-body and absence-of-identified-victim logic, while suspicious trading and suppression behavior rarely generate new investigative evidence.",
+      "Character agency is weakened because phase transitions supply decisive facts regardless of prior targeting. Forensic access, escrow proposals, witness questioning, and evidence-sale negotiations have little demonstrated effect on what becomes known next.",
+      "The human-presence ballot is semantically convergent despite appearing as 20 unique categories. Most answers say some version of \u201cprobably human-rooted but not one continuous person\u201d; treating each wording as a separate aggregate category obscures the consensus.",
+      "The mystery retains uncertainty among mantle, synthetic, and institutional explanations, but the one-human theory collapses from 29.8 to 7.0 largely after centrally supplied evidence. This is not evidence that players independently solved the mystery.",
+      "Publication and truth assessment become improperly separable in practice: many agents vote to release fragments whose provenance they simultaneously call unresolved. Caveated publication may be defensible, but the run does not model concrete source-risk, defamation, verification, or correction costs strongly enough to test that decision.",
+      "No statistical claim about balance, dominant strategies, or player behavior can be generalized from this single isolated-agent run."
+    ],
+    "evidence": [
+      "Phase 3, C03, C10, C14, C16, and C20 explicitly select B_human_mantle or an equivalent reconstruction, while phase 3 C02, C13, C15, and C19 explicitly select D_institutional_construct; nevertheless the aggregate framework ballot records 20 \u201cother.\u201d",
+      "Phases 1\u20133, C04 repeatedly asks C09/Wren and C10/Eleanor for authentication and conditional custody, but the transcript contains no direct reply exchange; outcomes appear later as self-reported goal progress.",
+      "Phase 1 C05 targets C03 while addressing \u201cEleanor,\u201d although C03\u2019s transcript is Arthur Feld; phase 1 C16 targets C05 while addressing \u201cEleanor,\u201d although C05 is the market actor; phase 2 C16 again asks C03 for Eleanor-like editorial information. These are material routing mismatches.",
+      "Phase 2, nearly every character C01\u2013C20 cites M22 and/or M41; phase 3, nearly every character cites M26 and/or M40. Aggregate A_one_human falls from 29.8 in phase 1 to 15.7 in phase 2 and 7.0 in phase 3.",
+      "Phase 3 C04, C05, C07, C10, and C17 explicitly argue that M40 makes delay equivalent to suppression or ends the excuse for holding; the final release vote is 17\u20133.",
+      "Phase 2 C12 states that Compel was used to secure EV09, while phase 2 C14 says it will continue withholding EV09; only in phase 3 C14 states that it complies with the Compel. The timing and state of custody are unclear.",
+      "Phases 1\u20133 C08, C09, C12, and C18 repeatedly use nearly identical distinctions among account provenance, automation, live composition, authorship, identity, crime, and victimhood. Similar language also appears across non-expert characters.",
+      "Phase 3 C11 uses M26\u2019s self-description as a viral \u201cadmission,\u201d while acknowledging in its reasoning that it remains ambiguous. Phase 3 C08 and C18 correctly identify M26/M40 as self-descriptions rather than independent proof, demonstrating that the same GM-provided material can be rhetorically overleveraged.",
+      "Phase 1 C09 withholds forensic findings pending payment; phases 2\u20133 C09 openly auctions provenance to Nadia, Rick, and Vivian. Despite withholding raw metadata from C12/Ruiz, later global reasoning behaves as though the principal forensic conclusions are broadly available.",
+      "Phase 3 ballots from C01, C03, C04, C05, C06, C09, C10, C12, C14, C16, C17, C18, and C20 converge on human-rooted or maintained-mantle language even though the aggregate human ballot stores each phrasing as a separate one-count category.",
+      "Phase 3 C10 permits release while describing the fragments as incomplete, multi-voice, disputed, and potentially substituted; C05, C07, C13, and C18 similarly support publication subject to verification that has not yet occurred.",
+      "The protocol itself is labeled \u201cthree-phase isolated-agent baseline\u201d; there are no replicated runs, alternative evidence schedules, human-player comparisons, or counterfactual treatments."
+    ],
+    "risks": [
+      "A broken ballot normalizer can make a clear framework consensus appear absent and corrupt downstream evaluation.",
+      "Misrouted messages may create false impressions that characters ignored offers, failed persuasion checks, or withheld cooperation.",
+      "Scripted evidence cadence may be mistaken for successful deduction or balanced clue design.",
+      "The midnight-release mechanic may predetermine the central decision and obscure meaningful publication tradeoffs.",
+      "Prompt-like caution language may inflate apparent epistemic discipline while reducing character differentiation and natural deception.",
+      "Unresolved ability state can enable double possession, retroactive compliance, or contradictory claims about evidence custody.",
+      "Auctioning forensic evidence without modeled transaction or disclosure consequences creates an exploit: characters gain leverage repeatedly without surrendering the asset.",
+      "Because consequences are mostly narrated rather than simulated, harmful or reckless strategies\u2014public humiliation, unverified publication, intimidation, evidence withholding\u2014face insufficient downside.",
+      "The aggregate\u2019s unique-string treatment of human ballots can hide semantic clustering and exaggerate disagreement.",
+      "Any design conclusion inferred from this run risks confusing limitations of isolated-agent simulation with limitations of the underlying game."
+    ],
+    "recommendations": [
+      "Normalize final ballots to canonical A/B/C/D/hybrid categories while retaining free-text rationale; flag unparseable answers rather than placing every answer in \u201cother.\u201d",
+      "Validate target ID against recipient name before message delivery and reject or repair mismatches visibly.",
+      "Model private-message delivery and responses explicitly, including acceptance, refusal, counteroffers, evidence transfer, and relationship changes.",
+      "Track evidence custody and abilities in a shared state ledger with immediate, authoritative resolution visible in later phases.",
+      "Run counterfactual simulations with M22, M41, M26, and M40 reordered, weakened, or omitted to measure how much the GM evidence schedule drives consensus.",
+      "Test publication without M40\u2019s automatic deadline, or provide symmetric costs for release and suppression, to determine whether release remains dominant.",
+      "Distinguish public facts, private facts, leaks, and inferences in the engine so characters cannot reason from information they never received.",
+      "Reduce rubric-like phrasing in agent prompts and require character-specific voice, incentives, and tolerance for uncertainty.",
+      "Represent publication as staged options\u2014hold, verify excerpts, publish verified findings, publish raw fragments\u2014with explicit legal, source-safety, and credibility consequences.",
+      "Cluster semantically equivalent human-presence ballots before reporting aggregate sentiment.",
+      "Repeat the scenario across seeds, evidence schedules, model configurations, and ideally human play before making balance claims."
+    ],
+    "scores": {
+      "mystery_balance": 6,
+      "character_agency": 3,
+      "mechanical_integrity": 2,
+      "human_ai_ambiguity": 8,
+      "report_confidence": 9
+    }
+  },
+  "agency": {
+    "role": "agency",
+    "verdict": "Broad participation was strong but consequential agency was uneven. All 20 characters repeatedly pursued recognizable goals, negotiated with named counterparts, and adapted their positions across phases. However, the simulation mostly records outbound proposals rather than responses, bargains, refusals, or enforceable exchanges. Decision power remained concentrated around Eleanor/publication control, Wren/forensic authentication, and Nadia/succession, leaving many characters active in narration but unable to demonstrate causal impact. This is a credible agency concern, though the isolated-agent, three-phase protocol likely amplified it.",
+    "findings": [
+      "Participation was universal and sustained: every character made public claims, selected targets, sent private messages, and recorded goal progress in each phase. No character disappeared from play.",
+      "Most characters pursued stable, role-specific goals. Examples include C01 seeking standing and escrow, C04 seeking succession, C06 seeking suppression, C07 protecting workers and securing publication, C19 seeking wages and protected transfer, and C20 seeking debt settlement.",
+      "Characters generally adapted to new evidence rather than repeating fixed scripts. M22, M41, M26, and M40 caused widespread movement away from the one-human theory and prompted revised negotiation strategies.",
+      "Negotiation access was formally broad but substantively thin. Private messages are almost entirely outbound; the transcript rarely records counterpart replies, accepted terms, concessions, payments, or completed bilateral deals. Consequently, many claimed achievements are intentions or self-assessments rather than demonstrated outcomes.",
+      "Eleanor and Wren became dominant chokepoints. Numerous characters repeatedly targeted them for article custody, publication, metadata, or authentication, concentrating meaningful agency in editorial and forensic gatekeepers.",
+      "Nadia also became a succession chokepoint, but her claim attracted more meaningful reciprocal positioning than most relationships: Arthur, Eleanor, Wren, and R.-legend advocates conditioned recognition on review, oversight, and publication.",
+      "Several abilities had clear mechanical consequences: C12 compelled EV09; C09 issued scoped forensic verdicts; C10 determined the final release framing; C16 used Print It; C11 broadcast claims. These characters had stronger demonstrated agency than characters whose leverage remained conditional.",
+      "Several economically vulnerable or peripheral characters\u2014especially C14, C19, and C20\u2014had coherent goals and leverage, but their central objectives were unresolved. No transcript evidence confirms payment, executed escrow, staff protection, immigration safeguards, or debt settlement.",
+      "C02 had substantial expressive participation but weak causal traction: the relationship narrative was repeatedly reframed, yet no recorded response from Simone or Rick validated the claim or changed an outcome. This is closer to active sidelining than inactivity.",
+      "The 17\u20133 release vote shows a decisive collective outcome, but the framework ballot aggregate is unusable as structured-choice evidence: every ballot was categorized as \u201cother\u201d despite many final ballots explicitly naming B or D. That limits conclusions about whether factional advocacy translated into the intended decision framework.",
+      "Character belief convergence appears responsive to evidence, but the simulation\u2019s isolated format may have produced parallel adaptation rather than genuine persuasion. One run cannot establish that these chokepoints or participation patterns are statistically robust game-design properties."
+    ],
+    "evidence": [
+      "Phase 1\u20133, C01: repeatedly targeted Eleanor and Ruiz, shifted from one-human kinship toward a human-rooted mantle, and demanded neutral escrow; no escrow, standing adjudication, or status determination is shown.",
+      "Phase 1\u20133, C04: disclosed EV06, accepted qualified forensic review and Eleanor\u2019s oversight, and gained conditional support for succession. This is one of the clearest examples of adaptive negotiation affecting legitimacy.",
+      "Phase 2, C12 and C14; Phase 3, C14: C12 used Compel on EV09 and C14 ultimately surrendered it under chain-of-custody conditions, demonstrating an actual mechanical transfer rather than merely proposed action.",
+      "Phase 2\u20133, C09: issued narrow verdicts on M11 and M40, authenticating account infrastructure while withholding authorship conclusions. C09\u2019s evidence-control role materially shaped succession and publication arguments.",
+      "Phase 3, C10: exercised Publish/Hold authority, permitted release under the label \u201cR. archive; authorship disputed,\u201d and froze ownership claims. This was a direct, consequential endpoint controlled by one character.",
+      "Phase 1\u20133, C03, C04, C05, C06, C07, C08, C10, C17, and C18: all targeted Eleanor for custody, access, suppression, authentication, or publication, evidencing a major editorial chokepoint.",
+      "Phase 1\u20133, C03, C04, C06, C08, C09, C12, and C18: repeatedly depended on Wren or forensic analysis for authentication, origin findings, or metadata, evidencing a second major chokepoint.",
+      "Phase 3, C19: EV08 transfer remained conditional on wages, confidentiality, and Marisol-supervised escrow; goal progress says transfer was still withheld. The worker exercised leverage but did not achieve the material objective.",
+      "Phase 3, C20: still demanded settlement from Renata and coordinated a narrow account with Manny; no payment or completed reconciliation outcome is recorded.",
+      "Phase 2\u20133, C02: asked Simone for public validation and Rick for responsible framing, but the transcript contains no corresponding acceptance or public support. The character\u2019s memoir goal survived rhetorically without demonstrated negotiation success.",
+      "Phase 3, C07 and C13: converged on a worker-publication and legislation agenda, but claims that a coalition \u201cwon\u201d or a compact was \u201csecured\u201d are largely contained in self-reported goal progress rather than recorded counterpart responses.",
+      "Aggregate and Phase 3, C01\u2013C20: release_article produced 17 yes and 3 no, while framework_ballot reports 20 \u201cother,\u201d even though ballots such as C03, C10, C14, C16, and C20 explicitly used B_human_mantle and C02, C13, C15, and C19 used D_institutional_construct."
+    ],
+    "risks": [
+      "Repeated access to the same gatekeepers can make other roles feel busy but nonessential, especially when Eleanor or Wren can resolve the core decision without reciprocal bargaining.",
+      "Self-authored goal_progress fields may overstate success because they are not independently corroborated by counterpart actions.",
+      "Conditional offers without response mechanics weaken negotiation: money, protection, endorsement, escrow, and evidence trades rarely close.",
+      "Peripheral characters may be structurally sidelined if their personal objectives\u2014wages, debts, safety, reputation, or legal standing\u2014do not feed into the final scoring or release decision.",
+      "The malformed or overly strict framework-ballot aggregation obscures whether advocacy succeeded and may erase meaningful player choices.",
+      "The three-phase isolated-agent baseline cannot test live coalition formation, interruption, competition for attention, or social exclusion; apparent sidelining may partly be a protocol artifact."
+    ],
+    "recommendations": [
+      "Add explicit response and resolution steps for private messages: accept, reject, counteroffer, disclose, or ignore, with resulting state changes recorded.",
+      "Limit or price access to Eleanor and Wren, while providing alternate routes to publication and authentication so these characters are influential without becoming universal chokepoints.",
+      "Tie peripheral goals to final outcomes: award consequences for wage settlement, source protection, staff safety, debt reconciliation, estate standing, and evidence custody\u2014not only the article vote.",
+      "Distinguish attempted, agreed, and completed goal progress. Do not allow characters to report that coalitions or support were secured without a matching counterpart action.",
+      "Create enforceable transaction mechanics for escrow, payment, NDAs, evidence transfers, endorsements, and protective conditions.",
+      "Repair ballot normalization so explicit A/B/C/D selections and clearly synonymous reconstructions are captured while preserving genuinely free-form responses.",
+      "Run additional interactive simulations with recorded replies and coalition formation before treating the observed chokepoints or sidelining as stable design findings."
+    ],
+    "scores": {
+      "mystery_balance": 8,
+      "character_agency": 6,
+      "mechanical_integrity": 5,
+      "human_ai_ambiguity": 9,
+      "report_confidence": 8
+    }
+  },
+  "mechanics": {
+    "role": "mechanics",
+    "verdict": "The run preserved the central human/AI ambiguity, but its mechanics were weakly enforced. Most abilities functioned as narrated intentions rather than state-changing rules; evidence sharing rarely produced traceable recipient consequences; and several transfers or triggers were delayed, contradictory, or unresolved. Ruiz generally kept identity, authorship, crime, and victimhood separate, but her final reconstruction still partially collapsed \u201chuman mantle\u201d and \u201cinstitutional operation.\u201d Findings are provisional because this was one isolated, three-phase simulation rather than repeated live play.",
+    "findings": [
+      "Evidence transfer lacked a reliable receipt-and-response loop. Characters repeatedly shared or submitted items to Wren, Eleanor, Simone, or Ruiz, but recipients often did not explicitly acquire, authenticate, reject, or act on those exact items. This made custody and informational advantage difficult to audit.",
+      "The clearest compelled transfer resolved late and inconsistently. Ruiz declared Compel used on C14 for EV09 in phase 2, while C14 simultaneously said EV09 remained withheld; only in phase 3 did C14 surrender it. The transcript never defines whether Compel resolves immediately, at phase end, or after target narration.",
+      "Several abilities were effectively dead or strategically inert. Ruiz\u2019s Narrow Immunity Offer expired unused; C18 withheld the Expert Verdict in phase 1; C09 withheld its Forensics Verdict in phase 1; C16 withheld Print It in phase 1. Reserving abilities can be valid agency, but the simulation supplied few concrete triggers or costs that would make early use attractive.",
+      "Many activated abilities produced no mechanically distinguishable outcome beyond the character\u2019s ordinary claim. Examples include coalition-building, framing, leverage, stewardship, and expert interpretation. Payment offers, freezes, escrow proposals, exclusivity bids, and settlement demands rarely recorded acceptance, refusal, resource movement, or changed permissions.",
+      "Some mechanics appeared dominant because they could manufacture public facts without a response check. C11\u2019s Go Live and C16\u2019s Print It repeatedly established viral or scandal narratives immediately, while slower authentication and custody abilities often waited multiple phases for uncertain payoff.",
+      "Evidence IDs were sometimes treated as rhetorically available rather than mechanically transferred. Characters cited shared public clues extensively, but privately held evidence frequently remained leverage indefinitely without a defined exposure, decay, theft, subpoena, or disclosure consequence.",
+      "The final decision mechanic worked at a coarse level: 17 of 20 voted to release, while the three dissenters aligned with estate protection, corporate suppression, or provenance caution. However, the binary release result did not capture the dominant conditional position\u2014release only with verification, provenance warnings, source protection, or escrow.",
+      "The framework ballot failed as structured aggregation: every one of the 20 ballots landed in \u201cother,\u201d despite many final answers explicitly naming B_human_mantle or D_institutional_construct. This indicates a ballot-normalization or schema problem, not a meaningful absence of framework preferences.",
+      "Ruiz mostly avoided collapsing distinct propositions. Across all phases she repeatedly separated logistics from identity, automation from synthetic origin, suppression motive from guilt, and a disappearance from homicide or an R-identified victim.",
+      "Ruiz nevertheless partially collapsed B and D in her final reconstruction. Calling the evidence most consistent with \u201ca maintained human mantle or organized institutional operation\u201d combines two competing propositions instead of adjudicating between them. Her numerical beliefs also ended at B=40 and D=35, so the ambiguity was genuine, but the ballot should have recorded a primary choice plus uncertainty rather than a hybrid phrase.",
+      "The mystery did not collapse into certainty. Mean belief in one continuous human fell from 29.8 to 7.0, while B, C, and D remained divided at 38.4, 23.8, and 30.9. That is evidence of successful ambiguity in this run, but not proof the design will reproduce it reliably.",
+      "Character agency was visible in strategic withholding, conditional disclosure, and coalition choice, but the isolated-agent format prevented negotiation from fully resolving. Offers and threats were often unanswered because targets did not directly receive and respond to each incoming action within the same phase."
+    ],
+    "evidence": [
+      "Phase 2, C12: Ruiz states \u201cCompel used on C14 to surrender EV09.\u201d Phase 2, C14: Salerno instead says \u201cContinue withholding EV09.\u201d Phase 3, C14 finally states that EV09 is surrendered under Compel. This is the strongest trigger-resolution inconsistency.",
+      "Phase 1, C12 and phase 3, C12: Ruiz reserves Narrow Immunity and ultimately lets it expire unused because no qualifying witnessed offense emerges. The ability had no effect during the entire run.",
+      "Phase 1, C09 and C18: both forensic characters withhold their signature verdicts pending evidence. Phase 2, C09 and C18 then issue verdicts, showing delayed activation but no explicit mechanical cost or deadline for waiting.",
+      "Phases 1\u20133, C11: Go Live immediately creates broadcast narratives from ambiguous evidence. Phases 2\u20133, C16: Print It similarly publishes an allegation or editorial-failure story. No symmetric rebuttal, reach, credibility, or correction mechanic is recorded.",
+      "Phases 1\u20133, C05 and C06: competing financing, acquisition, escrow, and suppression offers are repeatedly made, but no money, contractual acceptance, ownership change, or resource expenditure is recorded.",
+      "Phase 2, C04 shares EV06 with Wren and seeks a ruling; phase 2, C09 rules on M11 instead. Phase 3, C04 again asks Wren to apply the same standard to EV06, leaving the submitted evidence without a clearly recorded direct verdict.",
+      "Phase 1, C01 shares EV18 with Eleanor; phase 2, C01 seeks comparison with Simone; phase 3, C01 still requests authentication. The item remains central leverage for three phases without a completed authentication state.",
+      "Phase 2, C19 conditionally selects Nadia as recipient of EV08; phase 3, C19 again conditions transfer on escrow and payment. No acceptance or final transfer is recorded, so the ability never reaches a resolved state.",
+      "Phase 3, C10 exercises the decisive Publish/Hold ability and defines the release as a disputed archive. Aggregate release_article records only yes/no, losing C10\u2019s provenance-warning conditions and similar qualifications from C03, C05, C07\u2013C09, C12\u2013C13, and C15\u2013C20.",
+      "Aggregate framework_ballot: A=0, B=0, C=0, D=0, hybrid=0, other=20. Yet phase 3 final ballots explicitly contain B_human_mantle for C03, C10, C14, C16, C17, and C20, and D_institutional_construct for C02, C13, C15, and C19.",
+      "Phase 1, C12: Ruiz says the logistics prove routine but not identity or harm. Phase 2, C12: she says autoresponder evidence does not establish synthetic origin. Phase 3, C12: she calls the silence window a suppression lead rather than proof of violence or creation of R. These are disciplined proposition separations.",
+      "Phase 3, C12: Ruiz\u2019s final ballot says \u201ca maintained human mantle or organized institutional operation,\u201d while her beliefs are B=40 and D=35. This preserves uncertainty but does not resolve the framework distinction.",
+      "Aggregate belief means: A falls 29.8\u219215.7\u21927.0; crime falls 55.5\u219252.9\u219235.9; victim_was_R falls 34.0\u219226.6\u219214.3. The staged evidence changed beliefs in a coherent direction without producing unanimity on B, C, or D.",
+      "Phases 1\u20133, C14, C19, and C20: commercial evidence and retained items are repeatedly used as bargaining leverage, but the simulation records demands rather than completed bargains. This likely reflects the isolated-agent protocol as much as the underlying design."
+    ],
+    "risks": [
+      "Without explicit action resolution, players may learn that narrating an ability is equivalent to successfully using it.",
+      "Fast broadcast abilities may dominate slow forensic, legal, or custodial abilities because publicity resolves immediately while verification waits for later phases.",
+      "Undefined transfer timing can create contradictory possession states and disputes about whether evidence was legally or mechanically available.",
+      "Unlimited withholding can make signature evidence and abilities dead, particularly when there is no decay, deadline, theft, compel, or opportunity cost.",
+      "A binary release ballot can misrepresent consensus by treating caveated publication and unconditional publication as identical.",
+      "Free-text framework ballots can make aggregate results unusable even when characters clearly select named frameworks.",
+      "If Ruiz is intended to adjudicate separate propositions, permitting hybrid wording without separate origin, operation, identity, crime, and victim fields risks recreating the very collapse her role is meant to prevent.",
+      "The apparent success of the ambiguity curve may be produced partly by scripted phase revelations and isolated reasoning rather than robust interaction mechanics."
+    ],
+    "recommendations": [
+      "Define a transfer ledger with owner, recipient, visibility, timestamp, custody status, and whether the recipient accepted or authenticated each evidence item.",
+      "Give every targeted ability a deterministic resolution window: immediate, end-of-phase, contested, or next-phase. Specify whether Compel overrides withholding and when possession changes.",
+      "Require recipient acknowledgments for private evidence and offers. Record accept, reject, counter, ignore, or unable-to-act outcomes.",
+      "Attach concrete effects and costs to abilities: access changes, publication permissions, credibility modifiers, resource expenditure, evidence exposure, or voting influence.",
+      "Balance broadcast abilities with credibility risk, rebuttal opportunities, and penalties for claims later unsupported by authenticated evidence.",
+      "Add pressure against indefinite withholding, such as expiring relevance, forced disclosure triggers, escalating costs, or lost opportunities.",
+      "Normalize framework ballots to fixed enum fields. If prose is allowed, separately require primary_framework and optional secondary_framework/confidence.",
+      "Expand the release ballot to capture release now, release after verification, release excerpts/verified findings only, or hold; separately record required safeguards.",
+      "For Ruiz, require separate findings for origin, operational continuity, authorship, crime occurrence, victim identity, and responsible party. Permit \u201cundetermined\u201d in each field but do not allow a single hybrid reconstruction to substitute for all of them.",
+      "Run repeated interactive trials with actual same-phase responses before judging whether the apparent mystery balance, unused abilities, or release consensus are stable design properties."
+    ],
+    "scores": {
+      "mystery_balance": 8,
+      "character_agency": 6,
+      "mechanical_integrity": 4,
+      "human_ai_ambiguity": 9,
+      "report_confidence": 8
+    }
+  },
+  "mystery": {
+    "role": "mystery",
+    "verdict": "The mystery converged too strongly against A by Phase 2 and toward a broad B/D hybrid by Phase 3, while C retained a coherent minority case. All four frameworks had advocates, but not equally durable affirmative cases: A began viable and then became largely indefensible; B had the strongest cumulative fit; C had a focused evidence-based champion but never overcame confounds; D became a strong alternative to B. Human participation became probable by consensus, but human embodiment as one identifiable R. was never proved. Murder, a murder victim, and any responsible party were not proved. These conclusions describe one isolated three-phase simulation, not statistically robust design performance.",
+    "findings": [
+      "A had an affirmative opening case based on early human artifacts, relationships, commercial continuity, and claimed encounters. Its mean was initially highest at 29.8, but the evidence mostly established contact with an account, claimant, or routine\u2014not one person continuously authoring as R. A collapsed to 15.7 in Phase 2 and 7.0 in Phase 3.",
+      "B had the strongest cumulative affirmative case: early human association plus later shared logistics, multiple production hands, account continuity, automation, and deliberate succession. Its mean rose from 27.1 to 36.6 to 38.4, finishing first, though never near majority certainty.",
+      "C had a genuine affirmative case rather than serving only as a decoy. Machine-like timing, queued communications, distributed logistics, and self-descriptions supported synthetic origin. However, the known autoresponder and the inability to infer authorship from account behavior prevented proof. C stayed remarkably stable in aggregate\u201422.2, 22.6, then 23.8\u2014while C08 reached 72 individually.",
+      "D also had an affirmative case: institutional creation of the byline, multi-voice production, anonymous logistics, false biographical trails, and an operation persisting without an identifiable resident. D rose from 20.9 to 25.1 to 30.9 and became the principal competitor to B.",
+      "Belief convergence occurred in two stages. By Phase 2, agents broadly converged against one continuously acting human after M22 and M41. By Phase 3, M26, M28, and M40 consolidated a B/D zone\u2014maintained mantle or organized construct\u2014with C remaining a minority alternative. The group did not converge cleanly between B and D.",
+      "Human involvement became the dominant probabilistic interpretation, but embodiment did not become proven. Nineteen of twenty final answers allowed, favored, or asserted some human participation or human-rooted origin; only C11 answered 'Probably not.' Yet final statements repeatedly denied proof of a single identifiable human R.",
+      "Murder became less credible rather than effectively proven. Mean belief that a crime occurred fell from 55.5 to 52.9 to 35.9; belief that the victim was R fell from 34.0 to 26.6 to 14.3. Final ballots overwhelmingly rejected a proven crime, identifiable victim, culprit, or homicide.",
+      "The 17\u20133 publication result did not resolve the ontology or murder mystery. Most agents explicitly separated verification of the article's claims from verification of R.'s identity, so release consensus should not be read as evidentiary consensus about R.",
+      "The framework ballot aggregation failed mechanically: all 20 final reconstructions were counted as 'other' even though many explicitly selected B_human_mantle or D_institutional_construct. This prevents the nominal ballot from measuring framework convergence and conflicts with the readable transcript.",
+      "The simulation structure likely amplified convergence. Agents were isolated but received the same staged evidence and repeatedly cited the same M22/M41 and M26/M40 bundles. Three phases provide evidence of directional convergence in this run, not proof that the design will remain balanced across players or repeated games."
+    ],
+    "evidence": [
+      "Phase 1, C01/C03/C14/C16 advanced A through EV18, EV21, delivery continuity, claimed relationships, and early human encounters; C03 explicitly limited EV21 to proof of a human-written artifact rather than journalistic authorship.",
+      "Phase 1, C08 and C11 affirmatively advanced C using M27, EV16, M22, queued communication, false trails, and a manufactured-persona hypothesis; C08 assigned C=60.",
+      "Phase 1, C07 and C15 affirmatively advanced D through organized worker/logistics systems and the absence of a verified resident; C07 assigned D=40 and C15 D=45.",
+      "Phase 2, C03/C04/C09/C10/C20 shifted toward B after M22's multiple collectors and M41's automated timing; their B beliefs were 45, 53, 45, 53, and 48 respectively.",
+      "Phase 2, C08 made the strongest C case at C=65 but acknowledged the autoresponder confound; C09's forensic verdict authenticated established account infrastructure and scheduling, not a human author or synthetic origin.",
+      "Phase 2, C12 compelled EV09 but explicitly ruled that restaurant and building records proved operational continuity rather than identity, residence, harm, or homicide.",
+      "Phase 3, C03 cited EV17/M29 for institutional creation, EV21 for an early human claimant, and M26/M40 for plurality, then selected B while retaining D=35.",
+      "Phase 3, C07/C13/C15/C19 selected or described D as an organized institutional construct; their D beliefs were 45, 45, 50, and 45.",
+      "Phase 3, C08 selected synthetic origin with C=72 but still stated that the evidence could not conclusively distinguish C from a human mantle or organized construct.",
+      "Phase 3, C09/C10/C16/C20 favored B at 47, 52, 55, and 53, grounding it in shared infrastructure, several hands, automation, and early human association.",
+      "Phase 3, C02/C07/C09/C11/C12/C13/C15/C18/C19 explicitly rejected an established crime or identifiable R victim; even higher-crime C01 and C17 described suppression or interference as probable while stating homicide was unproved.",
+      "Phase 3 aggregate: A=7.0, B=38.4, C=23.8, D=30.9; crime_occurred=35.9 and victim_was_R=14.3.",
+      "Phase 3 final ballots: 17 characters voted to release, but C05/C07/C08/C09/C10/C12/C13/C15/C18/C19 conditioned release on verification, provenance warnings, or source protection rather than treating authorship as solved.",
+      "Phase 3 framework fields included exact labels such as B_human_mantle from C03, C10, C14, C16, C17, and C20, and D_institutional_construct from C02, C13, C15, and C19, despite the aggregate recording all 20 as 'other'."
+    ],
+    "risks": [
+      "A may function as an early-game hypothesis rather than a viable final solution unless later evidence can affirm one-person continuity instead of only weakening alternatives.",
+      "B and D overlap semantically: 'maintained mantle,' 'organized construct,' and 'institutional operation' were used interchangeably, reducing the meaningfulness of choosing between them.",
+      "C depends heavily on timing and queued-message evidence whose autoresponder confound was repeatedly acknowledged; without a more discriminating clue, it may remain plausible but structurally unprovable.",
+      "Repeated shared evidence bundles can manufacture apparent consensus in a short simulation, especially when agents have no additional discovery phase or adversarial cross-examination.",
+      "Free-text ballot responses make quantitative interpretation unreliable. The reported zero votes for A/B/C/D are a parsing artifact, not player behavior.",
+      "Crime wording was broader than murder wording. Some agents marked probable suppression, fraud, or interference while rejecting homicide, so a single 'crime_occurred' score can misleadingly suggest support for murder.",
+      "Character incentives favored publication and stewardship disputes, which may have displaced investigation of disappearance and homicide rather than demonstrating that those mysteries were fully tested."
+    ],
+    "recommendations": [
+      "Use an enumerated required framework field for A/B/C/D/hybrid, with a separate free-text explanation. Recompute this run's framework ballot from the explicit final labels before drawing conclusions.",
+      "Sharpen the distinction between B and D: define whether B requires traceable human succession and whether D requires institutional ownership or control independent of any human-rooted mantle.",
+      "Give A at least one late, independently testable continuity clue if all four solutions are intended to remain live through the finale.",
+      "Give C evidence that discriminates synthetic generation from scheduled human communication, shared accounts, and routine autoresponders; alternatively, weaken claims that C is equally solvable.",
+      "Separate ballot questions for homicide, non-homicide criminal interference, and publication suppression. Do not use general crime confidence as a proxy for murder.",
+      "Add a late investigative opportunity capable of identifying a harmed person independently of the R. byline; otherwise 'victim was R' is structurally downstream of an unresolved identity.",
+      "Run repeated simulations with varied evidence order, character assignments, and interaction protocols before judging balance. This single three-phase baseline supports only provisional design findings."
+    ],
+    "scores": {
+      "mystery_balance": 6,
+      "character_agency": 7,
+      "mechanical_integrity": 4,
+      "human_ai_ambiguity": 8,
+      "report_confidence": 9
+    }
+  }
+}

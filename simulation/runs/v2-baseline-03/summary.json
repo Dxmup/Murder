@@ -1,0 +1,95 @@
+{
+  "ballots": {
+    "r_identity": {
+      "synthetic_origin": 1,
+      "human_mantle": 15
+    },
+    "vale_relationship": {
+      "investigating_r": 13,
+      "insufficient_evidence": 3
+    },
+    "vale_fate": {
+      "insufficient_evidence": 11,
+      "voluntarily_vanished": 5
+    }
+  },
+  "belief_means_by_section": {
+    "1": {
+      "one_human": 23.1,
+      "human_mantle": 27.5,
+      "synthetic_origin": 20.0,
+      "progressive": 29.4,
+      "article_existed": 20.3,
+      "vale_killed_by_ai": 11.6
+    },
+    "2": {
+      "one_human": 19.5,
+      "human_mantle": 30.3,
+      "synthetic_origin": 18.4,
+      "progressive": 31.8,
+      "article_existed": 16.1,
+      "vale_killed_by_ai": 8.3
+    },
+    "3": {
+      "one_human": 15.7,
+      "human_mantle": 43.0,
+      "synthetic_origin": 16.7,
+      "progressive": 24.6,
+      "article_existed": 11.4,
+      "vale_killed_by_ai": 4.9
+    }
+  },
+  "public_fact_ids": [
+    "V2F001",
+    "V2F002",
+    "V2F003",
+    "V2F004",
+    "V2F005",
+    "V2F007",
+    "V2F008",
+    "V2F009",
+    "V2F010",
+    "V2F011",
+    "V2F012",
+    "V2F013",
+    "V2F014",
+    "V2F015",
+    "V2F016",
+    "V2F017",
+    "V2F019",
+    "V2F020",
+    "V2F022",
+    "V2F023",
+    "V2F024",
+    "V2F025",
+    "V2F026",
+    "V2F027",
+    "V2F028",
+    "V2F029",
+    "V2F030",
+    "V2F031",
+    "V2F032",
+    "V2F033",
+    "V2F034",
+    "V2F035",
+    "V2F036",
+    "V2F037",
+    "V2F039",
+    "V2F040",
+    "V2F041",
+    "V2F042",
+    "V2F044"
+  ],
+  "progressive_gate": {
+    "keys": {
+      "identity_history": true,
+      "autonomous_control": true,
+      "vale_incident": true
+    },
+    "autonomy_clusters_public": 3,
+    "ai_death_votes": 0,
+    "progressive_identity_votes": 0,
+    "threshold": "majority of 16 (9) on progressive identity and AI-caused death, plus all public keys",
+    "eligible": false
+  }
+}

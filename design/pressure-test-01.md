@@ -1,5 +1,7 @@
 # Pressure-Test Round 1 (Next Step #8) — findings & applied fixes
 
+> **Legacy V1 test.** Its findings motivated the rebuild, but its cast and four-framework model are not V2 inputs.
+
 Four adversarial auditors, one per framework, each tasked to (a) *prove* their framework trivially true via fact-pooling (a **leak**), and (b) check whether their framework is too weak to argue (**starvation**). Both are failures.
 
 ## The structural finding

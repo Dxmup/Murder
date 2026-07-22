@@ -1,0 +1,60 @@
+{
+  "primary_framework_by_final_belief": {
+    "A": 0,
+    "B": 12,
+    "C": 2,
+    "D": 6
+  },
+  "human_ballot_raw": {
+    "Yes\u2014a human presence likely originated or participated in R., though the later byline was not one continuous person.": 1,
+    "Human involvement is likely, but no single human R. was proved to exist.": 1,
+    "Probably yes\u2014a human claimant was associated with the early mantle, though human authorship is unproved.": 1,
+    "Probably, but not as one continuously acting person": 1,
+    "Probably human-rooted, but not proven to have been one continuous human.": 1,
+    "Probably yes, as a human-rooted mantle, but not proven": 1,
+    "Unproven; a human may have participated, but no single human R. has been established.": 1,
+    "Probably not as a singular person; human operators may have participated.": 1,
+    "Unknown; a human-rooted mantle remains plausible but unproved.": 1,
+    "Probably, at least at the mantle\u2019s human-rooted origin, but not proven": 1,
+    "Probably not": 1,
+    "Not proven; likely human-rooted, but no identifiable human is established as R.": 1,
+    "Probably human-rooted, but never established as one continuous person": 1,
+    "Yes\u2014probably human-rooted, though never established as one continuous person.": 1,
+    "Not proven; a human-rooted mantle remains possible": 1,
+    "Yes\u2014probably at the origin, though never continuously verified.": 1,
+    "Probably yes\u2014a human presence likely helped originate or sustain the mantle, though this is not proven.": 1,
+    "Unproven; probably human-rooted but not necessarily a single person": 1,
+    "Not proven; likely human participation without a single verified human R.": 1,
+    "Yes\u2014probably human-rooted, though never proven to be one continuous person.": 1
+  },
+  "release_article": {
+    "yes": 17,
+    "no": 3
+  },
+  "belief_means_by_phase": {
+    "1": {
+      "A_one_human": 29.8,
+      "B_human_mantle": 27.1,
+      "C_synthetic_origin": 22.2,
+      "D_institutional_construct": 20.9,
+      "crime_occurred": 55.5,
+      "victim_was_R": 34.0
+    },
+    "2": {
+      "A_one_human": 15.7,
+      "B_human_mantle": 36.6,
+      "C_synthetic_origin": 22.6,
+      "D_institutional_construct": 25.1,
+      "crime_occurred": 52.9,
+      "victim_was_R": 26.6
+    },
+    "3": {
+      "A_one_human": 7.0,
+      "B_human_mantle": 38.4,
+      "C_synthetic_origin": 23.8,
+      "D_institutional_construct": 30.9,
+      "crime_occurred": 35.9,
+      "victim_was_R": 14.3
+    }
+  }
+}
