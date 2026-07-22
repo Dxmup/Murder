@@ -1,4 +1,4 @@
-# V2 Character Booklet Template
+# Character Booklet Template
 
 > Draft only after the ending/evidence matrix and Vale timeline are stable. Write in second person, keep facts distinct from beliefs, and never name an ending label in player-facing copy.
 

@@ -1,4 +1,4 @@
-# V2 Objects, Commitments, and Bargains
+# Objects, Commitments, and Bargains
 
 ## Design rule
 

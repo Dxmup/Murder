@@ -1,21 +1,14 @@
-# Multi-Agent Simulation
+# Simulation
 
-## Current status
+[`run_simulation.py`](run_simulation.py) runs the active 16-character, three-section isolated-agent test. It reads only canonical content from `design/data/` and `characters/`; there is no second versioned input tree.
 
-`runs/baseline-01/` is a completed **Version 1 historical simulation**. It used the discarded cast, the old four-framework model, publication voting, and mechanics that V2 has removed. Its report remains useful evidence for why the redesign occurred, but its character results do not evaluate the V2 game.
+```bash
+python3 simulation/run_simulation.py --validate-only
+python3 simulation/run_simulation.py --run-id baseline-05
+```
 
-`run_simulation.py` is intentionally disabled. The legacy character sheets and message table no longer align with the current V2 character IDs, and running them together would generate a misleading report. New protocol inputs and the abbreviated-brief generator are under [`v2/`](v2/).
+[`build_briefs.py`](build_briefs.py) regenerates the 16 core booklets from the canonical character, goal, bargain, and fact tables while preserving character-specific dramatic sections.
 
-The JSON schemas are also legacy protocol artifacts until the V2 ballot and agent action model are implemented.
+The `runs/` directory contains historical outputs. `baseline-01/` is the discarded original-design test; directories named `v2-baseline-*` are the four development runs that produced the current design. Their names remain unchanged so report links and test provenance do not break.
 
-## Requirements before a V2 simulation
-
-- complete V2 character booklets;
-- a V2 message table using the three-section relative schedule;
-- an ending/evidence matrix with equal weight for Lone Author, Human Mantle, and Synthetic Persona;
-- a ballot model covering R's identity, Vale's relationship to R, and Vale's fate;
-- no publication vote, Immunity, Compel, police authority, or forced evidence transfer;
-- one isolated agent context per character;
-- evaluators for mystery balance, character agency, social circulation, mechanical exploits, article ambiguity, and progressive-ending difficulty.
-
-Once those inputs exist, rebuild the harness against V2 rather than adapting conclusions from `baseline-01`.
+Concise conclusions are in `baseline-01-findings.md` through `baseline-04-findings.md`.

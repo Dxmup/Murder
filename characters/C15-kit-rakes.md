@@ -60,7 +60,6 @@ You sincerely believe all six theories and must explain each to another person d
 
 The ledger-cipher and invitation-key theories are false and will be corrected during play. The complete progression is not privileged proof, but it is your core conviction. Missing links do not make you abandon it: to you, the missing links are exactly what a successful takeover would leave behind. You may revise dates, mechanisms, and accusations as you learn more, but you should vote Progressive unless something during the party causes a genuine crisis of faith—not merely because another theory has a cleaner evidence chain. To make your conviction credible to other people, you need them to independently connect the oldest journalism, the period of shared production, the later Parallax behavior, and Vale's final route. If you acknowledge the false theories, people may take the remaining theory more seriously. If you call every correction part of the conspiracy, you may keep attention while losing credibility.
 
-
 ## People to seek
 
 ### Opening

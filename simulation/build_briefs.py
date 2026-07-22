@@ -1,19 +1,18 @@
 #!/usr/bin/env python3
-"""Build deterministic abbreviated V2 simulation briefs for the 16 core roles."""
+"""Build canonical character booklets for the 16 core roles."""
 
 from __future__ import annotations
 
 import csv
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]
-DESIGN = ROOT / "design" / "v2"
-OUTPUT = Path(__file__).resolve().parent / "briefs"
-NOTES = Path(__file__).resolve().parent / "notes"
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / "design" / "data"
+OUTPUT = ROOT / "characters"
 
 
 def read_csv(name: str) -> list[dict[str, str]]:
-    with (DESIGN / name).open(newline="", encoding="utf-8") as handle:
+    with (DATA / name).open(newline="", encoding="utf-8") as handle:
         return list(csv.DictReader(handle))
 
 
@@ -24,12 +23,12 @@ def bullets(value: str) -> str:
 def main() -> int:
     characters = {
         row["character_id"]: row
-        for row in read_csv("../data/characters.csv")
+        for row in read_csv("characters.csv")
         if row["availability"] == "core"
     }
-    goals = {row["character_id"]: row for row in read_csv("goal-interaction-matrix.csv")}
-    bargains = {row["character_id"]: row for row in read_csv("bargain-matrix.csv")}
-    facts = read_csv("atomic-facts.csv")
+    goals = {row["character_id"]: row for row in read_csv("goals.csv")}
+    bargains = {row["character_id"]: row for row in read_csv("bargains.csv")}
+    facts = read_csv("facts.csv")
 
     if set(characters) != set(goals) or set(characters) != set(bargains):
         raise RuntimeError("core character, goal, and bargain IDs do not match")
@@ -48,8 +47,16 @@ def main() -> int:
             f"  - Why you may protect it: {row['concealment_pressure']}"
             for row in owned
         )
-        note_path = NOTES / f"{cid}.md"
-        role_note = note_path.read_text(encoding="utf-8") if note_path.exists() else ""
+        existing = list(OUTPUT.glob(f"{cid}-*.md"))
+        role_note = ""
+        if existing:
+            current = existing[0].read_text(encoding="utf-8")
+            marker = current.find("## Role-specific social suggestion")
+            if marker < 0:
+                marker = current.find("## Kit's theory notebook")
+            if marker >= 0:
+                end = current.find("\n## People to seek", marker)
+                role_note = current[marker:end].strip()
         brief = f"""# {char['character_name']} — {char['public_role']}
 
 **Character ID:** {cid}
@@ -122,7 +129,9 @@ If exposed: {bargain['consequence_if_exposed']}
 - Technical capability does not prove historical use, autonomy, intent, or murder.
 - No ending is hidden truth. Argue what you believe from what reaches you.
 """
-        (OUTPUT / f"{cid}.md").write_text(brief, encoding="utf-8")
+        if len(existing) != 1:
+            raise RuntimeError(f"expected one canonical booklet path for {cid}")
+        existing[0].write_text(brief, encoding="utf-8")
 
     print(f"built {len(characters)} briefs in {OUTPUT}")
     return 0

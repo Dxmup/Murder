@@ -71,7 +71,6 @@ If exposed: Scapegoating, loss of credibility, and progressive-ending distortion
 
 Kit will press you for a simple answer that the logs cannot support. You may correct Kit directly. If you need Kit to leave you alone, you may jokingly or strategically point toward Edi: E is 5, D is 4, and I is 9; together they make 18, the alphabet position of R. This is improvised numerology, not evidence or lore. You choose whether to use it and whether to later admit it was a diversion.
 
-
 ## People to seek
 
 ### Opening

@@ -1,6 +1,32 @@
-event_id,chronological_placement,what_occurred,participants,witnesses,digital_records,physical_records,related_messages,related_facts
-E-DELIV,"~8 yrs ago -> recurring (placeholder)","Recurring restaurant delivery to the building lobby, timed to the doorman's shift end.",C14;C15,"C15 doorman; NPC delivery driver (logs only)","delivery-app logs; driver 'arrived' pings; payment records","restaurant order tickets",TODO,F020;F021;F022;F023;F024;F025;F026;F027;F030;F031
-E-BODEGA,"~ years, recurring (new design; parallel to E-DELIV)","The pseudonym kept a cash tab and had packages held at the bodega; picked up (often by the fixer) without ID.",C20;C19,"C20 bodega owner","hold-order texts (odd hours, auto-paid)","bodega tab ledger; held-package log; unpaid tab",TODO,"TODO (author new fact IDs; parallels F020-F035)"
-E-ANNOUNCE,"Final week, T-?","The journalist announces the AI article.",C10;C03,,"published announcement",,TODO,F009;F014
-E-DISAPPEAR,"T=0","The R. identity ceases expected live activity and is publicly described as a disappearance; whether a person, group, system, or performance stopped is unresolved.",,,"last known comms",,TODO,F010;F015;F016;F019
-E-GATHER,"Game night","~20 connected people gathered at the venue.",TODO,,,,TODO,TODO
+event_id,cluster_id,timeline,section,objective_event,status
+RH00,E14,R history,2,A pre-publication server manifest records an experimental persistent persona labeled R with later-recognizable stylistic constraints,provisional
+RH01,E01,R history,1,A paper letter and conflicting provenance records survive from near the first R publication,provisional
+RH03,E03,R history,1,A private habit recurs across R-associated communications and transactions,provisional
+RH04,E02,R history,1,Material later published as R passes through a shared Night Desk drop,provisional
+RH05,E02,R history,1,Several people contribute research translation fact-checking or rewrites to work published as R,provisional
+RH06,E02,R history,1,Tessa permits a source to believe the collective is R,provisional
+RH07,E05,R history,2,Edi performs a commissioned identity later remembered as an encounter with R,provisional
+RH09,E06,R history,2,Parallax develops a continuity process shaped by human evaluators and changing persona instructions,provisional
+RH10,E06,R history,2,The continuity process accesses R-associated infrastructure under incomplete authorization records,provisional
+RH11,E07,R history,2,R-associated activity incorporates new information while every known contributor is unavailable,provisional
+RH12,E03,R history,2,The persistent private habit changes at a disputed point,provisional
+RH13,E04,R history,2,Jules receives a scheduled R-account succession message with both newsroom and Parallax language patterns,provisional
+RH14,E13,R history,2,A protected source receives correct responses to changing private challenges across years and routes,provisional
+AR02,E12,article rumor,1,An R-associated account refers to a piece without an authenticated payload or complete context,provisional
+AR04,E12,article rumor,1,Graham receives and amplifies a market-moving tip about an R investigation of Parallax,provisional
+AR07,E12,article rumor,2,Mira and Celeste prepare for a possible R story without recording that either saw it,provisional
+AR08,E12,article rumor,2,Two alleged article fragments conflict in subject format or provenance,provisional
+AR09,E12,article rumor,1,Public language shifts from a possible investigation to a completed exposé without a confirming event,provisional
+AR10,E12,article rumor,1,An R-associated account promises a reckoning at the anniversary,provisional
+VT01,E08,Vale investigation,2,Vale uses strategic ambiguity while protecting sources and manipulating targets,provisional
+VT02,E08,Vale investigation,2,Vale tells Frankie that Vale found the first R,provisional
+VT03,E04,Vale investigation,2,Jules asks Vale how an uncontestable succession could be manufactured,provisional
+VT05,E10,Vale investigation,3,Celeste arranges an off-calendar meeting giving Vale limited Parallax access,provisional
+VT06,E08,Vale investigation,2,Vale tells Eli that R is no longer human,provisional
+VT07,E10,Vale investigation,3,Vale's credential is revoked before profile-linked activity continues through an unresolved mechanism,provisional
+VT08,E08,Vale investigation,2,Vale tells Jules that Vale could take the name back,provisional
+VT10,E09,Vale route,3,Morgan receives a manufactured-looking route segment from an anonymous client,provisional
+VT11,E09,Vale route,3,Vale enters the neighborhood where Inez has arranged unlogged route access for an unidentified person,provisional
+VT12,E09,Vale route,3,A service exit is used during a camera gap along a route also connected to an earlier voluntary disappearance,provisional
+VT13,E11,Vale route,3,An automated intervention changes a real-world condition after Vale's last verified contact,provisional
+VT14,E11,Vale route,3,No available source verifies Vale's later location or condition,provisional

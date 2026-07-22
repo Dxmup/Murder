@@ -1,23 +1,16 @@
-# Data Tables — Version Status
+# Canonical Data Tables
 
-Only `characters.csv` and `relationships.csv` have been migrated to Version 2. They are the current machine-readable cast model and derive from `design/v2/cast-and-mechanics.md`.
+All tables describe the current game. There are no legacy design tables in this directory.
 
-The other four CSVs remain Version 1 design history. They must not be used to generate V2 booklets, messages, evidence, or app content until they are replaced.
-
-| File | Table | Key |
+| File | Key | Purpose |
 |---|---|---|
-| `characters.csv` | **Current V2** character table | `character_id` (C01–C20) |
-| `relationships.csv` | **Current V2, provisional** relationship matrix | (`character_a`, `character_b`) |
-| `facts.csv` | **Legacy V1 — not current canon** | `fact_id` |
-| `events.csv` | **Legacy V1 — not current canon** | `event_id` |
-| `messages.csv` | **Legacy V1 — not current canon** | `message_id` |
-| `evidence.csv` | **Legacy V1 — not current canon** | `evidence_id` |
+| `characters.csv` | `character_id` | Core and optional cast records |
+| `relationships.csv` | character pair | Social knots and reciprocal pressures |
+| `goals.csv` | `character_id` | Core goals, success conditions, choices, and section targets |
+| `bargains.csv` | `character_id` | Offers, needs, commitments, betrayals, and consequences |
+| `facts.csv` | `fact_id` | Atomic observations and competing interpretations |
+| `events.csv` | `event_id` | Grouped events referenced by facts and timelines |
+| `evidence.csv` | `evidence_id` | Physical objects and split components |
+| `messages.csv` | `message_id` | Timed three-section app schedule |
 
-## V2 conventions
-
-- `availability` is `core` for the 16-player base cast and `optional` for C17–C20.
-- Multi-value cells use semicolons so commas remain CSV-safe.
-- `design_status` and relationship `status` identify material that still needs booklet-level development.
-- The four intended finale readings are: one human R; R as a human mantle; R as AI; and the progressive composite history. Evidence must also preserve doubt that the rumored article ever existed.
-
-Do not blend rows from the legacy tables into V2. Replace those tables only after the V2 ending/evidence and timeline passes establish their schemas and content.
+Multi-value cells use semicolons. C01–C16 are core; C17–C20 are optional. Facts and messages retain their `V2F` and `V2M` IDs because simulation reports cite those stable identifiers; the prefix is an identifier namespace, not a separate versioned design.

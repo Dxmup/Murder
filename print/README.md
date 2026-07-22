@@ -1,16 +1,18 @@
-# V2 Physical Materials
+# Physical Materials
 
-Physical materials keep play face-to-face and provide a fallback when a player does not want to use a phone.
+Prepare one booklet per player, anonymous ballots, commitment cards, and the objects defined in [`../design/objects-and-bargains.md`](../design/objects-and-bargains.md) and [`../design/data/evidence.csv`](../design/data/evidence.csv).
 
-## Planned materials
+The core object set includes:
 
-- Name badges with character name and public role.
-- Complete printable character booklets matching the app copy.
-- Small physical object cards or props only where possession and voluntary exchange create useful conversation.
-- A public cast list and opening-story handout.
-- Paper reconstruction ballots.
-- A host run sheet containing the three section queues and delivery offsets.
+- First R Letter packet
+- Night Desk routing slip
+- succession-message printout
+- Edi’s commission card
+- three separate continuity-log cards
+- Rafi’s account strip
+- split deleted-calendar recovery
+- Morgan’s route board
+- Samira’s sealed Vale envelope
+- split intervention notice
 
-V2 does not use printed article pages, a publication ballot, arrest or immunity forms, forced-transfer cards, or props that authenticate an ending. No physical object can prove that R was human, that a complete article existed, or that Vale was R.
-
-The exact prop list must follow the V2 evidence matrix; the legacy `design/data/evidence.csv` is not a production source.
+The game does not use printed pages from the rumored final article, a publication ballot, arrest or immunity forms, forced-transfer cards, or any prop that authenticates an ending. Historical excerpts from R’s published body of work may become a separate interpretive object; they must never be presented as the rumored final article.

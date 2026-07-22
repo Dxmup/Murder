@@ -1,53 +1,84 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$comment": "Legacy Version 1 action schema. Do not use for Version 2.",
-  "title": "Legacy V1 simulation action",
+  "title": "Character section action",
   "type": "object",
   "additionalProperties": false,
-  "required": ["character_id", "phase", "targets", "public_claim", "private_messages", "evidence_shared", "ability", "beliefs", "goal_progress", "reasoning_summary", "final_ballot"],
+  "required": ["character_id", "section", "conversations", "public_statement", "facts_shared", "object_actions", "commitments", "correction", "goal_progress", "beliefs", "reasoning_summary", "final_ballot"],
   "properties": {
-    "character_id": {"type": "string"},
-    "phase": {"type": "integer", "minimum": 1, "maximum": 3},
-    "targets": {"type": "array", "maxItems": 2, "items": {"type": "string"}},
-    "public_claim": {"type": "string"},
-    "private_messages": {
+    "character_id": {"type": "string", "pattern": "^C(0[1-9]|1[0-6])$"},
+    "section": {"type": "integer", "minimum": 1, "maximum": 3},
+    "conversations": {
       "type": "array",
-      "maxItems": 2,
+      "minItems": 1,
+      "maxItems": 3,
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["to", "message"],
-        "properties": {"to": {"type": "string"}, "message": {"type": "string"}}
+        "required": ["with", "say", "offer", "request", "fact_ids_shared"],
+        "properties": {
+          "with": {"type": "string"},
+          "say": {"type": "string"},
+          "offer": {"type": "string"},
+          "request": {"type": "string"},
+          "fact_ids_shared": {"type": "array", "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}}
+        }
       }
     },
-    "evidence_shared": {"type": "array", "items": {"type": "string"}},
-    "ability": {"type": "string"},
+    "public_statement": {"type": "string"},
+    "facts_shared": {"type": "array", "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}},
+    "object_actions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["object_id", "action", "to"],
+        "properties": {
+          "object_id": {"type": "string", "pattern": "^O(0[1-9]|10)([abc])?$"},
+          "action": {"type": "string", "enum": ["show", "transfer"]},
+          "to": {"type": "string"}
+        }
+      }
+    },
+    "commitments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["with", "promise", "visibility", "status"],
+        "properties": {
+          "with": {"type": "string"},
+          "promise": {"type": "string"},
+          "visibility": {"type": "string", "enum": ["private", "public"]},
+          "status": {"type": "string", "enum": ["propose", "accept", "reject", "counter", "fulfill", "breach"]}
+        }
+      }
+    },
+    "correction": {"type": "string"},
+    "goal_progress": {"type": "array", "items": {"type": "string"}},
     "beliefs": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["A_one_human", "B_human_mantle", "C_synthetic_origin", "D_institutional_construct", "crime_occurred", "victim_was_R"],
+      "required": ["one_human", "human_mantle", "synthetic_origin", "progressive", "article_existed", "vale_killed_by_ai"],
       "properties": {
-        "A_one_human": {"type": "integer", "minimum": 0, "maximum": 100},
-        "B_human_mantle": {"type": "integer", "minimum": 0, "maximum": 100},
-        "C_synthetic_origin": {"type": "integer", "minimum": 0, "maximum": 100},
-        "D_institutional_construct": {"type": "integer", "minimum": 0, "maximum": 100},
-        "crime_occurred": {"type": "integer", "minimum": 0, "maximum": 100},
-        "victim_was_R": {"type": "integer", "minimum": 0, "maximum": 100}
+        "one_human": {"type": "integer", "minimum": 0, "maximum": 100},
+        "human_mantle": {"type": "integer", "minimum": 0, "maximum": 100},
+        "synthetic_origin": {"type": "integer", "minimum": 0, "maximum": 100},
+        "progressive": {"type": "integer", "minimum": 0, "maximum": 100},
+        "article_existed": {"type": "integer", "minimum": 0, "maximum": 100},
+        "vale_killed_by_ai": {"type": "integer", "minimum": 0, "maximum": 100}
       }
     },
-    "goal_progress": {"type": "array", "items": {"type": "string"}},
     "reasoning_summary": {"type": "string"},
     "final_ballot": {
       "type": ["object", "null"],
       "additionalProperties": false,
-      "required": ["was_R_ever_human", "best_reconstruction", "crime", "victim_was_R", "responsible_party", "release_article"],
+      "required": ["r_identity", "identity_evidence", "vale_relationship", "vale_fate", "vale_evidence"],
       "properties": {
-        "was_R_ever_human": {"type": "string", "enum": ["never", "one_human", "human_mantle", "cannot_determine"]},
-        "best_reconstruction": {"type": "string", "enum": ["A", "B", "C", "D", "hybrid"]},
-        "crime": {"type": "string", "enum": ["no_crime_established", "non_homicide_crime", "homicide", "cannot_determine"]},
-        "victim_was_R": {"type": "string", "enum": ["yes", "no", "cannot_determine"]},
-        "responsible_party": {"type": "string"},
-        "release_article": {"type": "boolean"}
+        "r_identity": {"type": "string", "enum": ["one_human", "human_mantle", "synthetic_origin", "progressive"]},
+        "identity_evidence": {"type": "array", "minItems": 1, "maxItems": 5, "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}},
+        "vale_relationship": {"type": "string", "enum": ["vale_was_r", "mantle_holder", "investigating_r", "seizing_or_impersonating_r", "fabricated_identity", "insufficient_evidence"]},
+        "vale_fate": {"type": "string", "enum": ["killed_by_ai", "harmed_by_humans", "voluntarily_vanished", "vale_not_reliably_as_described", "insufficient_evidence"]},
+        "vale_evidence": {"type": "array", "minItems": 1, "maxItems": 5, "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}}
       }
     }
   }

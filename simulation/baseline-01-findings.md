@@ -1,6 +1,6 @@
-# V2 Baseline 01 Findings
+# Baseline 01 Findings
 
-Full report: [`../../simulation/runs/v2-baseline-01-retry/GM-REPORT.md`](../../simulation/runs/v2-baseline-01-retry/GM-REPORT.md).
+Full report: [`runs/v2-baseline-01-retry/GM-REPORT.md`](runs/v2-baseline-01-retry/GM-REPORT.md).
 
 ## Result
 
