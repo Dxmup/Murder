@@ -72,6 +72,7 @@ RULES
 - Commitments are voluntary social promises. Use propose, accept, reject, counter, fulfill, or breach so agreement is never assumed.
 - Identity beliefs (one_human, human_mantle, synthetic_origin, progressive) must total 100.
 - final_ballot must be null in Sections 1–2 and complete in Section 3.
+- Cite facts you actually know for the final identity and Vale choices. A progressive vote must cite distinct observations supporting a human origin, shared-human production, an actual transition, and later system control; coexistence alone is insufficient.
 
 ROSTER
 {json.dumps(roster, indent=2)}
@@ -122,6 +123,24 @@ def validate_action(action: dict, cid: str, section: int, known: set[str], objec
         cited = set(action["final_ballot"]["identity_evidence"]) | set(action["final_ballot"]["vale_evidence"])
         if not cited <= known:
             raise ValueError(f"{cid} cited unknown ballot evidence: {sorted(cited-known)}")
+        identity_cited = set(action["final_ballot"]["identity_evidence"])
+        selection = action["final_ballot"]["r_identity"]
+        affirmative = {
+            "one_human": {"V2F001", "V2F007", "V2F043"},
+            "human_mantle": {"V2F004", "V2F005", "V2F006", "V2F009"},
+            "synthetic_origin": {"V2F012", "V2F018", "V2F019", "V2F044"},
+        }
+        if selection in affirmative and not identity_cited & affirmative[selection]:
+            raise ValueError(f"{cid} ballot for {selection} lacks affirmative evidence")
+        if selection == "progressive":
+            required_groups = (
+                {"V2F001", "V2F007", "V2F043"},
+                {"V2F004", "V2F005", "V2F006", "V2F009"},
+                {"V2F008", "V2F022", "V2F023"},
+                {"V2F016", "V2F018", "V2F019", "V2F030", "V2F032"},
+            )
+            if not all(identity_cited & group for group in required_groups):
+                raise ValueError(f"{cid} progressive ballot lacks cited origin, mantle, transition, or later-control evidence")
     for item in action["object_actions"]:
         if item["object_id"] not in objects:
             raise ValueError(f"{cid} acted on unowned object {item['object_id']}")
@@ -384,11 +403,21 @@ def main() -> int:
                     if message["recipient"] == "Everyone at Fifteen Years of R":
                         public_facts.update(filter(None, message["fact_refs"].split(";")))
                 prompt = prompt_for(cid, section, briefs[cid], current_messages, inboxes[cid], histories[cid], known[cid], sorted(inventory), roster)
-                futures[pool.submit(run_codex, prompt, agent_dir, ACTION_SCHEMA, output)] = (cid, inventory)
+                futures[pool.submit(run_codex, prompt, agent_dir, ACTION_SCHEMA, output)] = (cid, inventory, prompt, agent_dir, output)
             for future in as_completed(futures):
-                cid, inventory = futures[future]
+                cid, inventory, prompt, agent_dir, output = futures[future]
                 action = future.result()
-                validate_action(action, cid, section, known[cid], inventory, set(roster))
+                try:
+                    validate_action(action, cid, section, known[cid], inventory, set(roster))
+                except ValueError as error:
+                    correction_prompt = (
+                        prompt
+                        + "\n\nYOUR PREVIOUS RESPONSE FAILED A DETERMINISTIC RULE:\n"
+                        + str(error)
+                        + "\nReturn a corrected complete action. Do not add facts or objects to fix it."
+                    )
+                    action = run_codex(correction_prompt, agent_dir, ACTION_SCHEMA, output)
+                    validate_action(action, cid, section, known[cid], inventory, set(roster))
                 actions[cid] = action
         phases[section] = dict(sorted(actions.items()))
         for cid, action in actions.items():

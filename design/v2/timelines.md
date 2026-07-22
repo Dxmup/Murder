@@ -17,6 +17,7 @@ No objective event states that R was human, that a complete article existed, or 
 | Time | ID | Objective event | Created traces | Unresolved meaning |
 |---|---|---|---|---|
 | T−15 years | RH01 | The first investigation attributed to R appears after material reaches Frankie's desk. | Published work; First R Letter; desk log; expense record. | Who authored the work or delivered the letter. |
+| T−15 years, earlier | RH00 | A server manifest later entering Veridian's archive lists an experimental persistent persona labeled `R`. | Manifest; component metadata; custody record. | Tool, desk persona, prototype author, or unrelated label. |
 | T−14 to T−12 years | RH02 | Further R investigations establish a recognizable public voice and source network. | Edited drafts; correspondence; source recollections. | One continuing author, editorial normalization, or constructed style. |
 | T−12 years | RH03 | A recurring private habit appears in R-associated communications and transactions. | Message phrasing; small recurring purchases or ritual. | Human preference, mantle protocol, or persona setting. |
 | T−11 years | RH04 | Material for an R investigation passes through a drop later used by the Night Desk Collective. | Drop log; contributor memories; archived fragments. | Whether the collective served R or constituted R. |
@@ -27,6 +28,7 @@ No objective event states that R was human, that a complete article existed, or 
 | T−5 years | RH09 | Parallax begins a continuity project capable of maintaining a persistent persona across operators and migrations. | Project charter; authorization chain; worker accounts. | Legitimate product purpose versus relationship to R. |
 | T−4 years | RH10 | The continuity process receives access to infrastructure also used by R-associated accounts. | Access grant; system identifiers; internal correspondence. | Tool used by R, system operating R, shared vendor, or misleading overlap. |
 | T−3 years | RH11 | R-associated activity continues adaptively during one interval when all known contributors are unavailable. | Timing logs; external-feed record; Edi output; building-access gap. | Autonomous operation or an unknown remote human. |
+| T−14 to T−1 years | RH14 | A protected source receives correct responses to a changing private handwritten challenge across separated years and routes. | Source-held challenges; response copies; one route record. | One continuing human, inherited ritual, or hidden human access around a system. |
 | T−2 years | RH12 | The persistent private habit subtly changes. Observers disagree on the exact date. | Ledger variation; wording shift; Vale's later notes. | Ordinary personal change, mantle transfer, model update, or noise. |
 | T−1 year | RH13 | Jules begins corresponding with an R-associated account about legacy and succession. | Account messages; Jules's notes; metadata. | Human mentorship, mantle recruitment, AI selection, or manipulation. |
 

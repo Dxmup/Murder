@@ -221,6 +221,40 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 
 **Earliest useful section:** 1 and continuously reinterpreted.
 
+### E13 — The Protected Continuity Ritual
+
+**Bounded observations**
+
+- A protected source used a changing handwritten challenge before trusting R with sensitive material.
+- Correct responses returned across widely separated years and delivery routes.
+- The rule was never included in published work or the known digital infrastructure.
+- The source believed only the original contact knew how a valid response should change, but cannot exclude private transmission of the rule.
+
+**Initial holders:** Maren (source account and later response); Frankie (early response context); Rafi (one physical route).
+
+**Interpretations:** Strong for Lone Author as continuity of private judgment. Mantle can argue the ritual was deliberately inherited. Synthetic Persona requires an undiscovered human intermediary or inaccessible training input. Progressive can use the early human contact but must explain why the ritual did not visibly break during later transitions.
+
+**Circulation pressure:** Maren will not expose the source; Frankie wants the ritual to rescue the human account; Rafi can corroborate a route without identifying a customer.
+
+**Earliest useful section:** 3.
+
+### E14 — The Pre-Byline Persona Archive
+
+**Bounded observations**
+
+- A server manifest predating the first R publication lists a persistent experimental persona labeled `R`.
+- The archived component contains stylistic constraints later associated with the byline.
+- The manifest records a machine process but not who designed it or what produced the first published investigation.
+- The archive entered Veridian custody before Parallax obtained R-associated access.
+
+**Initial holders:** Arden (archive manifest); Eli (bounded technical reading); Tessa (early workflow date).
+
+**Interpretations:** Strong for Synthetic Persona as evidence that an R-labeled system existed at origin. Mantle can argue humans used an early editorial tool or desk identity. Lone Author can argue a human author built or borrowed the tool. Progressive is strained because the AI-labeled persona predates the supposed human-to-mantle-to-AI sequence rather than appearing after it.
+
+**Circulation pressure:** Arden wants the archive credited; Eli refuses to equate a component label with authorship; Tessa resists having shared production erased by a manifest.
+
+**Earliest useful section:** 3.
+
 ## Ending balance audit
 
 | Ending | Primary affirmative clusters | Compatible support | Principal strain or rebuttal |
@@ -232,9 +266,9 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 
 The primary endings each receive three affirmative clusters when compatible evidence with distinctive force is included:
 
-- Lone Author: E01, E03, and the intentional-continuity reading of E04.
+- Lone Author: E01, E03, and E13.
 - Human Mantle: E02, E04, and the shared-operator reading of E05.
-- Synthetic Persona: E05, E06, and E07.
+- Synthetic Persona: E05, E07, and E14.
 
 This is structural equality, not yet numerical balance. Simulation must test persuasiveness, timing, and character credibility.
 

@@ -2,7 +2,7 @@
 
 ## Scope
 
-This audit covers the forty-two provisional rows in [`atomic-facts.csv`](atomic-facts.csv). `initial_holder` means the character begins with the observation; `section` means the earliest section in which the design expects it to become useful or circulate, not when the character learns it.
+This audit originally covered forty-two provisional rows in [`atomic-facts.csv`](atomic-facts.csv). Baseline 02 added V2F043 and V2F044 as controlled late affirmative chains for Lone Author and Synthetic Origin. Counts below therefore describe the pre-Baseline-03 distribution and must be regenerated before that run.
 
 Corroborating holders know a bounded adjacent observation, not necessarily the exact wording of the primary fact. Booklets must express those different perspectives rather than copy the same sentence to several players.
 

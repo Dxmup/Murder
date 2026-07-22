@@ -6,8 +6,8 @@
 
 - three section-opening group messages;
 - three additional room-wide framing or closing messages;
-- two personal messages per core character;
-- thirty-eight messages total;
+- two personal messages per core character, plus one controlled late rival-evidence beat each for Arden and Maren;
+- forty messages total;
 - no required in-app replies.
 
 ## Pacing

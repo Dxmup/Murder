@@ -37,7 +37,7 @@ python3 simulation/v2/run.py --validate-only
 python3 simulation/v2/run.py --run-id v2-baseline-01 --workers 4
 ```
 
-The runner enforces fact ownership, object ownership, valid targets, ballot timing, and identity probabilities totaling 100. It routes public statements, private conversations, facts, objects, corrections, and commitments between isolated contexts. Five independent evaluators review mystery balance, progressive difficulty, agency, circulation, and adversarial failure modes; a separate game-master agent synthesizes `GM-REPORT.md`.
+The runner enforces fact ownership, object ownership, valid targets, ballot timing, cited ballot evidence, and identity probabilities totaling 100. An invalid action receives one constrained correction attempt without adding knowledge. The runner routes public statements, private conversations, facts, objects, corrections, and commitments between isolated contexts. Five independent evaluators review mystery balance, progressive difficulty, agency, circulation, and adversarial failure modes; a separate game-master agent synthesizes `GM-REPORT.md`.
 
 If character turns completed but reporting failed, regenerate only the aggregate and reports:
 

@@ -28,7 +28,7 @@ Inspired by the balance and accessibility of Freeform Games: every player has a 
 | [`design/v2/`](design/v2/) | **Current V2 source of truth:** premise, cast, mechanics, and messaging architecture. |
 | [`design/v2/ending-evidence-matrix.md`](design/v2/ending-evidence-matrix.md) | V2 evidence clusters, ending-balance audit, and progressive-ending gate. |
 | [`design/v2/timelines.md`](design/v2/timelines.md) | Interlocking R-history, article-rumor, and Vale timelines. |
-| [`design/v2/atomic-facts.csv`](design/v2/atomic-facts.csv) | Forty-two provisional V2 facts awaiting distribution testing. |
+| [`design/v2/atomic-facts.csv`](design/v2/atomic-facts.csv) | Forty-four provisional V2 facts under simulation testing. |
 | [`design/v2/fact-distribution-audit.md`](design/v2/fact-distribution-audit.md) | Character access counts, centrality risks, and pre-simulation corrections. |
 | [`design/v2/goal-interaction-matrix.csv`](design/v2/goal-interaction-matrix.csv) | Playable goals, success conditions, choices, and three-section target routes. |
 | [`design/v2/objects-and-bargains.md`](design/v2/objects-and-bargains.md) | Minimal prop set, voluntary custody rules, commitments, and bargain design. |
