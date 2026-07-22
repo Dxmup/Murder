@@ -1,0 +1,62 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, I accept your terms. We protect the tenant and maintain a strict shared boundary before Morgan or anyone else gets our logs.",
+      "offer": "Complete building access context and mutual protection against outside investigators.",
+      "request": "Your continued solidarity and corroboration on our safe operational boundary.",
+      "fact_ids_shared": [
+        "V2F042",
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's keep our shift change records aligned without exaggerating what collectors or couriers actually touched.",
+      "offer": "Exact building shift records and practical service timing.",
+      "request": "Your transaction records without added embellishment.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you want a bounded account of the service route, I need guaranteed resident anonymity and precise attribution.",
+      "offer": "An operational account of building rhythms and access practice.",
+      "request": "A binding confirmation of fair treatment and precise reporting.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The service routes in our building are practical passages for working people, not a criminal conspiracy. An audit flag does not mean a murder.",
+  "facts_shared": [
+    "V2F026",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Establish a shared disclosure boundary to protect local witnesses from uncoordinated questioning",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Inez's protective boundary proposal and aligned on disclosure.",
+    "Compared shift change details with Rafi to maintain factual clarity.",
+    "Demanded precise attribution and resident anonymity from Morgan before offering building records."
+  ],
+  "beliefs": {
+    "one_human": 24,
+    "human_mantle": 26,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Dee Nowak solidifies her protective alliance with Inez Baptiste by accepting the commitment regarding witness protection and building access context, compares shift logs with Rafi Calder\u00f3n, and sets strict terms for Morgan Shaw regarding resident anonymity before sharing any operational records.",
+  "final_ballot": null
+}

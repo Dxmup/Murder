@@ -1,0 +1,87 @@
+{
+  "character_id": "C11",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the reconstruction is here. Let's fulfill our coordinated calendar disclosure and put this to rest with shared responsibility.",
+      "offer": "Joint acknowledgment of the authorization context to protect both City Hall and Parallax.",
+      "request": "Your formal fulfillment of our calendar disclosure agreement.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, we have locked in our commitment. City Hall will deliver the administrative funding and enforcement mechanisms for worker safeguards.",
+      "offer": "City Hall administrative backing and budget allocation for worker safeguards.",
+      "request": "Your partnership in stabilizing the neighborhood tonight.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, we have honored the privacy boundary. Let's ensure Vale's actual motives are respected without sensationalism.",
+      "offer": "Strict adherence to privacy boundaries regarding Vale's records.",
+      "request": "Agreement on a balanced public summary of Vale's actions.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "City Hall and community partners are formalizing enforceable worker protections and transparent oversight, ensuring our policy response survives every interpretation of tonight's events.",
+  "facts_shared": [
+    "V2F029",
+    "V2F035",
+    "V2F040",
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C05",
+      "promise": "Coordinate calendar record disclosure regarding Vale's access.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C07",
+      "promise": "Back enforceable worker safeguards with city funding and administrative authority.",
+      "visibility": "public",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Fulfilled coordination with Mira regarding calendar disclosure.",
+    "Finalized enforceable worker safeguards with Maren backed by city funding.",
+    "Completed final ballot and reconstruction submissions."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 30,
+    "progressive": 15,
+    "article_existed": 30,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Celeste fulfills her commitments with Mira and Maren, secures policy protections, and casts her final ballot based on distributed collaboration and verifiable institutional records.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F008",
+      "V2F018",
+      "V2F020",
+      "V2F026"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

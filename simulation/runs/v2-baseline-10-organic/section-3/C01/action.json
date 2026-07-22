@@ -1,0 +1,90 @@
+{
+  "character_id": "C01",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I have fulfilled our agreement to review Veridian's intake report and expense records alongside your First R Letter packet for an honest public record.",
+      "offer": "Full transparency on Veridian archive intake and expense records.",
+      "request": "Your continued partnership in maintaining documentary accuracy.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C12",
+      "say": "Graham, Veridian's integrity and financial stability depend on separating verified institutional records from market speculation.",
+      "offer": "Clarification of Veridian's institutional standing.",
+      "request": "Restraint from leveraging unauthenticated rumors for market swings.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, Veridian is committed to establishing a binding, written agreement for community archive access and neighborhood resource participation.",
+      "offer": "A formal commitment for community archive access and space support.",
+      "request": "Your ongoing coalition support and neighborhood participation.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Veridian Dynamics remains committed to editorial independence and transparent record-keeping as we navigate tonight's difficult questions.",
+  "facts_shared": [
+    "V2F002",
+    "V2F003",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C02",
+      "promise": "Provide full archive record access before public remarks.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C12",
+      "promise": "Share my original tip record if Arden discloses Parallax's internal planning regarding the R rumor.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Fulfilled archive access commitment with Frankie Lowell.",
+    "Engaged Graham Pike regarding market speculation and institutional records.",
+    "Secured neighborhood partnership terms with Inez Baptiste."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Arden Bell, I have successfully balanced Veridian's institutional survival by fulfilling agreements with Frankie Lowell and Inez Baptiste, managing financial and political pressures from Graham Pike and Celeste Park, and addressing funding conditions. I am now submitting our final ballot reflecting a human mantle perspective supported by continuity logs and archive records.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F001",
+      "V2F002",
+      "V2F003",
+      "V2F004",
+      "V2F035"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

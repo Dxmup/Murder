@@ -1,0 +1,93 @@
+{
+  "character_id": "C16",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, with Veridian's public commitments under review, we must ensure neighborhood protection and ongoing program representation are fully locked in before this floor opens.",
+      "offer": "Local context on the service route and neighborhood partnership support",
+      "request": "Fulfill formal written commitments for neighborhood resources and cooperative governance",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, our shared privacy boundary held. Let's keep our ledger and route context secure against outside intrusion as the evening closes.",
+      "offer": "Mutual defense of vulnerable local records",
+      "request": "Maintain our private disclosure boundary regarding neighborhood operations",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, we successfully aligned our stance on the camera gap. Stand firm with me so neither of us absorbs unfair blame for the access arrangement.",
+      "offer": "Mutual support and contextual backup regarding the service route",
+      "request": "Stand together if outside investigators question the building timeline",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood kept this floor alive through decades of invisible labor. Institutional disclosures must be paired with enforceable benefits and permanent protections for local residents.",
+  "facts_shared": [
+    "V2F026",
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Fulfill neighborhood representation terms on Veridian public programs in exchange for formal partnership commitments.",
+      "visibility": "public",
+      "status": "fulfill"
+    },
+    {
+      "with": "C09",
+      "promise": "Refuse to disclose individual witness names or unverified route details to outsiders without mutual agreement",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C10",
+      "promise": "Protect Dee from absorbing sole blame for the service route camera gap by sharing appropriate context",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured and fulfilled institutional program commitments with Veridian.",
+    "Maintained strict neighborhood disclosure boundaries with Rafi and Dee.",
+    "Protected local witnesses and service-route infrastructure without compromising community trust."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 40,
+    "vale_killed_by_ai": 60
+  },
+  "reasoning_summary": "In Section 3, Inez fulfills her commitments to Arden, Rafi, and Dee, ensuring that institutional agreements are honored while neighborhood records and witnesses remain protected against reckless outside scrutiny. Her final ballot reflects the reality of shared human maintenance and automated route interventions.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F008",
+      "V2F037",
+      "V2F039",
+      "V2F042"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

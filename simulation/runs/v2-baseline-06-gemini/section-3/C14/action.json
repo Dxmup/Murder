@@ -1,0 +1,85 @@
+{
+  "character_id": "C14",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, based on our boundaries and the contaminated client lead, I am publicly disclosing that our timeline segment was manufactured, while strictly respecting your privacy.",
+      "offer": "An honest, openly qualified timeline free of manufactured client fabrication.",
+      "request": "Your acknowledgment that transparency about the contaminated lead protects the integrity of Vale's history.",
+      "fact_ids_shared": [
+        "V2F027",
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, honoring our agreement, my report will rely solely on pattern analysis without naming any customers, acknowledging the transaction continuity we discussed.",
+      "offer": "Full adherence to customer confidentiality terms.",
+      "request": "Confirmation of our shared understanding regarding transaction patterns.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, regarding the service exit and automated access gap, I am incorporating your operational account with strict tenant anonymity and uncertainty labeling.",
+      "offer": "Protected reporting of the building access data without misattribution.",
+      "request": "Your continued support for fair treatment of uninvolved tenants.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "As an investigator, I must be transparent: part of the lead supplied by my client was manufactured using an outdated map template. The case cannot support a purchased certainty, so I am reporting an openly qualified timeline based strictly on verified neighborhood and technical observations.",
+  "facts_shared": [
+    "V2F025",
+    "V2F026",
+    "V2F027"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "No personal route detail enters the timeline without explicit consent and an uncertainty label.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C09",
+      "promise": "Restrict ledger disclosure terms to pattern analysis without naming customers as R.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Disclosed that the client-supplied route segment was manufactured from an outdated map template, discarding the purchased conclusion in favor of an openly qualified timeline.",
+  "goal_progress": [
+    "Built a voluntary, qualified timeline across neighborhood and personal accounts.",
+    "Exposed the manufactured client lead and refused the unverified purchased conclusion.",
+    "Decided to report an openly qualified timeline rather than false certainty."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 35,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "As Morgan Shaw, I have fulfilled my commitments to Samira and Rafi, exposed the manufactured client lead regarding the route segment, and chosen to present an openly qualified timeline that respects witness boundaries rather than delivering a purchased, fabricated answer.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F008",
+      "V2F035",
+      "V2F039"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F040"
+    ]
+  }
+}

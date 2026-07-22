@@ -1,0 +1,86 @@
+{
+  "character_id": "C07",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C11",
+      "say": "Celeste, I accept your terms for institutional funding and deadlines. Let's make sure these worker protections survive every possible ending tonight.",
+      "offer": "Coalition support and endorsement of Veridian labor policy",
+      "request": "Enforceable funding commitments and strict implementation deadlines",
+      "fact_ids_shared": [
+        "V2F036",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Tessa, our joint disclosure boundary is active. We protect contributor anonymity and refuse to let workflow evidence turn evaluators into suspects.",
+      "offer": "Bounded Night Desk collaborative labor record",
+      "request": "Strict adherence to source protection principles",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm must be addressed independently of R's identity or rumors. We demand concrete material remedies without purchasing evaluator testimony.",
+      "offer": "Bounded evaluator context under secure anonymity",
+      "request": "Independent material worker remedy framework",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F038",
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Worker anonymity and concrete protections must be secured before anyone uses evaluator testimony to explain Vale's disappearance or R's identity.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C11",
+      "promise": "Secure institutional funding and administrative backing for enforceable labor protections.",
+      "visibility": "public",
+      "status": "accept"
+    },
+    {
+      "with": "C03",
+      "promise": "Establish a joint disclosure boundary regarding collective labor before speaking to outsiders",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Clarified that worker safety and mandatory anonymity take absolute precedence over any narrative convenience or article rumor.",
+  "goal_progress": [
+    "Secured enforceable institutional funding and policy backing with Celeste.",
+    "Maintained strict disclosure boundary and contributor anonymity with Tessa.",
+    "Demanded independent material remedies for workers from Mira."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 45,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 3, Maren solidifies her coalition with Celeste by accepting enforceable worker protections and funding, fulfills her boundary agreement with Tessa, presses Mira on independent material remedies, and casts her final ballot reflecting a human mantle and Vale's investigation into R.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F038",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "harm_by_humans",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F034"
+    ]
+  }
+}

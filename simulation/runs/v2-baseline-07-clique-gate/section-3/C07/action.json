@@ -1,0 +1,94 @@
+{
+  "character_id": "C07",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, let's fulfill our commitment and ensure that all published Night Desk archives strictly adhere to our contributor-free workflow boundary.",
+      "offer": "Reaffirmation of our joint defense of evaluator anonymity",
+      "request": "Fulfill our joint commitment to circulate only contributor-free workflow descriptions",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, Parallax's audit rights and worker remedies must now be formally locked in and implemented unconditionally, independent of any R mystery claims.",
+      "offer": "Endorsement of unconditional worker remedy implementation",
+      "request": "Fulfill the institutional commitment to establish material support and audit rights starting tomorrow",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, let's lock in our joint neighborhood and worker protection boundaries so that no local favors or witness accounts are weaponized by outside investigators.",
+      "offer": "Shared coalition defense for neighborhood witnesses and contractors",
+      "request": "Fulfill our joint commitment to protect workers and neighbors first",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "Institutional accountability cannot be conditional on solving a mystery. Real worker harm, shifting instructions, and invisible labor demand immediate, unconditional protection and remedies.",
+  "facts_shared": [
+    "V2F040",
+    "V2F041",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "We will jointly defend evaluator anonymity and circulate only contributor-free workflow descriptions.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C05",
+      "promise": "Establish an enforceable policy and material worker remedy independent of mystery claims.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C16",
+      "promise": "Coordinate neighborhood and worker protection boundaries against outside inquiry",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Fulfilled joint evaluator anonymity commitment with Tessa.",
+    "Secured unconditional worker remedies and audit rights fulfillment with Mira.",
+    "Completed neighborhood and worker protection coordination with Inez."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 45,
+    "synthetic_origin": 25,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Maren concluded Section 3 by fulfilling her core commitments with Tessa, Mira, and Inez, ensuring contributor-free workflow protection, unconditional institutional worker remedies, and neighborhood witness safety while submitting her final ballot reflecting the human mantle and systemic labor reality.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F037",
+      "V2F040",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "harmed_by_humans",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

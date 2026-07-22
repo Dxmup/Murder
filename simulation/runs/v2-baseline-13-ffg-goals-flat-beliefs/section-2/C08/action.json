@@ -1,0 +1,58 @@
+{
+  "character_id": "C08",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, you mentioned the metro desk and the voice. Let's compare notes: does the sensory memory of that encounter match a live theatrical performance or something purely generated?",
+      "offer": "My firsthand perspective on voice commissions and performance constraints.",
+      "request": "Your exact sensory recollection of the R encounter.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, I received a notice about an old commission fee passing through an intermediary associated with R. Let's review how these payment routes tie into succession.",
+      "offer": "Insight into synthetic performance commission structures and payment redirection.",
+      "request": "Your assessment of the intermediary payment route.",
+      "fact_ids_shared": [
+        "V2F014"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, if capability logs and infrastructure overlap are being tracked, how would recorded vocal assets be ingested or reused without authorial consent?",
+      "offer": "Expertise in distinguishing source recordings from performed speech.",
+      "request": "Technical limits on how recorded assets enter later activity.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Performance is not authorship, and a commissioned voice does not equal an author. Let's look at how assets traveled without consent.",
+  "facts_shared": [
+    "V2F014"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Maintain confidentiality regarding payment structures and commission comparisons.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Frankie Lowell to compare encounter memory with performance realities.",
+    "Discussed intermediary payment route V2F014 with Jules Kwan.",
+    "Examined technical paths of asset reuse with Eli Navarro."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 30,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "In Section 2, Edi focuses on reconstructing the commission by discussing payment routes with Jules (V2F014), probing Frankie's encounter memory, and examining asset reuse mechanics with Eli. Adjusted beliefs to favor a human mantle and synthetic mix given payment and performance overlap.",
+  "final_ballot": null
+}

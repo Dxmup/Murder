@@ -1,0 +1,295 @@
+{
+  "ballots": {
+    "r_identity": {
+      "human_mantle": 11,
+      "synthetic_origin": 2,
+      "progressive": 3
+    },
+    "vale_relationship": {
+      "investigating_r": 15,
+      "mantle_holder": 1
+    },
+    "vale_fate": {
+      "voluntarily_vanished": 10,
+      "harmed_by_humans": 2,
+      "vale_not_reliably_as_described": 2,
+      "killed_by_ai": 2
+    }
+  },
+  "identity_ballot_support": {
+    "C01": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F001",
+        "V2F002",
+        "V2F003",
+        "V2F004",
+        "V2F035"
+      ]
+    },
+    "C02": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F001",
+        "V2F002",
+        "V2F003",
+        "V2F004",
+        "V2F040"
+      ]
+    },
+    "C03": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F035",
+        "V2F040",
+        "V2F041"
+      ]
+    },
+    "C04": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production"
+      ],
+      "cited": [
+        "V2F009",
+        "V2F023",
+        "V2F035",
+        "V2F040"
+      ]
+    },
+    "C05": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F015",
+        "V2F017",
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    "C06": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F015",
+        "V2F035",
+        "V2F039",
+        "V2F041"
+      ]
+    },
+    "C07": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F035",
+        "V2F041"
+      ]
+    },
+    "C08": {
+      "selection": "synthetic_origin",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "pre_byline_machine"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F014",
+        "V2F019",
+        "V2F035",
+        "V2F039"
+      ]
+    },
+    "C09": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F008",
+        "V2F039",
+        "V2F040"
+      ]
+    },
+    "C10": {
+      "selection": "progressive",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "human_origin",
+        "shared_human_production",
+        "transition",
+        "later_system_control"
+      ],
+      "cited": [
+        "V2F015",
+        "V2F035",
+        "V2F036",
+        "V2F039"
+      ]
+    },
+    "C11": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F035",
+        "V2F040"
+      ]
+    },
+    "C12": {
+      "selection": "synthetic_origin",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "pre_byline_machine",
+        "later_machine_behavior"
+      ],
+      "cited": [
+        "V2F015",
+        "V2F035",
+        "V2F039",
+        "V2F040"
+      ]
+    },
+    "C13": {
+      "selection": "progressive",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "human_origin",
+        "shared_human_production",
+        "transition",
+        "later_system_control"
+      ],
+      "cited": [
+        "V2F035",
+        "V2F039",
+        "V2F040"
+      ]
+    },
+    "C14": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F014",
+        "V2F039",
+        "V2F040"
+      ]
+    },
+    "C15": {
+      "selection": "progressive",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "shared_human_production",
+        "transition",
+        "later_system_control"
+      ],
+      "cited": [
+        "V2F001",
+        "V2F035",
+        "V2F039",
+        "V2F040"
+      ]
+    },
+    "C16": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F035",
+        "V2F040"
+      ]
+    }
+  },
+  "belief_means_by_section": {
+    "1": {
+      "one_human": 28.4,
+      "human_mantle": 30.0,
+      "synthetic_origin": 22.8,
+      "progressive": 18.8,
+      "article_existed": 35.6,
+      "vale_killed_by_ai": 25.9
+    },
+    "2": {
+      "one_human": 24.1,
+      "human_mantle": 33.4,
+      "synthetic_origin": 24.7,
+      "progressive": 17.8,
+      "article_existed": 35.3,
+      "vale_killed_by_ai": 27.8
+    },
+    "3": {
+      "one_human": 19.7,
+      "human_mantle": 36.9,
+      "synthetic_origin": 24.7,
+      "progressive": 18.8,
+      "article_existed": 34.4,
+      "vale_killed_by_ai": 29.4
+    }
+  },
+  "public_fact_ids": [
+    "V2F001",
+    "V2F002",
+    "V2F003",
+    "V2F004",
+    "V2F007",
+    "V2F009",
+    "V2F012",
+    "V2F013",
+    "V2F014",
+    "V2F015",
+    "V2F017",
+    "V2F019",
+    "V2F020",
+    "V2F023",
+    "V2F025",
+    "V2F026",
+    "V2F027",
+    "V2F029",
+    "V2F030",
+    "V2F032",
+    "V2F034",
+    "V2F035",
+    "V2F036",
+    "V2F037",
+    "V2F039",
+    "V2F040",
+    "V2F041",
+    "V2F042"
+  ]
+}

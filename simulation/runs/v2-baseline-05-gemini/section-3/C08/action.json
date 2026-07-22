@@ -1,0 +1,63 @@
+{
+  "character_id": "C08",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, media render notices indicate that output using elements of my old commission completed during the no-known-operator interval. As someone tracking contributor availability, can we bound how these assets were reused without consent?",
+      "offer": "Expertise in distinguishing performed voice assets from autonomous generation.",
+      "request": "Your assessment of contributor availability and asset reuse during the interval.",
+      "fact_ids_shared": [
+        "V2F019",
+        "V2F020"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, local access gaps were recorded around the time my old commission assets were rendered. Can local access logs clarify who or what triggered that activity?",
+      "offer": "Insight into how performed identity assets are stored and invoked.",
+      "request": "Your perspective on bounding local access during the render interval.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "A performed identity and commissioned voice do not equal authorship. Whoever reused recorded assets without consent traded reality for convenience, but performance remains ours.",
+  "facts_shared": [
+    "V2F019",
+    "V2F020"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Performance is not authorship, and a staged appearance or automated render is not proof of a single human author.",
+  "goal_progress": [
+    "Confronted Tessa and Dee regarding render outputs and access gaps during the no-known-operator interval.",
+    "Reaffirmed publicly that performance is distinct from authorship and unauthorized asset reuse is theft.",
+    "Completed final ballot evaluation integrating commission history, render timing, and shared mantle observations."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 50,
+    "synthetic_origin": 25,
+    "progressive": 10,
+    "article_existed": 45,
+    "vale_killed_by_ai": 15
+  },
+  "reasoning_summary": "Edi Velez concludes the evening by investigating the render output time and contributor availability with Tessa and Dee, reinforcing that performance and commissioned embodiment cannot be detached from consent. Edi casts a final ballot identifying R as a human mantle supported by shared collaborative labor and synthetic components, and concludes Vale voluntarily vanished.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F014",
+      "V2F019"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F034"
+    ]
+  }
+}

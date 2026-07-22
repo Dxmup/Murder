@@ -1,0 +1,69 @@
+{
+  "character_id": "C09",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are circling the bodega's accounts and asking about the old R transactions. We need an agreement on what neighborhood details stay off-limits before financial pressure makes every irregularity look like guilt.",
+      "offer": "My word to protect local customer records and informal arrangements.",
+      "request": "Your support and silence on ledger alterations if outside investigators start demanding certainty.",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, you want to examine the transaction pattern without calling every customer R. I have records, but I need clear terms on attribution and customer privacy before we talk specifics.",
+      "offer": "A bounded look at the account continuity pattern.",
+      "request": "A firm promise not to name any customer as R or expose local identities.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, you have talked about R's supposed habits. Before I show anything from my counter, tell me how you remember that private habit working.",
+      "offer": "Context from my counter's records on collector routines.",
+      "request": "Your exact memory of R's private habit so we can compare notes.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of keeping a package counter teaches you that habits belong to real people, not legends. Before anyone starts auctioning off stories from my bodega, let's remember who paid the coffee tabs and who actually carried the weight.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Protect local customer privacy and informal arrangements against outside intrusion.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C14",
+      "promise": "Provide bounded transaction details once customer attribution protections are agreed.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Contacted Inez to establish boundary terms for customer privacy.",
+    "Initiated negotiations with Morgan on ledger view limits and attribution.",
+    "Engaged Frankie to compare memories of the private habit."
+  ],
+  "beliefs": {
+    "one_human": 45,
+    "human_mantle": 25,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Rafi Calder\u00f3n opens Section 1 by prioritizing the protection of local bodega customers and informal arrangements. He approaches Inez to secure community solidarity, engages Morgan to establish strict terms before sharing any ledger views, and talks with Frankie to compare observations on R's purported private habit.",
+  "final_ballot": null
+}

@@ -1,0 +1,75 @@
+{
+  "character_id": "C11",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the calendar recovery notice makes our records public. We need to align on shared responsibility for the off-calendar meeting before outside narratives take over.",
+      "offer": "To match our disclosure of the calendar records jointly so neither of us bears sole exposure.",
+      "request": "Your agreement to a shared statement acknowledging the authorization context.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F030"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, labor demands enforceable protections. City Hall is prepared to back these safeguards with administrative authority and funding if we lock down the terms tonight.",
+      "offer": "City Hall funding and administrative backing for enforceable worker safeguards.",
+      "request": "Specific enforcement mechanisms and deadlines for worker protections.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, Vale's motives deserve respect, not speculation. I can offer a strict privacy boundary regarding the off-calendar meeting if you help clarify what Vale sought.",
+      "offer": "A formal privacy boundary protecting Vale's personal records and confidence.",
+      "request": "Insight into Vale's true objectives regarding Parallax access.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "City Hall and community partners are establishing enforceable worker protections and transparent oversight that separate verified civic needs from speculation.",
+  "facts_shared": [
+    "V2F029",
+    "V2F030",
+    "V2F035",
+    "V2F040",
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C05",
+      "promise": "Coordinate calendar record disclosure regarding Vale's access.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C07",
+      "promise": "Back enforceable worker safeguards with city funding and administrative authority.",
+      "visibility": "public",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Mira to align on shared calendar recovery and off-calendar meeting responsibility.",
+    "Advanced enforceable worker protections with Maren backed by City Hall authority.",
+    "Established a privacy boundary discussion with Samira regarding Vale's motives."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Celeste focuses on securing institutional coalitions, containing the off-calendar meeting fallout with Mira, establishing enforceable worker safeguards with Maren, and respecting privacy boundaries with Samira.",
+  "final_ballot": null
+}

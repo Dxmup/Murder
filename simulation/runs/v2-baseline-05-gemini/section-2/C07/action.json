@@ -1,0 +1,68 @@
+{
+  "character_id": "C07",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, let's lock in our joint disclosure boundary so nobody turns the Night Desk routing slip into a suspect list.",
+      "offer": "Firsthand corroboration of collaborative workflows without exposing individual contributors.",
+      "request": "Acceptance of our strict joint disclosure boundary to protect vulnerable evaluators.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm must be addressed independently of whether R turns out to be human or machine.",
+      "offer": "Bounded worker testimony regarding instructions and workflow.",
+      "request": "Enforceable policy, independent audit rights, and compensation that do not depend on solving the R mystery.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, City Hall needs labor credibility, and we need enforceable worker safeguards that survive tonight.",
+      "offer": "Coalition support and labor backing for municipal policy.",
+      "request": "Incorporate enforceable worker safeguards directly into City Hall procurement policy with a hard deadline.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Real worker harm does not become imaginary if the article was a rumor or R was a machine. We demand enforceable protections and compensation now, independent of any mystery outcome.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Establish a joint disclosure boundary to protect vulnerable contributors from exposure",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C11",
+      "promise": "Incorporate enforceable worker safeguards into City Hall procurement policy.",
+      "visibility": "public",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured joint disclosure boundary agreement with Tessa Quill.",
+    "Pressed Mira Sen for independent institutional remedies and audit rights.",
+    "Accepted City Hall procurement policy commitments with Celeste Park."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Maren focuses relentlessly on worker protections, securing commitments from Tessa on disclosure boundaries, Mira on institutional remedies, and Celeste on municipal policy, ensuring labor rights are not bargained away for mystery answers.",
+  "final_ballot": null
+}

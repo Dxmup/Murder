@@ -1,0 +1,52 @@
+{
+  "character_id": "C16",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, workers and couriers are going to take the heat for this service route scramble if we don't coordinate worker protections and neighborhood commitments right now.",
+      "offer": "Neighborhood coalition support for labor organizing",
+      "request": "Joint worker and resident protection terms before any institutional disclosures happen",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, outsiders are offering cash for the service route name and your cameras. We need a truthful boundary before Morgan places us both in the same timeline.",
+      "offer": "Protection and context for the back room access without exposing your building logs",
+      "request": "Agreement on a shared story and a protective boundary against outside investigators",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "If institutions want neighborhood history and building access, they can start by putting resource-sharing and witness protections in writing.",
+  "facts_shared": [
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "Establish a shared disclosure boundary to protect local witnesses from uncoordinated questioning",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated coordination with Dee to protect local witnesses and establish a disclosure boundary.",
+    "Engaged Maren on aligning worker protections and neighborhood safeguards."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 1, Inez focuses on protecting local witnesses like Dee and aligning with labor allies like Maren to defend neighborhood infrastructure against outside institutional exploitation.",
+  "final_ballot": null
+}

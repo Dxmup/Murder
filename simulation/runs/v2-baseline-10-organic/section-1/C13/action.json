@@ -1,0 +1,47 @@
+{
+  "character_id": "C13",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, before anyone spins a myth about Vale's absence, tell me the exact conversation you had with Vale about how succession could be manufactured.",
+      "offer": "I will share context on Vale's prior safety pattern if you answer honestly.",
+      "request": "Give me the complete succession context without embellishment.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale told you R was no longer human. What actual evidence made that feel possible to Vale, and what remains uncertain?",
+      "offer": "I can corroborate that Vale distributed different statements to different people.",
+      "request": "Tell me what you saw in the technical logs that triggered that reaction.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you are investigating Vale's route, understand this: no personal material enters any timeline without my explicit consent and an uncertainty label.",
+      "offer": "I can help recognize locations from Vale's previous safety plan.",
+      "request": "Agree to keep uncertainty visible in your report.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale's absence is not a plot device or a manifesto. Stop treating a person's life as raw material for your own ambitions.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Correction: People are speaking of Vale's statements as if they were a unified manifesto or a completed article. They were strategic fragments, distributed deliberately to different people.",
+  "goal_progress": [
+    "Initiated contact with Jules to examine the succession conversation.",
+    "Engaged Eli regarding the claim that R was no longer human.",
+    "Established a boundary with Morgan regarding route privacy and uncertainty labels."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 25,
+    "synthetic_origin": 15,
+    "progressive": 20,
+    "article_existed": 20,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Samira Vale, my priority is refusing to let the room turn Vale into a myth or a convenient symbol. I am engaging Jules about the succession conversation and Eli about the technical logs, while setting strict boundaries with Morgan on route privacy. My beliefs lean toward voluntary disappearance or human-driven complexity given past patterns, but I remain guarded.",
+  "final_ballot": null
+}

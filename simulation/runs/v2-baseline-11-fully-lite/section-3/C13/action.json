@@ -1,0 +1,60 @@
+{
+  "character_id": "C13",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, reviewing your route board with the agreed uncertainty labels helps ensure Vale's prior safety pattern isn't weaponized into a false narrative.",
+      "offer": "Context on Vale's prior voluntary disappearance pattern and safety route",
+      "request": "Verification that uncertainty remains explicitly attached to every published timeline segment",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you asked how succession could be manufactured. Now that we are at the end, I need your final word on whether that was ambition or fear before we make our choices public.",
+      "offer": "My perspective on Vale's strategic ambiguity and human complexity",
+      "request": "Honest accounting of the succession conversation",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, the technical logs establish access overlap and capability, not a non-human entity. Let's record what we actually know without mythologizing Vale's struggle.",
+      "offer": "Clarification on Vale's emotional state regarding the technical logs",
+      "request": "Agreement to ground our final conclusions in human agency rather than synthetic prophecy",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale was a human being with flaws, fear, and real courage\u2014not a plot device, a non-human entity, or a symbol for your careers.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Correcting the false claim that Vale's absence or relationship to R represents a non-human operation rather than a human individual's choices and voluntary withdrawal pattern.",
+  "goal_progress": [
+    "Engaged Morgan to ensure route uncertainty is preserved.",
+    "Challenged Jules on the complete succession context.",
+    "Reminded Eli that logs reflect human operational choices rather than synthetic origin."
+  ],
+  "beliefs": {
+    "one_human": 50,
+    "human_mantle": 20,
+    "synthetic_origin": 10,
+    "progressive": 20,
+    "article_existed": 20,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "As Samira Vale, former partner, I refuse to let Vale be reduced to a plot device or a synthetic myth. Based on prior safety patterns, automated intervention, and personal context, I conclude Vale voluntarily withdrew using an established escape route, while maintaining privacy over the sealed envelope.",
+  "final_ballot": {
+    "r_identity": "one_human",
+    "identity_evidence": [
+      "V2F001",
+      "V2F002",
+      "V2F025"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F028",
+      "V2F034"
+    ]
+  }
+}

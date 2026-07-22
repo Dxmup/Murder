@@ -1,0 +1,53 @@
+{
+  "character_id": "C13",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, before anyone weaves stories about succession around Vale's absence, tell me the complete conversation you had with Vale about how an uncontestable succession could be manufactured.",
+      "offer": "Context on Vale's strategic ambiguity and prior safety patterns",
+      "request": "A complete, unvarnished account of what you asked Vale and how Vale responded",
+      "fact_ids_shared": [
+        "V2F034"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale was told R was no longer human after looking at your technical logs. What specific evidence made that conclusion feel inescapable, and what remains uncertain?",
+      "offer": "Insight into Vale's emotional state when processing technical logs",
+      "request": "A clear breakdown of the logs without manufacturing certainty",
+      "fact_ids_shared": [
+        "V2F028"
+      ]
+    }
+  ],
+  "public_statement": "Vale's absence is not a plot device for your careers, and R is not a legend for you to claim. Stop manufacturing intimacy where there was only operational security.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "I will coordinate with you on personal route details only if uncertainty remains explicitly labeled.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "Vale was a person with ordinary human flaws, not a fictional architect of this party's theories.",
+  "goal_progress": [
+    "Asked Jules to recount the succession conversation.",
+    "Questioned Eli regarding the technical logs and the claim that R was no longer human.",
+    "Made a public statement correcting false intimacy regarding Vale."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 10,
+    "article_existed": 25,
+    "vale_killed_by_ai": 15
+  },
+  "reasoning_summary": "As Samira, my priority is cutting through the theater and posturing of the guests who turn Vale into a symbol. I engaged Jules regarding the manufacturing of succession and Eli regarding the technical logs about R's non-human status. I am maintaining the sealed envelope for now, demanding honesty and uncertainty before releasing any personal context.",
+  "final_ballot": null
+}

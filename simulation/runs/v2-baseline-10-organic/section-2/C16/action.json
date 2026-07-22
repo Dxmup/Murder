@@ -1,0 +1,76 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C10",
+      "say": "Dee, we need our story straight on the camera gap before Morgan starts asking about the service route and back room access.",
+      "offer": "Protected boundary and shared context on building rhythms",
+      "request": "Coordinate disclosure boundaries without exposing residents",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, your bodega ledgers and customer privacy are safe with me, but we need to hold the line against outside auditors.",
+      "offer": "Silence and support regarding informal arrangements",
+      "request": "Mutual protection of local customer records",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, if Veridian wants neighborhood legitimacy, we need a written commitment for community archive access and space support, not just photos.",
+      "offer": "Neighborhood participation and local coalition support",
+      "request": "A binding, written commitment for community resources",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Before anyone trades away neighborhood history for institutional press releases, let's remember that real infrastructure is kept alive by the people working behind the scenes every day.",
+  "facts_shared": [
+    "V2F007",
+    "V2F026",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "Coordinate disclosure boundaries regarding the camera interval without exposing uninvolved residents.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Protect local customer privacy and informal arrangements against outside intrusion.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C14",
+      "promise": "Uphold fair-treatment terms and protect local sources from undue risk.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Aligned with Dee on camera gap and disclosure boundaries.",
+    "Established mutual protection with Rafi regarding bodega records.",
+    "Pressed Arden for concrete written commitments from Veridian."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 45,
+    "vale_killed_by_ai": 35
+  },
+  "reasoning_summary": "Inez coordinated with Dee and Rafi to secure local privacy boundaries around the camera gap and service route, while continuing to press Arden for concrete institutional commitments rather than empty promises.",
+  "final_ballot": null
+}

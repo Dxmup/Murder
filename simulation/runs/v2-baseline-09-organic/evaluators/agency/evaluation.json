@@ -1,0 +1,41 @@
+{
+  "role": "agency",
+  "verdict": "The simulation successfully demonstrated robust character agency, distinct quiet-role participation, and meaningful social negotiation, but failed to maintain the locked design intent of ending balance and mechanical completeness. While characters actively pursued and achieved their individual goals (such as labor safeguards and neighborhood protections) regardless of their accuracy regarding R, a systemic ballot citation defect prevented any agent from achieving a full evidence chain. Furthermore, the final outcomes suffered from an overwhelming drift toward the human_mantle ending, violating the structural parity of the primary endings.",
+  "findings": [
+    "Test Goal Pursuit: Goal pursuit was highly effective across all tiers. Central characters like Arden Bell (C01) successfully stabilized Veridian's narrative while quiet characters like Inez Baptiste (C16) successfully extracted written workspace and archive protections from the institution in Section 3.",
+    "Meaningful Choices: Characters exercised significant agency. Samira Vale (C13) chose to withhold the sealed envelope to protect Vale's human privacy. Frankie Lowell (C02) voluntarily showed the letter packet (O01) to Arden (C01) across all sections but made a critical choice to accept memory fallibility in Section 3, correcting his celebrated origin story.",
+    "Quiet-Role Participation: Non-central characters had a high narrative impact. Edi Velez (C08) tracked down the unauthorized reuse of her performed identity using media render service records (V2F019, V2F020), while Dee Nowak (C10) successfully established a disclosure boundary to protect building residents from being scapegoated over the camera gap (V2F026).",
+    "Chokepoints: Key information bottlenecks were organic but navigable. Morgan Shaw (C14) acted as a primary chokepoint for Vale's physical timeline, successfully holding, analyzing, and eventually disclosing in Section 3 that her client's supplied route segment (V2F027) was manufactured from an outdated map.",
+    "Success While Wrong about R: Characters successfully achieved their core goals independent of R's identity. Maren Okafor (C07) and Inez Baptiste (C16) successfully negotiated enforceable worker remedies, city funding, and written institutional safeguards from Mira Sen (C05) and Celeste Park (C11) despite holding divergent views of R's nature.",
+    "Ending Balance Imbalance: The structural weight between the three primary endings (One Human, Human Mantle, Synthetic Origin) was highly skewed. The human_mantle ending dominated with 11 ballots, whereas One Human received 2 and Synthetic Origin received only 1, indicating that the baseline environment heavily biased agents toward collaborative interpretations."
+  ],
+  "evidence": [
+    "Section 3 transcript for Arden Bell (C01) and Inez Baptiste (C16) showing the fulfillment of written neighborhood protection and participation agreements (V2F040, V2F041).",
+    "Section 3 transcript for Samira Vale (C13) where she explicitly chooses to withhold the sealed envelope to protect Vale's human privacy rather than reducing her to a plot device.",
+    "Section 3 correction statement by Frankie Lowell (C02) admitting his origin story was partly constructed and shaped by theatrical performance while showing O01.",
+    "Section 3 transcript for Edi Velez (C08) tracing original performance reuse during the quiet interval using render notices V2F019 and V2F020.",
+    "Section 3 transcript for Morgan Shaw (C14) disclosing that her client's route segment (V2F027) was manufactured from an outdated map, validating timeline uncertainty.",
+    "Aggregate ballots showing 11 votes for human_mantle versus 2 for one_human and 1 for synthetic_origin, demonstrating severe ending imbalance.",
+    "Aggregate identity_ballot_support showing that all 16 characters failed to achieve a full evidence chain (full_evidence_chain: false) due to uncited dimensions such as collaborative_production and identity_authority."
+  ],
+  "failure_modes": [
+    "Systemic Ballot Citation Defect: Zero out of sixteen characters achieved a full evidence chain (full_evidence_chain: false). Agents cited appropriate fact IDs (e.g., V2F001, V2F002) but failed to satisfy required internal dimensions, indicating an alignment gap between the characters' knowledge representation and the validator's expectations.",
+    "Drift Toward Collaborative Homogeneity: Severe bias toward the human_mantle ending (11/16 ballots) violates the Locked Design Intent that One Human, Human Mantle, and Synthetic Origin should have equal structural weight. The collaborative framing was too cognitively attractive or overly supported by low-barrier shared facts.",
+    "Technical Over-retraction: Kit Rakes (C15) was forced to execute rapid public retractions of her invitation-key and ledger-cipher theories due to mechanical constraints (clip monitor and printer corrections), which, while demonstrating adaptive agency, disrupted the organic flow of the progressive R narrative."
+  ],
+  "recommendations": [
+    "Improve Prompt-Validator Alignment: Refactor the final ballot prompt instructions to explicitly prompt characters to detail and address specific evidence dimensions (e.g., collaborative_production, private_continuity) rather than just listing raw fact IDs.",
+    "Rebalance Evidence Weight: To restore structural balance between One Human, Human Mantle, and Synthetic Origin, introduce stronger, uncontestable facts supporting private human continuity and early autonomous machine behavior, while raising the verification threshold for the collaborative mantle.",
+    "Soften Correction Interventions: Moderate the immediate corrective feedback of the clip monitor or printer to allow characters to debate and interpret false theories organically face-to-face, preserving the social mystery dynamic.",
+    "Lower Progressive Complexity Barriers: Since Progressive is extremely hard to establish, provide more explicit timeline ordering cues to character minds that choose to investigate progressive transitions, or reward partial progressive chains."
+  ],
+  "scores": {
+    "primary_ending_balance": 3,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 9,
+    "social_circulation": 7,
+    "mechanical_integrity": 4,
+    "report_confidence": 10
+  }
+}

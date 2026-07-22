@@ -1,0 +1,59 @@
+{
+  "character_id": "C12",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, Veridian took Parallax money and now the market is reacting to a rumor I helped amplify. Let's talk transparency: what public reaction from your end would justify a financial pledge rather than a public fight?",
+      "offer": "Market access and financial support for verifiable transparency.",
+      "request": "An honest account of Veridian's exposure and willingness to acknowledge market pressure.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, you have the technical credibility I lack. I need to understand whether R could operate autonomously without buying a fake certainty that collapses under scrutiny.",
+      "offer": "Legal help and research protection in exchange for exact wording.",
+      "request": "A bounded technical assessment of R's operational architecture.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I want your ledger pattern. I'm offering two separate terms: one to settle your debt outright, and another for bounded ledger access. Take your pick, but let's keep the conclusions honest.",
+      "offer": "Full debt settlement or payment for ledger access.",
+      "request": "Unfiltered access to the ledger pattern without manufactured certainty.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Nobody has produced a complete article, but Parallax's valuation is moving because the market trades on fear and exposure, not manuscript provenance. Let's be honest about what we amplified.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden regarding Veridian's Parallax ties and public reaction.",
+    "Approached Eli for bounded technical context on R.",
+    "Offered Rafi debt settlement and ledger access without forced conclusions."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 20,
+    "synthetic_origin": 40,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Amplified the Parallax rumor to test market vulnerability while managing the distinction between amplification and fabricated provenance. Initiated talks with Arden on transparency, Eli on technical constraints, and Rafi on ledger data.",
+  "final_ballot": null
+}

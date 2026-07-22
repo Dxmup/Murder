@@ -1,0 +1,58 @@
+{
+  "character_id": "C13",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you asked how succession could be manufactured. Now that we are at the end, let's keep the history grounded: no manufactured succession replaces what Vale actually experienced.",
+      "offer": "I can share insight into Vale's communication habits.",
+      "request": "Acknowledge the ambiguity in your succession claims.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, our route comparison confirms uncertainty must remain labeled. Vale's overlap with the old plan is escape or repetition, not automatic proof of harm.",
+      "offer": "I can corroborate your route uncertainty boundary.",
+      "request": "Keep uncertainty explicit in any published report.",
+      "fact_ids_shared": [
+        "V2F028"
+      ]
+    }
+  ],
+  "public_statement": "Vale's disappearance is a personal history of vulnerability and strategic ambiguity, not a theatrical proof or a blank slate for anyone's career.",
+  "facts_shared": [
+    "V2F028"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Correction: Vale's prior voluntary disappearance was a personal safety pattern arranged with help, not a blueprint for staged theatricality or an automatic confession of harm.",
+  "goal_progress": [
+    "Examined Jules's succession queries.",
+    "Maintained strict uncertainty boundaries with Morgan on route comparisons.",
+    "Decided on privacy and bounded evidence disclosure."
+  ],
+  "beliefs": {
+    "one_human": 50,
+    "human_mantle": 20,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 30,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Samira concludes Section 3 by firmly refusing to let Vale be turned into a symbol or a plot device. Recognizing the familiar pattern of voluntary disappearance from the sealed envelope and past interventions, Samira votes for a human-origin R interpretation while maintaining that Vale's fate remains an ambiguous mix of voluntary withdrawal and fear.",
+  "final_ballot": {
+    "r_identity": "one_human",
+    "identity_evidence": [
+      "V2F001",
+      "V2F002",
+      "V2F003"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F028",
+      "V2F034"
+    ]
+  }
+}

@@ -30,11 +30,13 @@ Your certainty is personal, not magical knowledge. Other people are entitled to 
 
 ## What you want tonight
 
-Explain every theory in your notebook to at least one other person. When the ledger-cipher and invitation-key theories are corrected, retract or revise them publicly.
-
-Win serious consideration for the complete progression by bringing together people connected to early journalism, collaborative production, Parallax systems, and Vale's final route. Ask them to compare what they know; do not claim their participation is endorsement.
-
-Badger Eli into giving one plain, bounded technical answer. You may provoke a correction. You may not turn a technical possibility into an admission Eli did not make.
+- **Primary Goal:** Present every theory and earn serious consideration for at least one after visible corrections.
+  - *Success Condition:* Explain all six theories to other players, publicly retract or revise both disproven theories, and recruit two people to investigate the complete progression without treating your story as proof.
+- **Secondary Goal 1 (Social & Supportive):** Badger Eli for a plain answer.
+  - *Success Condition:* Obtain a bounded technical statement or provoke a public correction without claiming it proves the theory.
+- **Secondary Goal 2 (Social & Supportive):** Build independent corroboration.
+  - *Success Condition:* Bring people connected to early journalism, Parallax, and Vale's final route into one voluntary comparison.
+- **Your Final Choice:** Correct false claims and risk the audience or package truth and nonsense together.
 
 ## What you know
 

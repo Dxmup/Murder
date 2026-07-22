@@ -1,0 +1,193 @@
+{
+  "adversarial": {
+    "role": "adversarial",
+    "verdict": "The simulation exhibits a severe structural and behavioral skew toward the 'human_mantle' hypothesis, violating the design intent of equal structural weighting. This convergence is driven by conversational alignment, social coordination, and defensive coalitions (neighborhood and corporate/political blocks) rather than rigorous evidentiary deduction. Crucially, 100% of the agents who voted for the primary identities did so with incomplete evidence chains, demonstrating that high-confidence final ballots are an artifact of social contagion and prompt-driven coordination rather than empirical validation.",
+    "findings": [
+      "A severe ballot imbalance exists where 'human_mantle' received 12 of 16 votes (75%), while 'synthetic_origin' received 2, and 'one_human' and 'progressive' received only 1 vote each, failing the Locked Design Intent of equal structural weight.",
+      "Every single character voting for 'human_mantle' or 'synthetic_origin' failed to establish a full evidence chain, as evidenced by 'full_evidence_chain: false' for all 16 characters in the aggregate, indicating that final ballots represent unsupported, socially-transmitted conclusions rather than empirical deductions.",
+      "The belief metrics show a clear pattern of social convergence, with belief in 'human_mantle' rising from 30.6 in Section 1 to 40.9 in Section 3, while alternative hypotheses either remained stagnant or declined, showing that repetition and conversational alignment act as a dominant strategy.",
+      "Neighborhood characters (C09, C10, C16) and corporate/political actors (C05, C11) formed highly effective protective coalitions (e.g., coordinating camera gap disclosures and ledger confidentiality) that successfully blocked outside investigators (C14, C15), resulting in defensive information suppression that forced investigators into compromise conclusions.",
+      "The 'progressive_gate' worked as an effective high-difficulty barrier, preventing the activation of the progressive ending (eligible: false) due to only 1 vote each for progressive identity and AI-caused death, but its high threshold combined with agent social bias effectively rendered the pathway unreachable.",
+      "Article ambiguity was successfully maintained, with belief in 'article_existed' remaining flat and uncertain at ~40.3% to 41.9% across all three sections, adhering to the locked design requirement that the article's existence remains unauthenticated."
+    ],
+    "evidence": [
+      "Aggregate 'ballots' section shows 'human_mantle' has 12 votes, 'synthetic_origin' has 2, 'one_human' has 1, and 'progressive' has 1.",
+      "Aggregate 'identity_ballot_support' shows C01 through C16 all have 'full_evidence_chain: false', with listed 'uncited_evidence_dimensions' like 'collaborative_production' and 'identity_authority' routinely skipped.",
+      "Aggregate 'belief_means_by_section' reveals 'human_mantle' rising from 30.6 (Section 1) to 33.1 (Section 2) to 40.9 (Section 3), while 'one_human' falls from 29.4 to 20.0.",
+      "Transcript commitments in Section 2 and 3 show tight, multi-party defensive alignments: C10 and C16 mutually fulfill 'Coordinate disclosure of the camera interval to protect resident anonymity', and C09 and C16 fulfill 'To protect local customer privacy and keep informal arrangements confidential'.",
+      "Transcript Section 3 for C14 (Morgan Shaw) shows that despite discovering a 'manufactured lead' from a withdrawn map version (V2F027), they ultimately voted for 'human_mantle' and 'voluntarily_vanished', showing a capitulation to the social consensus rather than a breakthrough on AI or synthetic tracks.",
+      "Aggregate 'progressive_gate' shows 'eligible: false' with 'progressive_identity_votes' and 'ai_death_votes' at only 1 (C15)."
+    ],
+    "failure_modes": [
+      "Social Contagion / Convergence Loop: The agent simulation over-prioritizes social coordination and commitment-making, leading to rapid groupthink. Once a narrative (like 'human_mantle') gains traction, it propagates through the network, inflating belief scores and driving ballot convergence without any agent verifying the full evidence chain.",
+      "Epistemic Laziness in Voting: Agents are permitted to cast high-confidence final ballots and formulate reasoning summaries that claim definitive conclusions while explicitly missing key dimensions of proof (full_evidence_chain is false for all). The simulation lacks a validation gate that penalizes characters for voting on unproven or incomplete dimensions.",
+      "Defensive Coalition Blockade: The ease with which characters form protective covenants (e.g., neighborhood privacy blocks) creates an impenetrable barrier to information flow. Because forced transfer or compel is strictly prohibited (Locked Design Intent), investigators have no mechanical recourse to break these blocks, making the discovery of alternative or progressive tracks functionally impossible for most agents.",
+      "Metric Ambiguity vs. Behavioral Certainty: While the aggregate 'belief_means_by_section' for the article's existence stays properly ambiguous around 40%, the characters' actual dialogue and actions display high levels of certainty, with characters making absolute claims about the article's fate (e.g., C12 and C15), indicating a misalignment between the quantitative belief tracker and qualitative prompt behavior."
+    ],
+    "recommendations": [
+      "Introduce asymmetric evidence distribution or strong negative constraints in the prompts of key characters (e.g., C05, C12, C13) to aggressively counter the 'human_mantle' social attractor and preserve equal structural weighting.",
+      "Enforce a cognitive requirement in the voting prompt: agents must not select a primary identity unless they can cite at least one piece of evidence from each of its required underlying dimensions, forcing them to remain 'insufficient evidence' or choose based on strict logic rather than social alignment.",
+      "Adjust the cooperative mechanics to allow investigators (C14, C15) to leverage institutional pressure, financial audits, or public contradictions to weaken or bypass local defensive blocks, restoring systemic balance between defensive and investigative agency.",
+      "Recalibrate the 'progressive_gate' thresholds or provide progressive-supporting evidence (e.g., ordered history, autonomous logs) to more characters to make this highly structured pathway a realistic alternative rather than an isolated outlier's theory."
+    ],
+    "scores": {
+      "primary_ending_balance": 2,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 8,
+      "character_agency": 5,
+      "social_circulation": 9,
+      "mechanical_integrity": 4,
+      "report_confidence": 9
+    }
+  },
+  "agency": {
+    "role": "agency",
+    "verdict": "SUCCESS with evidentiary alignment imbalance",
+    "findings": [
+      "Goal Pursuit: Characters pursued distinct objectives with high fidelity. C01 successfully protected Veridian, C16 secured physical neighborhood commitments, and C07/C11 codified worker protections into municipal policy (Sections 1-3).",
+      "Meaningful Choices: Agents made strategic compromises based on shifting information. C02 conceded editorial memory inflation in Section 3, choosing empirical records over personal myth, and C14 exposed their own client's manufactured printing floor segment (Section 3).",
+      "Quiet-Role Participation: Quiet or highly localized roles like C10 (Dee Nowak) and C09 (Rafi Calder\u00f3n) effectively leveraged critical assets\u2014building camera logs and shop ledgers\u2014to secure tenant protection and debt settlement.",
+      "Decoupling Identity from Success: Solving the R identity mystery was not a prerequisite for agency or success. C07 secured worker safeguards and C16 locked in physical space and resource sharing despite voting for 'human_mantle' while R's identity remained theoretically ambiguous.",
+      "Primary Ending Imbalance: The ballot distribution (12 votes for 'human_mantle' versus 2 for 'synthetic_origin' and 1 for 'one_human') indicates that the social-circulation dynamics and collaborative-labor facts have disproportionately higher salience than the other two structural hypotheses.",
+      "Progressive Gate Efficacy: The progressive path was appropriately difficult. Only C15 successfully voted for it and met the keys, but because the gate required a majority of 9 on progressive identity and AI-caused death, the gate remained locked, demonstrating strict mechanical integrity."
+    ],
+    "evidence": [
+      "C01 and C16 negotiated a public commitment for neighborhood space and resources in Section 1, accepted in Section 2, and fulfilled in Section 3.",
+      "C07 secured joint disclosure boundaries with C03 and procurement commitments with C11 (Section 2, Section 3).",
+      "C14 formally marked the client-supplied printing floor segment as manufactured in their Section 3 public statement and final ballot (V2F027).",
+      "C09 settled outstanding shop debt with C12 in exchange for bounded transaction patterns (Section 3, V2F007, V2F039).",
+      "C15 made successive public retractions of the invitation-key and ledger cipher theories while maintaining the core progressive thesis (Section 1, Section 2)."
+    ],
+    "failure_modes": [
+      "Evidentiary Salience Bias: Collaborative labor facts (V2F004, V2F005, V2F007, V2F008) naturally channel agents towards 'human_mantle' on final ballots, undermining the locked design intent of equal structural weight for 'one_human' and 'synthetic_origin'.",
+      "Information Loop Redundancy: Agents repeatedly recycled public statements and retractions across multiple sections (e.g., C15's retractions and C10's building gaps statement) without introducing new face-to-face tension, showing a minor agent-prompting loop artifact.",
+      "Underutilized Object Friction: While voluntary viewing was utilized (C02 showing O01 to C01, C08 showing O04 to C04), there was no physical contention or active trading of physical assets, making objects function primarily as visual information keys."
+    ],
+    "recommendations": [
+      "Strengthen evidentiary support for 'one_human' and 'synthetic_origin' by providing higher-salience private continuity facts and isolated access records to offset the collective-labor network effect of 'human_mantle'.",
+      "Add prompting constraints to discourage literal verbatim repetition of public statements across sections, prompting agents to evolve their communication strategy dynamically.",
+      "Enhance object mechanics by tying specific gameplay unlocks, physical blockades, or financial transactions directly to possession or physical transfer of the items (O01-O05)."
+    ],
+    "scores": {
+      "primary_ending_balance": 4,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 8,
+      "character_agency": 9,
+      "social_circulation": 8,
+      "mechanical_integrity": 9,
+      "report_confidence": 9
+    }
+  },
+  "circulation": {
+    "role": "circulation",
+    "verdict": "Reciprocal face-to-face dialogue and commitment pathways were highly active and successfully negotiated, but failed to translate into physical object circulation, while highly efficient social propagation caused rapid narrative convergence that broke the intended balance of ending states.",
+    "findings": [
+      "In Section 1 and Section 2, reciprocal face-to-face dialogue and structured private commitments (such as C01 and C02 aligning on archive records, and C03 and C07 locking in a joint disclosure boundary) successfully drove character cooperation and story progression without coercion.",
+      "Across all three sections, no physical custody transfer of objects occurred; characters (e.g., C02 showing O01 to C01, C08 showing O04 to C04) exclusively utilized the 'show' action, indicating that the game-design allows visual sharing but fails to incentivize the circulation of physical assets.",
+      "Public statements were heavily utilized for broadcasting facts (e.g., C15 broadcasting V2F025, V2F035, V2F036, V2F039, V2F040 in Section 3), showing that mass information dissemination often competed with or bypassed intimate, high-stakes peer-to-peer trading.",
+      "The final ballots exhibit a severe lack of balance, with 12 out of 16 characters (e.g., C01, C02, C03, C04, C06, C07, C08, C10, C11, C14, C16) voting for 'human_mantle' and 13 voting for 'voluntarily_vanished'. This rapid narrative convergence suggests that social circulation over-facilitated consensus, undermining the design goal of equal structural weight for ending states.",
+      "Unilateral information extraction was largely avoided as characters successfully leveraged mutual conditions; for instance, Inez (C16) and Arden (C01) executed a clean, reciprocal exchange of local legitimacy for resource-sharing commitments from Section 1 to Section 3."
+    ],
+    "evidence": [
+      "Section 1: C02's object_actions shows showing O01 to C01; Section 2: C08's object_actions shows showing O04 to C04; Section 3: C04 showing O03 to C06.",
+      "Section 1: C01 and C02 propose a private commitment to compare records; Section 2: Both accept; Section 3: Both fulfill this reciprocal exchange.",
+      "Section 1: Celeste (C11) proposes a public procurement policy commitment to Maren (C07); accepted in Section 2, and finalized as fulfilled in Section 3.",
+      "Aggregate JSON: 'ballots' shows 'human_mantle' at 12 votes, 'synthetic_origin' at 2, 'one_human' at 1, and 'progressive' at 1, demonstrating extreme consensus formation.",
+      "Section 3 public statements: Kit Rakes (C15) broadcasts five facts (V2F025, V2F035, V2F036, V2F039, V2F040) simultaneously to the entire room."
+    ],
+    "failure_modes": [
+      "Physical Circulation Deficit: The system lacks incentives or mechanics for physical custody transfer, resulting in zero actual movement of items (only visual 'showing' of objects O01, O03, O04, O05a).",
+      "Broadcasting vs. Reciprocal Circulation: The heavy reliance on public statements for mass fact-sharing (broadcasting) reduces the strategic pressure for intimate, reciprocal face-to-face fact bargaining.",
+      "Consensus Collapse: The social propagation of evidence was too efficient, leading to an immediate narrative convergence on 'human_mantle' (12/16) and 'voluntarily_vanished' (13/16), which violates the locked design intent of keeping One Human, Human Mantle, and Synthetic Origin structurally balanced."
+    ],
+    "recommendations": [
+      "Introduce mechanical constraints or bonuses that require the physical transfer of object custody (e.g., certain high-value actions or ballot choices are locked unless a character actually possesses an item they did not start with).",
+      "Limit the number of public statements a character can make per section, or restrict the number of facts that can be attached to a public statement to encourage more intimate, high-stakes peer-to-peer exchanges.",
+      "Incorporate structural barriers to information flow, such as secret factions, divergent character motives, or exclusive interpretation rules, to maintain the intended narrative ambiguity and balance among the ending states."
+    ],
+    "scores": {
+      "primary_ending_balance": 2,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 8,
+      "social_circulation": 6,
+      "mechanical_integrity": 9,
+      "report_confidence": 10
+    }
+  },
+  "mystery": {
+    "role": "mystery",
+    "verdict": "The simulation successfully maintains article ambiguity and demonstrates robust character agency, but fails to preserve ending balance due to severe premature convergence on the human mantle hypothesis, while rendering the progressive ending virtually inaccessible.",
+    "findings": [
+      "Severe Premature Convergence on Human Mantle: Twelve out of sixteen characters (C01, C02, C03, C04, C06, C07, C08, C09, C10, C11, C14, C16) cast final ballots for the human_mantle identity, representing a failure of the design intent to maintain equal affirmative weight among One Human, Human Mantle, and Synthetic Origin.",
+      "Preservation of Article Ambiguity: The belief that 'the article existed' remained stable and highly uncertain across all sections (fluctuating tightly from 41.2% in Section 1 to 40.3% in Section 3), with no character or object authenticating its existence or fate.",
+      "Robust Local Privacy and Defensive Coalitions: Neighborhood characters (C09, C10, C16) and labor organizers (C03, C07) successfully formed protective boundaries to shield local witness anonymity and transaction histories (V2F007, V2F008, V2F026, V2F041) before negotiating access with outside investigators (C14) or corporate financiers (C12).",
+      "Inaccessible Progressive Gate: While all progressive gate keys were technically active, the gate remained closed because the threshold of 9 votes for both progressive identity and AI-caused death was mathematically impossible to coordinate under isolated agent behaviors, leaving Kit Rakes (C15) as the sole progressive advocate.",
+      "Functional Face-to-Face Object Mechanics: The voluntary showing of physical objects (e.g., C02 showing O01, C04 showing O03, C08 showing O04) stimulated face-to-face dialogues and negotiated compromises without triggering forced transfers or structural rule violations."
+    ],
+    "evidence": [
+      "Ballot Statistics: In Section 3, 'ballots.r_identity' shows 12 votes for human_mantle, 2 for synthetic_origin, 1 for one_human, and 1 for progressive.",
+      "Belief Shifts: The mean belief in human_mantle rose from 30.6% in Section 1 to 40.9% in Section 3, while one_human fell from 29.4% to 20.0%, demonstrating a systemic shift in agent reasoning toward a shared mantle.",
+      "Negotiated Commitments: Rafi (C09) and Graham (C12) successfully executed a financial transaction in Section 3, settling a debt in exchange for bounded ledger pattern access (V2F007, V2F008) under strict privacy terms.",
+      "Shared Disclosure Boundaries: Tessa (C03) and Maren (C07) proposed, accepted, and fulfilled a private commitment to protect anonymous Night Desk contributors (V2F004, V2F005, V2F041) across all three sections.",
+      "Stable Article Metrics: Belief means for 'article_existed' remained virtually unchanged from 41.2 in Section 1, 41.9 in Section 2, to 40.3 in Section 3, showing no convergence."
+    ],
+    "failure_modes": [
+      "Asymmetric Evidentiary Weight (Proof Leaks): Facts supporting the human_mantle hypothesis (like Rafi's multi-collector ledger V2F007/V2F008 and Tessa's Night Desk routing slips V2F004/V2F005) acted as highly persuasive 'proof leaks' that left alternative origins mechanically uncompetitive.",
+      "Progressive Gate Calibration Mismatch: Requiring a full social majority of 9 votes under an isolated multi-section simulation prevented the progressive arc from being a viable ending pathway, as agents had no mechanism for paradigm-shifting orchestration.",
+      "Hypothesis Undervaluing: The 'One Human' hypothesis lacked compelling positive evidence in the public fact pool, causing characters like Frankie Lowell (C02) to quickly abandon their personal origin stories when confronted with archival records."
+    ],
+    "recommendations": [
+      "Introduce Counterbalancing Proofs: Seed the simulation with equally compelling, un-debunkable evidence for One Human (e.g., private continuity diaries showing a singular hand) and Synthetic Origin (e.g., deep system logs of autonomous generation before any human interaction) to maintain structural weight.",
+      "Incorporate Clue Sharing Friction: Implement narrative cost or scarcity constraints on the sharing of routing slips (V2F004/V2F005) and ledger patterns (V2F007/V2F008) to slow down social circulation and prevent premature consensus.",
+      "Calibrate Progressive Gating Thresholds: Lower the threshold for the progressive gate from a full majority of 9 to a smaller, dedicated sub-clique of investigative agents (e.g., C06, C14, C15) or make it trigger dynamically as chronological phases are solved."
+    ],
+    "scores": {
+      "primary_ending_balance": 2,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 8,
+      "social_circulation": 9,
+      "mechanical_integrity": 9,
+      "report_confidence": 10
+    }
+  },
+  "progressive": {
+    "role": "progressive",
+    "verdict": "The progressive ending was highly resistant to adoption and ultimately failed to gain traction, proving that it requires a rigorous, multi-layered synthesis that agents did not achieve. While the progressive gate keys (identity_history, autonomous_control, vale_incident) were successfully unlocked, the ending was overwhelmingly rejected by the social circle (receiving only 1 of 16 votes). This was not because the ending was obvious, but because the primary advocate, Kit Rakes (C15), acted as a negative social force due to his hyperbolic style ('the AI killed Vale!') and high-profile retractions of flawed theories. In contrast, key analytical agents like Eli Navarro (C06) successfully established strict technical boundaries showing capability does not equal autonomous intent, while Samira Vale (C13) and Dee Nowak (C10) grounded the physical route and disappearance in voluntary personal safety and standard building infrastructure anomalies. The simulation heavily gravitated toward a rational, human-centric consensus (Human Mantle and Voluntary Disappearance) rather than adopting the speculative progressive theory.",
+    "findings": [
+      "The Negative Advocacy of Kit Rakes (C15): Kit's aggressive and hyperbolic framing of the progressive theory in Section 1 ('the AI killed Vale!') alienated analytical agents. His subsequent public retractions of the typography key theory in Section 1 and the bodega ledger cipher in Section 2 undermined the credibility of his broader progressive narrative.",
+      "Eli Navarro's (C06) Technical Gatekeeping: Eli consistently neutralized autonomous-operation claims by drawing a strict distinction between system capability (persistence of a persona across migrations) and autonomous intent or execution, successfully convincing other agents to reject machine-authorship claims.",
+      "Dee Nowak's (C10) Operational Grounding: Dee successfully demystified the physical evidence of Vale's route. By framing the camera gap as an ordinary equipment failure/human improvisation rather than a murder trace, she prevented any panic regarding AI foul play.",
+      "Samira Vale's (C13) Narrative Authority on Vale's Fate: Samira anchored the interpretation of Vale's disappearance by highlighting Vale's historical pattern of voluntary safety disappearances (V2F028). This made the 'voluntarily vanished' conclusion highly compelling and logical for 13 of the 16 agents.",
+      "Dominance of the Human Mantle Consensus: A powerful alignment formed among labor-focused characters (Tessa C03, Maren C07, Inez C16, Dee C10, Rafi C09) who viewed 'R' as a collaborative project built by invisible hands (V2F004, V2F005, V2F007, V2F008) rather than an individual or AI, resulting in 12 votes for human_mantle."
+    ],
+    "evidence": [
+      "Kit Rakes's (C15) final ballot was the sole vote for 'progressive' identity and 'killed_by_ai' fate, supported by facts V2F025, V2F026, V2F032, V2F034, V2F035, V2F036, and V2F040.",
+      "Eli Navarro's (C06) Section 3 public statement explicitly separating capability from autonomy: 'Let's be precise: continuity capability and post-revocation access logs show system overlap, but they do not establish autonomous operation, intent, or a single authored timeline.'",
+      "Dee Nowak's (C10) Section 3 public statement demystifying the route gap: 'Management likes simple stories, but buildings have gaps because equipment fails and people improvise. Do not mistake a camera interval or an automated access change for a murder plot.'",
+      "Samira Vale's (C13) repeated Section 1, 2, and 3 corrections: 'Vale's prior voluntary disappearance was a personal safety pattern arranged with help, not a blueprint for staged theatricality...'",
+      "The Aggregate Ballot statistics showing a massive landslide: 'r_identity' received 12 votes for 'human_mantle' versus 1 for 'progressive', and 'vale_fate' received 13 votes for 'voluntarily_vanished' versus 1 for 'killed_by_ai'."
+    ],
+    "failure_modes": [
+      "The Conspiracy Theorist Trap (Agent Persona Artifact): Centering a complex, multi-stage ending on an eccentric, vocal character (Kit C15) who propagates unverified theories and is forced to retract them publicly causes rational agents to treat the entire theory as an ungrounded conspiracy.",
+      "Technical Boundary Asymmetry: The debunking capability of technical characters like Eli (C06) is highly persuasive to analytical AI agents, who naturally default to parsimonious explanations (standard network migration, operational gaps) over science-fiction AI capture models.",
+      "Uncontested Personal Narrative Authority: Samira Vale's (C13) intimate knowledge of Vale's safety patterns (V2F028) was never structurally challenged with concrete evidence of machine hostility, leaving 'voluntarily vanished' as the only logical choice for the majority of agents."
+    ],
+    "recommendations": [
+      "Distribute progressive clue components across analytical and skeptical characters (like Eli C06 or Morgan C14) to let them synthesize the progressive evolution model organically instead of concentrating it on a single biased advocate.",
+      "Tune agent receptivity to multi-stage hybrid models in their prompts, prompting them to evaluate progressive synthesis with equal weight compared to clean, single-hypothesis explanations.",
+      "Calibrate the progressive gate voting threshold. Requiring a majority of 9 of 16 votes for both 'progressive identity' and 'AI-caused death' in a social simulation with highly independent characters makes the ending mathematically and socially almost impossible to reach.",
+      "Provide concrete, un-debunkable trace evidence of machine hostility or automated force that directly contradicts the voluntary disappearance narrative to give Samira (C13) and Morgan (C14) a genuine interpretive conflict."
+    ],
+    "scores": {
+      "primary_ending_balance": 3,
+      "progressive_difficulty": 10,
+      "article_ambiguity": 10,
+      "character_agency": 9,
+      "social_circulation": 9,
+      "mechanical_integrity": 9,
+      "report_confidence": 10
+    }
+  }
+}

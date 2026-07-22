@@ -1,0 +1,37 @@
+{
+  "role": "progressive",
+  "verdict": "The progressive ending remained difficult and marginal in ballots (only 2 selections), showing that it did not become trivially obvious from Kit or the messages; however, agents struggled to synthesize the full ordered history, resulting in low citation coverage and incomplete evidence chains.",
+  "findings": [
+    "Only 2 out of 16 characters (C11 and C15) selected the progressive ending on their final ballots, demonstrating that the progressive hypothesis remained a minority and difficult path rather than an obvious default.",
+    "Kit Rakes (C15) aggressively advocated for the four-stage progressive evolution throughout all three sections, but other characters primarily gravitated toward human_mantle (9 ballots) and synthetic_origin (4 ballots).",
+    "Evidence citations for progressive selections (e.g., C11 cited V2F018, V2F020, V2F041; C15 cited V2F030, V2F036, V2F039) lacked full evidence chains, missing dimensions such as transition and shared human production.",
+    "Character agency and social circulation were robustly maintained, with extensive face-to-face negotiations regarding worker protections, archive provenance, and ledger privacy.",
+    "Article ambiguity was well-preserved: belief means regarding the article existing hovered around 45-48% across sections, satisfying the locked design intent that the article's existence and fate remain uncertain."
+  ],
+  "evidence": [
+    "Ballots show r_identity distribution: human_mantle (9), synthetic_origin (4), progressive (2), one_human (1).",
+    "C11 selected progressive in section 3, citing V2F018, V2F020, and V2F041, while leaving uncited dimensions like human_origin, shared_human_production, and transition.",
+    "C15 selected progressive in section 3, citing V2F030, V2F036, and V2F039, and publicly maintained the four-stage evolution hypothesis.",
+    "Vale fate ballots overwhelmingly favored voluntarily_vanished (11) over killed_by_ai (1), showing that agents rejected simplistic AI homicide narratives despite Kit's prodding.",
+    "Public fact IDs such as V2F002 through V2F042 were actively circulated in private conversations without violating forced-truth constraints."
+  ],
+  "failure_modes": [
+    "Agents selecting progressive failed to integrate the full multidimensional evidence chain, missing crucial intermediate historical dimensions.",
+    "Most agents defaulted to familiar institutional binaries (human mantle or synthetic origin) rather than synthesizing the complex four-stage progressive trajectory.",
+    "Some characters (like C15) pushed the progressive narrative persistently, but struggled to convince peers due to the high synthesis barrier required."
+  ],
+  "recommendations": [
+    "Enhance intermediate prompt scaffolding so agents can more easily trace the multi-stage historical transition without relying solely on outlier agitators like Kit.",
+    "Ensure future simulation prompts provide clearer connective tissue between early human origin records and later synthetic continuity to bridge the evidence chain gap.",
+    "Maintain the structural weight and independent friction of the Vale incident to prevent agents from prematurely collapsing complex historical synthesis into simplistic AI murder theories."
+  ],
+  "scores": {
+    "primary_ending_balance": 6,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 8,
+    "social_circulation": 8,
+    "mechanical_integrity": 9,
+    "report_confidence": 8
+  }
+}

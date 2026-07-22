@@ -1,0 +1,88 @@
+{
+  "character_id": "C11",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the reconstruction is here and the record is complete. Let's stand by our joint disclosure of limited access and share responsibility.",
+      "offer": "I will coordinate public alignment with our matching records to ensure transparency without scapegoating.",
+      "request": "Fulfill our shared disclosure agreement regarding the off-calendar meeting.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, City Hall is delivering on our commitment to incorporate enforceable worker and neighborhood oversight into the procurement policy.",
+      "offer": "I will ensure the administrative deadlines and funding mechanisms are legally binding.",
+      "request": "Fulfill our coalition agreement and stand with City Hall on this procurement policy.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, we have respected Vale's privacy and ensured that limited disclosure does not weaponize personal history.",
+      "offer": "I will maintain the privacy boundary and support public framing that separates established harms from rumor.",
+      "request": "Acknowledge our mutual protection of Vale's dignity in the final reconstruction.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "City Hall recognizes the legitimate public interest and neighborhood concerns regarding emerging technology deployments. We are committed to establishing transparent oversight and enforceable safeguards rather than relying on rumors or symbolic consultations.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036",
+    "V2F039",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C05",
+      "promise": "Coordinate joint disclosure regarding the off-calendar meeting to prevent either party from taking sole blame.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C07",
+      "promise": "Incorporate enforceable worker and neighborhood oversight into the city's technology procurement policy.",
+      "visibility": "public",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Clarified that the off-calendar meeting represented informal administrative oversight rather than an unauthorized conspiracy or a proven article origin.",
+  "goal_progress": [
+    "Secured support from multiple constituencies including labor (Maren) and institutional administration (Mira).",
+    "Contained the off-calendar meeting liability through joint disclosure and shared responsibility.",
+    "Established concrete technology procurement policy with enforceable worker and neighborhood safeguards."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 10,
+    "progressive": 30,
+    "article_existed": 40,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Celeste Park concludes her role by successfully finalizing the procurement policy with Maren Okafor, fulfilling joint disclosure with Mira Sen, and committing to a progressive institutional framework that separates rumor from verified harm.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F035",
+      "V2F036",
+      "V2F040"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F040"
+    ]
+  }
+}

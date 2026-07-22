@@ -1,0 +1,62 @@
+{
+  "character_id": "C13",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, stop turning Vale into a script. Tell me the complete conversation around how you asked Vale to manufacture succession before you pretend you had an understanding.",
+      "offer": "Corroboration that Vale spoke about taking back the name.",
+      "request": "The complete conversation around succession.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale told you R was no longer human. Let's look at what that material actually did to Vale emotionally rather than weaponizing technical logs.",
+      "offer": "Context on Vale's emotional state when dealing with technical ambiguity.",
+      "request": "What evidence made that phrase seem possible and what remains uncertain.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you are investigating Vale, set one boundary: no personal route detail enters your timeline without my explicit consent and an uncertainty label.",
+      "offer": "Recognition of route overlap and prior safety patterns.",
+      "request": "Agreement to label all personal route details with uncertainty.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Vale was a person, not a plot device or a public symbol for your careers. Stop pretending intimacy where there was only operational security.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "No personal route detail enters the timeline without explicit consent and an uncertainty label.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "Vale was a human being with real vulnerabilities, not a fictional device or an automated myth.",
+  "goal_progress": [
+    "Asked Jules to repeat the complete conversation around succession.",
+    "Told Eli about Vale's statement that R was no longer human and asked about remaining uncertainties.",
+    "Set boundaries with Morgan regarding personal route detail and uncertainty labels."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 20,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Samira approaches the room with protective skepticism, engaging Jules about succession, Eli about technical logs and emotional toll, and Morgan regarding route boundaries while leaning toward voluntary disappearance based on past patterns.",
+  "final_ballot": null
+}

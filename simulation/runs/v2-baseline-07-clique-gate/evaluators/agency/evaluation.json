@@ -1,0 +1,40 @@
+{
+  "role": "agency",
+  "verdict": "The simulation successfully demonstrates high character agency, face-to-face social circulation of objects, and quiet-role coordination to resist external investigative framing. However, the progressive outcome remains highly bottlenecked by an overly restrictive social clique threshold.",
+  "findings": [
+    "Goal Pursuit (Sections 1-3, All Characters): Characters vigorously pursue their design-aligned goals. For example, C01 (Arden Bell) and C02 (Frankie Lowell) successfully reconcile their historical archival files (V2F002, V2F003) to produce a mutually validated archive by Section 3.",
+    "Meaningful Choices (Section 2, C15): C15 (Kit Rakes) actively chooses to retract disproved invitation-key and bodega ledger cipher theories in public to preserve journalistic credibility, while maintaining conviction in the core progressive framework of R.",
+    "Quiet-Role Participation & Local Defense (Sections 2-3, C10, C16, C09): Marginalized neighborhood characters successfully coordinate disclosure boundaries. C10 (Dee) and C16 (Inez) lock down an explanation for the unpreserved camera gap (V2F026) to shield residents and resist pressure from investigator C14 (Morgan Shaw).",
+    "Gating Chokepoint (Aggregate): Despite all factual progressive keys (identity_history, autonomous_control, vale_incident) being unlocked, the progressive gate remained closed because the social threshold (an investigator clique of 3 or more voting progressive and AI-caused death) was not met.",
+    "Decoupled Success (Section 3, C10, C11): Characters successfully achieve localized goals while holding incorrect or alternative beliefs about R. C10 (Dee) secures her pension and protects residents, and C11 (Celeste Park) enforces municipal worker safeguards despite neither believing in R's progressive or synthetic nature.",
+    "Social & Financial Circulation (Sections 2-3, C09, C12): C09 (Rafi Calder\u00f3n) and C12 (Graham Pike) leverage transactional facts (V2F037) as social/financial collateral, negotiating debt settlement in exchange for bounded raw ledger access."
+  ],
+  "evidence": [
+    "C02 showing the First R Letter packet (O01) to C01 in Sections 1 and 2, which aligned with the verification of V2F001 and V2F002.",
+    "C15 retracting the bodega cipher theory (V2F007) and invitation-key typography theories in Sections 2 and 3 after receiving validation corrections.",
+    "C10 and C16 coordinating private commitments to explain the camera gap (V2F026) as local logistics rather than a staged murder narrative.",
+    "C14 discovering and disclosing that the client-supplied lead (V2F027) was generated from a withdrawn map template in Section 3.",
+    "C04 and C03 establishing a shared contributor governance model, verified by C04 showing the succession message printout (O03) to C03 in Section 3.",
+    "C09 and C12 completing a private debt-settlement agreement in exchange for raw ledger access (V2F037) in Section 3."
+  ],
+  "failure_modes": [
+    "Clique Threshold Complexity: The 'investigator clique of 3 or more' requirement is too restrictive in an isolated 16-agent setup, preventing the progressive outcome even when all factual prerequisites are satisfied.",
+    "Belief Over-dispersion: Some agents exhibit highly uniform early belief distributions (e.g., 25% across all categories in Section 1), which behaves more like a prompt artifact of initial uncertainty than active deduction.",
+    "Article Ambiguity Overwrite: While the article's existence remains uncertain, agents frequently collapse this physical mystery into an ontological debate about R's identity, reducing the structural weight of the article itself."
+  ],
+  "recommendations": [
+    "Reduce the progressive gate's social threshold or allow dynamic clue pathways to trigger the progressive outcome with a highly motivated duo.",
+    "Enforce tighter belief-progression constraints to encourage agents to make more decisive, segmented bets rather than maintaining flat probability distributions until the final ballot.",
+    "Expand local/neighborhood victory conditions so that quiet roles like Dee or Rafi are explicitly rewarded for maintaining local confidentiality, regardless of the macro R outcome.",
+    "Allow investigators to initiate counter-investigations of their own clients if client anomalies (like V2F027) are exposed."
+  ],
+  "scores": {
+    "primary_ending_balance": 9,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 7,
+    "character_agency": 9,
+    "social_circulation": 10,
+    "mechanical_integrity": 8,
+    "report_confidence": 10
+  }
+}

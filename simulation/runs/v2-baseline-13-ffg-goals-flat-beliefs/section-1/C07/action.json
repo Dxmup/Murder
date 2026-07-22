@@ -1,0 +1,63 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need a shared boundary before workflow evidence circulates. Let's agree on a sentence describing collaborative labor that names no contributor.",
+      "offer": "Bounded worker testimony guidelines protecting anonymity",
+      "request": "Agreement on contributor protection boundaries",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, real worker harm does not depend on whether an article existed or what R was. We will discuss bounded testimony only after hearing a remedy that exists independently of R.",
+      "offer": "Conditional introduction to evaluator context",
+      "request": "An institutional remedy independent of R's identity",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, institutions are going to start asking names as rumors swirl about Vale and R. We need to coordinate concrete protections for contractors and neighborhood witnesses before either group speaks.",
+      "offer": "Coalition support and witness coordination",
+      "request": "Shared safety protocols for vulnerable witnesses",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Worker anonymity and concrete protections must be secured before anyone uses evaluator testimony to explain Vale's disappearance or R's identity.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Maintain contributor anonymity while discussing collaborative labor workflows.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated boundary discussion with Tessa.",
+    "Demanded independent remedy framework from Mira.",
+    "Coordinated protection needs with Inez."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 1, Maren establishes strict source protection boundaries, engages Tessa on contributor anonymity, challenges Mira on separating worker harm from the article rumor, and coordinates with Inez for witness safety.",
+  "final_ballot": null
+}

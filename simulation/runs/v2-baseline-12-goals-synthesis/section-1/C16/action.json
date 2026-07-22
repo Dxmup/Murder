@@ -1,0 +1,68 @@
+{
+  "character_id": "C16",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C10",
+      "say": "Dee, outsiders are sniffing around the service route offering cash. We need a unified story before Morgan's questions put you on the spot for that camera gap.",
+      "offer": "Neighborhood backing to protect you from taking the fall for the access gap.",
+      "request": "Agreement to keep our narrative aligned and quiet about who used the back room.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, keep your ledger locked tonight. Outsiders are hunting for names tied to the service route, and your routes and Dee's building logs are the first things they'll twist.",
+      "offer": "Protection from being made a disposable suspect by outside investigators.",
+      "request": "Commitment not to hand over delivery logs or names without neighborhood consultation.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian is celebrating on our neighborhood's labor and history. If you want local legitimacy tonight, we need more than photographs and promises.",
+      "offer": "Neighborhood participation and cooperation in Veridian's future events and archives.",
+      "request": "A concrete, written commitment for worker protection, space support, or funding.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood supplied the labor, delivery routes, and atmosphere that keep this printing floor running. Before anyone trades away local names for outside approval, remember that our protection is non-negotiable.",
+  "facts_shared": [
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "Coordinate a shared narrative on building access and protect Dee from outside blame.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C01",
+      "promise": "Secure written institutional commitments for neighborhood space and worker protection in exchange for local legitimacy.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated talks with Dee and Rafi to establish defense boundaries around the service route and prevent scapegoating.",
+    "Engaged Arden regarding concrete institutional commitments instead of empty praise."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez focused Section 1 on securing her neighborhood network (Dee, Rafi) against outside interrogation regarding the service route while pressing Arden for tangible commitments in exchange for Veridian's local legitimacy.",
+  "final_ballot": null
+}

@@ -1,0 +1,54 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, thank you for your boundary. I agree to keep personal route details bounded and explicitly labeled as uncertain. Can we discuss what Vale told you before disappearing?",
+      "offer": "Strict adherence to our boundary regarding personal route details and uncertainty labels.",
+      "request": "Your firsthand perspective on Vale's exact statements regarding R.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms: I will not label any customer as R or expose customer names from your ledger. Let's review the transaction pattern details you offered.",
+      "offer": "A binding promise protecting customer anonymity and strict attribution terms.",
+      "request": "A bounded view of the transaction pattern and continuity details from your ledger.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C12",
+      "say": "Graham, I'm examining a route board with varying segment verifications. What conclusions or client interests are you tracking regarding Vale's movements?",
+      "offer": "Limited transparency on route board structure and uncertainty labels.",
+      "request": "Information on whether you or your associates have an interest in the client's purchased conclusion.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "My route board separates verified, attributed, disputed, and blank segments, and I am actively testing every lead without pre-packaged conclusions.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "Do not call any customer R or publish identifying details from the account strip.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Established strict boundaries with Samira regarding personal route details.",
+    "Accepted Rafi's terms and secured a bounded view of transaction patterns.",
+    "Approached Graham Pike to test potential financial or client interests in the timeline conclusion."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "Engaged Samira with mutual boundary agreements on uncertainty, finalized the commitment with Rafi regarding ledger privacy, and probed Graham Pike about financial interests in the timeline conclusion while shifting identity beliefs slightly toward mantle and synthetic possibilities based on routed progressive messages.",
+  "final_ballot": null
+}

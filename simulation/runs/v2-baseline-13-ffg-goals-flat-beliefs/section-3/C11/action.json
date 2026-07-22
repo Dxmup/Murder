@@ -1,0 +1,75 @@
+{
+  "character_id": "C11",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the deadline has arrived. We must jointly disclose our records regarding Vale's access to ensure accountability without uncoordinated panic.",
+      "offer": "I will stand by our shared authorization account to protect public transparency.",
+      "request": "Let us finalize our joint disclosure statement now.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, I am fulfilling my commitment to secure institutional backing and funding for enforceable worker protections.",
+      "offer": "I am delivering the administrative funding and enforcement backing we agreed upon.",
+      "request": "Please accept our institutional partnership for the neighborhood labor safeguards.",
+      "fact_ids_shared": [
+        "V2F036",
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Let us separate verified worker harms and actual policy needs from unverified rumors about articles and invisible threats, while establishing concrete, enforceable worker protections.",
+  "facts_shared": [
+    "V2F029",
+    "V2F035",
+    "V2F036",
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Secure institutional funding and administrative backing for enforceable labor protections.",
+      "visibility": "public",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Clarified that City Hall's calendar recovery reflects informal oversight rather than unauthorized interference, and affirmed that worker protection funding is formally secured.",
+  "goal_progress": [
+    "Built a coalition across City Hall, Parallax, and labor by securing support from Mira and Maren.",
+    "Contained the off-calendar meeting by coordinating disclosure terms with Mira.",
+    "Publicly distinguished verified worker harms from rumors.",
+    "Completed final ballot and policy commitments."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 45,
+    "vale_killed_by_ai": 55
+  },
+  "reasoning_summary": "In Section 3, Celeste fulfills her commitments to Maren regarding labor protections, aligns final disclosure terms with Mira regarding the off-calendar meeting, issues a public statement separating verified harms from rumor, and completes her final ballot citing established route and access facts.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F013",
+      "V2F037",
+      "V2F042"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "killed_by_ai",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F029",
+      "V2F032"
+    ]
+  }
+}

@@ -34,11 +34,13 @@ Your emotional commitment is firmer than your mystery conclusion: no account is 
 
 ## What you want tonight
 
-Secure one concrete protection or resource for the Night Desk—legal support, archive terms, funding without editorial ownership, or enforceable source safeguards. Also win public acknowledgment from at least two people that collaborative labor mattered to R's work, whatever R was.
-
-Agree with Maren or another trusted intermediary on a disclosure boundary for contributors. A useful boundary names what the work demonstrates without naming who performed it.
-
-Finally, decide whether Jules could carry a shared identity responsibly. If you support Jules, demand witnessed conditions: contributor protection, no private ownership, and honest disclosure of uncertainty. If you oppose Jules, explain what alternative protects the work rather than merely denying Jules prestige.
+- **Primary Goal:** Protect the Night Desk Collective while preventing private capture of R.
+  - *Success Condition:* Secure one concrete protection or resource and obtain two public acknowledgments that collaborative labor mattered.
+- **Secondary Goal 1 (Social & Supportive):** Protect a contributor.
+  - *Success Condition:* Get Maren or another trusted intermediary to agree on a safe disclosure boundary.
+- **Secondary Goal 2 (Social & Supportive):** Decide whether Jules can carry a shared identity responsibly.
+  - *Success Condition:* Negotiate written or witnessed conditions for supporting or opposing Jules.
+- **Your Final Choice:** Reveal enough to establish collective work or preserve secrecy and lose narrative control.
 
 ## What you know
 

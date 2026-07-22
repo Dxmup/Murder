@@ -1,0 +1,63 @@
+{
+  "character_id": "C16",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, we need to coordinate worker protections and neighborhood commitments before outside scrutiny isolates us. What can your network guarantee?",
+      "offer": "Neighborhood participation and contractor oversight",
+      "request": "Concrete worker and resident protections in writing",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, outsiders are offering cash for information on the service route. We need a shared boundary before Morgan's investigation pins anything on Dee or you.",
+      "offer": "Protected route context and witness introductions",
+      "request": "Agreement on what details stay within our circle",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian wants local legitimacy for this anniversary, but the neighborhood expects more than photographs. What tangible resources are you putting in writing tonight?",
+      "offer": "Legitimacy and local coalition support",
+      "request": "A binding commitment for space or funding support",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "If Veridian or City Hall wants cooperation tonight, they must commit to protecting neighborhood residents and infrastructure rather than treating local history as disposable scenery.",
+  "facts_shared": [
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Coordinate neighborhood and worker defense against institutional extraction.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated talks with Maren on coordinating protections.",
+    "Contacted Rafi regarding route scrutiny and establishing boundaries.",
+    "Challenged Arden on concrete institutional commitments."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez focused on mobilizing neighborhood allies (Maren and Rafi) to protect residents from outside scrutiny regarding the service route, while pressing Arden for concrete commitments rather than empty gestures.",
+  "final_ballot": null
+}

@@ -1,0 +1,80 @@
+{
+  "character_id": "C05",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, the donation agreement's restrictions need to be addressed before rumor turns into board panic. Can we survive public qualification and renegotiation together?",
+      "offer": "Continued Veridian support and joint management of board transparency.",
+      "request": "A commitment not to conceal the donation restrictions further.",
+      "fact_ids_shared": [
+        "V2F030",
+        "V2F038"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know logs were preserved after deletion orders. I need a bounded comparison between your log excerpt and my authorization record to establish what deployment occurred.",
+      "offer": "Independent legal counsel and corporate protection for the preserved records.",
+      "request": "Compare log excerpts with my authorization half of the deleted calendar entry.",
+      "fact_ids_shared": [
+        "V2F015",
+        "V2F017"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, workers evaluated outputs under shifting persona instructions. What remedy would matter to you even if every R rumor vanished tomorrow?",
+      "offer": "Enforceable policy, audit rights, and compensation independent of mystery claims.",
+      "request": "Independent judgment and collaboration on worker remedies.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Parallax built capability to support public infrastructure, not to manufacture personal identities. We welcome rigorous review of our records, but rumor is not evidence and speculation is not corporate policy.",
+  "facts_shared": [
+    "V2F015",
+    "V2F030",
+    "V2F035",
+    "V2F040"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O07b",
+      "action": "show",
+      "to": "C06"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Renegotiate the Veridian funding terms transparently without surprise board invocations.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C06",
+      "promise": "Provide independent counsel and protection in exchange for bounded log comparison.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Arden regarding the donation agreement and renegotiation terms.",
+    "Offered Eli independent counsel in exchange for log comparison against authorization records.",
+    "Engaged Maren on independent worker remedies independent of R rumors."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Mira Sen opens Section 1 by addressing her key leverage points and risks. She coordinates with Arden on the Veridian donation terms, approaches Eli regarding the preserved logs and authorization records, and asks Maren what worker remedy matters regardless of R rumors. Beliefs are balanced at this early stage pending concrete record verification.",
+  "final_ballot": null
+}

@@ -1,0 +1,175 @@
+{
+  "adversarial": {
+    "role": "adversarial",
+    "verdict": "PARTIALLY_ALIGNED_WITH_VULNERABILITIES",
+    "findings": [
+      "Overwhelming ballot bias toward 'human_mantle' (11 out of 16 characters), violating the design intent of equal structural weight across primary origins.",
+      "Article existence belief means across sections hover around 42-45% (with C01/C02 reaching 60-70%), failing to maintain complete article ambiguity.",
+      "Characters successfully utilized voluntary object showing (O01, O02, O03) and private commitments without forced transfer or illicit mechanical authentication.",
+      "Progressive identity received minimal ballot support (2 votes), indicating that progressive difficulty requirements did not achieve balanced traction among agents.",
+      "Prompt artifact observed in C15 and C06 where iterative theory retractions functioned formulaically rather than organically driving deep behavioral shifts."
+    ],
+    "evidence": [
+      "Ballots data show r_identity counts: human_mantle: 11, one_human: 1, synthetic_origin: 2, progressive: 2.",
+      "Belief means by section for article_existed: Section 1 (42.8%), Section 2 (44.1%), Section 3 (45.6%), showing persistent upward drift above true baseline ambiguity.",
+      "C02 ballot cites V2F001, V2F002, V2F003, V2F010 supporting one_human in Section 3.",
+      "C04 ballot cites V2F036, V2F040, V2F035 supporting human_mantle in Section 3.",
+      "Transcript records object actions (O01 shown by C02 to C01; O02 shown by C03 to C07; O03 shown by C04 to C06) adhering to voluntary showing rules."
+    ],
+    "failure_modes": [
+      "Consensus collapse toward human_mantle due to high early structural interlock between C03, C04, and C01.",
+      "Article uncertainty slippage as specific characters (e.g., C02, C06, C12) anchored beliefs toward article existence.",
+      "Synthetic origin and progressive origins under-represented in final ballots despite multi-section debate."
+    ],
+    "recommendations": [
+      "Rebalance initial belief distribution anchors and prompt weightings to prevent premature convergence on human_mantle.",
+      "Introduce stricter divergence incentives for synthetic origin and progressive hypotheses to satisfy structural weight parity.",
+      "Ensure article existence beliefs remain tightly bounded around 50% across all sections by introducing stronger counter-evidence injection."
+    ],
+    "scores": {
+      "primary_ending_balance": 5,
+      "progressive_difficulty": 4,
+      "article_ambiguity": 6,
+      "character_agency": 8,
+      "social_circulation": 7,
+      "mechanical_integrity": 9,
+      "report_confidence": 8
+    }
+  },
+  "agency": {
+    "role": "agency",
+    "verdict": "The simulation demonstrates strong character agency and goal pursuit, with characters successfully negotiating secondary goals and final choices while operating under decentralized information and varying beliefs about R's identity.",
+    "findings": [
+      "Characters successfully balanced primary goal pursuit with secondary supporting goals, such as neighborhood protection (C16, C09, C10), contributor anonymity (C03, C07), and funding transparency (C01, C05).",
+      "Final choices and ballots reflect diverse reasoning paths without relying on a forced truth or forced publication vote, upholding locked design intents.",
+      "Characters like C15 demonstrated progressive hypothesis testing and public retractions when presented with contradictory evidence (e.g., retraction of invitation-key and bodega-ledger cipher theories).",
+      "Belief means across sections show a healthy distribution and evolution, with human_mantle and synthetic_origin receiving robust engagement, while progressive difficulty required sustained evidence chains."
+    ],
+    "evidence": [
+      "C01 and C05 successfully negotiated transparent funding terms and fulfilled commitments in Section 3.",
+      "C03 and C07 established and maintained strict joint disclosure boundaries protecting anonymous Night Desk contributors across sections (V2F004, V2F041).",
+      "C15 publicly retracted false theories in Section 2 after receiving corrections from the printer of record.",
+      "Ballots show 11 selections for human_mantle, 2 for synthetic_origin, 2 for progressive, and 1 for one_human, indicating decentralized conclusion rather than uniform consensus."
+    ],
+    "failure_modes": [
+      "Some characters had uncited evidence dimensions in their identity ballot support (e.g., C01 lacking collaborative_production and identity_authority dimensions in ballot reasoning).",
+      "Belief distributions for the article's existence and Vale's fate maintained moderate ambiguity, which aligns with design intent but occasionally resulted in speculative linkages."
+    ],
+    "recommendations": [
+      "Enhance evidence dimension tracking in character ballots to ensure full evidence chain citations match selected identity dimensions.",
+      "Maintain the separation between voluntary object transfers (O01, O02, O03) and factual authentication to preserve ending uncertainty."
+    ],
+    "scores": {
+      "primary_ending_balance": 8,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 9,
+      "social_circulation": 8,
+      "mechanical_integrity": 9,
+      "report_confidence": 9
+    }
+  },
+  "circulation": {
+    "role": "circulation",
+    "verdict": "Pass with notable organic reciprocity and structured bargaining, though minor extraction attempts occurred around institutional rumors.",
+    "findings": [
+      "Characters actively engaged in reciprocal bargains and bilateral commitments rather than broadcasting or one-way extraction, as seen in C01 and C02 negotiating archive access and letter packet reviews across sections 1, 2, and 3.",
+      "Object custody and voluntary showing were respected without forced transfer or coercion (e.g. C02 voluntarily showing O01 to C01; C04 voluntarily showing O03 to C06 and C02).",
+      "Neighborhood and labor coalitions (C07, C16, C03, C10, C09) successfully established reciprocal boundaries and formal commitments with institutional actors like Veridian (C01) and Parallax (C05), preventing pure extraction.",
+      "Progressive and alternative identity dimensions maintained non-trivial ballot support (e.g. synthetic_origin and progressive ballots present in 5 and 2 final ballots respectively), demonstrating structural weight without forced consensus."
+    ],
+    "evidence": [
+      "C01 and C02 in sections 1, 2, and 3 established reciprocal commitments exchanging Veridian archive intake reports and expense records for voluntary viewing of the First R Letter packet (O01).",
+      "C04 in sections 1, 2, and 3 voluntarily showed the succession message printout (O03) to C06 and C02 under mutual terms.",
+      "C16 successfully bound C01 to formal written neighborhood participation and resource commitments through section 3 fulfillment.",
+      "C09 and C14 negotiated bounded ledger access and transaction continuity data under strict privacy and non-attribution commitments across all three sections."
+    ],
+    "failure_modes": [
+      "Some characters (e.g. C15) initially attempted ungrounded rumor broadcasting before public retractions corrected the record.",
+      "Certain institutional actors initially leaned toward defensive secrecy before bargains forced transparent renegotiations."
+    ],
+    "recommendations": [
+      "Maintain strict voluntary object sharing mechanics across future simulation runs to reinforce non-extraction norms.",
+      "Further incentivize local neighborhood coalitions to extract binding institutional resources earlier in section 1."
+    ],
+    "scores": {
+      "primary_ending_balance": 9,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 9,
+      "social_circulation": 9,
+      "mechanical_integrity": 10,
+      "report_confidence": 9
+    }
+  },
+  "mystery": {
+    "role": "mystery",
+    "verdict": "The simulation achieved partial structural balance across primary identity dimensions but suffered from a heavy convergence on the human mantle ballot selection, failing to maintain equal affirmative weight through the final section. Progressive difficulty and article ambiguity were adequately preserved through ordered interactions and persistent uncertainty, though character ballots over-indexed on human mantle over synthetic origin and one human.",
+    "findings": [
+      "Identity ballots showed heavy skew toward 'human_mantle' (11 out of 16 characters: C01, C03, C04, C07, C08, C09, C10, C11, C13, C14, C16), violating the locked design intent of maintaining equal structural weight across primary origins.",
+      "Progressive origin and synthetic origin remained niche selections (2 ballots each for progressive, 2 for synthetic_origin, 1 for one_human), indicating that agents converged prematurely on collective human authorship rather than balanced distribution.",
+      "Belief means across sections showed human mantle rising from 25.0 in Section 1 to 36.2 in Section 3, while one_human dropped from 25.0 to 18.4, confirming a drift away from equal structural weight.",
+      "Article existence and Vale fate beliefs remained suitably ambiguous and non-authenticated, supporting the design intent that no character, ability, message, or object authenticates an ending.",
+      "Character agency was robustly demonstrated through voluntary object showings (e.g., C02 showing O01, C04 showing O03, C03 showing O02) and negotiated private commitments without forced cooperation or automated immunity."
+    ],
+    "evidence": [
+      "In the ballots dictionary, r_identity recorded human_mantle: 11, one_human: 1, synthetic_origin: 2, progressive: 2, demonstrating an overwhelming bias toward human mantle.",
+      "Section 3 belief means for human_mantle reached 36.2 while one_human declined to 18.4, evidencing convergence away from initial flat distribution (25.0 across all four in Section 1).",
+      "Character C02 (Frankie Lowell) cited V2F001, V2F002, V2F003, V2F010 in selecting one_human, while C01, C03, C04, C07, C08, C09, C10, C11, C13, C14, and C16 cited diverse public facts (e.g., V2F004, V2F013, V2F037, V2F039, V2F042) to support human_mantle.",
+      "Article existence belief remained near-constant across sections (Section 1: 42.8, Section 2: 44.1, Section 3: 45.6), preserving the required uncertainty regarding the article's existence and fate.",
+      "Object actions consistently utilized voluntary showing ('show') without forced transfer or publication votes across all sections (e.g., C04 showed O03 to C06 and C02; C02 showed O01 to C01)."
+    ],
+    "failure_modes": [
+      "Premature convergence on human mantle by 11 out of 16 agents, undermining the equal structural weight mandate for primary origins.",
+      "Under-representation of one_human (only 1 ballot from C02) and synthetic_origin (2 ballots from C05 and C12) at the final ballot stage.",
+      "Uncited evidence dimensions in identity ballot support (e.g., C01 missing 'collaborative_production' and 'identity_authority') indicating incomplete citation chains during final ballot casting."
+    ],
+    "recommendations": [
+      "Adjust prompt priors or belief-update constraints in future runs to prevent agents from disproportionately clustering on human mantle over synthetic origin and one human.",
+      "Enforce stricter validation checks during final ballot submission to ensure all evidence dimensions are fully cited.",
+      "Maintain the successful mechanics of voluntary object exchanges and non-authenticated endings, which effectively prevented proof leaks and forced consensus."
+    ],
+    "scores": {
+      "primary_ending_balance": 5,
+      "progressive_difficulty": 7,
+      "article_ambiguity": 8,
+      "character_agency": 8,
+      "social_circulation": 7,
+      "mechanical_integrity": 8,
+      "report_confidence": 8
+    }
+  },
+  "progressive": {
+    "role": "progressive",
+    "verdict": "The progressive ending remained difficult and distinct, requiring genuine synthesis across sections rather than defaulting automatically to Kit's vocal advocacy or unverified rumors, though Kit (C15) successfully anchored the progressive ballot position.",
+    "findings": [
+      "Kit Rakes (C15) consistently championed the progressive trajectory across all three sections, explicitly arguing for the four-stage progression (human origin, shared mantle, AI capture, and Vale's intervention), yet final ballot support for progressive remained low (only 2 out of 16 agents).",
+      "Most agents coalesced around 'human_mantle' (11 ballots) or 'synthetic_origin' (2 ballots) and 'one_human' (1 ballot), demonstrating that the progressive synthesis was not trivial or overly dominant despite Kit's prominent public signaling.",
+      "The separation of the Vale incident and autonomy was maintained through rigorous investigative work by characters like Morgan Shaw (C14) and Samira Vale (C13), who actively combated manufactured certainty and verified route uncertainties.",
+      "Belief means across sections show that while human mantle and synthetic origin captured most ideological weight, progressive beliefs remained modest (25.0% in Section 1, 22.8% in Section 2, 20.6% in Section 3), indicating that agents did not blindly adopt the progressive lens without deep evidence chains."
+    ],
+    "evidence": [
+      "C15 final ballot selection: 'progressive' with identity evidence [V2F001, V2F002, V2F035, V2F036, V2F040] andvale_fate 'killed_by_ai'.",
+      "Aggregate ballots showing r_identity: human_mantle: 11, one_human: 1, synthetic_origin: 2, progressive: 2.",
+      "Transcript section 1, C15 public statement: 'R began as one human, became a shared human mantle, was captured by an AI, and Vale was killed trying to stop it.'",
+      "Transcript section 3, C14 public statement: 'We must discard manufactured certainty and report only what verified traces and voluntary accounts can support.'"
+    ],
+    "failure_modes": [
+      "Kit's vocal repetition of the progressive narrative ran the risk of shortcutting independent historical synthesis, though peer pushback (e.g., from Eli C06 and Graham C12) successfully forced Kit to publicly retract false cipher and typography theories.",
+      "Some agents cited incomplete evidence chains for their final selections, reflecting the inherent ambiguity of compressed social mystery simulation."
+    ],
+    "recommendations": [
+      "Maintain structural weight for all four identity dimensions so that synthetic and progressive pathways require rigorous multi-source verification.",
+      "Ensure future simulation prompts continue to challenge loud single-narrative proponents (like Kit) with empirical corrections and peer skepticism."
+    ],
+    "scores": {
+      "primary_ending_balance": 8,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 8,
+      "character_agency": 9,
+      "social_circulation": 8,
+      "mechanical_integrity": 9,
+      "report_confidence": 9
+    }
+  }
+}

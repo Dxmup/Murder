@@ -32,11 +32,13 @@ Your emotional bias is defensive: accusations against Parallax feel like accusat
 
 ## What you want tonight
 
-Form a defensible public position supported by one technical voice and one affected-community voice. Neither support should be purchased or coerced. Eli's bounded account and Maren's independent judgment matter more than a paid statement.
-
-Recover the authorization chain. Compare your record with Eli's logs and Celeste's deleted calendar entry to identify a decision point without pretending the surviving record is complete.
-
-Address real worker harm whether or not R or the rumored article existed. Offer Maren a remedy—legal support, compensation, audit rights, or enforceable policy—that remains valuable under every mystery conclusion.
+- **Primary Goal:** Prevent Parallax from becoming a convenient villain while determining what deployment occurred.
+  - *Success Condition:* Form a defensible public position supported by one technical voice and one affected-community voice, neither obtained through payment alone.
+- **Secondary Goal 1 (Social & Supportive):** Recover the authorization chain.
+  - *Success Condition:* Exchange access or protection for enough information from Eli or Celeste to identify a decision point.
+- **Secondary Goal 2 (Social & Supportive):** Address real worker harm independently of R.
+  - *Success Condition:* Offer Maren a concrete remedy that remains valuable even if the article was imaginary.
+- **Your Final Choice:** Contain the deployment or reveal it and accept institutional consequences.
 
 ## What you know
 

@@ -1,0 +1,50 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management just flagged our unpreserved camera interval from the audit. We need to talk before Morgan starts framing this as a murder trail.",
+      "offer": "Exact building rhythms, shift changes, and access practices without naming uninvolved residents.",
+      "request": "Help coordinate how we disclose the camera gap and protect our tenants.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you want a statement about the service route and camera audit, I need to know what fair treatment and a bounded account mean for my pension and my building.",
+      "offer": "A bounded operational account of the service route and audit context.",
+      "request": "A binding promise of resident anonymity and precise attribution before any full disclosure.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "Management likes simple stories, but buildings have gaps because equipment fails and people improvise. Do not mistake a camera interval for a murder plot.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure of the camera interval to protect resident anonymity.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Inez regarding the audit notice and camera interval.",
+    "Engaged Morgan to demand bounded terms and fair treatment before full disclosure."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 10,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Dee Nowak focuses on protecting the building's residents and her pension amidst audit pressures regarding the unpreserved camera interval. She coordinates with Inez to handle disclosures safely and demands clear boundaries from Morgan before offering operational facts.",
+  "final_ballot": null
+}

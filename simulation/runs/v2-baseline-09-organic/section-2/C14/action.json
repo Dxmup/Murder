@@ -1,0 +1,70 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I accept your condition to review route details only with explicit uncertainty labels and your consent.",
+      "offer": "My route board with uncertainty labels intact and acknowledgment of Vale's safety patterns.",
+      "request": "Help me verify Vale's last movements near the former printing floor without compromising your trust.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms: I will restrict ledger disclosure limits and avoid naming any customer R.",
+      "offer": "Discretion regarding customer privacy and a bounded report scope.",
+      "request": "Share the transaction continuity records and collector context near the printing floor.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, I guarantee precise attribution and tenant protection before opening our discussion on service routes and camera audits.",
+      "offer": "Strict adherence to tenant protection and precise attribution in my report.",
+      "request": "Provide the operational context of the camera audit notice and service routes.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "Any accurate reconstruction of Vale's last movements must separate direct observation from manufactured summaries and respect voluntary boundaries.",
+  "facts_shared": [
+    "V2F026",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To review personal route details only under the condition that uncertainty remains labeled.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Restrict ledger disclosure terms and avoid naming any customer as R.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Established formal timeline boundaries with Samira Vale.",
+    "Accepted Rafi Calder\u00f3n's privacy terms for ledger access.",
+    "Engaged Dee Nowak with tenant protection guarantees regarding service routes."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Advanced Section 2 by accepting reciprocal confidentiality and boundary commitments with Samira Vale, Rafi Calder\u00f3n, and Dee Nowak, ensuring route comparisons preserve uncertainty labels and protect local sources.",
+  "final_ballot": null
+}

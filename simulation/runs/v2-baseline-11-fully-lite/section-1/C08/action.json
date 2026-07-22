@@ -1,0 +1,39 @@
+{
+  "character_id": "C08",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I've heard rumors about an R encounter that sounds suspiciously like a theatrical production. Before I tell you who I am, what do you actually remember sensing in that room?",
+      "offer": "I can share insight into how performed presence is constructed and whether your memory matches a staged illusion.",
+      "request": "Describe your supposed R encounter in sensory detail.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, if you're inheriting R, you should know that identities often have hired mouthpieces. I recognize the shape of intermediary payment structures behind some of these legends.",
+      "offer": "Private comparison of payment routes and synthetic versus human performance boundaries under strict confidentiality.",
+      "request": "Tell me what you know about the financial intermediary routing behind R's public presence.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Performance is not authorship, and an actor's consent to a temporary illusion does not sign away their voice to history.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Frankie to investigate the R encounter memory.",
+    "Approached Jules to discuss intermediary payment structures and performance authorship."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 30,
+    "progressive": 10,
+    "article_existed": 25,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Edi Velez enters the room focused on uncovering who reused commissioned performance work without consent. Starting by questioning Frankie about sensory details of the supposed R encounter and engaging Jules regarding intermediary payments.",
+  "final_ballot": null
+}

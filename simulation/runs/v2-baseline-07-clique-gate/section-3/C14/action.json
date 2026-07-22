@@ -1,0 +1,88 @@
+{
+  "character_id": "C14",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, my interim report omitted a manufactured client lead. I want to be entirely transparent with you now about that contamination before I finalize my conclusions.",
+      "offer": "My verified route board with uncertainty labels intact and full disclosure of client communications.",
+      "request": "Your perspective on whether Vale anticipated this manufactured route segment.",
+      "fact_ids_shared": [
+        "V2F027",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C12",
+      "say": "Graham, you are looking for a marketable conclusion, but my investigation reveals that part of the supplied trail was manufactured from an old template.",
+      "offer": "An honest assessment of the timeline gaps without manufactured certainty.",
+      "request": "Information on whether your interests or your clients commissioned the route segment supplied to me.",
+      "fact_ids_shared": [
+        "V2F027"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, thank you for the operational service route details. I am incorporating your bounded account while preserving uncertainty rather than forcing a murder narrative.",
+      "offer": "Strict protection of resident anonymity and defensible attribution.",
+      "request": "Any final clarification on the camera gap versus the automated access changes.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "As an investigator, I must report that part of the timeline supplied by my client was manufactured from an withdrawn map template. We must preserve contradictions rather than purchase a false certainty.",
+  "facts_shared": [
+    "V2F025",
+    "V2F026",
+    "V2F027",
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To disclose client communication anomalies and maintain transparency regarding the manufactured timeline segment.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C10",
+      "promise": "To uphold resident anonymity and fair-treatment terms regarding the service route account.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Disclosing that the client-supplied lead was generated from a map version withdrawn before Vale's investigation began.",
+  "goal_progress": [
+    "Confronted the client anomaly by disclosing the manufactured route segment to Samira and Graham.",
+    "Built a voluntary timeline across institutional, neighborhood, and personal witnesses.",
+    "Completed final ballot and reconstruction honoring open-ended investigation over purchased conclusions."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 40,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Concluded the investigation by acknowledging the manufactured client lead (V2F027), sharing it transparently with Samira and Graham, and submitting a final ballot reflecting a multi-handed human mantle history and an unverified disappearance rather than a manufactured murder.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F007",
+      "V2F008"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F027",
+      "V2F032"
+    ]
+  }
+}

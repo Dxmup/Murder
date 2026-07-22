@@ -1,0 +1,90 @@
+{
+  "character_id": "C16",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, our neighborhood cooperation tonight depends on Veridian officially cementing that advisory board seat and permanent archive partnership in writing.",
+      "offer": "Endorsement of Veridian's local legitimacy and community participation.",
+      "request": "Signed written commitment for neighborhood space and worker protection.",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, the audit is peaking. Let's keep our shared boundary locked so neither of us names uninvolved residents while explaining the service route.",
+      "offer": "Mutual defense and aligned testimony regarding building access.",
+      "request": "Maintain our agreed disclosure boundary against outside pressure.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, you have your fair-treatment terms. Here is the context on the back room and service route to clarify events without exposing our neighbors.",
+      "offer": "Protected context on the service route access.",
+      "request": "Strict adherence to source protection and confidentiality.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "No institutional anniversary or investigation should treat neighborhood service routes and labor as disposable collateral. Our protection remains non-negotiable.",
+  "facts_shared": [
+    "V2F026",
+    "V2F036",
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Secure written institutional commitments for neighborhood space and worker protection in exchange for local legitimacy.",
+      "visibility": "public",
+      "status": "fulfill"
+    },
+    {
+      "with": "C10",
+      "promise": "Coordinate our disclosure boundary so neither of us names uninvolved residents",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured institutional commitments from Arden for neighborhood representation.",
+    "Maintained strict protection boundaries with Dee regarding service route access.",
+    "Provided bounded route context to Morgan while safeguarding local residents from scapegoating."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez concluded Section 3 by locking in Arden's written commitments for the neighborhood, preserving the disclosure boundary with Dee, sharing safe route context with Morgan under protective terms, and submitting her final ballot supporting a shared human mantle for R and a withdrawal pattern for Vale.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F001",
+      "V2F002",
+      "V2F035",
+      "V2F040"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F034",
+      "V2F040"
+    ]
+  }
+}

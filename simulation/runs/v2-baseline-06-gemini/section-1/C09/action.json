@@ -1,0 +1,70 @@
+{
+  "character_id": "C09",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are circling the shop's account books. Before anyone starts mining old receipts for content or calling every irregular delivery a crime, we need an understanding on what neighborhood details stay protected.",
+      "offer": "I will consult with you on any public choice regarding the old debt and ensure customer names remain confidential.",
+      "request": "Support whatever boundary we set so that privacy isn't traded away for cheap certainty.",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, you want a look at the ledger strip. I have transaction continuity and collector records, but I won't let my customers be labeled as R without strict terms.",
+      "offer": "A bounded look at the account pattern and transaction continuity.",
+      "request": "A binding promise not to call any customer R and clear terms on attribution before any wider disclosure.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, you appreciate a good neighborhood habit. How do you describe R's supposed private routine compared to what actually crossed my counter?",
+      "offer": "Context on how routines persisted across years at the shop.",
+      "request": "Describe your version of R's private habit so we can compare notes without manufacturing a fake authentication.",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of transactions at the bodega show routines, collectors, and changing patterns, not a simple cinematic legend. If anyone wants to talk about the shop's history, they can talk to the neighbors whose names are behind those counters first.",
+  "facts_shared": [
+    "V2F007",
+    "V2F008"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Protect local customer privacy and consult on ledger disclosures before any external agreement.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C14",
+      "promise": "Restrict ledger disclosure terms to pattern analysis without naming customers as R.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated privacy alignment with Inez to shield neighborhood customers from investigative pressure.",
+    "Established initial negotiation terms with Morgan regarding ledger access and attribution boundaries.",
+    "Engaged Frankie on the private habit and continuity pattern without selling unverified conclusions."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 25,
+    "synthetic_origin": 20,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Rafi focuses on securing neighborhood protections with Inez, setting strict disclosure boundaries and attribution terms with Morgan, and comparing routine observations with Frankie while keeping the ledger's ambiguities intact.",
+  "final_ballot": null
+}

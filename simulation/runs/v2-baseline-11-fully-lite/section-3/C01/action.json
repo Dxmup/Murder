@@ -1,0 +1,81 @@
+{
+  "character_id": "C01",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, the archives show the complexities of our shared history, but tonight we unite around the human roots of reporting that make institutions like Veridian worth saving.",
+      "offer": "Full access to Veridian's verified archive provenance records and joint public acknowledgment.",
+      "request": "Your continued support for Veridian's journalistic integrity and archive mission.",
+      "fact_ids_shared": [
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, we have navigated the Parallax funding restrictions through transparency and mutual resilience, keeping Veridian solvent and independent.",
+      "offer": "Discretion regarding funding terms and protection against unauthenticated claims.",
+      "request": "A stable, long-term commitment to Veridian's public-interest mission without restrictive pauses.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, our binding written commitment is delivered. Veridian and the neighborhood stand together as genuine partners in securing local space and reporting authority.",
+      "offer": "Fulfilled binding written agreement granting local veto power and space support.",
+      "request": "Active neighborhood leadership and partnership going forward.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Veridian stands for open archives, rigorous investigation, and genuine partnership with our community and supporters. We survive not by concealing our compromises, but by facing them openly.",
+  "facts_shared": [
+    "V2F035",
+    "V2F040",
+    "V2F044"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Deliver a binding written commitment supporting local space and shared archive authority.",
+      "visibility": "public",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured institutional survival and community partnership through concrete written agreements.",
+    "Balanced Parallax funding terms without compromising editorial independence.",
+    "Completed final ballot reconstruction grounded in verified archive records and human narrative continuity."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Arden Bell concludes the evening by honoring commitments to Inez and Frankie, securing Parallax stability with Mira, and submitting a final ballot reflecting a human mantle evolved across multiple hands and institutional structures.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F001",
+      "V2F002",
+      "V2F003",
+      "V2F035"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "character_id": "C07",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, let's lock in our disclosure boundary. We must ensure no workflow evidence turns contributors into suspects or exposes the worker Vale met.",
+      "offer": "Bounded collaborative workflow context without identifying evaluators",
+      "request": "Mutual agreement on strict contributor anonymity boundaries",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, I've reviewed your offer. We will collaborate on the worker remedy package only if audit rights and legal protections are guaranteed independently of R's identity.",
+      "offer": "Bounded evaluator testimony regarding shifting instructions",
+      "request": "Formal acceptance of enforceable audit rights and independent worker protections",
+      "fact_ids_shared": [
+        "V2F015",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, labor and neighborhood safeguards need city administrative support and firm deadlines to be meaningful tonight.",
+      "offer": "Coalition support and grassroots labor mobilization",
+      "request": "Enforceable city funding commitment for worker safeguards",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Worker harm is real whether or not an article exists and whether or not R was human or machine. We demand enforceable protections before any testimony circulates.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Establish a joint disclosure boundary before discussing contributor details further.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C05",
+      "promise": "Offer enforceable audit rights and legal support for worker evaluations.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C11",
+      "promise": "Back enforceable worker safeguards with city funding and administrative authority.",
+      "visibility": "public",
+      "status": "accept"
+    },
+    {
+      "with": "C16",
+      "promise": "Coordinate neighborhood and contractor protection against outside investigator pressure.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Confirmed disclosure boundary with Tessa Quill.",
+    "Accepted independent legal support and audit rights proposal from Mira Sen.",
+    "Accepted city administrative support commitment from Celeste Park.",
+    "Accepted neighborhood and contractor protection coordination with Inez Baptiste."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 45,
+    "synthetic_origin": 20,
+    "progressive": 15,
+    "article_existed": 60,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Maren secures institutional remedies and disclosure boundaries with Tessa, Mira, and Celeste while preserving worker anonymity and prioritizing enforceable protections over mystery speculation.",
+  "final_ballot": null
+}

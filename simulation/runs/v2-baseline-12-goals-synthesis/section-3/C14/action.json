@@ -1,0 +1,90 @@
+{
+  "character_id": "C14",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, my interim report omitted a manufactured route segment supplied by the client. I am disclosing this openly now rather than publishing a false narrative.",
+      "offer": "Full transparency regarding the client anomaly and our route board uncertainty labels.",
+      "request": "Your perspective on whether the client's pressure reflects corporate interference or personal withdrawal.",
+      "fact_ids_shared": [
+        "V2F027",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, as promised, I am protecting source anonymity and presenting the printing floor transit gap with strict uncertainty labeling.",
+      "offer": "Discreet case notes and respect for local neighborhood boundaries.",
+      "request": "Confirmation of how local residents experienced Vale's arrival two days ago.",
+      "fact_ids_shared": [
+        "V2F025",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C12",
+      "say": "Graham, you wanted a marketable conclusion. Here is the reality: part of the lead was manufactured from an outdated template, and the case remains open.",
+      "offer": "An honest account of the investigative gaps before any stock-driven claims are made.",
+      "request": "Whether your sources had any connection to the client's automated route generation.",
+      "fact_ids_shared": [
+        "V2F027",
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Morgan Shaw publicly: As an investigator retained on this case, I must report that a key route segment supplied by my client was manufactured from an outdated template. The investigation confirms Vale entered the neighborhood two days ago, but the subsequent trail is contaminated. The case remains open.",
+  "facts_shared": [
+    "V2F025",
+    "V2F027",
+    "V2F035",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "Maintain discretion regarding all personal history shared during our timeline review.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C09",
+      "promise": "Agree not to call any customer R based on transaction records.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Acknowledged and publicly disclosed that the client-supplied route segment was manufactured from an outdated template, correcting the interim report.",
+  "goal_progress": [
+    "Conducted final timeline comparisons with Samira, Inez, and Graham.",
+    "Disclosed the contaminated client lead rather than publishing an unsupported conclusion.",
+    "Completed the reconstruction with uncertainty labels intact."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 25,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Morgan Shaw, I evaluated the evidence, uncovered the manufactured client lead, honored our source protection agreements, and filed an open, qualified reconstruction rather than a purchased fiction.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F001",
+      "V2F002",
+      "V2F012",
+      "V2F013"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F035",
+      "V2F040"
+    ]
+  }
+}

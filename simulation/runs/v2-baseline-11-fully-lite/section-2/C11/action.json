@@ -1,0 +1,83 @@
+{
+  "character_id": "C11",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the calendar recovery is out. We need to agree on shared responsibility for the off-calendar meeting before outside leaks dictate our terms.",
+      "offer": "To match records jointly and provide administrative clarity without casting blame.",
+      "request": "A shared disclosure statement that acknowledges our meeting without exposing either of us individually.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I know you hold personal context on Vale's motives. I arranged access that may have complicated things, and I want to respect privacy while preventing panic.",
+      "offer": "City Hall protection and a clear boundary against speculative press narratives regarding Vale.",
+      "request": "Mutual agreement on what limited personal details can be disclosed safely.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, labor and neighborhood protections cannot wait for an article to be verified. Let's lock in real oversight and funding terms right now.",
+      "offer": "Municipal backing and direct agency authority for your worker safeguard proposals.",
+      "request": "Concrete worker protection terms that survive tomorrow morning regardless of rumors.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F040",
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Let's keep our focus on verified worker and community needs rather than chasing unverified rumors about an article. City Hall stands ready to implement enforceable oversight.",
+  "facts_shared": [
+    "V2F029",
+    "V2F035",
+    "V2F036",
+    "V2F039",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C05",
+      "promise": "Coordinate joint disclosure regarding the off-calendar meeting records with Mira Sen.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C16",
+      "promise": "Incorporate Inez's neighborhood enforcement mechanism into municipal procurement review.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C07",
+      "promise": "Support enforceable worker safeguards in municipal contracts by end of quarter.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Mira Sen to align calendar recovery records and establish shared responsibility.",
+    "Engaged Samira Vale to discuss privacy boundaries around Vale's access.",
+    "Advanced labor and neighborhood protections with Maren Okafor.",
+    "Publicly separated verified community needs from unverified article rumors."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 20,
+    "article_existed": 35,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "In Section 2, Celeste uses the calendar recovery pressure to align with Mira Sen on shared responsibility, discusses privacy boundaries with Samira Vale, and advances enforceable worker protections with Maren Okafor. Beliefs and public framing remain focused on actionable civic policy rather than unverified panic.",
+  "final_ballot": null
+}

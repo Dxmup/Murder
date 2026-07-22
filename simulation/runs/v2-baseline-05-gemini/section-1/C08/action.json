@@ -1,0 +1,47 @@
+{
+  "character_id": "C08",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I've heard rumors about your legendary encounter with R. Before we start swapping myths, describe what you actually perceived in sensory detail\u2014what did the voice and presence feel like?",
+      "offer": "My perspective on distinguishing performed voice from raw provenance.",
+      "request": "A genuine, unembellished account of your supposed R encounter.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, if you're hoping to inherit or manage R's legacy, you need to understand how identity assets are funded and licensed. I recognize certain payment routing patterns.",
+      "offer": "A private comparison of intermediary payment structures and synthetic performance limits.",
+      "request": "Your insight into how R-associated funds and commissions were originally distributed.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Let's be precise tonight: an actor supplies breath and illusion, but performance is never authorship. Whoever reused recorded assets without consent traded reality for a convenient fiction.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Share confidential insights on commission payment routes if Jules respects the boundary between casting and authorship.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "Performance is not authorship, and a staged appearance is not proof of a human author.",
+  "goal_progress": [
+    "Initiated contact with Frankie to probe the sensory details of the supposed R encounter.",
+    "Engaged Jules regarding intermediary payment routing and synthetic asset management.",
+    "Made a public statement separating embodiment and authorship."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 40,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Edi Velez enters Section 1 focusing on uncovering who reused commissioned voice assets without consent. By probing Frankie on sensory memories of R and discussing payment structures with Jules, Edi seeks to trace the provenance of the performance while publicly defending the distinction between actor and author.",
+  "final_ballot": null
+}

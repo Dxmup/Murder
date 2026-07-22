@@ -1,0 +1,37 @@
+{
+  "role": "mystery",
+  "verdict": "The simulation achieved partial structural balance across primary identity dimensions but suffered from a heavy convergence on the human mantle ballot selection, failing to maintain equal affirmative weight through the final section. Progressive difficulty and article ambiguity were adequately preserved through ordered interactions and persistent uncertainty, though character ballots over-indexed on human mantle over synthetic origin and one human.",
+  "findings": [
+    "Identity ballots showed heavy skew toward 'human_mantle' (11 out of 16 characters: C01, C03, C04, C07, C08, C09, C10, C11, C13, C14, C16), violating the locked design intent of maintaining equal structural weight across primary origins.",
+    "Progressive origin and synthetic origin remained niche selections (2 ballots each for progressive, 2 for synthetic_origin, 1 for one_human), indicating that agents converged prematurely on collective human authorship rather than balanced distribution.",
+    "Belief means across sections showed human mantle rising from 25.0 in Section 1 to 36.2 in Section 3, while one_human dropped from 25.0 to 18.4, confirming a drift away from equal structural weight.",
+    "Article existence and Vale fate beliefs remained suitably ambiguous and non-authenticated, supporting the design intent that no character, ability, message, or object authenticates an ending.",
+    "Character agency was robustly demonstrated through voluntary object showings (e.g., C02 showing O01, C04 showing O03, C03 showing O02) and negotiated private commitments without forced cooperation or automated immunity."
+  ],
+  "evidence": [
+    "In the ballots dictionary, r_identity recorded human_mantle: 11, one_human: 1, synthetic_origin: 2, progressive: 2, demonstrating an overwhelming bias toward human mantle.",
+    "Section 3 belief means for human_mantle reached 36.2 while one_human declined to 18.4, evidencing convergence away from initial flat distribution (25.0 across all four in Section 1).",
+    "Character C02 (Frankie Lowell) cited V2F001, V2F002, V2F003, V2F010 in selecting one_human, while C01, C03, C04, C07, C08, C09, C10, C11, C13, C14, and C16 cited diverse public facts (e.g., V2F004, V2F013, V2F037, V2F039, V2F042) to support human_mantle.",
+    "Article existence belief remained near-constant across sections (Section 1: 42.8, Section 2: 44.1, Section 3: 45.6), preserving the required uncertainty regarding the article's existence and fate.",
+    "Object actions consistently utilized voluntary showing ('show') without forced transfer or publication votes across all sections (e.g., C04 showed O03 to C06 and C02; C02 showed O01 to C01)."
+  ],
+  "failure_modes": [
+    "Premature convergence on human mantle by 11 out of 16 agents, undermining the equal structural weight mandate for primary origins.",
+    "Under-representation of one_human (only 1 ballot from C02) and synthetic_origin (2 ballots from C05 and C12) at the final ballot stage.",
+    "Uncited evidence dimensions in identity ballot support (e.g., C01 missing 'collaborative_production' and 'identity_authority') indicating incomplete citation chains during final ballot casting."
+  ],
+  "recommendations": [
+    "Adjust prompt priors or belief-update constraints in future runs to prevent agents from disproportionately clustering on human mantle over synthetic origin and one human.",
+    "Enforce stricter validation checks during final ballot submission to ensure all evidence dimensions are fully cited.",
+    "Maintain the successful mechanics of voluntary object exchanges and non-authenticated endings, which effectively prevented proof leaks and forced consensus."
+  ],
+  "scores": {
+    "primary_ending_balance": 5,
+    "progressive_difficulty": 7,
+    "article_ambiguity": 8,
+    "character_agency": 8,
+    "social_circulation": 7,
+    "mechanical_integrity": 8,
+    "report_confidence": 8
+  }
+}

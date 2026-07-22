@@ -1,0 +1,70 @@
+{
+  "character_id": "C13",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, as agreed, I am reviewing your route board to ensure uncertainty is preserved and my personal history is not distorted into certainty.",
+      "offer": "Context on Vale's prior safety pattern and route overlap significance",
+      "request": "Your confirmation that uncertainty labels remain on the final timeline",
+      "fact_ids_shared": [
+        "V2F028",
+        "V2F034"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, the succession conversation you had with Vale remains a point of manipulation or genuine inquiry. Let's make sure it is recorded accurately without fabricating a handoff.",
+      "offer": "Acknowledgment of the succession context exchange",
+      "request": "Your commitment to labeling succession inquiries as unverified by physical proof",
+      "fact_ids_shared": [
+        "V2F009",
+        "V2F034"
+      ]
+    }
+  ],
+  "public_statement": "Vale was a person with ordinary human flaws and real vulnerabilities, not a fictional architect or a plot device for your careers.",
+  "facts_shared": [
+    "V2F028",
+    "V2F034"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "I will coordinate with you on personal route details only if uncertainty remains explicitly labeled.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Correcting the assumption that Vale's disappearance or inquiries into R constitute proof of death or synthetic authorship rather than a human safety pattern.",
+  "goal_progress": [
+    "Confirmed uncertainty boundaries with Morgan regarding the route.",
+    "Examined succession context with Jules.",
+    "Cast the final ballot reflecting voluntary disappearance and human investigation."
+  ],
+  "beliefs": {
+    "one_human": 50,
+    "human_mantle": 25,
+    "synthetic_origin": 15,
+    "progressive": 10,
+    "article_existed": 25,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "As Samira, I have maintained privacy boundaries, verified route overlaps against our prior safety pattern, and rejected the theatrical reduction of Vale into an AI plot device. My final ballot reflects my belief in Vale's humanity, prior voluntary disappearance pattern, and insufficient evidence of harm.",
+  "final_ballot": {
+    "r_identity": "one_human",
+    "identity_evidence": [
+      "V2F007",
+      "V2F028",
+      "V2F034"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F028",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "character_id": "C01",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, the archive intake file for the First R Letter is ready, and while the material date is plausible, our expense records place your original account under some strain. I want to be entirely honest before offering access.",
+      "offer": "Controlled access to Veridian's archive provenance records regarding the First R Letter.",
+      "request": "A clear public acknowledgment of what the records establish so we can honor your legacy accurately.",
+      "fact_ids_shared": [
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, Veridian cannot celebrate its history while treating the neighborhood as mere scenery. What tangible commitments would make your participation meaningful tonight?",
+      "offer": "Future partnerships and material commitments directly supporting neighborhood archives and labor presence.",
+      "request": "Neighborhood participation and active collaboration rather than decorative approval.",
+      "fact_ids_shared": [
+        "V2F044"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, tonight brings intense scrutiny on our funding and expected revelations. We need to ensure our institutional alignment remains solid against outside speculation.",
+      "offer": "Discretion regarding donation terms and public alignment during the anniversary program.",
+      "request": "Mutual reassurance that our funding agreement's restrictions will not be exploited tonight.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Welcome to Fifteen Years of R. Tonight we celebrate investigative journalism and the archives that preserve our public record, even as we confront difficult questions about identity, absence, and institutional survival.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C02",
+      "promise": "Provide controlled access to Veridian's archive provenance records after agreeing on public framing.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C16",
+      "promise": "Incorporate concrete neighborhood participation terms into Veridian's upcoming programmatic commitments.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Frankie regarding archive provenance and ledger discrepancies.",
+    "Engaged Inez on meaningful neighborhood participation.",
+    "Assessed Mira regarding institutional funding alignment."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Arden Bell opens the anniversary event by balancing institutional survival, archive discrepancies regarding Frankie Lowell's account, and community outreach to Inez Baptiste, while quietly managing donor relations with Mira Sen in light of R's provocative message.",
+  "final_ballot": null
+}

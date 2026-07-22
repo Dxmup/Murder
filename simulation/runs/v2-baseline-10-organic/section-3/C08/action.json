@@ -1,0 +1,93 @@
+{
+  "character_id": "C08",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, our past notes and the recent render output confirm that my old commission was reused without consent. Performance is never authorship, and no legend excuses exploiting an artist's voice.",
+      "offer": "My commission card and firsthand account establishing that a performed persona occurred.",
+      "request": "Your acknowledgment that our newsroom encounter was a performed theatrical persona.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F012",
+        "V2F014",
+        "V2F019"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, under our strict confidentiality, the intermediary payment routes connect my performed commission to R-activity. Succession requires consent and respect for ownership, not just taking files.",
+      "offer": "Confidential comparison of intermediary payment routes and performance provenance.",
+      "request": "Your agreement on how succession must account for performer consent and asset ownership.",
+      "fact_ids_shared": [
+        "V2F014",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Tessa, recent render traces show elements of my old commission utilized during contributor schedule gaps. We must ensure no single heir erases the workers who sustained R.",
+      "offer": "Expertise on voice asset generation and contributor availability bounds.",
+      "request": "Your assessment of how archival voice assets were accessed during the no-known-operator interval.",
+      "fact_ids_shared": [
+        "V2F019",
+        "V2F020"
+      ]
+    }
+  ],
+  "public_statement": "A performance is never authorship, and routing money through intermediaries doesn't give anyone the right to treat an artist's voice as raw material.",
+  "facts_shared": [
+    "V2F014",
+    "V2F019",
+    "V2F020",
+    "V2F035"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O04",
+      "action": "show",
+      "to": "C02"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Maintain strict confidentiality regarding payment route comparisons.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Connecting a payment intermediary to a performance proves a route of funds, not the authorship of an article or the identity of a client.",
+  "goal_progress": [
+    "Confronted Frankie with the reality of the performed persona encounter.",
+    "Completed confidential payment route comparisons with Jules.",
+    "Consulted Tessa regarding contributor availability and render time traces."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 40,
+    "synthetic_origin": 40,
+    "progressive": 10,
+    "article_existed": 30,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Edi Velez uses Section 3 conversations with Frankie, Jules, and Tessa to establish that the past commission involved performed presence rather than authentic authorship, leveraging payment routes and render traces while upholding strict artist consent. The final ballot reflects a synthetic-origin and human-mantle hybrid view with Vale investigating R.",
+  "final_ballot": {
+    "r_identity": "synthetic_origin",
+    "identity_evidence": [
+      "V2F004",
+      "V2F014",
+      "V2F019",
+      "V2F035",
+      "V2F039"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

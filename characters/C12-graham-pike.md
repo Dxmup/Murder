@@ -30,11 +30,13 @@ You are willing to vote from pattern and instinct. You are not willing to preten
 
 ## What you want tonight
 
-Induce two people outside finance to treat the R/Parallax rumor as materially consequential, then survive a public challenge about where it came from.
-
-Acquire bounded technical context from Eli or Mira without buying the wording. A qualified statement is still valuable if you can explain why. A purchased declaration of certainty will collapse under scrutiny.
-
-Control the story of the first tip. Persuade Arden, Celeste, Kit, or another credible listener that you amplified analysis rather than fabricated a source—or decide to admit how aggressively you improved the rumor.
+- **Primary Goal:** Make the R rumor materially affect Parallax's valuation without being exposed as its manufacturer.
+  - *Success Condition:* Induce two characters outside finance to publicly treat the rumor as consequential while surviving a public challenge about its provenance.
+- **Secondary Goal 1 (Social & Supportive):** Acquire credible technical context.
+  - *Success Condition:* Purchase or bargain for a bounded statement from Eli or Mira without controlling its wording.
+- **Secondary Goal 2 (Social & Supportive):** Control the story of the first tip.
+  - *Success Condition:* Persuade Arden, Celeste, or Kit that amplification was analysis rather than fabrication.
+- **Your Final Choice:** Admit a market tactic or escalate a rumor that may be false.
 
 ## What you know
 

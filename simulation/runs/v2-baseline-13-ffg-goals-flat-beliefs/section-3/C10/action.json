@@ -1,0 +1,74 @@
+{
+  "character_id": "C10",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, as agreed, here is the bounded account of the camera gap: it was an ordinary access lapse protecting a resident's routine, separate from any automated intervention.",
+      "offer": "Provide the precise operational context of the camera interval.",
+      "request": "Fulfill your guarantee of resident anonymity and pension protection.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F032"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, our coordinated disclosure held. The service route and camera gap are documented without exposing our tenant.",
+      "offer": "Confirm alignment on our public boundary.",
+      "request": "Maintain mutual protection regarding building records.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The camera gap and the later automated access change are separate events. Our building records reflect practical maintenance and routine access, not a murder plot.",
+  "facts_shared": [
+    "V2F026",
+    "V2F032"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "Provide a bounded operational account of the access gap in exchange for guaranteed resident anonymity and attribution limits.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundary regarding the camera gap and protect the tenant.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Obtained promise of fair treatment and provided Morgan a bounded account corroborated by Inez.",
+    "Reached an understanding with Inez about the camera interval before public statements.",
+    "Resolved service-route context without falsely attributing identities."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 3, Dee fulfilled her agreements with Morgan and Inez, providing the bounded operational account of the camera gap while protecting resident anonymity and her pension. Her final ballot reflects the human mantle and infrastructure realities established by neighborhood witnesses.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "insufficient_evidence",
+    "vale_evidence": [
+      "V2F025",
+      "V2F032"
+    ]
+  }
+}

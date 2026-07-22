@@ -1,0 +1,37 @@
+{
+  "role": "agency",
+  "verdict": "The simulation demonstrates exceptionally high narrative depth, rich character agency, and brilliant quiet-role participation, but suffers from a systemic mechanical failure where zero agents achieved full evidence-chain validation, alongside a severe narrative imbalance that completely extinguished the 'One Human' ending.",
+  "findings": [
+    "Strong Preservation of Article Ambiguity: The simulation successfully maintained the uncertainty surrounding the existence and fate of the final article. Key actors like Eli Navarro (C06, S1/S3) and Graham Pike (C12, S1/S3) actively reframed the 'article' as a market-moving rumor or technical artifact rather than a completed manuscript, and the aggregate belief mean for 'article_existed' remained stable and low (around 34% across all sections).",
+    "Success Under Epistemic Error: Characters successfully pursued and achieved their primary social, physical, and financial goals despite holding incomplete or technically incorrect beliefs about R's identity. For instance, Maren Okafor (C07, S2/S3) successfully secured written worker protections from Mira Sen (C05) and Celeste Park (C11), and Rafi Calder\u00f3n (C09, S2/S3) successfully cleared his debt with Graham Pike (C12) while maintaining neighborhood anonymity, even though both voted for 'human_mantle' which may not represent the absolute historical 'truth' of R.",
+    "High-Signal Quiet-Role Agency: Quiet or localized roles (Rafi C09, Dee C10, Maren C07, Inez C16) demonstrated exceptional agency by self-organizing into a defensive 'neighborhood coalition.' This coalition successfully resisted outside financial exploitation (Graham C12) and corporate scapegoating (Parallax/Mira C05) by coordinating disclosure boundaries around local customer records and the unpreserved camera interval (V2F026).",
+    "Vocal Origin Defender Defection: Frankie Lowell (C02), the primary narrative defender of the 'One Human' origin theory, was forced to systematically qualify his position. By Section 3, Frankie's side-by-side archival comparison with Arden Bell (C01) and discussions regarding the mechanics of performed vocal assets with Edi Velez (C08) led him to abandon the pure human origin myth, casting his final ballot for 'human_mantle' and illustrating the narrative gravity of historical evidence.",
+    "Successful Execution of Voluntary Object Mechanics: The simulation perfectly adhered to the locked design intent prohibiting forced transfers and police authority. Key physical evidence\u2014such as Frankie's First R Letter packet (O01, S1/S3), Jules's succession-message printout (O03, S1/S3), and Edi's commission card (O04, S1/S3)\u2014was circulated purely through voluntary showing and bilateral negotiations, driving face-to-face interaction and mutual trade agreements."
+  ],
+  "evidence": [
+    "Eli Navarro (C06, S1/S3) publicly and privately challenged Kit Rakes's (C15) 'confession' narrative, emphasizing that access logs demonstrate 'migration capability' rather than autonomous authorship. This is backed by the aggregate data showing 'article_existed' beliefs slightly declining from 35.6% (S1) to 34.4% (S3).",
+    "Rafi Calder\u00f3n (C09, S2/S3) exchanged bounded ledger dates for full debt settlement with Graham Pike (C12) under strict customer protection terms. Maren Okafor (C07, S2/S3) leveraged bounded evaluator testimony to get Celeste Park (C11) to draft an enforceable labor policy and Mira Sen (C05) to commit to written, unconditional compensation.",
+    "Inez Baptiste (C16, S2/S3) coordinated private boundaries with Dee Nowak (C10) on the camera gap and Rafi Calder\u00f3n (C09) on the bodega ledgers to block outside investigators, demanding concrete written resources from Arden Bell (C01) in exchange for neighborhood route context.",
+    "Frankie Lowell's (C02, S3) reasoning summary and public statement explicitly admit that his cherished origin story was 'partly performed and that memory editing enhanced the legend,' resulting in his voting for 'human_mantle' rather than 'one_human'.",
+    "Object action logs show C02 showing O01 to C01 in S1 and S3; C04 showing O03 to C06 in S1, C13 in S2, and C03 in S3; and C08 showing O04 to C02 in S1/S3 and C04 in S2. No forced transfers or commands occurred."
+  ],
+  "failure_modes": [
+    "Universal Evidence-Chain Collapse: Absolutely zero out of 16 characters achieved a 'full_evidence_chain: true' in their final ballots. All characters left critical evidence dimensions uncited (e.g., 'identity_authority' for 'human_mantle', 'pre_byline_machine' for 'synthetic_origin', and all four progressive sub-dimensions), pointing to a systemic gap in prompt-level citation logic.",
+    "'One Human' Ending Extinction: Despite the design intent requiring equal structural weight among the three main theories, 'One Human' received exactly zero final ballot votes. The historical weight of Veridian's archives and the technical logs made the 'One Human' stance completely untenable as an analytical conclusion, forcing even its main advocate (C02) to defect.",
+    "Progressive Pathway Citation Bottleneck: Although the progressive pathway functioned well as a high-difficulty track (capturing only 3 votes), the agents who selected it (C10, C13, C15) completely failed to map their evidence to the required sub-dimensions (history, shared production, transition, system control), suggesting that these dimensions are too mechanically obscure or poorly supported by the available public facts."
+  ],
+  "recommendations": [
+    "Introduce Explicit Citation Prompting: Update agent prompts with an active 'evidence checklist' step prior to final balloting. This instructs the agents to explicitly ensure that their cited facts map to each required evidence dimension of their chosen ballot.",
+    "Inject Resilient 'One Human' Evidence: To restore the structural weight of the 'One Human' ending, introduce clear, un-falsifiable physical evidence (e.g., an un-editable private log or physical signature that cannot be explained away as theater) supporting a singular human author.",
+    "Consolidate Progressive Evidence Dimensions: Simplify the progressive track's evidence mapping (e.g., combining the four highly specific sub-dimensions into two broader categories like 'System Transition' and 'Historical Legacy') to make the full evidence chain achievable for agents."
+  ],
+  "scores": {
+    "primary_ending_balance": 4,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 10,
+    "social_circulation": 9,
+    "mechanical_integrity": 5,
+    "report_confidence": 10
+  }
+}

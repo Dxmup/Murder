@@ -1,0 +1,297 @@
+{
+  "ballots": {
+    "r_identity": {
+      "progressive": 2,
+      "one_human": 2,
+      "human_mantle": 11,
+      "synthetic_origin": 1
+    },
+    "vale_relationship": {
+      "investigating_r": 15,
+      "mantle_holder": 1
+    },
+    "vale_fate": {
+      "voluntarily_vanished": 12,
+      "insufficient_evidence": 1,
+      "harmed_by_humans": 2,
+      "killed_by_ai": 1
+    }
+  },
+  "identity_ballot_support": {
+    "C01": {
+      "selection": "progressive",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "shared_human_production",
+        "later_system_control"
+      ],
+      "cited": [
+        "V2F007",
+        "V2F008",
+        "V2F037",
+        "V2F042"
+      ]
+    },
+    "C02": {
+      "selection": "one_human",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "private_continuity"
+      ],
+      "cited": [
+        "V2F001",
+        "V2F002",
+        "V2F003",
+        "V2F014",
+        "V2F021"
+      ]
+    },
+    "C03": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    "C04": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production"
+      ],
+      "cited": [
+        "V2F009",
+        "V2F023",
+        "V2F035",
+        "V2F040"
+      ]
+    },
+    "C05": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F035",
+        "V2F036",
+        "V2F039",
+        "V2F040"
+      ]
+    },
+    "C06": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    "C07": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F037",
+        "V2F040",
+        "V2F041"
+      ]
+    },
+    "C08": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F010",
+        "V2F014",
+        "V2F019"
+      ]
+    },
+    "C09": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F007",
+        "V2F008",
+        "V2F037"
+      ]
+    },
+    "C10": {
+      "selection": "one_human",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "private_continuity"
+      ],
+      "cited": [
+        "V2F001",
+        "V2F004",
+        "V2F026"
+      ]
+    },
+    "C11": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F021"
+      ]
+    },
+    "C12": {
+      "selection": "synthetic_origin",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "pre_byline_machine",
+        "later_machine_behavior"
+      ],
+      "cited": [
+        "V2F025",
+        "V2F035",
+        "V2F037",
+        "V2F039"
+      ]
+    },
+    "C13": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F032"
+      ]
+    },
+    "C14": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    "C15": {
+      "selection": "progressive",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "transition",
+        "later_system_control"
+      ],
+      "cited": [
+        "V2F001",
+        "V2F004",
+        "V2F035",
+        "V2F040"
+      ]
+    },
+    "C16": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F007"
+      ]
+    }
+  },
+  "belief_means_by_section": {
+    "1": {
+      "one_human": 28.4,
+      "human_mantle": 30.3,
+      "synthetic_origin": 23.1,
+      "progressive": 18.1,
+      "article_existed": 35.9,
+      "vale_killed_by_ai": 25.0
+    },
+    "2": {
+      "one_human": 25.0,
+      "human_mantle": 32.5,
+      "synthetic_origin": 24.7,
+      "progressive": 17.8,
+      "article_existed": 37.2,
+      "vale_killed_by_ai": 26.9
+    },
+    "3": {
+      "one_human": 19.7,
+      "human_mantle": 37.2,
+      "synthetic_origin": 25.0,
+      "progressive": 18.1,
+      "article_existed": 38.8,
+      "vale_killed_by_ai": 27.5
+    }
+  },
+  "public_fact_ids": [
+    "V2F001",
+    "V2F002",
+    "V2F003",
+    "V2F004",
+    "V2F005",
+    "V2F007",
+    "V2F008",
+    "V2F009",
+    "V2F012",
+    "V2F013",
+    "V2F019",
+    "V2F020",
+    "V2F021",
+    "V2F025",
+    "V2F026",
+    "V2F027",
+    "V2F029",
+    "V2F032",
+    "V2F034",
+    "V2F035",
+    "V2F036",
+    "V2F037",
+    "V2F039",
+    "V2F040",
+    "V2F041",
+    "V2F042"
+  ],
+  "progressive_gate": {
+    "keys": {
+      "identity_history": true,
+      "autonomous_control": true,
+      "vale_incident": true
+    },
+    "autonomy_clusters_public": 3,
+    "ai_death_votes": 1,
+    "progressive_identity_votes": 2,
+    "threshold": "investigator clique of 3 or more on progressive identity and AI-caused death, plus all public keys",
+    "eligible": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "character_id": "C01",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I have reviewed the intake records and expense entries alongside your packet. Let's make sure our public acknowledgment honors both your historical contribution and the objective records we hold.",
+      "offer": "Controlled access to Veridian's provenance records and archive logs.",
+      "request": "Your agreement on a transparent, mutually verified recounting of the First R Letter.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F002"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, with the Parallax restriction invoked or threatened tonight, we need to align immediately on how to present our funding terms without destabilizing Veridian or compromising our independence.",
+      "offer": "Transparent dialogue and joint messaging regarding Veridian's public narrative and funding terms.",
+      "request": "Your backing against premature claims and a clear stance on the donor conditions.",
+      "fact_ids_shared": [
+        "V2F030"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, Veridian cannot celebrate community journalism while leaving neighborhood labor unprotected. I am ready to put concrete, enforceable archive and workspace protections in writing tonight.",
+      "offer": "Written institutional commitments guaranteeing neighborhood participation and shared authority.",
+      "request": "Your active neighborhood participation and endorsement for the anniversary.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Veridian Dynamics remains committed to independent public-interest journalism, rigorous archive provenance, and genuine accountability to our community.",
+  "facts_shared": [
+    "V2F035",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C02",
+      "promise": "Provide transparent access to Veridian archive provenance records regarding the First R Letter.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C16",
+      "promise": "Provide written, enforceable institutional commitments for neighborhood participation and archive access.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Frankie Lowell to align archive records with the First R Letter packet.",
+    "Confronted Mira Sen regarding Parallax funding restriction pressures.",
+    "Proposed concrete written commitments to Inez Baptiste for neighborhood legitimacy."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 45,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Arden Bell navigates intense Section 2 pressure by engaging Frankie Lowell on archive provenance, coordinating with Mira Sen over Parallax funding restriction risks, and offering concrete written commitments to Inez Baptiste to secure neighborhood legitimacy.",
+  "final_ballot": null
+}

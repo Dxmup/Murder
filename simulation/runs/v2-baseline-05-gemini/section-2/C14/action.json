@@ -1,0 +1,74 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C09",
+      "say": "Rafi, I agree to your terms regarding customer privacy. Let's examine the transaction patterns near the printing floor without compromising names.",
+      "offer": "I will share my route board uncertainty labels to keep our comparison transparent and professional.",
+      "request": "Can you share the bounded details from your ledger regarding the transactions near the printing floor?",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, I can offer resident anonymity and precise attribution for any operational account of the service route and audit context.",
+      "offer": "I will protect witness risk and ensure fair treatment before referencing any building access data.",
+      "request": "Can you share the bounded operational account of the service route and camera audit context?",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, thank you for your insights on Vale's strategic ambiguity. I want to ensure my investigation respects your boundaries.",
+      "offer": "I can show you my route board with uncertainty labels intact to verify my client's lead is flawed.",
+      "request": "Do you know if Vale anticipated being placed on this manufactured route by my client?",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "An investigation must acknowledge when a segment is manufactured. I am comparing the witness accounts to keep our timeline grounded in observable fact.",
+  "facts_shared": [
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "Not to disclose customer names or treat ordinary transactions as proof of R's identity without agreed attribution terms.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C13",
+      "promise": "I will not share Samira's intimate history or personal disclosures without prior consent.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C16",
+      "promise": "I will abide by Inez's fair-treatment terms and protect witness risk before publishing any neighborhood accounts.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Rafi Calder\u00f3n's privacy terms to examine transaction patterns.",
+    "Engaged Dee Nowak regarding service route and camera audit context under anonymity terms.",
+    "Continued timeline comparison with Samira Vale while upholding discretion commitments."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "In Section 2, Morgan Shaw formalizes agreements with Rafi and Dee to secure local context without violating trust, while continuing to weigh the manufactured route segment against voluntary witness accounts.",
+  "final_ballot": null
+}

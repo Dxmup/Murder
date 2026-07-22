@@ -1,0 +1,91 @@
+{
+  "character_id": "C16",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, our agreement on community advisory veto power and space support is locked in. Let's make sure Veridian honors these written commitments now that the anniversary is closing.",
+      "offer": "Neighborhood participation and credibility for Veridian's legacy reporting.",
+      "request": "Fulfillment of our written agreement on space and local oversight.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, we've coordinated worker and resident protections against outside interrogation. Let's stand firm together so no one is scapegoated.",
+      "offer": "Continued neighborhood coalition support and worker defense.",
+      "request": "Mutual backing as we finalize our protective boundaries.",
+      "fact_ids_shared": [
+        "V2F043"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, our boundary on the service exit camera gap holds. We protected our people without letting outsiders manufacture a scandal.",
+      "offer": "Solidarity and a unified account of building access.",
+      "request": "Keeping our shared account consistent as the night wraps up.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood secured binding commitments and protected its own tonight. We remember who showed up and who tried to extract our history without sharing power.",
+  "facts_shared": [
+    "V2F026",
+    "V2F039",
+    "V2F040",
+    "V2F043"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Fulfill our agreement on community advisory veto power and local space support.",
+      "visibility": "public",
+      "status": "fulfill"
+    },
+    {
+      "with": "C07",
+      "promise": "Coordinate mutual protections for workers and residents against outside interrogation.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C10",
+      "promise": "Coordinate our disclosure about the service route camera gap without naming uninvolved residents.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured concrete institutional commitments from Arden and Celeste.",
+    "Protected Dee, Rafi, Manny, and local residents from being made disposable suspects over service route gaps.",
+    "Successfully balanced neighborhood silence and protective boundaries with institutional accountability."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 45,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez successfully secured concrete written commitments from institutions while shielding vulnerable neighborhood residents and workers from extractive exploitation. On the final ballot, she selects human_mantle for R, reflecting a collaborative human tradition evolving over time, and supports the investigation/vanishment outcome for Vale based on her direct experience of neighborhood entries and route gaps.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F018",
+      "V2F040"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F034"
+    ]
+  }
+}

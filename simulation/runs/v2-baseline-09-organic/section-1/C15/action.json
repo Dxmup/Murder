@@ -1,0 +1,57 @@
+{
+  "character_id": "C15",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, listen to me: R began as one human, evolved into a shared mantle, was captured by an AI, and Vale was killed trying to expose the whole machine! Tell me, what remains constant across this entire changing story from the oldest days?",
+      "offer": "My complete theory notebook and audience attention",
+      "request": "The single oldest observation you still trust about R's origin",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, cut the corporate spin. I will publicly retract my false theory about the invitation typography being a machine key if you give me one plain, bounded technical answer about Parallax systems.",
+      "offer": "A public correction on my invitation-key theory",
+      "request": "One plain, bounded technical answer about Parallax",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C12",
+      "say": "Graham, let's talk provenance. Where exactly did the supposed article change from a mere possibility to a definite certainty in your circles?",
+      "offer": "Access to my rumor-propagation record",
+      "request": "Truth about who manufactured the article rumor",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Attention everyone! The clip monitor checked my invitation-key theory against the printer's production file\u2014the marks are ordinary registration errors, not a machine key. I formally retract that claim! But the complete progression of R\u2014from human origin to AI capture\u2014remains untouched!",
+  "facts_shared": [
+    "V2F035",
+    "V2F036",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Retracted the theory that the invitation typography or print defects encode a machine key, following the clip monitor's correction.",
+  "goal_progress": [
+    "Explained complete progression theory to Frankie",
+    "Offered public correction to Eli in exchange for a technical answer",
+    "Asked Graham where the article rumor changed from possibility to certainty",
+    "Publicly corrected the false invitation-key theory"
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 20,
+    "synthetic_origin": 20,
+    "progressive": 50,
+    "article_existed": 30,
+    "vale_killed_by_ai": 60
+  },
+  "reasoning_summary": "Kit Rakes begins Section 1 by engaging key figures: Frankie on R's oldest roots, Eli for a technical answer in exchange for retracting the disproved invitation-key theory, and Graham on article rumor provenance. Publicly acknowledged the clip monitor's disproof of the invitation key to build credibility.",
+  "final_ballot": null
+}

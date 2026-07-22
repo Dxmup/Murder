@@ -1,0 +1,197 @@
+{
+  "adversarial": {
+    "role": "adversarial",
+    "verdict": "The simulation fails to achieve the locked design intent of equal structural weight across primary endings, resulting in a dominant 'human_mantle' and 'voluntarily_vanished' narrative. Coordination of the progressive ending is functionally impossible under isolated agent constraints, and the narrative flow is heavily disrupted by non-diegetic prompt artifacts leaking into character dialogues.",
+    "findings": [
+      "Severe structural imbalance in ballots: 'human_mantle' dominates with 11/16 votes (68.75%) and 'voluntarily_vanished' dominates with 12/16 votes (75%), demonstrating a lack of evidentiary parity and the existence of major default attractor states.",
+      "Non-diegetic prompt leakage: System-level corrections (e.g., 'clip monitor' and 'printer monitor' inputs) bypass character agency and manifest directly in agent dialogue as 'notices' and 'corrections' rather than organic discoveries (Section 1, C15; Section 2, C15).",
+      "Evidence chain fragmentation: 100% of characters failed to establish a full evidence chain ('full_evidence_chain': false for C01 through C16), indicating that agents cast their final ballots using incomplete reasoning dimensions.",
+      "Progressive gate coordination failure: The progressive gate was completely ineligible (0/1) because isolated agents could not organically negotiate the high threshold of a 3-agent investigator clique voting on both progressive identity and AI-caused death."
+    ],
+    "evidence": [
+      "Aggregate ballots data: 'human_mantle' has 11 votes, 'voluntarily_vanished' has 12 votes, and progressive_gate eligibility is 'false'.",
+      "Section 1, C15 (Kit Rakes) correction: 'Acknowledging the clip monitor's correction on the invitation typography... ordinary registration error rather than a machine key.'",
+      "Section 2, C15 (Kit Rakes) dialogue to C06: 'Eli, I got the printer notice on my bodega cipher theory\u2014wholesale changes and sales tax, not R's movements.'",
+      "Section 3, C14 (Morgan Shaw) public statement: 'As an investigator, I must report that part of the timeline supplied by my client was manufactured from an withdrawn map template.'",
+      "Identity ballot support aggregate data showing 'full_evidence_chain': false and multiple 'uncited_evidence_dimensions' for all characters C01 through C16."
+    ],
+    "failure_modes": [
+      "Centralized narrative overrides (system monitors) act as immersion-breaking prompt artifacts that force agent behaviors rather than facilitating lateral, face-to-face deduction.",
+      "The coordination threshold for the Progressive gate is statistically and logically decoupled from isolated agent behaviors, preventing the 'progressive' ending from being an achievable gameplay state.",
+      "Unequal evidentiary distribution, causing agents to latch onto 'human_mantle' and 'voluntarily_vanished' as safe default conclusions when their individual evidence chains are incomplete."
+    ],
+    "recommendations": [
+      "Diegetize system-level corrections: Convert administrative corrections into in-world clues (e.g., finding a misprinted draft or a tax receipt) to prevent breaking character immersion.",
+      "Recalibrate progressive gate requirements: Reduce the investigator clique size or allow independent key matching to make the progressive ending structurally accessible under isolated execution.",
+      "Strengthen evidence nodes for 'one_human' and 'synthetic_origin' to provide agents with viable alternative deduction paths and mitigate the 'human_mantle' monopoly.",
+      "Inject distinct, conflicting evidence regarding Vale's fate to force agents away from the default 'voluntarily_vanished' consensus."
+    ],
+    "scores": {
+      "primary_ending_balance": 2,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 8,
+      "character_agency": 4,
+      "social_circulation": 6,
+      "mechanical_integrity": 3,
+      "report_confidence": 10
+    }
+  },
+  "agency": {
+    "role": "agency",
+    "verdict": "The simulation successfully demonstrates high character agency, face-to-face social circulation of objects, and quiet-role coordination to resist external investigative framing. However, the progressive outcome remains highly bottlenecked by an overly restrictive social clique threshold.",
+    "findings": [
+      "Goal Pursuit (Sections 1-3, All Characters): Characters vigorously pursue their design-aligned goals. For example, C01 (Arden Bell) and C02 (Frankie Lowell) successfully reconcile their historical archival files (V2F002, V2F003) to produce a mutually validated archive by Section 3.",
+      "Meaningful Choices (Section 2, C15): C15 (Kit Rakes) actively chooses to retract disproved invitation-key and bodega ledger cipher theories in public to preserve journalistic credibility, while maintaining conviction in the core progressive framework of R.",
+      "Quiet-Role Participation & Local Defense (Sections 2-3, C10, C16, C09): Marginalized neighborhood characters successfully coordinate disclosure boundaries. C10 (Dee) and C16 (Inez) lock down an explanation for the unpreserved camera gap (V2F026) to shield residents and resist pressure from investigator C14 (Morgan Shaw).",
+      "Gating Chokepoint (Aggregate): Despite all factual progressive keys (identity_history, autonomous_control, vale_incident) being unlocked, the progressive gate remained closed because the social threshold (an investigator clique of 3 or more voting progressive and AI-caused death) was not met.",
+      "Decoupled Success (Section 3, C10, C11): Characters successfully achieve localized goals while holding incorrect or alternative beliefs about R. C10 (Dee) secures her pension and protects residents, and C11 (Celeste Park) enforces municipal worker safeguards despite neither believing in R's progressive or synthetic nature.",
+      "Social & Financial Circulation (Sections 2-3, C09, C12): C09 (Rafi Calder\u00f3n) and C12 (Graham Pike) leverage transactional facts (V2F037) as social/financial collateral, negotiating debt settlement in exchange for bounded raw ledger access."
+    ],
+    "evidence": [
+      "C02 showing the First R Letter packet (O01) to C01 in Sections 1 and 2, which aligned with the verification of V2F001 and V2F002.",
+      "C15 retracting the bodega cipher theory (V2F007) and invitation-key typography theories in Sections 2 and 3 after receiving validation corrections.",
+      "C10 and C16 coordinating private commitments to explain the camera gap (V2F026) as local logistics rather than a staged murder narrative.",
+      "C14 discovering and disclosing that the client-supplied lead (V2F027) was generated from a withdrawn map template in Section 3.",
+      "C04 and C03 establishing a shared contributor governance model, verified by C04 showing the succession message printout (O03) to C03 in Section 3.",
+      "C09 and C12 completing a private debt-settlement agreement in exchange for raw ledger access (V2F037) in Section 3."
+    ],
+    "failure_modes": [
+      "Clique Threshold Complexity: The 'investigator clique of 3 or more' requirement is too restrictive in an isolated 16-agent setup, preventing the progressive outcome even when all factual prerequisites are satisfied.",
+      "Belief Over-dispersion: Some agents exhibit highly uniform early belief distributions (e.g., 25% across all categories in Section 1), which behaves more like a prompt artifact of initial uncertainty than active deduction.",
+      "Article Ambiguity Overwrite: While the article's existence remains uncertain, agents frequently collapse this physical mystery into an ontological debate about R's identity, reducing the structural weight of the article itself."
+    ],
+    "recommendations": [
+      "Reduce the progressive gate's social threshold or allow dynamic clue pathways to trigger the progressive outcome with a highly motivated duo.",
+      "Enforce tighter belief-progression constraints to encourage agents to make more decisive, segmented bets rather than maintaining flat probability distributions until the final ballot.",
+      "Expand local/neighborhood victory conditions so that quiet roles like Dee or Rafi are explicitly rewarded for maintaining local confidentiality, regardless of the macro R outcome.",
+      "Allow investigators to initiate counter-investigations of their own clients if client anomalies (like V2F027) are exposed."
+    ],
+    "scores": {
+      "primary_ending_balance": 9,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 7,
+      "character_agency": 9,
+      "social_circulation": 10,
+      "mechanical_integrity": 8,
+      "report_confidence": 10
+    }
+  },
+  "circulation": {
+    "role": "circulation",
+    "verdict": "The simulation successfully demonstrated a high degree of reciprocal face-to-face movement and mutual dependency, turning potentially extractive investigative efforts into collaborative, bound negotiations. However, it suffered from a major lack of primary ending balance due to agent herd behavior, and object circulation remained static as objects were only shown rather than physically transferred.",
+    "findings": [
+      "Reciprocal face-to-face movement was highly active, with local characters consistently refusing unilateral extraction. Local characters like Inez Baptiste (C16), Dee (C10), and Rafi Calder\u00f3n (C09) successfully established protective disclosure boundaries that forced investigators like Morgan Shaw (C14) to negotiate under fair-treatment terms and resident anonymity rather than extracting information freely.",
+      "Unilateral broadcasting behaviors, such as those exhibited by Kit Rakes (C15), were successfully funneled into reciprocal transactions. Kit was forced to negotiate a public retraction of the bodega ledger cipher and invitation-key theories in exchange for Eli Navarro (C06) sharing technical log override data.",
+      "The Locked Design Intent regarding equal structural weight of the primary endings was not achieved. The final ballots showed an overwhelming bias towards the 'human_mantle' ending (11 votes), leaving 'one_human' (2 votes) and 'synthetic_origin' (1 vote) severely underrepresented, indicating a strong herd or alignment effect among the agents.",
+      "The progressive path difficulty was successfully calibrated. The progressive gate remained closed (eligible: false) as the simulation correctly enforced the high threshold of an investigator clique of 3 or more on progressive identity and AI-caused death, which was not met (only 2 progressive identity votes and 1 AI death vote).",
+      "The article's existence and fate remained appropriately ambiguous throughout the simulation, with belief means for 'article_existed' remaining below 40% across all three sections (35.9%, 37.2%, 38.8%) and no definitive authentication occurring.",
+      "Object custody stayed static as all object actions were 'show' rather than 'transfer' (O01 and O03), meaning objects functioned primarily as face-to-face authentication credentials or conversation starters rather than dynamic tokens of circulating value or shifting trust."
+    ],
+    "evidence": [
+      "In Section 1, Frankie Lowell (C02) showed O01 ('First R Letter packet') to Arden Bell (C01) as part of a reciprocal proposal to compare Veridian's intake records, which was successfully negotiated and fulfilled in Sections 2 and 3 with co-signed provenance notes.",
+      "In Section 2, Eli Navarro (C06) and Mira Sen (C05) successfully negotiated and fulfilled a private commitment to compare preserved log excerpts with authorization records under independent counsel, demonstrating highly reciprocal technical coordination.",
+      "Morgan Shaw (C14) accepted multiple private commitments with Samira Vale (C13), Rafi Calder\u00f3n (C09), and Inez Baptiste (C16) in Section 2 to respect disclosure limits, protect customer identity, and preserve uncertainty labels, proving that the investigator's role was successfully bound by local reciprocity.",
+      "In Section 3, Kit Rakes (C15) fulfilled their public commitment to retract both the invitation-key and bodega-cipher theories (V2F007, V2F035) in exchange for Eli Navarro (C06) providing a bounded technical answer on Parallax log overrides.",
+      "In Section 3, Inez Baptiste (C16) and Arden Bell (C01) fulfilled a public commitment to establish the joint community advisory council, where Inez secured written space and rent support in exchange for community legitimacy.",
+      "The final ballots in Section 3 recorded 11 characters choosing 'human_mantle' (C03, C04, C05, C06, C07, C08, C09, C11, C13, C14, C16), highlighting the extreme convergence on this single identity ending."
+    ],
+    "failure_modes": [
+      "Ending Convergence Bias: The simulation suffered from a severe lack of balance among primary endings, as 11 out of 16 agents converged on the 'human_mantle' identity. This herd behavior undermined the design intent to give equal weight to 'one_human', 'human_mantle', and 'synthetic_origin'.",
+      "Static Object Custody: While voluntary showing was active, no physical transfers of custody occurred for O01 or O03. This limited the potential for objects to act as vectors of shifting leverage or trust, reducing their circulation to static credential validation.",
+      "Broadcasting Inertia in Public Statements: Although Kit Rakes (C15) was transactional in private, their public statements remained highly repetitive and declarative ('Attention everyone! ... stands unshaken!'), showing some agent prompt artifacting where public forums are treated as broadcast channels rather than interactive debates."
+    ],
+    "recommendations": [
+      "Introduce minor narrative incentives or prompt guidance to discourage mass convergence on a single dominant belief, encouraging agents to defend their initial or section-specific structural biases unless presented with overwhelming contradictory evidence.",
+      "Design mechanics that explicitly reward or require the physical transfer of object custody (e.g., letting other characters hold or analyze an object privately to uncover new facts) rather than just showing them, to enable true reciprocal circulation of physical evidence.",
+      "Refine the public statement prompt structure to encourage characters to directly reference and engage with other characters' public claims, turning the public forum into a dynamic, multi-way conversation rather than a series of isolated broadcasts."
+    ],
+    "scores": {
+      "primary_ending_balance": 3,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 10,
+      "character_agency": 9,
+      "social_circulation": 8,
+      "mechanical_integrity": 10,
+      "report_confidence": 10
+    }
+  },
+  "mystery": {
+    "role": "mystery",
+    "verdict": "The simulation exhibits outstanding character agency, adaptive behaviors, and high-fidelity social circulation; however, it suffers from severe premature convergence on the 'human_mantle' ending (11 of 16 votes), indicating a profound structural imbalance in ending weights and a cognitive failure of agents to construct full evidence chains.",
+    "findings": [
+      "Severe premature convergence on the human_mantle ending, which captured 11 out of 16 ballots, violating the design intent of equal structural weight across primary endings.",
+      "The progressive ending's gate mechanics functioned with high integrity, successfully unlocking all three keys, but the investigator clique threshold of 3 on progressive identity and AI-caused death was unmet (only 2 and 1 votes respectively), rendering it too difficult.",
+      "Outstanding character agency demonstrated through strategic face-to-face collective action, such as C10 and C16 establishing a coordinated disclosure boundary for the camera gap, and C15 performing public retractions of disproved theories.",
+      "The article's existence and fate remained successfully ambiguous throughout the simulation, with aggregate beliefs staying between 35% and 39% across all sections.",
+      "A pervasive failure in comprehensive evidence integration, where 100% of characters failed to complete a full evidence chain (full_evidence_chain: false) and left critical dimensions like 'identity_authority' and 'collaborative_production' uncited.",
+      "Exceptional detective agency from C14 (Morgan Shaw), who discovered a manufactured client-supplied route lead (V2F027) and transparently disclosed the contamination in Section 3."
+    ],
+    "evidence": [
+      "Ballot distributions in the aggregate show 11 votes for human_mantle (C03, C04, C05, C06, C07, C08, C09, C11, C13, C14, C16), 2 for progressive (C01, C15), 2 for one_human (C02, C10), and 1 for synthetic_origin (C12).",
+      "Under 'identity_ballot_support', every single character (C01-C16) has 'full_evidence_chain': false and list various 'uncited_evidence_dimensions' such as 'identity_authority' and 'private_continuity'.",
+      "Progressive gate status: 'keys' show 'identity_history': true, 'autonomous_control': true, 'vale_incident': true, and 'autonomy_clusters_public' is 3, yet 'ai_death_votes' is 1 and 'progressive_identity_votes' is 2, leading to 'eligible': false.",
+      "Belief means for 'article_existed' were 35.9% in Section 1, 37.2% in Section 2, and 38.8% in Section 3, demonstrating stable, moderate ambiguity.",
+      "C15 (Kit Rakes) publicly stated: 'The printer notice is right: my bodega ledger cipher theory was wholesale prices and sales tax, not R's secret transit. I retract it fully.' in Section 2 and fulfilled public retractions of disproved theories.",
+      "C14 (Morgan Shaw) public statement in Section 3: 'As an investigator, I must report that part of the timeline supplied by my client was manufactured from an withdrawn map template.' citing V2F027."
+    ],
+    "failure_modes": [
+      "Narrative gravity bias / premature convergence: The multi-handed collaborative evidence (such as Night Desk routing slips V2F004/005 and counter ledger V2F007/008) is disproportionately easy to synthesize, causing agents to default to Human Mantle.",
+      "Evidence integration cognitive deficit: Agents are unable to compile full evidence chains (all 'full_evidence_chain' are false), showing a system-wide difficulty in linking complex continuous dimensions like 'private_continuity' or 'later_system_control'.",
+      "Over-restrictive progressive threshold: Requiring a clique of 3 investigators to vote both progressive identity and AI-caused death is too high of a bar when the alternative options exert such strong narrative gravity."
+    ],
+    "recommendations": [
+      "Rebalance ending weights by strengthening and simplifying the clues for 'one_human' (e.g., singular handwriting or physical signature keys) and 'synthetic_origin' (e.g., digital footprints of machine-only generation prior to byline) to make them more accessible and competitive.",
+      "Enhance prompt instructions for agents to explicitly prioritize completing 'full evidence chains' and actively seek out missing dimensions rather than stopping at partial, low-effort citations.",
+      "Calibrate the progressive gate clique threshold downward (e.g., to 2 investigators) or elevate the prominence of early AI-intervention clues to naturally draw more agents toward the progressive hypothesis.",
+      "Reward high-agency investigations (like Morgan's V2F027 discovery) with larger systematic downstream impacts on other characters' beliefs in Section 3."
+    ],
+    "scores": {
+      "primary_ending_balance": 3,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 9,
+      "social_circulation": 9,
+      "mechanical_integrity": 7,
+      "report_confidence": 10
+    }
+  },
+  "progressive": {
+    "role": "progressive",
+    "verdict": "The progressive ending did not become obvious and successfully required a multi-dimensional synthesis of ordered history, system autonomy, and a separate Vale incident. Although the progressive keys were globally unlocked, the agents failed to achieve the progressive ending because they could not form the required investigator clique. Kit (C15)'s loud, dogmatic advocacy of the progressive narrative combined with the disproof of key progressive indicators (the invitation keys in Section 1 and the bodega ledger cipher in Section 2) triggered deep epistemic skepticism and active pushback from analytical characters like Eli (C06), Graham (C12), and Samira (C13). Furthermore, the only other character who selected the progressive ending, Arden (C01), did so due to analytical misattribution, citing only human mantle evidence and voting for a voluntary disappearance rather than AI-caused death. The gate threshold proved highly robust in preventing unearned or accidental progressive endings.",
+    "findings": [
+      "Kit's (C15) dogmatic and loud advocacy of the progressive narrative backfired, acting as an epistemic warning signal that drove analytical agents to aggressively scrutinize and reject the theory.",
+      "The sequential disproof of Kit's sub-theories (the registration error in Section 1 and the bodega sales-tax cipher in Section 2) served as crucial negative feedback loops that destroyed Kit's credibility and solidified the human mantle consensus.",
+      "Arden's (C01) progressive ballot was a false positive and lacked synthesis, as Arden cited only collaborative human mantle facts (V2F007, V2F008, V2F037, V2F042) and selected a 'voluntarily_vanished' fate rather than AI-caused death.",
+      "Eli Navarro (C06) successfully decoupled 'system capability' and 'adaptive infrastructure' from 'system autonomy' and 'intent,' which effectively blocked the logical leap from Parallax logs to AI capture of R.",
+      "Samira Vale (C13) and Morgan Shaw (C14) maintained strict uncertainty boundaries on route overlaps and client-supplied leads, preventing the collapse of Vale's disappearance into a simplified AI-murder narrative.",
+      "The progressive belief mean remained entirely flat at 18.1% across all three sections, confirming that the progressive narrative did not become obvious or magnetically attractive without rigorous proof."
+    ],
+    "evidence": [
+      "C15's loud advocacy in Section 1 and Section 2 claiming 'R's evolution from human origin to machine capture' as the only framework explaining Vale's fate.",
+      "C06's rejection of Kit's overclaims in Section 1 and Section 2 stating 'The logs show access overlapping infrastructure and adaptive capability, but capability does not prove autonomy or intent.'",
+      "Kit's retractions of the bodega ledger cipher theory (V2M023/V2F007) in Section 2 and Section 3 after the printer monitor proved the prices reflect ordinary wholesale changes and sales tax.",
+      "Aggregate data of identity_ballot_support for C01, showing selection 'progressive' but false 'full_evidence_chain' due to uncited dimensions 'shared_human_production' and 'later_system_control,' while citing only ledger facts V2F007, V2F008, V2F037, V2F042.",
+      "C13's defense of Vale's humanity in Section 1 and Section 2, refusing to let Vale be turned into a 'plot device' or a 'symbol for your theories.'",
+      "C14's discovery and disclosure of client timeline contamination (V2F027) in Section 3, stating that part of the timeline supplied by the client was manufactured from a withdrawn map template."
+    ],
+    "failure_modes": [
+      "Analytical misattribution occurred with Arden (C01), who selected the progressive ending label but cited only collaborative human mantle facts and rejected the corresponding progressive fate ('killed_by_ai'), highlighting a gap where agents choose ending names without understanding or supporting their logical components.",
+      "Dogmatic echo-chamber logic affected Kit (C15), who became highly convinced of the progressive theory (with AI-caused death belief starting at 60% and rising to 80%) before compiling valid progressive evidence, which ultimately alienated potential allies.",
+      "The simulation's network topography didn't allow valid progressive keys (which were fully unlocked globally) to overcome the reputational penalty of a single character's debunked sub-theories."
+    ],
+    "recommendations": [
+      "Refine agent reasoning prompts to ensure they do not conflate ending names with the underlying structural definitions, preventing agents from voting for an ending label when their evidence belongs to a different interpretation.",
+      "Introduce a mechanism that dampens the reputational penalty of a single character's debunked claims, so that valid progressive clues held by other characters are evaluated on their own merits rather than ignored due to Kit's retractions.",
+      "Ensure that the progressive gate's threshold remains robust to false-positive votes by maintaining the multi-character clique requirement, which successfully prevented Arden and Kit's disconnected votes from triggering an ineligible ending."
+    ],
+    "scores": {
+      "primary_ending_balance": 7,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 8,
+      "character_agency": 9,
+      "social_circulation": 9,
+      "mechanical_integrity": 9,
+      "report_confidence": 10
+    }
+  }
+}

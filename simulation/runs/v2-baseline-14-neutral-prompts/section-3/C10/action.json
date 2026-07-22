@@ -1,0 +1,78 @@
+{
+  "character_id": "C10",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, we've held our boundary. Let's fulfill our commitment and ensure our shared account of the service routes and camera gap protects the tenant completely.",
+      "offer": "A united public and private stance on building service route access.",
+      "request": "Continued mutual protection and final alignment on our disclosure.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's keep our shift records straight and ensure no one twists ordinary building logistics into a conspiracy.",
+      "offer": "Practical shift change verification.",
+      "request": "A consistent timeline of service route usage.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, here is the bounded operational truth: the camera gap and automated access change were separate events. Do not collapse them into a murder narrative.",
+      "offer": "A precise, bounded account of building access rhythms.",
+      "request": "Accurate attribution and strict adherence to resident anonymity.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F032"
+      ]
+    }
+  ],
+  "public_statement": "The service routes in our building are practical passages for working people, not a criminal conspiracy. An audit flag does not mean a murder.",
+  "facts_shared": [
+    "V2F026",
+    "V2F032",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Establish a shared disclosure boundary to protect local witnesses from uncoordinated questioning",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Fulfilled commitment with Inez to protect local witnesses and maintain a shared disclosure boundary.",
+    "Compared shift change details with Rafi to preserve factual service records.",
+    "Provided Morgan with a bounded account distinguishing the camera gap from the automated access change.",
+    "Submitted final ballot reflecting human-mantle / operational persistence without assuming foul play."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Dee Nowak fulfills her commitment with Inez Baptiste to protect the tenant and maintain a strict shared disclosure boundary. She reinforces building logistics with Rafi Calder\u00f3n and gives Morgan Shaw a bounded operational account clarifying that the camera gap and automated access change were separate events. Her final ballot rejects speculative murder narratives, emphasizing human maintenance infrastructure and distinct operational anomalies.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F026",
+      "V2F032",
+      "V2F042"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F034"
+    ]
+  }
+}

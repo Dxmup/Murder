@@ -1,0 +1,62 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need to agree on a sentence describing collaborative labor that establishes work and system conditions without identifying any evaluator or turning them into a candidate for R.",
+      "offer": "Organizing support and context for collaborative labor around work published as R.",
+      "request": "A shared disclosure boundary that protects the evaluator's anonymity.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm is real whether or not an article existed. I will discuss bounded testimony only after hearing a remedy for invisible labor that exists independently of proving R's identity.",
+      "offer": "Bounded worker workflow context under strict anonymity rules.",
+      "request": "A public commitment that worker protections and compensation do not depend on solving the R mystery.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, we need to coordinate concrete protections for contractors and neighborhood witnesses along Vale's route before institutions start demanding names.",
+      "offer": "Joint coalition pressure and advocacy for exposed community members.",
+      "request": "Mutual alignment on safeguarding witnesses before speaking.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of repetition cannot erase the invisible labor that built these systems. Real worker harm matters regardless of rumors or whether R was human or machine.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "We will only share bounded workflow descriptions that name no contributor or evaluator.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Asked Tessa to agree on a sentence describing collaborative labor without naming contributors.",
+    "Told Mira that bounded testimony requires a remedy existing independently of R's identity.",
+    "Connected with Inez to compare protections needed for workers and neighborhood witnesses."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Maren Okafor, my primary goal in Section 1 is to ensure that worker protections are locked down before any evidence or testimony circulates. I engaged Tessa to secure a safe descriptive boundary for collaborative labor, pressed Mira for remedies independent of the R mystery, and coordinated with Inez to protect vulnerable community members along Vale's route.",
+  "final_ballot": null
+}

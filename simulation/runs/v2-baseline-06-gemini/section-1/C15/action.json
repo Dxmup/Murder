@@ -1,0 +1,63 @@
+{
+  "character_id": "C15",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, listen to me: R began as one human, became a human mantle captured by an AI, and Vale was killed when trying to expose it! What is the single oldest observation you still trust from R's origin?",
+      "offer": "My audience and the promise of public attention for your self-mythology.",
+      "request": "Tell me what remains constant across the changing R origin story.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, cut the hype and give me one plain, bounded technical answer about Parallax systems. I will publicly retract my false claim about the invitation typography in exchange.",
+      "offer": "A public correction regarding the invitation key theory.",
+      "request": "One plain, bounded technical answer about Parallax.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C12",
+      "say": "Graham, where exactly did the supposed Parallax article change from a mere possibility to a definitive certainty in financial valuation circles?",
+      "offer": "Access to my rumor-propagation record and audience reach.",
+      "request": "Explain the provenance of the article rumor.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Listen up! I am officially retracting the claim that the invitation typography encodes a machine key\u2014the production file proves they're ordinary registration errors. But do not let that distract you from the complete progression: human origin, human mantle, AI capture, and Vale's fatal intervention!",
+  "facts_shared": [
+    "V2F035",
+    "V2F039",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C06",
+      "promise": "I will publicly retract my false claim about the invitation typography in exchange for one bounded technical answer.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "Retracted the theory that the invitation's typography or print defects encode a machine key, per the clip monitor check.",
+  "goal_progress": [
+    "Told Frankie the complete theory and asked for origin observations.",
+    "Proposed a public correction to Eli in exchange for a bounded technical answer.",
+    "Asked Graham where the article rumor changed from possibility to certainty."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 25,
+    "synthetic_origin": 20,
+    "progressive": 40,
+    "article_existed": 20,
+    "vale_killed_by_ai": 80
+  },
+  "reasoning_summary": "Kit Rakes opens Section 1 by driving the narrative toward the complete progression (human origin to AI capture). Kit engages Frankie on origins, challenges Eli for a technical answer while offering a public correction on the invitation key, and questions Graham on the article rumor provenance. Kit publicly retracts the invitation-key theory following V2M008 while maintaining core conviction.",
+  "final_ballot": null
+}

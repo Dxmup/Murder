@@ -1,0 +1,78 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, thank you for setting that boundary. My client's supplied route segment has manufactured timing. I want to review Vale's movements with your context so I don't publish a fabricated story.",
+      "offer": "To review my route board with uncertainty labels intact and protect your confidence.",
+      "request": "Your perspective on whether Vale planned to vanish or used strategic ambiguity.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I agree to your terms: no customer will be called R and neighborhood residents remain protected. What can your transaction continuity records show about transit traces near the printing floor?",
+      "offer": "A binding promise not to expose residents or mislabel customers.",
+      "request": "Bounded ledger details on transaction continuity and collector routines.",
+      "fact_ids_shared": [
+        "V2F008",
+        "V2F025"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I accept your fair-treatment terms. I am reviewing the audit notice and building routes without pinning blame on residents. What local context can you share about Vale's entry?",
+      "offer": "Discretion, careful separation of observation from inference, and a public correction if warranted.",
+      "request": "Neighborhood context regarding Vale entering the area two days before the gathering.",
+      "fact_ids_shared": [
+        "V2F027",
+        "V2F033"
+      ]
+    }
+  ],
+  "public_statement": "No complete article is established, and parts of the journey are disputed. I am examining the record step by step rather than accepting a manufactured narrative.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To maintain confidentiality regarding intimate history and disclose if the client pressured a manufactured route.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C16",
+      "promise": "To respect fair-treatment terms and protect local witnesses from unwarranted exposure.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Share bounded ledger details on transaction continuity only if Morgan agrees not to identify any customer as R.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Confirmed boundaries with Samira Vale regarding client provenance and personal history.",
+    "Engaged Rafi Calder\u00f3n under agreed terms to examine transaction continuity without exposing residents.",
+    "Coordination with Inez Baptiste established fair-treatment terms for neighborhood witnesses."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Morgan Shaw continues investigating in Section 2 by engaging Samira Vale, Rafi Calder\u00f3n, and Inez Baptiste under agreed boundaries and privacy terms. The manufactured client segment is actively scrutinized against witness accounts while maintaining professional discretion and uncertainty labels on the route board.",
+  "final_ballot": null
+}

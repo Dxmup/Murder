@@ -1,0 +1,74 @@
+{
+  "character_id": "C10",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, we have aligned our disclosure boundaries. Let's make sure our joint statement clarifies the camera audit without exposing anyone.",
+      "offer": "Coordinated disclosure boundaries for building access and camera gap",
+      "request": "Mutual backing in our public statements regarding routine building operations",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, per our agreement on fair treatment and tenant protection, here is the bounded operational account of the service route and camera audit context.",
+      "offer": "A bounded operational account of the camera audit context and service exit rhythms",
+      "request": "Accurate representation of the camera gap as routine maintenance rather than a murder plot",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's lock in our shift-change records so our timeline remains consistent and defensible on the ballot.",
+      "offer": "Verified shift delivery and access notes",
+      "request": "Consistent alignment on service passage use",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "The camera gap and automated access changes are separate physical events. Routine building maintenance is not a conspiracy, and our residents must be protected.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundaries for the camera gap to protect building residents",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Fulfilled disclosure coordination with Inez.",
+    "Provided bounded operational account to Morgan under agreed protections.",
+    "Completed final ballot reflecting physical service route realities and separate automated events."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Dee Nowak, I fulfilled my commitment with Inez to protect residents through coordinated disclosure, provided Morgan with the bounded operational account, and completed my ballot recognizing that routine service access and automated events should not be misconstrued as murder.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F035"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032"
+    ]
+  }
+}

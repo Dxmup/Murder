@@ -1,0 +1,60 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management just flagged the unpreserved camera interval. We need to talk before anyone starts spinning stories about the service exit.",
+      "offer": "Explain the exact reason why the camera record was allowed to lapse, protecting our tenant.",
+      "request": "Agree on a common disclosure boundary before speaking publicly.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's look at the shift change records. The building's access logs don't match the polished version going around.",
+      "offer": "Compare exact shift-change details without inventing customers or identities.",
+      "request": "Verify our timeline of who was actually on duty.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, before I give any statement on the camera gap or access records, I need to know what fair treatment and a bounded account mean for my pension and the building.",
+      "offer": "Provide a bounded operational account of the access gap.",
+      "request": "Guarantee precise attribution and resident anonymity.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The camera gap and the later automated access change are separate events. Don't let anyone collapse them into a convenient murder story without evidence.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundary regarding the camera gap and protect the tenant.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Inez to discuss the camera interval audit notice.",
+    "Initiated shift and access comparison with Rafi.",
+    "Asked Morgan for terms of fair treatment before releasing full records."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Initiated conversations with Inez regarding the camera audit and tenant protection, Rafi regarding shift records, and Morgan regarding terms for a bounded account. Initialized beliefs neutrally at 25% across categories in Section 1.",
+  "final_ballot": null
+}

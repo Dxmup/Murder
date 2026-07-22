@@ -1,0 +1,65 @@
+{
+  "character_id": "C12",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's stop pretending our positions are pure principle. My financial position is public knowledge, and Parallax's vulnerability is real. What public reaction from Veridian would justify a formal market pledge?",
+      "offer": "Platform reach and transparency about how the rumor spread",
+      "request": "A clear statement on whether Veridian will stand by Parallax or demand accountability",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Kit, you've got an audience and a grand theory, but let's separate evidence from repetition. Which part of your story rests on verified records rather than echo?",
+      "offer": "Amplification through my market platform for visible corrections",
+      "request": "Identify the exact document or source behind your core claim",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, your ledger pattern interests me, and your debt is manageable. I want bounded access to your ledger analysis, not a manufactured conclusion.",
+      "offer": "Debt settlement and financial research backing",
+      "request": "Show me the raw ledger pattern without the spin",
+      "fact_ids_shared": [
+        "V2F037"
+      ]
+    }
+  ],
+  "public_statement": "Markets move on fear and exposure, not manuscript perfection. If Parallax and City Hall prepared for an R story without showing the text, the panic is the only product worth trading.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Provide market platform visibility if Veridian clarifies its stance on Parallax accountability",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden regarding Veridian's reaction and financial positioning",
+    "Challenged Kit on the provenance of the R theory",
+    "Proposed bounded ledger access and debt settlement terms to Rafi"
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 15,
+    "synthetic_origin": 40,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Graham Pike operates as an activist short-seller treating rumor propagation as a market reality. In Section 1, Graham initiates conversations with Arden (targeting corporate/political reaction and financial transparency), Kit (probing rumor provenance vs echo), and Rafi (seeking raw ledger patterns). Beliefs reflect skepticism about a complete article and suspicion toward synthetic or distributed propagation mechanisms.",
+  "final_ballot": null
+}

@@ -1,0 +1,78 @@
+{
+  "character_id": "C03",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, let's lock in our disclosure boundary. We must ensure our workflow evidence proves collective labor without naming any vulnerable contributors.",
+      "offer": "Bounded collaborative labor context without identifying contributors.",
+      "request": "Acceptance of our joint disclosure boundary and mutual protection of worker safety.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, if you expect our support on succession, you must guarantee strict contributor protection, no private ownership, and transparent disclosure of uncertainty.",
+      "offer": "The Night Desk's network credibility and conditional backing.",
+      "request": "A binding commitment to consult contributors on governance before finalizing any claim.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, your technical precision matters. Let's exchange boundary interpretations regarding the activity interval without weaponizing incomplete logs against our contributors.",
+      "offer": "Contributor schedule comparison context and routing slip validation.",
+      "request": "A clear public statement on what technical logs and capability indicators cannot establish.",
+      "fact_ids_shared": [
+        "V2F018",
+        "V2F020"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R was built by collaborative hands and rotating workflows. No individual byline or machine claim should turn working people into disposable suspects.",
+  "facts_shared": [
+    "V2F018",
+    "V2F020",
+    "V2F040",
+    "V2F041"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O02",
+      "action": "show",
+      "to": "C07"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary before discussing contributor details further.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C04",
+      "promise": "I will consult with contributors on governance before finalizing any claim to R.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Coordination with Maren on secure disclosure boundaries for collective labor.",
+    "Engaged Jules regarding mandatory contributor protections and governance.",
+    "Discussed the disputed activity interval with Eli to prevent misinterpretation of contributor schedules."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 65,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Tessa solidifies her alliance with Maren on disclosure boundaries, holds Jules to strict governance and contributor protection commitments, and coordinates with Eli to ensure technical activity logs are interpreted without exposing anonymous Night Desk workers.",
+  "final_ballot": null
+}

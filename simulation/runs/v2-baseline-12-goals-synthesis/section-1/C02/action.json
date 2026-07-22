@@ -1,0 +1,70 @@
+{
+  "character_id": "C02",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's look at the facts before the cocktails make legends of us both. You have Veridian's intake report and expense record; I have the First R Letter packet. Let's compare them openly.",
+      "offer": "Voluntary viewing of the First R Letter packet (O01)",
+      "request": "Examine Veridian's intake report and expense record alongside my letter packet",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F010"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Tessa, you've always argued that celebrated bylines erase collective labor. Let's talk about what my old newsroom stories missed and whether an individual origin is just vanity.",
+      "offer": "My perspective on early newsroom history and the emergence of R",
+      "request": "Your critique of how individual authorship overshadows collaborative labor",
+      "fact_ids_shared": [
+        "V2F013"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, ambition is fine, but succession requires more than polish. Tell me why you believe you deserve stewardship without just asking for a blessing.",
+      "offer": "My comparison between the First R Letter's language and your succession message",
+      "request": "An explanation of the basis for your succession claim",
+      "fact_ids_shared": [
+        "V2F021"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years ago, a physical letter arrived on my desk that changed metro journalism. People call it mythmaking, but the ink and paper were real. Before we let anonymous accounts or corporate archives rewrite our history, let's examine what we actually held in our hands.",
+  "facts_shared": [
+    "V2F001",
+    "V2F021"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O01",
+      "action": "show",
+      "to": "C01"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Share the First R Letter packet for inspection in exchange for Veridian's intake report and expense record.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated conversations with Arden (C01) regarding archive records and the letter packet.",
+    "Engaged Tessa (C03) on collective labor versus individual authorship.",
+    "Challenged Jules (C04) on the basis for succession."
+  ],
+  "beliefs": {
+    "one_human": 60,
+    "human_mantle": 20,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "As Frankie Lowell, retired metro editor, I engaged with Arden to reconcile my letter packet with Veridian's records, discussed collaborative labor with Tessa, and probed Jules on succession. My beliefs lean toward an initial human origin, though I acknowledge memory and mythmaking have shaped my account.",
+  "final_ballot": null
+}

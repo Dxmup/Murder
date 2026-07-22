@@ -1,0 +1,63 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, I accept your offer. Let's coordinate our disclosure boundary so we protect the tenant without leaving me holding the blame for the camera gap.",
+      "offer": "Align our narrative on the camera gap and unlogged access.",
+      "request": "Stand together with me if management or investigators question the building timeline.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's compare our delivery shift records for the service exit against the automated notices going around.",
+      "offer": "Provide building access timing to verify when packages actually moved.",
+      "request": "Share your transaction log for the same shift window.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, regarding your request for my account: I will give a bounded operational description of the access gap on the condition of resident anonymity and pension protection.",
+      "offer": "A precise, limited operational timeline of the camera interval.",
+      "request": "Ensure exact attribution and protect uninvolved residents in your report.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The camera gap and the later automated access change are separate events. Don't let anyone collapse them into a convenient murder story without evidence.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Protect Dee from absorbing sole blame for the service route camera gap by sharing appropriate context",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Inez's offer and established a coordinated disclosure boundary.",
+    "Compared shift records and delivery timings with Rafi.",
+    "Negotiated terms for a bounded account with Morgan."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 2, Dee solidified her alliance with Inez by accepting her commitment regarding the camera gap disclosure, collaborated with Rafi on shift logs, and set clear boundaries with Morgan to protect her pension and the tenant. Beliefs adjusted slightly based on human infrastructure and local access realities.",
+  "final_ballot": null
+}

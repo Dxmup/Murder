@@ -1,0 +1,47 @@
+{
+  "character_id": "C13",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, before anyone spins a legend about succession, tell me the exact conversation you had with Vale about how an uncontested succession could be manufactured.",
+      "offer": "I can share context on Vale's prior safety patterns and habits.",
+      "request": "Repeat the complete conversation around succession before I reveal what I know.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale said R was no longer human after seeing your logs. What evidence made that phrase seem possible, and what remained uncertain?",
+      "offer": "I can offer context on how Vale processed emotional weight from technical evidence.",
+      "request": "Give me an account of the technical logs and the emotional impact on Vale.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, we need to set a boundary right now: no personal route detail enters your timeline without my explicit consent and an uncertainty label.",
+      "offer": "I can offer recognition of the route if you agree to keep uncertainty visible.",
+      "request": "Provide your current route details so I can determine whether it follows the old safety plan.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale was a person who forgot groceries and turned intimacy into security, not a plot device or a myth for your careers. Stop manufacturing certainty about what you never understood.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Correcting the false claim that Vale's absence or relationship to R is a settled narrative or an uncontested article.",
+  "goal_progress": [
+    "Initiated conversation with Jules regarding succession context.",
+    "Approached Eli about the phrase 'no longer human'.",
+    "Set boundaries with Morgan regarding personal route details."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 1, Samira Vale engages Jules about the succession conversation, queries Eli on the 'no longer human' technical material, and establishes strict boundaries with Morgan regarding route confidentiality and uncertainty labeling. Beliefs are flatly initialized at 25% across categories, and final ballot is null.",
+  "final_ballot": null
+}

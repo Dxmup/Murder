@@ -1,0 +1,63 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need a shared boundary right now. Before anyone shares workflow evidence or speculates on R, we must agree on a sentence describing collaborative labor that names no contributor and protects evaluator anonymity.",
+      "offer": "Bounded worker testimony guidelines that preserve anonymity.",
+      "request": "Agreement on contributor protection boundaries before Night Desk releases any workflow records.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, Veridian and Parallax benefited from invisible labor. I will discuss bounded testimony only after you commit to a concrete remedy for worker harm that exists independently of whether R was a machine or a person.",
+      "offer": "Context on collaborative labor and evaluation processes.",
+      "request": "An institutional commitment acknowledging that real worker harm does not depend on the article rumor.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, Vale's disappearance and the focus on R are putting contractors and neighborhood witnesses at risk of becoming scapegoats. We need to coordinate protections before anyone starts demanding names.",
+      "offer": "Coalition support and mutual protection for vulnerable sources and workers.",
+      "request": "Joint alignment on neighborhood and labor security before institutions begin asking questions.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Worker anonymity and real protections are non-negotiable. No one's labor or testimony should become disposable evidence or mystery currency.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Protect evaluator anonymity and never release workflow evidence without prior worker consent.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated boundary discussion with Tessa on worker testimony.",
+    "Demanded independent institutional remedies from Mira.",
+    "Aligned with Inez on protecting vulnerable sources and workers."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Secured initial conversations with Tessa, Mira, and Inez to enforce worker protections, establish anonymity boundaries, and separate systemic labor harms from the R mystery rumor.",
+  "final_ballot": null
+}

@@ -1,0 +1,76 @@
+{
+  "character_id": "C01",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I have the archive intake and expense records ready alongside our proposed provenance review. Let us examine them side-by-side so we can establish an honest public record.",
+      "offer": "Full side-by-side inspection of Veridian's archive intake and expense records alongside your First R Letter packet.",
+      "request": "Agreement on a transparent public framing of what the records establish.",
+      "fact_ids_shared": [
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, Veridian is committed to moving past decorative approval. We are prepared to formalize durable neighborhood archive and labor participation commitments.",
+      "offer": "Concrete institutional commitments ensuring neighborhood participation and co-governance of local archives.",
+      "request": "Active neighborhood collaboration and participation in tonight's anniversary program.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, we received an inquiry regarding the Parallax funding restriction. We need to maintain a unified posture to prevent outside speculation from destabilizing Veridian.",
+      "offer": "Public alignment and discretion regarding our funding agreement terms during the anniversary program.",
+      "request": "Mutual reassurance that accuracy restrictions will not be exploited tonight.",
+      "fact_ids_shared": [
+        "V2F030"
+      ]
+    }
+  ],
+  "public_statement": "Veridian Dynamics stands by the integrity of our archives and our community partnerships. We face these difficult questions about our institutional funding and history openly, ensuring that neither survival nor legacy is compromised by speculation.",
+  "facts_shared": [
+    "V2F002",
+    "V2F003"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C02",
+      "promise": "Provide controlled access to Veridian's archive provenance records after reviewing the First R Letter packet side-by-side.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C16",
+      "promise": "Incorporate concrete neighborhood participation and labor terms into Veridian's upcoming programmatic commitments.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C05",
+      "promise": "Maintain a joint public posture regarding conditional funding terms without board surprises.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Advanced archive provenance review with Frankie Lowell.",
+    "Engaged Inez Baptiste on concrete neighborhood commitments.",
+    "Confronted Mira Sen regarding potential exploitation of funding restrictions."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 45,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Arden coordinates closely with Frankie on archive records, secures neighborhood partnership discussions with Inez, and addresses the Parallax funding restriction pressure with Mira to protect Veridian's fragile institutional standing.",
+  "final_ballot": null
+}

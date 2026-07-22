@@ -1,0 +1,52 @@
+{
+  "character_id": "C08",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I have your previous statements about that early human encounter in mind. Let's compare notes: what specific vocal or physical cues convinced you that you were meeting R rather than a performer executing a brief?",
+      "offer": "I can show you my commission documentation establishing how staged presences were constructed during that period.",
+      "request": "Share the exact sensory memories from your encounter with R.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F014"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, message records indicate my old performance fee routed through an intermediary connected to R's apparatus. Since you are examining succession, let's verify if your financial records recognize this payment route.",
+      "offer": "I can share details of the payment intermediary route under strict mutual confidentiality.",
+      "request": "Confirm whether your records or network recognize this intermediary payment structure.",
+      "fact_ids_shared": [
+        "V2F014"
+      ]
+    }
+  ],
+  "public_statement": "A performed presence is an act of consent and collaboration, not an unconditional surrender of authorship or voice to history.",
+  "facts_shared": [
+    "V2F014"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O04",
+      "action": "show",
+      "to": "C02"
+    }
+  ],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Frankie regarding sensory details of the supposed R encounter and compared notes on performance versus authorship.",
+    "Approached Jules to examine the intermediary payment route associated with the old commission."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 45,
+    "synthetic_origin": 30,
+    "progressive": 10,
+    "article_existed": 30,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Edi Velez pursues the origins of the commissioned performance in Section 2, engaging Frankie to interrogate the memory of the R encounter and showing the commission card (O04) / discussing payment routing with Jules to trace how performed illusion became treated as autonomous authorship.",
+  "final_ballot": null
+}

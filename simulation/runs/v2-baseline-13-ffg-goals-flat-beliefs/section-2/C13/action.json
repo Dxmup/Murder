@@ -1,0 +1,54 @@
+{
+  "character_id": "C13",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you asked how an uncontested succession could be manufactured before the message appeared. Tell me the full context of that conversation so I know what Vale was responding to.",
+      "offer": "I can share context on Vale's prior safety patterns and habits.",
+      "request": "Provide the complete account of the succession manufacturing question.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale told you R was no longer human after reviewing technical logs. Let's compare what you found with what remained uncertain.",
+      "offer": "I can offer context on how Vale processed emotional weight from technical evidence.",
+      "request": "Share the exact logs that led to that conclusion and what gaps remained.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, regarding our timeline conversation, I accept your proposal on keeping shared details private as long as uncertainty labels remain intact on route segments.",
+      "offer": "I can offer recognition of the route segments if uncertainty remains visible.",
+      "request": "Confirm the route board's verified and disputed segments with uncertainty labels.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale was a person with a private life, not a myth or a plot device. Stop manufacturing certainty about what you never understood.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "To keep all shared details regarding Vale's personal history strictly private unless mutual consent is given.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Correcting the false claim that Vale's absence or relationship to R is a settled narrative or an uncontested article.",
+  "goal_progress": [
+    "Continued dialogue with Jules regarding succession manufacturing.",
+    "Engaged Eli on technical logs and the phrase 'no longer human'.",
+    "Accepted Morgan's privacy commitment for route timeline coordination."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 25,
+    "synthetic_origin": 30,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 2, Samira Vale engages Jules, Eli, and Morgan to compare accounts, accepts Morgan's commitment to keep personal details private under strict uncertainty labels, adjusts beliefs slightly based on technical and progressive narratives, and keeps the final ballot null.",
+  "final_ballot": null
+}

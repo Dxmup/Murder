@@ -1,0 +1,90 @@
+{
+  "character_id": "C01",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, our archive review and side-by-side records confirm that while your early letters carry authentic weight, continuity was sustained by collaborative labor across years.",
+      "offer": "Complete public endorsement of accurate archive stewardship and your historical contributions.",
+      "request": "Mutual public alignment on the reality of shared R labor.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, Veridian has formalized our commitment to durable neighborhood participation and co-governance of local archives moving forward.",
+      "offer": "Formalized institutional framework and material support for neighborhood archives.",
+      "request": "Continued community collaboration and active participation.",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F042",
+        "V2F044"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, our funding arrangement has survived tonight's scrutiny without board collapse, preserving Veridian's baseline mission.",
+      "offer": "Discreet handling of funding restrictions and continued institutional stability.",
+      "request": "Mutual adherence to transparent accuracy standards.",
+      "fact_ids_shared": [
+        "V2F030",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Veridian Dynamics stands firmly by the integrity of our archives and our community partnerships. We have faced difficult questions about our institutional funding and history openly, ensuring that Veridian's mission and survival endure through collaborative truth.",
+  "facts_shared": [
+    "V2F002",
+    "V2F003",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C02",
+      "promise": "Provide controlled access to Veridian's archive provenance records after agreeing on public framing.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C16",
+      "promise": "Incorporate concrete neighborhood participation terms into Veridian's upcoming programmatic commitments.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Finalized archive provenance review with Frankie Lowell.",
+    "Secured concrete neighborhood participation commitments with Inez Baptiste.",
+    "Managed Parallax funding restrictions and institutional stability with Mira Sen."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Arden Bell concludes the anniversary event by fulfilling commitments to Frankie Lowell and Inez Baptiste, stabilizing Veridian's finances with Mira Sen, and submitting a final ballot reflecting a progressive human mantle sustained by collaborative infrastructure.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F001",
+      "V2F002",
+      "V2F004",
+      "V2F005"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F028",
+      "V2F032"
+    ]
+  }
+}

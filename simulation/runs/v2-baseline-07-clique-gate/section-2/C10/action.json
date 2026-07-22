@@ -1,0 +1,66 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, the audit is moving fast. We need to agree on our disclosure boundary so we explain the camera gap without exposing the resident or sacrificing our positions.",
+      "offer": "The complete reason for the camera gap and our local access records.",
+      "request": "Acceptance of our coordination plan before either of us speaks to Morgan.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's align our shift logs and collector schedules so our delivery window timelines match up precisely.",
+      "offer": "Exact building shift changes and access practices.",
+      "request": "Your corresponding collector records for the delivery windows.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, before I provide a bounded operational account of the service route, I need your explicit guarantee of fair treatment and resident anonymity.",
+      "offer": "Operational timeline of local service route access during the audit interval.",
+      "request": "A formal commitment to defensible attribution and resident protection.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The camera gap and automated access changes are separate physical events. Do not let rumors collapse them into a single staged murder story.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundaries to protect uninvolved residents before speaking to Morgan.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C14",
+      "promise": "Provide a bounded operational account of the service route in exchange for fair treatment and resident anonymity.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Reconnected with Inez to firm up disclosure boundaries regarding the camera gap.",
+    "Proposed comparing shift records with Rafi to ensure timeline consistency.",
+    "Demanded fair treatment and resident anonymity guarantees from Morgan before releasing records."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 10,
+    "article_existed": 25,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Dee focuses on protecting building residents and her pension by coordinating with Inez on the camera gap justification, aligning shift records with Rafi, and demanding terms from Morgan before disclosing operational access details.",
+  "final_ballot": null
+}

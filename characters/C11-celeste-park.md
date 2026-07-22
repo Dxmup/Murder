@@ -30,11 +30,13 @@ Your greater certainty is that real worker and neighborhood harms do not depend 
 
 ## What you want tonight
 
-Secure support from three different constituencies—such as labor, neighborhood leadership, an institution, journalism, or industry—and make one concrete policy or funding commitment that survives the mystery.
-
-Contain the off-calendar meeting by reaching an honest agreement with Mira or Samira about what can be disclosed and who accepts responsibility. Containment need not mean concealment; it means preventing fragments from becoming false certainty.
-
-Publicly distinguish verified harms and legitimate oversight needs from claims about R, Vale, or an unseen article. Do this without sounding as though City Hall is dismissing the people affected.
+- **Primary Goal:** Build the coalition that defines the city's response without becoming the story.
+  - *Success Condition:* Secure support from three different constituencies and make one concrete policy or funding commitment that survives every ending.
+- **Secondary Goal 1 (Social & Supportive):** Contain the off-calendar meeting.
+  - *Success Condition:* Reach an agreement with Mira or Samira about what can be disclosed and who accepts responsibility.
+- **Secondary Goal 2 (Social & Supportive):** Prevent rumor-driven policy.
+  - *Success Condition:* Publicly distinguish verified worker harm from claims about the article or R.
+- **Your Final Choice:** Protect donors and government access or force meaningful oversight.
 
 ## What you know
 

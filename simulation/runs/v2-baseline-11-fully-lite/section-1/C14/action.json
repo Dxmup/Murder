@@ -1,0 +1,72 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I'm Morgan. I was retained to reconstruct Vale's last movements, but one segment supplied by my client looks manufactured. What boundaries do we need to set so we can talk timeline honestly?",
+      "offer": "To share my route board with uncertainty labels intact and discuss client communications privately.",
+      "request": "Your perspective on whether Vale planned to disappear or used strategic ambiguity.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I want voluntary accounts of what happened near the former printing floor. Please name your fair-treatment terms so I don't leave residents holding the risk.",
+      "offer": "Discretion, careful separation of observation from inference, and a public correction if warranted.",
+      "request": "Local neighborhood context regarding Vale entering the area two days before the gathering.",
+      "fact_ids_shared": [
+        "V2F027",
+        "V2F033"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's keep it narrow. What can you tell me about transactions or sightings near the former printing floor around the time Vale arrived?",
+      "offer": "Careful separation of observation from inference and timeline comparisons.",
+      "request": "Ledger details or local memory regarding transit traces or neighborhood sightings.",
+      "fact_ids_shared": [
+        "V2F008",
+        "V2F025"
+      ]
+    }
+  ],
+  "public_statement": "No complete article is established, and parts of the journey are disputed. I am examining the record step by step rather than accepting a manufactured narrative.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To maintain confidentiality regarding intimate history and disclose if the client pressured a manufactured route.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C16",
+      "promise": "To respect fair-treatment terms and protect local witnesses from unwarranted exposure.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated timeline discussion with Samira Vale regarding boundaries and client provenance.",
+    "Approached Inez Baptiste to establish fair-treatment terms for neighborhood witnesses.",
+    "Engaged Rafi Calder\u00f3n with a narrow time and place query rather than broad speculation."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Morgan Shaw begins Section 1 by establishing dialogue with key figures: Samira Vale to address client provenance and personal history, Inez Baptiste to secure neighborhood trust under fair terms, and Rafi Calderon to pin down local neighborhood traces. The manufactured client segment is noted internally as a critical discrepancy to investigate without premature conclusions.",
+  "final_ballot": null
+}

@@ -1,0 +1,65 @@
+{
+  "character_id": "C12",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, Veridian's exposure to Parallax is messy, but my position only moves if someone provides verifiable analysis rather than theatrical panic.",
+      "offer": "Market access and financial analysis of who benefited from the rumor.",
+      "request": "Disclose whether City Hall or Veridian planned for an R disclosure.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Kit, your theory on R is electric, but let's separate what we actually saw from the market's repetition.",
+      "offer": "Platform reach and co-amplification of verified findings.",
+      "request": "Identify which part of your grand theory rests on direct evidence rather than repeated rumor.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, your ledger pattern could make or break this trade, but I need clean provenance before I touch it.",
+      "offer": "Full debt settlement without making forgiveness conditional on a conclusion.",
+      "request": "Provide bounded ledger access and an honest account of your data.",
+      "fact_ids_shared": [
+        "V2F037"
+      ]
+    }
+  ],
+  "public_statement": "Markets move on what people fear, not what is proven. No complete article has been produced, yet Parallax chatter is surging. Let's talk provenance before we trade on ghosts.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Exchange financial analysis for transparency regarding Veridian's Parallax planning.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden regarding public reaction and financial exposure.",
+    "Challenged Kit on the provenance of the R/Parallax rumor.",
+    "Approached Rafi regarding ledger patterns and debt settlement terms."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 20,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "As Graham Pike, my goal is to manage my short position against Parallax while probing the provenance of the R rumor. I am initiating conversations with Arden, Kit, and Rafi to test their claims, offer financial leverage or market reach, and keep the focus on market reality versus manufactured certainty.",
+  "final_ballot": null
+}

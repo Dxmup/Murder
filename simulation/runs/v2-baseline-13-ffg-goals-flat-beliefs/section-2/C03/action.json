@@ -1,0 +1,72 @@
+{
+  "character_id": "C03",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, let's lock in our disclosure boundary. We must agree on a sentence describing collaborative labor that names no contributor before outsider pressure grows.",
+      "offer": "Bounded worker testimony guidelines protecting anonymity",
+      "request": "Acceptance of our proposed contributor protection boundary",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, if you claim future stewardship of R, what concrete protections and governance structures will you establish for our anonymous contributors?",
+      "offer": "Insight on contributor rights and collective labor protection",
+      "request": "A binding commitment to protect Night Desk laborers under any succession model",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, celebrated bylines often erase collective labor. Let's examine how your early newsroom history contributed to that erasure without sacrificing our people.",
+      "offer": "Early newsroom workflow context and routing slip insights",
+      "request": "Your candid critique of individual authorship versus collective workflow",
+      "fact_ids_shared": [
+        "V2F013"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of investigative reporting rests on the labor of many hands who remain anonymous. We reject any narrative that turns contributors into disposable myth.",
+  "facts_shared": [
+    "V2F004",
+    "V2F013",
+    "V2F035",
+    "V2F039",
+    "V2F041"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O02",
+      "action": "show",
+      "to": "C07"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary regarding collective labor before speaking to outsiders",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Clarified that Night Desk workflow represents collaborative labor rather than a single authorial mantle, and reaffirmed that contributor schedules do not imply automated or singular authorship.",
+  "goal_progress": [
+    "Consolidated disclosure boundaries with Maren",
+    "Challenged Jules on governance and contributor rights",
+    "Engaged Frankie on the tension between individual bylines and collective labor"
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 50,
+    "synthetic_origin": 20,
+    "progressive": 15,
+    "article_existed": 60,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Tessa advances her Section 2 objectives by cementing her protective boundary agreement with Maren, pressing Jules on governance structures for contributors, and interrogating Frankie's newsroom history regarding editorial erasure. Beliefs shift toward a human mantle as collaborative infrastructure is further substantiated.",
+  "final_ballot": null
+}

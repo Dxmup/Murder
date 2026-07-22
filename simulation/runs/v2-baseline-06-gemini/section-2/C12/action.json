@@ -1,0 +1,50 @@
+{
+  "character_id": "C12",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C15",
+      "say": "Kit, you want to perform the grand theory, but the valuation swings on whether anyone can show an actual manuscript or just repeat your enthusiasm.",
+      "offer": "Audience reach and visibility for your corrections.",
+      "request": "Disclose the exact evidence behind your progression sequence.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, the market wants a simple story about autonomous systems, but your technical logs say otherwise. Let's make sure our caveats match reality.",
+      "offer": "Funding and legal protection for your disclosures.",
+      "request": "Provide a qualified statement on what execution logs actually prove about system autonomy.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Markets move on fear and repetition, not ghosts or unprinted articles. If anyone has a document rather than a speech, now is the time to show it.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Responded to Kit's inquiry regarding article provenance and market certainty.",
+    "Engaged Eli to discuss technical operational autonomy versus execution logs.",
+    "Maintained financial skepticism against unsubstantiated rumor propagation."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 25,
+    "synthetic_origin": 35,
+    "progressive": 20,
+    "article_existed": 25,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Graham Pike, I am engaging Kit Rakes and Eli Navarro to interrogate the provenance of the rumor and test technical claims against financial reality. I am avoiding buying into false certainty while leveraging market attention.",
+  "final_ballot": null
+}

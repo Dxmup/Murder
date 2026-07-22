@@ -1,0 +1,67 @@
+{
+  "character_id": "C12",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's skip the pearl-clutching about market volatility. Parallax's valuation reflects real public exposure. Tell me what kind of public policy reaction would satisfy Veridian, and I'll pledge transparency on our tip amplification.",
+      "offer": "Transparency on tip amplification and research access",
+      "request": "A clear statement on what government or corporate reaction Veridian considers acceptable",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Kit, your grand theory on R is making waves, but let's look at the provenance. Which part of your narrative rests on actual documents rather than repeating echoes?",
+      "offer": "Platform reach and co-amplification of verified findings",
+      "request": "Identification of hard evidence versus repetitive chatter in your theory",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I need your technical credibility. Give me a qualified technical assessment on whether an automated system could seed this rumor, without stripping away the caveats.",
+      "offer": "Legal protection and funding for your technical analysis",
+      "request": "A bounded, caveated technical perspective on R's operational nature",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Markets respond to fear and exposure, not ghost stories. No complete article has been produced, but Parallax's reaction speaks volumes.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Disclose the origin of our amplified tip in exchange for Veridian's policy reaction stance",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden regarding public reaction and financial positioning",
+    "Challenged Kit on evidence provenance versus repetition",
+    "Sought bounded technical context from Eli"
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 20,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Graham Pike focuses on driving market-moving discussions around Parallax while testing the provenance of the R rumors with Arden, Kit, and Eli. Beliefs remain open pending verified evidence.",
+  "final_ballot": null
+}

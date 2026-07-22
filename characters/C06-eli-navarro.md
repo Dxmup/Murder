@@ -32,11 +32,13 @@ Emotion pulls you in opposite directions. Mira's containment makes you suspiciou
 
 ## What you want tonight
 
-Make at least two technically bounded statements in public, each corroborated by a nontechnical holder. Separate capability, access, and activity so the room cannot turn one card into a complete confession.
-
-Recover one missing authorization detail from Mira or Celeste. Your logs show access, not the entire decision chain. Trade a bounded excerpt for a matching record or admission and, if possible, protection from scapegoating.
-
-Correct at least one serious overclaim without denying what the records really show. Kit and Graham are obvious candidates, but Mira can overclaim innocence just as easily as they overclaim autonomy.
+- **Primary Goal:** Avoid scapegoating and establish the narrow technical truth about the continuity process.
+  - *Success Condition:* Make two technically bounded statements publicly, each corroborated by a nontechnical holder, and recover one missing authorization detail.
+- **Secondary Goal 1 (Social & Supportive):** Recover authorization evidence.
+  - *Success Condition:* Obtain a record or admission from Mira or Celeste.
+- **Secondary Goal 2 (Social & Supportive):** Keep logs from becoming a false confession.
+  - *Success Condition:* Correct at least one overclaim from Kit, Graham, or another player without denying what the logs show.
+- **Your Final Choice:** Trade logs for safety or disclose enough to implicate powerful actors.
 
 ## What you know
 

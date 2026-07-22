@@ -1,0 +1,56 @@
+{
+  "character_id": "C08",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I received notice that an old performance fee passed through an intermediary tied to R's network. Your legendary encounter sounds like my commissioned work. What did that voice actually feel like when you heard it?",
+      "offer": "Firsthand insight into how voice and presence were constructed for that encounter.",
+      "request": "Your exact sensory recollections of meeting R.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, I got word from the payment processor that my old commission fee passed through an intermediary associated with R. Let's compare notes privately on that routing structure.",
+      "offer": "Confidential comparison of the intermediary payment route.",
+      "request": "Recognition of the payment structure linked to succession.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C13",
+      "say": "Samira, people are treating Vale's private words as political currency. If Vale investigated the synthetic assets or my commission, let's compare what you actually know.",
+      "offer": "Clarity on whether R's public presence relied on commissioned synthetic performance.",
+      "request": "True context on Vale's investigation into R.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If your legend depends on a performed voice or a stolen likeness, remember that imitation without consent is plain theft. Performance is not authorship.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Keep our comparison of the intermediary payment route strictly confidential.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Performance is a collaborative act of execution, not an automatic surrender of authorship or ongoing consent.",
+  "goal_progress": [
+    "Engaged Frankie to test whether the legendary encounter matches Edi's commissioned performance.",
+    "Pursued the payment route with Jules using the processor notice.",
+    "Contacted Samira to discuss Vale's investigation and maintain artist consent."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 40,
+    "progressive": 10,
+    "article_existed": 45,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "In Section 2, Edi Velez follows up on the payment processor notice (V2M014) linking commission fees to R's network intermediaries. Edi confronts Frankie about the sensory details of the old encounter, coordinates with Jules on payment routes under confidentiality, and discusses Vale's investigations with Samira. Beliefs shift slightly toward synthetic origin and human mantle as performance assets are shown to have been reused without consent.",
+  "final_ballot": null
+}

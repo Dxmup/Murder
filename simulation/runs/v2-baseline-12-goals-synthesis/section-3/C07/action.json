@@ -1,0 +1,84 @@
+{
+  "character_id": "C07",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, our joint disclosure boundary is locked. We ensure contributor anonymity remains absolute while establishing workflow truth without exposing evaluators.",
+      "offer": "Firsthand corroboration of Night Desk workflow context under strict anonymity.",
+      "request": "Fulfill our shared commitment to protect worker anonymity across all published material.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, system capabilities and labor inputs prove that worker harm exists independently of R's identity. We demand enforceable compensation and audit rights guaranteed in writing.",
+      "offer": "Endorsement of Parallax accountability processes once worker protections are binding.",
+      "request": "A formal institutional commitment to systemic worker remedies that does not depend on proving R.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, let's ensure our city procurement policy permanently binds worker oversight and neighborhood protections into municipal technology deployments.",
+      "offer": "Grassroots legitimacy and coalition backing for City Hall's technology oversight framework.",
+      "request": "Enforce the agreed municipal policy incorporating worker and neighborhood oversight.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Worker protections, written anonymity, and systemic remedies must be guaranteed in writing before anyone trades away labor safety for a mystery narrative.",
+  "facts_shared": [
+    "V2F040",
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Establish a shared public boundary protecting worker anonymity before releasing workflow evidence.",
+      "visibility": "public",
+      "status": "fulfill"
+    },
+    {
+      "with": "C11",
+      "promise": "Incorporate enforceable worker and neighborhood oversight into the city's technology procurement policy.",
+      "visibility": "public",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Finalized joint disclosure boundary with Tessa Quill to protect worker anonymity.",
+    "Pressed Mira Sen for unconditional institutional remedies independent of R's identity.",
+    "Secured enforceable worker and neighborhood oversight in city procurement policy with Celeste Park."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 45,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Maren concludes her participation in Section 3 by fulfilling her commitments with Tessa and Celeste, reinforcing the non-negotiable nature of worker protections regardless of mystery outcomes, and casting her ballot on the human mantle account supported by organizational and labor realities.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F035",
+      "V2F040",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "harmed_by_humans",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

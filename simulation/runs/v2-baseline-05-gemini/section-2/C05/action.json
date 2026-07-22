@@ -1,0 +1,73 @@
+{
+  "character_id": "C05",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C06",
+      "say": "Eli, let's compare your log excerpt with my parent authorization record so we can establish what occurred without scapegoating each other.",
+      "offer": "Independent legal counsel and protection for our matched log and authorization comparison.",
+      "request": "Accept the commitment to compare our records mutually.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, worker harm is real regardless of R's identity or rumors. I offer enforceable policy, compensation, and independent audit rights.",
+      "offer": "Written anonymity protection and institutional remedies that do not depend on solving the mystery.",
+      "request": "Engage in bounded worker testimony regarding continuity process instructions.",
+      "fact_ids_shared": [
+        "V2F017",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, we need to coordinate on a shared account of the off-calendar meeting and match our calendar records before anyone else frames them.",
+      "offer": "Mutual coordination on our meeting records to control the narrative on Vale's access.",
+      "request": "Compare calendar records and establish limited oversight together.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Parallax's capability and funding are matters of public record, but capability is not proof of authorship. We are committed to transparency and verifiable worker remedies.",
+  "facts_shared": [
+    "V2F017",
+    "V2F029",
+    "V2F035",
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C06",
+      "promise": "Compare log components and authorization records mutually without scapegoating.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C11",
+      "promise": "Coordinate on a shared account of the off-calendar meeting before disclosing details.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Eli's commitment for a mutual log and authorization comparison.",
+    "Advanced substantive worker remedies with Maren independent of R's existence.",
+    "Aligned with Celeste on coordinating calendar records for the off-calendar meeting."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Pursued Section 2 goals by cementing alignments with Eli and Celeste on records and authorizations while reaffirming concrete institutional remedies for worker harm with Maren.",
+  "final_ballot": null
+}

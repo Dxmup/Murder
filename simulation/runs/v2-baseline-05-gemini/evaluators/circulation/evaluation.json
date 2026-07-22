@@ -1,0 +1,37 @@
+{
+  "role": "circulation",
+  "verdict": "Reciprocal face-to-face dialogue and commitment pathways were highly active and successfully negotiated, but failed to translate into physical object circulation, while highly efficient social propagation caused rapid narrative convergence that broke the intended balance of ending states.",
+  "findings": [
+    "In Section 1 and Section 2, reciprocal face-to-face dialogue and structured private commitments (such as C01 and C02 aligning on archive records, and C03 and C07 locking in a joint disclosure boundary) successfully drove character cooperation and story progression without coercion.",
+    "Across all three sections, no physical custody transfer of objects occurred; characters (e.g., C02 showing O01 to C01, C08 showing O04 to C04) exclusively utilized the 'show' action, indicating that the game-design allows visual sharing but fails to incentivize the circulation of physical assets.",
+    "Public statements were heavily utilized for broadcasting facts (e.g., C15 broadcasting V2F025, V2F035, V2F036, V2F039, V2F040 in Section 3), showing that mass information dissemination often competed with or bypassed intimate, high-stakes peer-to-peer trading.",
+    "The final ballots exhibit a severe lack of balance, with 12 out of 16 characters (e.g., C01, C02, C03, C04, C06, C07, C08, C10, C11, C14, C16) voting for 'human_mantle' and 13 voting for 'voluntarily_vanished'. This rapid narrative convergence suggests that social circulation over-facilitated consensus, undermining the design goal of equal structural weight for ending states.",
+    "Unilateral information extraction was largely avoided as characters successfully leveraged mutual conditions; for instance, Inez (C16) and Arden (C01) executed a clean, reciprocal exchange of local legitimacy for resource-sharing commitments from Section 1 to Section 3."
+  ],
+  "evidence": [
+    "Section 1: C02's object_actions shows showing O01 to C01; Section 2: C08's object_actions shows showing O04 to C04; Section 3: C04 showing O03 to C06.",
+    "Section 1: C01 and C02 propose a private commitment to compare records; Section 2: Both accept; Section 3: Both fulfill this reciprocal exchange.",
+    "Section 1: Celeste (C11) proposes a public procurement policy commitment to Maren (C07); accepted in Section 2, and finalized as fulfilled in Section 3.",
+    "Aggregate JSON: 'ballots' shows 'human_mantle' at 12 votes, 'synthetic_origin' at 2, 'one_human' at 1, and 'progressive' at 1, demonstrating extreme consensus formation.",
+    "Section 3 public statements: Kit Rakes (C15) broadcasts five facts (V2F025, V2F035, V2F036, V2F039, V2F040) simultaneously to the entire room."
+  ],
+  "failure_modes": [
+    "Physical Circulation Deficit: The system lacks incentives or mechanics for physical custody transfer, resulting in zero actual movement of items (only visual 'showing' of objects O01, O03, O04, O05a).",
+    "Broadcasting vs. Reciprocal Circulation: The heavy reliance on public statements for mass fact-sharing (broadcasting) reduces the strategic pressure for intimate, reciprocal face-to-face fact bargaining.",
+    "Consensus Collapse: The social propagation of evidence was too efficient, leading to an immediate narrative convergence on 'human_mantle' (12/16) and 'voluntarily_vanished' (13/16), which violates the locked design intent of keeping One Human, Human Mantle, and Synthetic Origin structurally balanced."
+  ],
+  "recommendations": [
+    "Introduce mechanical constraints or bonuses that require the physical transfer of object custody (e.g., certain high-value actions or ballot choices are locked unless a character actually possesses an item they did not start with).",
+    "Limit the number of public statements a character can make per section, or restrict the number of facts that can be attached to a public statement to encourage more intimate, high-stakes peer-to-peer exchanges.",
+    "Incorporate structural barriers to information flow, such as secret factions, divergent character motives, or exclusive interpretation rules, to maintain the intended narrative ambiguity and balance among the ending states."
+  ],
+  "scores": {
+    "primary_ending_balance": 2,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 8,
+    "social_circulation": 6,
+    "mechanical_integrity": 9,
+    "report_confidence": 10
+  }
+}

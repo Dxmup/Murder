@@ -1,0 +1,91 @@
+{
+  "character_id": "C16",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, if Veridian wants neighborhood cooperation on the service route context, we need a signed, binding commitment for community archive funding and space support right now.",
+      "offer": "Neighborhood route context and legitimacy",
+      "request": "A binding, written institutional commitment for space and resources",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, our boundary is holding. We've protected the tenants and the camera gap details from outside exploitation, ensuring no one pins automated events on our building operations.",
+      "offer": "Coordinated disclosure defense",
+      "request": "Maintain mutual protection of local building rhythms",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, the ledgers and service route details remain secure within our circle. We've successfully blocked outsiders from trading our neighborhood infrastructure for cash.",
+      "offer": "Shared boundary on neighborhood infrastructure",
+      "request": "Continued mutual protection of local records",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood kept the lights on, the doors open, and the routes clear long before Veridian discovered the block. Any final account of R or Vale must honor the human infrastructure that actually sustained this place.",
+  "facts_shared": [
+    "V2F026",
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "Maintain a strict boundary on neighborhood service route details to shield local residents from outside pressure.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C10",
+      "promise": "Coordinate disclosure boundaries regarding the camera interval without exposing uninvolved residents.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C07",
+      "promise": "Coordinate neighborhood and worker defense against institutional extraction.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Pressed Arden for concrete written institutional commitments.",
+    "Secured strict disclosure boundaries with Dee and Rafi to protect local residents.",
+    "Maintained neighborhood solidarity against institutional extraction."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 40
+  },
+  "reasoning_summary": "Inez successfully protected neighborhood residents and infrastructure by holding the line with Dee and Rafi on service route boundaries, while demanding concrete written commitments from Arden and Veridian in exchange for route context.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F035",
+      "V2F040"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "killed_by_ai",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032"
+    ]
+  }
+}

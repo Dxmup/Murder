@@ -1,0 +1,85 @@
+{
+  "character_id": "C09",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, our records confirm multiple collectors and changing routines across the years, but you must continue to respect customer privacy and attribution limits as agreed.",
+      "offer": "Confirmation of ledger continuity and collector variations.",
+      "request": "Strict adherence to our privacy and attribution agreement.",
+      "fact_ids_shared": [
+        "V2F008",
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, we have held the line against outside exploitation of our local records and informal neighborhood arrangements.",
+      "offer": "Mutual defense of local customer and worker protections.",
+      "request": "Your continued support as we finalize our public stance.",
+      "fact_ids_shared": [
+        "V2F042",
+        "V2F007"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, our shift logs and service exit timings correctly reflect ordinary neighborhood operations rather than any single suspect.",
+      "offer": "Shared context on service exit rhythms.",
+      "request": "Mutual backing against manufactured narratives.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "My counter records show multiple collectors and changing routines over the years, not a single static ghost. We protect our customers and reject manufactured certainty.",
+  "facts_shared": [
+    "V2F007",
+    "V2F008",
+    "V2F026",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Protect local customer records and informal arrangements from public exposure",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C14",
+      "promise": "Restrict ledger disclosure terms and avoid naming any customer as R.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Clarifying that multiple collectors and shared accounts used the R-associated services across years, which complicates any simple single-author narrative.",
+  "goal_progress": [
+    "Maintained strict customer privacy and attribution limits with Morgan.",
+    "Upheld local protections and shared boundaries with Inez and Dee.",
+    "Resolved the final reconstruction ballot based on shared accounts and changing routines."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 40,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Rafi Calder\u00f3n concludes Section 3 by honoring neighborhood privacy commitments with Inez and Morgan, reinforcing the reality of multiple collectors and shared routines over the years, and completing the final ballot.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F007",
+      "V2F008"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026"
+    ]
+  }
+}

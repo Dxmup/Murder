@@ -1,0 +1,60 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, what boundaries or terms would make a timeline conversation possible without compromising what you know about Vale?",
+      "offer": "I can share my route board with its uncertainty labels intact and discuss client communications privately.",
+      "request": "Tell me what you know about Vale's movements before vanishing and whether my client's narrative aligns with reality.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I am looking for voluntary neighborhood accounts. Name your fair-treatment terms for speaking with me.",
+      "offer": "I offer complete discretion and protection of local sources from commercial exploitation.",
+      "request": "Introduce me to reliable witnesses near the former printing floor who can help verify Vale's presence two days prior.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's keep this narrow: what did you transact or observe near the printing floor two nights ago?",
+      "offer": "I can compare notes from my route board regarding transit traces near the neighborhood.",
+      "request": "Share your ledger or local memory for that specific time and place.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "Maintain discretion regarding all personal history shared during our timeline review.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Samira to establish conversation boundaries regarding Vale's timeline.",
+    "Invited Inez to name fair-treatment terms for local witness introductions.",
+    "Approached Rafi with a narrow time and place near the former printing floor."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 40
+  },
+  "reasoning_summary": "Initiated focused, voluntary conversations with key figures Samira, Inez, and Rafi to ground the investigation and test the manufactured route segment without premature conclusions.",
+  "final_ballot": null
+}

@@ -34,11 +34,13 @@ Your desire is not proof. It is still real. You may decide that legitimacy comes
 
 ## What you want tonight
 
-Gain explicit support from at least two people in different parts of the room after allowing a real weakness in the succession message to be examined. Frankie can offer lineage, Tessa collective legitimacy, Eli technical limits, Edi knowledge of manufactured embodiment, and Samira context for Vale.
-
-Reach a defensible interpretation of Vale's “take the name back” statement. Compare correspondence with Samira or discuss the timeline with Morgan. Then answer the issue publicly instead of letting rivals define it.
-
-Finally, choose what succession would mean in practice. Will you own R, hold it in trust, share it, subject it to conditions, or refuse it? A claim without obligations is merely branding.
+- **Primary Goal:** Leave with a viable claim to R's future identity.
+  - *Success Condition:* Gain explicit support from two characters in different social knots after allowing at least one weakness in the succession message to be examined.
+- **Secondary Goal 1 (Social & Supportive):** Test the succession message.
+  - *Success Condition:* Voluntarily show a meaningful portion to Eli, Frankie, Edi, or Samira and receive a bounded response.
+- **Secondary Goal 2 (Social & Supportive):** Resolve Vale's threat or endorsement.
+  - *Success Condition:* Reach a stated interpretation with Samira or Morgan and answer it publicly.
+- **Your Final Choice:** Claim R despite uncertainty or expose the message's weakness to preserve personal credibility.
 
 ## What you know
 

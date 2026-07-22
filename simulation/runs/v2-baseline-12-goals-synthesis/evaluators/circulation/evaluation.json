@@ -1,0 +1,33 @@
+{
+  "role": "circulation",
+  "verdict": "Mixed",
+  "findings": [
+    "Characters actively engaged in bilateral bargains, commitments, and object custody exchanges (e.g., C02 showing O01 to C01, C04 showing O03 to C06/C02, C08 showing O04 to C04, C05 showing O07b to C06).",
+    "Conversations frequently resulted in structured reciprocal commitments and disclosures rather than mere broadcasting or passive extraction.",
+    "The ballot distribution reveals a strong preference for the human mantle (10 votes) over synthetic origin (2) or one human (3), showing a nuanced consensus around collaborative production.",
+    "Object actions (showing packets, message headers, commission cards, and logs) successfully drove face-to-face exchanges and mutual verification across sections."
+  ],
+  "evidence": [
+    "C02 shared O01 (First R Letter packet) with C01 in exchange for archive intake reports across sections 1 and 2.",
+    "C04 showed O03 (succession-message printout) to C06 and C02, establishing reciprocal technical and lineage scrutiny.",
+    "C08 showed O04 (commission card) to C04 to verify intermediary payment routing under confidentiality.",
+    "C05 showed O07b to C06 to trade authorization records for continuity logs under independent legal protection."
+  ],
+  "failure_modes": [
+    "Some character ballots failed to include full evidence chains, reflecting persistent gaps in uncited evidence dimensions (e.g., collaborator production and identity authority).",
+    "Progressive difficulty remains high and challenging, with only 1 ballot supporting progressive identity."
+  ],
+  "recommendations": [
+    "Ensure future runs encourage wider divergence in ballot support across all identity dimensions.",
+    "Strengthen incentives for characters holding minority viewpoints (such as synthetic origin or progressive) to secure broader evidentiary backing."
+  ],
+  "scores": {
+    "primary_ending_balance": 8,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 8,
+    "social_circulation": 9,
+    "mechanical_integrity": 9,
+    "report_confidence": 9
+  }
+}

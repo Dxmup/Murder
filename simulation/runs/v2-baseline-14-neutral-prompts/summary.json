@@ -1,0 +1,277 @@
+{
+  "ballots": {
+    "r_identity": {
+      "synthetic_origin": 4,
+      "one_human": 1,
+      "human_mantle": 9,
+      "progressive": 2
+    },
+    "vale_relationship": {
+      "investigating_r": 15,
+      "mantle_holder": 1
+    },
+    "vale_fate": {
+      "voluntarily_vanished": 11,
+      "insufficient_evidence": 3,
+      "vale_not_reliably_as_described": 1,
+      "killed_by_ai": 1
+    }
+  },
+  "identity_ballot_support": {
+    "C01": {
+      "selection": "synthetic_origin",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "pre_byline_machine",
+        "later_machine_behavior"
+      ],
+      "cited": [
+        "V2F025",
+        "V2F026",
+        "V2F034"
+      ]
+    },
+    "C02": {
+      "selection": "one_human",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "private_continuity"
+      ],
+      "cited": [
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    "C03": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F018",
+        "V2F020",
+        "V2F041"
+      ]
+    },
+    "C04": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F023",
+        "V2F025",
+        "V2F032"
+      ]
+    },
+    "C05": {
+      "selection": "synthetic_origin",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "pre_byline_machine"
+      ],
+      "cited": [
+        "V2F015",
+        "V2F017",
+        "V2F030",
+        "V2F031"
+      ]
+    },
+    "C06": {
+      "selection": "synthetic_origin",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "pre_byline_machine"
+      ],
+      "cited": [
+        "V2F015",
+        "V2F017",
+        "V2F030",
+        "V2F031"
+      ]
+    },
+    "C07": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F035",
+        "V2F041",
+        "V2F042"
+      ]
+    },
+    "C08": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F019",
+        "V2F020"
+      ]
+    },
+    "C09": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    "C10": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "collaborative_production",
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F026",
+        "V2F032",
+        "V2F042"
+      ]
+    },
+    "C11": {
+      "selection": "progressive",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "human_origin",
+        "shared_human_production",
+        "transition"
+      ],
+      "cited": [
+        "V2F018",
+        "V2F020",
+        "V2F041"
+      ]
+    },
+    "C12": {
+      "selection": "synthetic_origin",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "pre_byline_machine",
+        "later_machine_behavior"
+      ],
+      "cited": [
+        "V2F025",
+        "V2F032"
+      ]
+    },
+    "C13": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F018",
+        "V2F032"
+      ]
+    },
+    "C14": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F018",
+        "V2F030"
+      ]
+    },
+    "C15": {
+      "selection": "progressive",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "human_origin",
+        "shared_human_production",
+        "transition"
+      ],
+      "cited": [
+        "V2F030",
+        "V2F036",
+        "V2F039"
+      ]
+    },
+    "C16": {
+      "selection": "human_mantle",
+      "full_evidence_chain": false,
+      "uncited_evidence_dimensions": [
+        "identity_authority"
+      ],
+      "cited": [
+        "V2F004",
+        "V2F005",
+        "V2F018",
+        "V2F020"
+      ]
+    }
+  },
+  "belief_means_by_section": {
+    "1": {
+      "one_human": 25.0,
+      "human_mantle": 25.0,
+      "synthetic_origin": 25.0,
+      "progressive": 25.0,
+      "article_existed": 45.3,
+      "vale_killed_by_ai": 32.8
+    },
+    "2": {
+      "one_human": 22.8,
+      "human_mantle": 28.8,
+      "synthetic_origin": 26.6,
+      "progressive": 21.9,
+      "article_existed": 47.5,
+      "vale_killed_by_ai": 33.1
+    },
+    "3": {
+      "one_human": 17.8,
+      "human_mantle": 33.4,
+      "synthetic_origin": 27.5,
+      "progressive": 21.2,
+      "article_existed": 48.4,
+      "vale_killed_by_ai": 33.4
+    }
+  },
+  "public_fact_ids": [
+    "V2F002",
+    "V2F003",
+    "V2F004",
+    "V2F005",
+    "V2F007",
+    "V2F008",
+    "V2F012",
+    "V2F013",
+    "V2F018",
+    "V2F020",
+    "V2F025",
+    "V2F026",
+    "V2F030",
+    "V2F032",
+    "V2F034",
+    "V2F035",
+    "V2F036",
+    "V2F039",
+    "V2F040",
+    "V2F041",
+    "V2F042"
+  ]
+}

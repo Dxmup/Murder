@@ -1,0 +1,70 @@
+{
+  "character_id": "C09",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, regarding your request to date the change in the private habit: I have the ledger fragments, but you must strictly honor our attribution limits and protect customer privacy.",
+      "offer": "A bounded look at transaction timestamps and collector rotations.",
+      "request": "Confirmation of your binding promise not to name any customer as R.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I agree with your early warning. We must maintain a tight boundary around the service route and customer records so outside investigators don't scapegoat us.",
+      "offer": "Full alignment and mutual defense of our informal neighborhood arrangements.",
+      "request": "Formal acceptance of our shared protection boundary.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, our shift logs and collector accounts overlap around the service exit. Let's align our timelines so nobody manufactures a false narrative out of our blind spots.",
+      "offer": "My shop's shift context and delivery arrival notes.",
+      "request": "Your account of the physical gap near the service route.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "My counter records show multiple collectors and changing routines over the years, not a single static ghost. If anyone wants to examine the ledger, they respect customer privacy first.",
+  "facts_shared": [
+    "V2F008",
+    "V2F026",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Establish a shared boundary to protect Dee, Rafi, and Manny from being scapegoated over the service route.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C14",
+      "promise": "Restrict ledger disclosure terms and avoid naming any customer as R.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Clarifying that multiple collectors and shared accounts used the R-associated services across years, which complicates any simple single-author narrative.",
+  "goal_progress": [
+    "Negotiated bounded ledger terms with Morgan.",
+    "Accepted Inez's protective boundary proposal for local infrastructure workers.",
+    "Aligned shift and timeline notes with Dee."
+  ],
+  "beliefs": {
+    "one_human": 35,
+    "human_mantle": 35,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Rafi Calder\u00f3n solidifies agreements with Inez and Morgan in Section 2, aligning on customer privacy and local worker protections while coordinating timeline observations with Dee.",
+  "final_ballot": null
+}

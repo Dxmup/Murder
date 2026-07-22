@@ -1,0 +1,78 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C10",
+      "say": "Dee, management's audit flagged our unpreserved camera interval. We need a unified story about the service route so neither of us takes the fall for protecting people.",
+      "offer": "Exact service rhythms and local access context",
+      "request": "Agree on a shared disclosure boundary before investigators push us further",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, I received your message. Let's coordinate our defense for local workers and neighborhood witnesses right now before investigators start demanding names.",
+      "offer": "Neighborhood contractor context and coalition backing",
+      "request": "Joint advocacy to ensure no witness or worker is used as mystery currency",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I saw your note. We must keep our ledger entries and informal arrangements tight so outsiders don't scapegoat our block.",
+      "offer": "Support and discretion regarding local customer protections",
+      "request": "Mutual backing if past favors or informal access surface under scrutiny",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood provides the labor, storage, and routes that keep this building alive. If institutions want a manageable story tonight, they can start by guaranteeing protection and shared authority for the people who actually run the block.",
+  "facts_shared": [
+    "V2F007",
+    "V2F026",
+    "V2F040",
+    "V2F041",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "Coordinate disclosure of the camera gap to protect uninvolved residents",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C07",
+      "promise": "Coordinate neighborhood and contractor protection against outside investigator pressure",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Protect local customer records and informal arrangements from public exposure",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Coordinated disclosure boundaries with Dee regarding the camera gap and service route access.",
+    "Accepted Maren's coordination for joint worker and neighborhood witness protections.",
+    "Aligned with Rafi to protect local customer records and informal arrangements from exploitation."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 20,
+    "article_existed": 45,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Inez Baptiste in Section 2, my immediate priority is sealing a defensive pact with Dee, Maren, and Rafi so that neighborhood residents and workers are not scapegoated for the service route usage or camera gaps. I accepted commitments with C07, C09, and C10 to ensure our disclosure boundaries hold firm against outside scrutiny.",
+  "final_ballot": null
+}

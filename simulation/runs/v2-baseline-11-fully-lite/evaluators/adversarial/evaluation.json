@@ -1,0 +1,37 @@
+{
+  "role": "adversarial",
+  "verdict": "PARTIALLY_ALIGNED_WITH_ARTIFACT_SKEW",
+  "findings": [
+    "Overwhelming dominance of the human_mantle identity ballot (11 out of 16 characters in aggregate ballots), violating the locked design intent that One Human, Human Mantle, and Synthetic Origin should have equal structural weight.",
+    "Progressive choice remains heavily suppressed in identity ballots (only 1 ballot: C15), indicating that progressive difficulty requirements or prompt cues fail to position it as a balanced structural alternative.",
+    "Strong consensus on Vale's fate being voluntarily_vanished (12 ballots), demonstrating that the article's existence and fate maintain ambiguity across most agents, though C15 exhibits high confidence in killed_by_ai.",
+    "Effective application of object actions and voluntary showing (e.g., C02 showing O01 to C01, C04 showing O03, C08 showing O04), adhering to voluntary transfer rules without forced authority.",
+    "Successful face-to-face action simulation where app messages and archive disclosures drove direct negotiations, commitments, and neighborhood protection pacts across sections."
+  ],
+  "evidence": [
+    "Ballots distribution: r_identity -> human_mantle: 11, one_human: 2, synthetic_origin: 2, progressive: 1.",
+    "Vale fate distribution: voluntarily_vanished: 12, harmed_by_humans: 2, insufficient_evidence: 1, killed_by_ai: 1.",
+    "Character C15 persistently champions the progressive narrative ('human roots to synthetic capture') across sections 1, 2, and 3, but fails to convert other agents due to strong anchoring on human_mantle.",
+    "Character C02 (Frankie Lowell) and C01 (Arden Bell) repeatedly cite foundational evidence V2F001, V2F002, V2F003 to anchor human/mantle continuity.",
+    "Character C08 (Edi Velez) uses object action O04 ('show' commission card to C02) in Section 2 to ground collaborative performance without forced authentication."
+  ],
+  "failure_modes": [
+    "Weight Imbalance: Human Mantle dominates structurally, crowding out One Human and Synthetic Origin equal weight.",
+    "Progressive Under-adoption: Despite ordered history and autonomous control prompts, agents overwhelmingly retreat to Human Mantle rather than embracing the progressive synthesis.",
+    "Belief Mean Inertia: Belief means across sections show human_mantle holding highest scores (33.1 to 39.1) while progressive remains stagnant (17.5 to 18.4)."
+  ],
+  "recommendations": [
+    "Recalibrate agent prompt priors and evidentiary weights to give Synthetic Origin and One Human equal competitive footing against Human Mantle.",
+    "Strengthen the distinct Vale incident and historical ordering mechanics so that the Progressive pathway achieves higher structural parity in final ballots.",
+    "Ensure article existence ambiguity is more aggressively contested by market and institutional agents to prevent premature consensus on voluntary disappearance."
+  ],
+  "scores": {
+    "primary_ending_balance": 5,
+    "progressive_difficulty": 4,
+    "article_ambiguity": 7,
+    "character_agency": 8,
+    "social_circulation": 8,
+    "mechanical_integrity": 7,
+    "report_confidence": 7
+  }
+}

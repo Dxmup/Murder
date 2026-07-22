@@ -1,0 +1,81 @@
+{
+  "character_id": "C07",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, let's lock in our joint disclosure boundary. We must protect contributor names and prevent evaluators from being turned into suspects or ingredients in a public-interest story.",
+      "offer": "Organizing support and editorial backing for collective workflow descriptions that name no evaluator.",
+      "request": "Accept our joint commitment to maintain strict contributor anonymity.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, Parallax's remedies cannot be conditioned on proving R's identity or resolving corporate rumors. We demand formal written anonymity and unconditional support for workers who evaluated outputs.",
+      "offer": "Bounded worker testimony regarding shifting instructions, provided written anonymity and protections are guaranteed.",
+      "request": "A formal, unconditional institutional remedy and written anonymity guarantee for evaluators.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are asking questions and offering cash around the service routes. We need to coordinate mutual protections right now so neither workers nor residents become disposable suspects.",
+      "offer": "Coalition pressure and shared worker-resident accountability processes.",
+      "request": "Mutual coordination on safety protocols for contractors and witnesses before institutions demand names.",
+      "fact_ids_shared": [
+        "V2F042",
+        "V2F043"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of system outputs were built on invisible labor. We demand written protections for every worker before any evidence circulates, and real remedies that do not depend on proving R's identity.",
+  "facts_shared": [
+    "V2F040",
+    "V2F041",
+    "V2F043"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Establish a joint disclosure boundary to protect vulnerable contributors from being treated as R suspects.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C05",
+      "promise": "Provide bounded worker testimony on continuity instructions only after receiving written anonymity guarantees and unconditional remedies.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C16",
+      "promise": "Coordinate mutual protections for workers and residents against outside interrogation and extractive exploitation.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Clarifying that worker evaluation labor and changing supervisory instructions reflect invisible operational conditions, not proof of authorship or autonomous intent.",
+  "goal_progress": [
+    "Agreed with Tessa on a strict shared disclosure boundary to protect contributor anonymity.",
+    "Pressed Mira for unconditional institutional remedies and written anonymity guarantees independent of R's identity.",
+    "Coordinated with Inez on mutual protections for workers and neighborhood residents against outside interrogation."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 30,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Advanced labor organizing goals by solidifying an anonymity agreement with Tessa, demanding unconditional remedies and written protections from Mira, and formalizing defensive coordination with Inez against extractive institutional demands.",
+  "final_ballot": null
+}

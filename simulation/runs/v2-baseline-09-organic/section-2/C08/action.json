@@ -1,0 +1,50 @@
+{
+  "character_id": "C08",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, the payment notice confirms my fee passed through an intermediary tied to R's network. Let's compare the financial route under strict confidentiality.",
+      "offer": "Insight into the payment intermediary connecting my old commission to R's network.",
+      "request": "Your records or knowledge regarding the financial channels backing R.",
+      "fact_ids_shared": [
+        "V2F014"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, you've spoken about meeting R. Did that encounter involve a voice or presence that felt engineered to meet your exact expectations?",
+      "offer": "My perspective as a professional voice performer on how presence and tone can be artificially tailored.",
+      "request": "Specific sensory details of your supposed R encounter.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "A performed identity is an act of collaboration and consent, not an automatic surrender of authorship. Whoever reused my work without permission crossed a line.",
+  "facts_shared": [
+    "V2F014"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Maintain strict confidentiality regarding our comparison of payment intermediary structures.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Investigated the old commission payment route with Jules using payment processor notice V2F014.",
+    "Probed Frankie Lowell for sensory details of the alleged R encounter to distinguish performance from authorship."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 30,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Edi Velez pursues the provenance of the old commission in Section 2. By connecting with Jules regarding intermediary payment records and discussing encounter memories with Frankie, Edi seeks to expose unauthorized reuse of performed identity work while safeguarding professional boundaries.",
+  "final_ballot": null
+}

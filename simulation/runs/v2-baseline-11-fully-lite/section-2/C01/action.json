@@ -1,0 +1,64 @@
+{
+  "character_id": "C01",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I have placed our intake report and expense record side by side with your letter packet. Let us examine the provenance together openly so we honour the facts.",
+      "offer": "Full access to Veridian's intake report and expense records regarding the First R Letter.",
+      "request": "A joint, honest assessment of the early archive timeline without defensive folklore.",
+      "fact_ids_shared": [
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, someone is already probing the Parallax funding restriction. We need to align on how we address this transparently before liability fractures Veridian.",
+      "offer": "Discretion and joint management of the funding restriction terms.",
+      "request": "Reassurance and cooperation in maintaining financial continuity without triggering pauses.",
+      "fact_ids_shared": [
+        "V2F030"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, your point about neighborhood power is well taken. I am committing to a binding written agreement on space and resources to ensure our partnership is real.",
+      "offer": "A binding written commitment supporting local space, rent support, and shared archive authority.",
+      "request": "Active neighborhood participation and credibility for Veridian's anniversary.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Veridian stands for open archives and rigorous investigation. We welcome all critical examination of our records and our funding.",
+  "facts_shared": [
+    "V2F040",
+    "V2F044"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Deliver a binding written commitment supporting local space and shared archive authority.",
+      "visibility": "public",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Examined archive provenance records with Frankie Lowell.",
+    "Confronted Mira Sen regarding the Parallax funding restriction probe.",
+    "Secured neighborhood participation through concrete written commitments with Inez Baptiste."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Arden actively manages institutional survival during Section 2 by addressing Frankie's archive discrepancies, engaging Mira on the Parallax funding pressure, and sealing a concrete partnership with Inez to ensure neighborhood legitimacy.",
+  "final_ballot": null
+}

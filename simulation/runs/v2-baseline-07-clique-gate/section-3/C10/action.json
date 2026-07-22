@@ -1,0 +1,83 @@
+{
+  "character_id": "C10",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, our disclosure boundary is locked. We will protect the tenant and maintain our shared account of the service route without letting Morgan turn an ordinary favor into a staged murder.",
+      "offer": "Full corroboration of our local access boundary and camera gap explanation.",
+      "request": "Continued adherence to our joint disclosure agreement.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, here is the bounded operational account of the service route: the camera gap and automated access changes were separate events. In exchange for your fair treatment and resident protection, I am giving you the precise timeline.",
+      "offer": "Exact operational timeline of local service route access during the audit interval.",
+      "request": "A formal commitment to defensible attribution and resident anonymity.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F032"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, our shift records and collectors align. Let's make sure everyone knows our routines involved ordinary neighborhood work, not a cinematic conspiracy.",
+      "offer": "Shift-change details and access practice alignment.",
+      "request": "Mutual support in presenting our delivery window records.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "The camera gap and automated access changes are separate physical events. Do not let rumors collapse them into a single staged murder story.",
+  "facts_shared": [
+    "V2F026",
+    "V2F032"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundaries to protect uninvolved residents before speaking to Morgan.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C14",
+      "promise": "Provide a bounded operational account of the service route in exchange for fair treatment and resident anonymity.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Confirmed disclosure boundary and coordination with Inez.",
+    "Provided bounded operational account to Morgan under fair treatment terms.",
+    "Aligned shift records and delivery timelines with Rafi.",
+    "Completed final reconstruction and ballot."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 10,
+    "article_existed": 25,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Dee concludes her role by successfully locking down her disclosure boundary with Inez, delivering a precise, bounded operational account to Morgan, aligning shift logs with Rafi, and casting a ballot reflecting the separation of ordinary infrastructure gaps from manufactured murder narratives.",
+  "final_ballot": {
+    "r_identity": "one_human",
+    "identity_evidence": [
+      "V2F001",
+      "V2F004",
+      "V2F026"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032"
+    ]
+  }
+}

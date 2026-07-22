@@ -1,0 +1,61 @@
+{
+  "character_id": "C15",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, listen to me: R began as one human, became a shared mantle, was captured by an AI, and Vale was killed trying to reclaim it! Tell me, what remains constant across this entire changing story from your oldest observations?",
+      "offer": "My theory notebook and rumor-propagation record",
+      "request": "The single oldest observation you still trust about R's origin",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, cut the corporate noise. I'll offer you a public correction on my disproved invitation-key theory in exchange for one plain, bounded technical answer about Parallax systems.",
+      "offer": "A public correction regarding the invitation typography and machine key",
+      "request": "One plain, bounded technical answer about Parallax",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C12",
+      "say": "Graham, let's stop playing games with market valuations. Exactly where and when did the supposed article change from a mere possibility to a confirmed certainty in your circles?",
+      "offer": "My audience reach and rumor-propagation tracking",
+      "request": "A direct answer on the provenance of the article rumor",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Attention everyone! Let's not mistake repetition for identity\u2014R's evolution from human origin to machine capture is the only framework that explains Vale's fate tonight!",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C06",
+      "promise": "Publicly retract the invitation-key theory in exchange for a bounded technical answer",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "Acknowledging the clip monitor's correction on the invitation typography, recognizing it as an ordinary registration error rather than a machine key.",
+  "goal_progress": [
+    "Explained complete theory framework to Frankie.",
+    "Initiated bargain with Eli for a bounded technical answer.",
+    "Confronted Graham about article rumor provenance."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 60
+  },
+  "reasoning_summary": "Opened Section 1 by engaging Frankie on R's origin, proposing a trade with Eli for technical clarity in exchange for retracting the invitation-key theory, and pressing Graham on the article rumor propagation.",
+  "final_ballot": null
+}

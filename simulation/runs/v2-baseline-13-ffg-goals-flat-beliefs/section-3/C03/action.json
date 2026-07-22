@@ -1,0 +1,89 @@
+{
+  "character_id": "C03",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, our disclosure boundary held. Let's ensure our joint commitment is officially fulfilled so worker anonymity remains permanently protected.",
+      "offer": "Validated Night Desk workflow records without contributor names",
+      "request": "Mutual confirmation of our safe disclosure boundary",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian archive access must strictly respect our agreed source protections if the collective is to endorse any institutional provenance report.",
+      "offer": "Bounded Night Desk routing slip insights",
+      "request": "Formal written guarantee of contributor and source immunity",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, succession without ironclad contributor protections is just mythology rebranding. We will formally oppose your mantle claim unless governance terms are guaranteed.",
+      "offer": "Conditional Night Desk endorsement",
+      "request": "Binding written terms protecting anonymous collective labor",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of investigative reporting rests on the labor of many hands who remain anonymous. We reject any narrative that turns contributors into disposable myth.",
+  "facts_shared": [
+    "V2F004",
+    "V2F013",
+    "V2F035",
+    "V2F039",
+    "V2F041"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O02",
+      "action": "show",
+      "to": "C07"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary regarding collective labor before speaking to outsiders",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Clarified that Night Desk workflow represents collaborative labor rather than a single authorial mantle, and reaffirmed that contributor schedules do not imply automated or singular authorship.",
+  "goal_progress": [
+    "Fulfilled joint disclosure boundary commitment with Maren",
+    "Pressed Arden and Jules on concrete protections for Night Desk contributors",
+    "Secured institutional and social acknowledgments of collaborative labor"
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 65,
+    "synthetic_origin": 15,
+    "progressive": 10,
+    "article_existed": 70,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Tessa concludes her Section 3 participation by fulfilling her disclosure commitment with Maren, demanding strict protections from Arden and Jules, and submitting her final ballot affirming a human mantle composed of collaborative labor.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F013",
+      "V2F039",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

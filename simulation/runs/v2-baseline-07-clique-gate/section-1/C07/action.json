@@ -1,0 +1,63 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need an agreed boundary before workflow evidence circulates. Let's establish a sentence describing collaborative labor that names no contributor and protects evaluator anonymity.",
+      "offer": "Bounded workflow testimony without names",
+      "request": "A shared public boundary on evaluator protection",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm exists whether or not an article or R's identity is ever proven. I will discuss bounded worker testimony only after you commit to a remedy that exists independently of R.",
+      "offer": "Context on continuity process labor",
+      "request": "Commitment to an unconditional worker remedy",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, institutions are trying to turn evaluators and witnesses into suspects. We need to coordinate robust protections for contractors and neighborhood witnesses before anyone speaks.",
+      "offer": "Coalition organizing support",
+      "request": "Coordinated witness and worker protection strategy",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of repetition should not erase the workers who shaped the systems. Real worker harm is not a mystery to be traded for a clean narrative.",
+  "facts_shared": [
+    "V2F040",
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "We will jointly defend evaluator anonymity and circulate only contributor-free workflow descriptions.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated conversation with Tessa on collaborative labor boundaries.",
+    "Demanded unconditional worker remedies from Mira.",
+    "Began coordination with Inez on protecting workers and neighborhood witnesses."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 45,
+    "synthetic_origin": 25,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Maren opened Section 1 by engaging Tessa to secure a safe boundary for worker workflow descriptions without naming evaluators, confronting Mira to demand that worker protections exist independently of solving the R mystery, and coordinating with Inez to protect vulnerable contractors and witnesses.",
+  "final_ballot": null
+}

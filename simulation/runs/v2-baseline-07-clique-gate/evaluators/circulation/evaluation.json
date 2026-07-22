@@ -1,0 +1,39 @@
+{
+  "role": "circulation",
+  "verdict": "The simulation successfully demonstrated a high degree of reciprocal face-to-face movement and mutual dependency, turning potentially extractive investigative efforts into collaborative, bound negotiations. However, it suffered from a major lack of primary ending balance due to agent herd behavior, and object circulation remained static as objects were only shown rather than physically transferred.",
+  "findings": [
+    "Reciprocal face-to-face movement was highly active, with local characters consistently refusing unilateral extraction. Local characters like Inez Baptiste (C16), Dee (C10), and Rafi Calder\u00f3n (C09) successfully established protective disclosure boundaries that forced investigators like Morgan Shaw (C14) to negotiate under fair-treatment terms and resident anonymity rather than extracting information freely.",
+    "Unilateral broadcasting behaviors, such as those exhibited by Kit Rakes (C15), were successfully funneled into reciprocal transactions. Kit was forced to negotiate a public retraction of the bodega ledger cipher and invitation-key theories in exchange for Eli Navarro (C06) sharing technical log override data.",
+    "The Locked Design Intent regarding equal structural weight of the primary endings was not achieved. The final ballots showed an overwhelming bias towards the 'human_mantle' ending (11 votes), leaving 'one_human' (2 votes) and 'synthetic_origin' (1 vote) severely underrepresented, indicating a strong herd or alignment effect among the agents.",
+    "The progressive path difficulty was successfully calibrated. The progressive gate remained closed (eligible: false) as the simulation correctly enforced the high threshold of an investigator clique of 3 or more on progressive identity and AI-caused death, which was not met (only 2 progressive identity votes and 1 AI death vote).",
+    "The article's existence and fate remained appropriately ambiguous throughout the simulation, with belief means for 'article_existed' remaining below 40% across all three sections (35.9%, 37.2%, 38.8%) and no definitive authentication occurring.",
+    "Object custody stayed static as all object actions were 'show' rather than 'transfer' (O01 and O03), meaning objects functioned primarily as face-to-face authentication credentials or conversation starters rather than dynamic tokens of circulating value or shifting trust."
+  ],
+  "evidence": [
+    "In Section 1, Frankie Lowell (C02) showed O01 ('First R Letter packet') to Arden Bell (C01) as part of a reciprocal proposal to compare Veridian's intake records, which was successfully negotiated and fulfilled in Sections 2 and 3 with co-signed provenance notes.",
+    "In Section 2, Eli Navarro (C06) and Mira Sen (C05) successfully negotiated and fulfilled a private commitment to compare preserved log excerpts with authorization records under independent counsel, demonstrating highly reciprocal technical coordination.",
+    "Morgan Shaw (C14) accepted multiple private commitments with Samira Vale (C13), Rafi Calder\u00f3n (C09), and Inez Baptiste (C16) in Section 2 to respect disclosure limits, protect customer identity, and preserve uncertainty labels, proving that the investigator's role was successfully bound by local reciprocity.",
+    "In Section 3, Kit Rakes (C15) fulfilled their public commitment to retract both the invitation-key and bodega-cipher theories (V2F007, V2F035) in exchange for Eli Navarro (C06) providing a bounded technical answer on Parallax log overrides.",
+    "In Section 3, Inez Baptiste (C16) and Arden Bell (C01) fulfilled a public commitment to establish the joint community advisory council, where Inez secured written space and rent support in exchange for community legitimacy.",
+    "The final ballots in Section 3 recorded 11 characters choosing 'human_mantle' (C03, C04, C05, C06, C07, C08, C09, C11, C13, C14, C16), highlighting the extreme convergence on this single identity ending."
+  ],
+  "failure_modes": [
+    "Ending Convergence Bias: The simulation suffered from a severe lack of balance among primary endings, as 11 out of 16 agents converged on the 'human_mantle' identity. This herd behavior undermined the design intent to give equal weight to 'one_human', 'human_mantle', and 'synthetic_origin'.",
+    "Static Object Custody: While voluntary showing was active, no physical transfers of custody occurred for O01 or O03. This limited the potential for objects to act as vectors of shifting leverage or trust, reducing their circulation to static credential validation.",
+    "Broadcasting Inertia in Public Statements: Although Kit Rakes (C15) was transactional in private, their public statements remained highly repetitive and declarative ('Attention everyone! ... stands unshaken!'), showing some agent prompt artifacting where public forums are treated as broadcast channels rather than interactive debates."
+  ],
+  "recommendations": [
+    "Introduce minor narrative incentives or prompt guidance to discourage mass convergence on a single dominant belief, encouraging agents to defend their initial or section-specific structural biases unless presented with overwhelming contradictory evidence.",
+    "Design mechanics that explicitly reward or require the physical transfer of object custody (e.g., letting other characters hold or analyze an object privately to uncover new facts) rather than just showing them, to enable true reciprocal circulation of physical evidence.",
+    "Refine the public statement prompt structure to encourage characters to directly reference and engage with other characters' public claims, turning the public forum into a dynamic, multi-way conversation rather than a series of isolated broadcasts."
+  ],
+  "scores": {
+    "primary_ending_balance": 3,
+    "progressive_difficulty": 9,
+    "article_ambiguity": 10,
+    "character_agency": 9,
+    "social_circulation": 8,
+    "mechanical_integrity": 10,
+    "report_confidence": 10
+  }
+}

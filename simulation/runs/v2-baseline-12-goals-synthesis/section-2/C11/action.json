@@ -1,0 +1,72 @@
+{
+  "character_id": "C11",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the calendar recovery forces our hand. We can either compare our records now and present a joint account of limited oversight, or let external disclosures pin sole liability on one of us.",
+      "offer": "I will align my recoverable calendar entry with your authorization record to establish limited access without creating a false narrative.",
+      "request": "Accept joint responsibility for the off-calendar meeting disclosure.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, City Hall is ready to put real administrative authority and funding deadlines behind our labor language to make your protections enforceable.",
+      "offer": "I will incorporate enforceable worker and neighborhood oversight directly into the city's technology procurement policy.",
+      "request": "Confirm your support for the shared public boundary protecting worker anonymity.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, we want to respect Vale's privacy and ensure limited disclosure does not violate personal boundaries while containing the fallout.",
+      "offer": "I can offer administrative backing and a clear privacy boundary before any details of Vale's off-calendar access are released.",
+      "request": "Agree that limited disclosure can proceed without compromising Vale's personal dignity.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "City Hall recognizes the legitimate public interest and neighborhood concerns regarding emerging technology deployments. We are committed to establishing transparent oversight and enforceable safeguards rather than relying on rumors or symbolic consultations.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Incorporate enforceable worker and neighborhood oversight into the city's technology procurement policy.",
+      "visibility": "public",
+      "status": "accept"
+    },
+    {
+      "with": "C05",
+      "promise": "Coordinate joint disclosure regarding the off-calendar meeting to prevent either party from taking sole blame.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Mira Sen to coordinate matching disclosure of the off-calendar meeting.",
+    "Advanced enforceable labor and neighborhood oversight commitments with Maren Okafor.",
+    "Established privacy boundaries with Samira Vale regarding limited access disclosure."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 15,
+    "progressive": 30,
+    "article_existed": 45,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Celeste Park acts pragmatically to contain liability regarding the deleted calendar entry by coordinating disclosure with Mira Sen, solidifying enforceable worker protections with Maren Okafor, and respecting privacy boundaries with Samira Vale.",
+  "final_ballot": null
+}

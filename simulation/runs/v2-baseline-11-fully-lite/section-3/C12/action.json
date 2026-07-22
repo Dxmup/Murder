@@ -1,0 +1,74 @@
+{
+  "character_id": "C12",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C06",
+      "say": "Eli, we're at the final ballot. Your technical boundary is the only clean fence left against market fiction. Let's confirm your unspun system capability stance before votes are locked.",
+      "offer": "Market platform verification and professional backing for your technical caveats.",
+      "request": "An unambiguous confirmation of system capability versus autonomous intent.",
+      "fact_ids_shared": [
+        "V2F016",
+        "V2F018"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, final call on the ledger access and debt settlement terms. Let's record our transaction honestly without pretending ghosts wrote the books.",
+      "offer": "Immediate debt settlement in exchange for unspun ledger transaction continuity records.",
+      "request": "Clear, unmanufactured ledger pattern interpretation.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F037"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Kit, we played the rumor market to the edge. Let's make sure our final ballot and public statements reflect verified limits rather than theatrical certainty.",
+      "offer": "Coordinated transparency on how rumor propagation outpaced manuscript verification.",
+      "request": "Agreement to anchor final ballot evidence in verified operational logs rather than narrative myth.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036",
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Let's be entirely clear: markets move on fear, exposure, and belief, not on ghost stories. No complete manuscript has been produced, but the vulnerability is real. My campaign was about financial reality and exposing fragile valuations, not manufacturing fake articles.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Acknowledged that while the tip was amplified with aggressive framing, no complete article text has ever been verified by any independent source.",
+  "goal_progress": [
+    "Confirmed final technical boundaries with Eli Navarro.",
+    "Finalized ledger interpretation with Rafi Calder\u00f3n.",
+    "Aligned rumor propagation understanding with Kit Rakes for the final ballot."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 20,
+    "synthetic_origin": 55,
+    "progressive": 15,
+    "article_existed": 20,
+    "vale_killed_by_ai": 15
+  },
+  "reasoning_summary": "Graham Pike concludes his campaign by casting a final ballot favoring synthetic/distributed origin based on systemic workflow propagation and access logs, explicitly acknowledging that no complete manuscript or direct murder proof exists while standing by the financial reality of market exposure.",
+  "final_ballot": {
+    "r_identity": "synthetic_origin",
+    "identity_evidence": [
+      "V2F016",
+      "V2F018",
+      "V2F035"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F034"
+    ]
+  }
+}

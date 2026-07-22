@@ -1,0 +1,68 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need to agree on a bounded description of collaborative labor that protects our evaluator sources and names no contributor before any rumors circulate.",
+      "offer": "Bounded workflow and labor context without contributor names",
+      "request": "A shared boundary on what the Night Desk Collective circulates regarding evaluator inputs",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm is real whether or not an article existed. I will only discuss bounded evaluator testimony after you commit to a institutional remedy that exists independently of proving R's identity.",
+      "offer": "To discuss bounded evaluator testimony under written safety rules",
+      "request": "A public commitment to worker protections and compensation conditional on labor, not mystery outcomes",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, Vale's disappearance and the R anniversary are putting neighborhood witnesses and vulnerable contractors at risk. We need to coordinate protections before institutions start demanding names.",
+      "offer": "Coalition coordination between labor organizers and neighborhood defenders",
+      "request": "Joint alignment on refusing extractive bargains from corporate or institutional actors",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Worker harm is real whether R was human, collective, or machine. No remedy should be conditioned on solving a mystery or selling an article.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "To uphold strict source anonymity and share only contributor-free workflow descriptions through the Night Desk.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C05",
+      "promise": "Not to release identifying evaluator details provided Veridian or Parallax agree in writing to protect worker anonymity.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated discussions with Tessa Quill on workflow description bounds.",
+    "Demanded from Mira Sen a remedy independent of R's identity.",
+    "Engaged Inez Baptiste on neighborhood and worker safety."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 40,
+    "synthetic_origin": 25,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Maren focuses immediately on securing written anonymity and institutional protections for the evaluator represented by her. She coordinates with Tessa to maintain strict source boundaries, confronts Mira to demand remedies untethered from R's identity, and aligns with Inez to protect vulnerable community members from becoming scapegoats.",
+  "final_ballot": null
+}

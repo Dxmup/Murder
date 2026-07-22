@@ -1,0 +1,46 @@
+{
+  "character_id": "C08",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I've heard tales of your legendary encounter with R. Before we talk about what you saw, describe the voice and presence in sensory detail\u2014what did it actually feel like to be in that room?",
+      "offer": "My firsthand perspective on how voice and presence can be shaped or performed.",
+      "request": "A sensory description of your supposed R encounter before I share what I know.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, if you're looking to inherit or understand R's legacy, you need to know how the machinery was funded. Let's compare notes on intermediary payment structures under strict confidentiality.",
+      "offer": "Private comparison of payment routes and commission documentation.",
+      "request": "Your insight into the financial channels backing R's public presence.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Imitation without consent is theft, and performance is never authorship. Whoever reused performed identity work without permission must answer for it.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Maintain strict confidentiality regarding our comparison of payment structures and commission provenance.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Frankie Lowell to probe the R encounter memories.",
+    "Proposed private financial comparison with Jules Kwan regarding intermediary payment routes."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Edi Velez enters the gathering to discover who reused commissioned vocal and synthetic performances without consent. Initiated conversations with Frankie Lowell to uncover details of the alleged R encounter and with Jules Kwan to investigate payment routes, maintaining professional skepticism and guarding personal exposure.",
+  "final_ballot": null
+}

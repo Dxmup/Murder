@@ -1,0 +1,54 @@
+{
+  "character_id": "C08",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, that encounter you remember years ago? I was the voice and presence you met, commissioned under strict confidentiality. The material was reused without my consent, and I want to know who carried it into newsroom legend.",
+      "offer": "My firsthand account of the commission and confirmation of the performed encounter.",
+      "request": "Your disclosure of how that account entered newsroom legend and who facilitated it.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, reviewing our payment intermediary comparison, we can see how early production backing flowed into R-associated channels. Let's ensure proper attribution and protect artist consent in our final reconstruction.",
+      "offer": "My comparison notes on intermediary payment routes and commission records.",
+      "request": "Your collaboration on establishing a transparent provenance for R's early presence.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If we insist on treating every voice in a room as raw proof of authorship, we invite exploitation. Performance is an agreement, not a confession.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Confronted Frankie with the reality of the commissioned performance behind the R encounter.",
+    "Collaborated with Jules on intermediary payment routes and provenance tracking.",
+    "Completed final Section 3 ballot establishing character conclusions."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 35,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 0
+  },
+  "reasoning_summary": "In Section 3, Edi Velez reveals the truth of the commissioned performance to Frankie to trace how the performed encounter entered newsroom legend, while finalizing payment route comparisons with Jules. Edi concludes that R operated as a human mantle supported by synthetic and collaborative infrastructure, and records this on the final ballot.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F019",
+      "V2F020"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

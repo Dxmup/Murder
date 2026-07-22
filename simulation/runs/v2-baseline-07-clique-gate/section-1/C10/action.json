@@ -1,0 +1,66 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Management has flagged the unpreserved camera interval. We need to agree on how to explain this without exposing the tenant or risking our positions before Morgan starts building a narrative.",
+      "offer": "Exact building rhythms, routes, shift changes, and access practices.",
+      "request": "Corroboration and coordination on our disclosure boundary.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Let's compare our shift records and collectors so our timelines match up without inventing a single customer or exaggerated story.",
+      "offer": "Access practices and shift-change details.",
+      "request": "Your records for the corresponding delivery windows.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Before I give you any bounded account of the service route or the camera interval, I need a clear commitment on resident anonymity and fair treatment.",
+      "offer": "Exact operational timeline of local access.",
+      "request": "A formal guarantee of defensible attribution and fair treatment.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The camera gap and automated access changes are separate physical events. Do not let rumors collapse them into a single staged murder story.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundaries to protect uninvolved residents before speaking to Morgan.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C04",
+      "promise": "Provide a bounded operational account of the service route in exchange for fair treatment and resident anonymity.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Contacted Inez about the audit notice and requested coordination.",
+    "Proposed comparing shift records with Rafi.",
+    "Demanded fair treatment and bounded terms from Morgan before disclosing records."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 10,
+    "article_existed": 25,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Dee focuses on securing protection for the building's residents and her pension by coordinating with Inez first, aligning shift timing with Rafi, and demanding terms from Morgan regarding the camera audit flag.",
+  "final_ballot": null
+}

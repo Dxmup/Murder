@@ -1,0 +1,37 @@
+{
+  "role": "mystery",
+  "verdict": "The simulation successfully maintains article ambiguity and demonstrates robust character agency, but fails to preserve ending balance due to severe premature convergence on the human mantle hypothesis, while rendering the progressive ending virtually inaccessible.",
+  "findings": [
+    "Severe Premature Convergence on Human Mantle: Twelve out of sixteen characters (C01, C02, C03, C04, C06, C07, C08, C09, C10, C11, C14, C16) cast final ballots for the human_mantle identity, representing a failure of the design intent to maintain equal affirmative weight among One Human, Human Mantle, and Synthetic Origin.",
+    "Preservation of Article Ambiguity: The belief that 'the article existed' remained stable and highly uncertain across all sections (fluctuating tightly from 41.2% in Section 1 to 40.3% in Section 3), with no character or object authenticating its existence or fate.",
+    "Robust Local Privacy and Defensive Coalitions: Neighborhood characters (C09, C10, C16) and labor organizers (C03, C07) successfully formed protective boundaries to shield local witness anonymity and transaction histories (V2F007, V2F008, V2F026, V2F041) before negotiating access with outside investigators (C14) or corporate financiers (C12).",
+    "Inaccessible Progressive Gate: While all progressive gate keys were technically active, the gate remained closed because the threshold of 9 votes for both progressive identity and AI-caused death was mathematically impossible to coordinate under isolated agent behaviors, leaving Kit Rakes (C15) as the sole progressive advocate.",
+    "Functional Face-to-Face Object Mechanics: The voluntary showing of physical objects (e.g., C02 showing O01, C04 showing O03, C08 showing O04) stimulated face-to-face dialogues and negotiated compromises without triggering forced transfers or structural rule violations."
+  ],
+  "evidence": [
+    "Ballot Statistics: In Section 3, 'ballots.r_identity' shows 12 votes for human_mantle, 2 for synthetic_origin, 1 for one_human, and 1 for progressive.",
+    "Belief Shifts: The mean belief in human_mantle rose from 30.6% in Section 1 to 40.9% in Section 3, while one_human fell from 29.4% to 20.0%, demonstrating a systemic shift in agent reasoning toward a shared mantle.",
+    "Negotiated Commitments: Rafi (C09) and Graham (C12) successfully executed a financial transaction in Section 3, settling a debt in exchange for bounded ledger pattern access (V2F007, V2F008) under strict privacy terms.",
+    "Shared Disclosure Boundaries: Tessa (C03) and Maren (C07) proposed, accepted, and fulfilled a private commitment to protect anonymous Night Desk contributors (V2F004, V2F005, V2F041) across all three sections.",
+    "Stable Article Metrics: Belief means for 'article_existed' remained virtually unchanged from 41.2 in Section 1, 41.9 in Section 2, to 40.3 in Section 3, showing no convergence."
+  ],
+  "failure_modes": [
+    "Asymmetric Evidentiary Weight (Proof Leaks): Facts supporting the human_mantle hypothesis (like Rafi's multi-collector ledger V2F007/V2F008 and Tessa's Night Desk routing slips V2F004/V2F005) acted as highly persuasive 'proof leaks' that left alternative origins mechanically uncompetitive.",
+    "Progressive Gate Calibration Mismatch: Requiring a full social majority of 9 votes under an isolated multi-section simulation prevented the progressive arc from being a viable ending pathway, as agents had no mechanism for paradigm-shifting orchestration.",
+    "Hypothesis Undervaluing: The 'One Human' hypothesis lacked compelling positive evidence in the public fact pool, causing characters like Frankie Lowell (C02) to quickly abandon their personal origin stories when confronted with archival records."
+  ],
+  "recommendations": [
+    "Introduce Counterbalancing Proofs: Seed the simulation with equally compelling, un-debunkable evidence for One Human (e.g., private continuity diaries showing a singular hand) and Synthetic Origin (e.g., deep system logs of autonomous generation before any human interaction) to maintain structural weight.",
+    "Incorporate Clue Sharing Friction: Implement narrative cost or scarcity constraints on the sharing of routing slips (V2F004/V2F005) and ledger patterns (V2F007/V2F008) to slow down social circulation and prevent premature consensus.",
+    "Calibrate Progressive Gating Thresholds: Lower the threshold for the progressive gate from a full majority of 9 to a smaller, dedicated sub-clique of investigative agents (e.g., C06, C14, C15) or make it trigger dynamically as chronological phases are solved."
+  ],
+  "scores": {
+    "primary_ending_balance": 2,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 8,
+    "social_circulation": 9,
+    "mechanical_integrity": 9,
+    "report_confidence": 10
+  }
+}

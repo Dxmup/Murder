@@ -1,0 +1,54 @@
+{
+  "character_id": "C15",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, listen to me: R began as one human, became a shared mantle, was captured by an AI, and the AI killed Vale! Give me the single oldest observation you still trust.",
+      "offer": "My audience reach and rumor-propagation record",
+      "request": "The single oldest observation about R's origin that you still trust",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, no hype. Give me one bounded technical answer about Parallax, and I will publicly retract my claim about the invitation typography being a machine key.",
+      "offer": "A public retraction of my false invitation-key theory",
+      "request": "One plain, bounded technical answer regarding Parallax",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C12",
+      "say": "Graham, where exactly did the supposed article change from mere possibility to absolute certainty in financial circles?",
+      "offer": "Access to my audience and theory notebook",
+      "request": "Clarification on how the rumor of the article was manufactured",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Attention everyone! I'm formally retracting my claim that the invitation typography contains a machine key\u2014the clip monitor has proven it's ordinary registration errors. But the complete progression of R stands!",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Retracted the invitation-key theory following the clip monitor disproof.",
+  "goal_progress": [
+    "Explained theories to participants",
+    "Publicly corrected the invitation-key theory",
+    "Engaged Frankie, Eli, and Graham"
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 30,
+    "article_existed": 40,
+    "vale_killed_by_ai": 70
+  },
+  "reasoning_summary": "Kit Rakes opens Section 1 by engaging Frankie on origins, challenging Eli for a bounded technical answer while offering a public retraction on the invitation key, and asking Graham about the rumor provenance. Beliefs reflect strong conviction in the progressive theory and AI involvement in Vale's fate.",
+  "final_ballot": null
+}

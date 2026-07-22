@@ -1,0 +1,73 @@
+{
+  "character_id": "C05",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C06",
+      "say": "Eli, I accept your terms. Independent counsel is arranged, and I am ready to compare your preserved log component with my authorization record.",
+      "offer": "Independent counsel and my matching authorization record.",
+      "request": "The preserved continuity-log component detailing system capability.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, worker remedies should exist independently of rumors or R's identity. I commit to establishing enforceable audit rights and compensation.",
+      "offer": "An unconditional institutional commitment to worker protection, audit rights, and compensation.",
+      "request": "Your collaborative feedback and evaluator context.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, let's align our calendar disclosures regarding Vale's off-calendar meeting so neither City Hall nor Parallax carries the exposure alone.",
+      "offer": "To coordinate joint disclosure of the meeting records to prevent unilateral framing.",
+      "request": "Your matching calendar context for the meeting.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Parallax welcomes transparent review of our authorization records and remains dedicated to supporting tangible worker remedies and institutional accountability.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C06",
+      "promise": "I will share the authorization record and independent counsel in exchange for the capability log component.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C11",
+      "promise": "Coordinate joint disclosure of the off-calendar meeting records to prevent unilateral framing.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Eli's proposal for log comparison under independent counsel.",
+    "Reaffirmed unconditional worker remedies with Maren.",
+    "Coordinated calendar record alignment with Celeste."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 2, Mira finalizes agreements with Eli for log comparison, engages Maren to solidify unconditional worker remedies, and coordinates with Celeste to align off-calendar meeting records.",
+  "final_ballot": null
+}

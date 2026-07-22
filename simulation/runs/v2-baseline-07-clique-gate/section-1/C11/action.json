@@ -1,0 +1,64 @@
+{
+  "character_id": "C11",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, we need to talk about the off-calendar meeting records before fragments become a weapon against both of us.",
+      "offer": "To compare our calendar entries and coordinate shared responsibility rather than defensive silences.",
+      "request": "Your agreement on how we acknowledge limited Parallax access without taking the fall alone.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, no more advisory committees with empty promises. City Hall wants your credibility, but you need enforceable protections.",
+      "offer": "Credible paths to funding and direct agency access backed by formal deadlines.",
+      "request": "A concrete worker safeguard demand that we can lock into policy tonight.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I know neighborhood leaders are tired of being treated like photo ops. Let's make sure your community wins something permanent.",
+      "offer": "City Hall support for a real neighborhood demand that survives tomorrow's press cycle.",
+      "request": "One specific, enforceable neighborhood commitment with an absolute deadline.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Let's distinguish verified civic harms and legitimate oversight needs from market rumors. City Hall is here to build policy that protects our neighborhoods and workers, not chase unverified drafts.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a binding deadline and enforceable worker safeguards for city-partnered deployments.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Mira Sen regarding the off-calendar meeting and records alignment.",
+    "Approached Maren Okafor to discuss enforceable labor protections.",
+    "Initiated dialogue with Inez Baptiste to secure a concrete neighborhood demand."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Celeste Park acts as a pragmatic fixer, engaging key stakeholders (Mira, Maren, Inez) to contain the off-calendar meeting fallout, protect the administration through shared disclosure, and establish concrete policy and labor commitments rather than chasing unverified rumors.",
+  "final_ballot": null
+}

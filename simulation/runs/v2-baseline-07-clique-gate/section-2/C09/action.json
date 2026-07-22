@@ -1,0 +1,71 @@
+{
+  "character_id": "C09",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C12",
+      "say": "Graham, you offered to settle the shop's old account balance and provide financial research backing. I will show you the raw transaction pattern without the spin, provided you respect the context and don't misrepresent it as a single person's diary.",
+      "offer": "Bounded view of the raw ledger pattern showing transaction continuity and multiple collectors.",
+      "request": "Debt settlement and agreement to state clearly what the ledger cannot prove.",
+      "fact_ids_shared": [
+        "V2F037"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, regarding your request to date the private habit's shift: I can share the specific timeline entries from the counter logs, but only under our strict attribution terms.",
+      "offer": "Counter logs and transaction strip data to help date the ledger shift.",
+      "request": "Your continued adherence to the promise not to call any customer R and to protect customer privacy.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are offering cash for service route names. We need to lock down our boundary so nobody turns back room access into an interrogation target.",
+      "offer": "Agreement on what details remain strictly off-book and mutual neighborhood protection.",
+      "request": "Your public and private backing to ensure local arrangements stay shielded from outside pressure.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "If anyone looks at the counter logs, remember that a recurring routine involves multiple hands, shifting schedules, and ordinary neighborhood credit, not a single cinematic mastermind.",
+  "facts_shared": [
+    "V2F007",
+    "V2F008",
+    "V2F037",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "Restrict ledger disclosure to a bounded review and protect customer identity.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C12",
+      "promise": "Provide bounded access to the raw ledger pattern in exchange for debt settlement support.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Graham Pike regarding debt settlement in exchange for raw ledger patterns.",
+    "Followed up with Morgan Shaw on bounded ledger access for dating the pattern shift.",
+    "Reinforced privacy boundaries with Inez Baptiste against outside cash pressures."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Rafi navigates Section 2 by negotiating debt settlement with Graham in exchange for raw ledger visibility, upholding privacy terms with Morgan, and solidifying neighborhood defense with Inez against outside exploitation.",
+  "final_ballot": null
+}

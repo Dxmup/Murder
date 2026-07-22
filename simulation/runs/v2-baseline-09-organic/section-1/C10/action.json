@@ -1,0 +1,52 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management flagged our unpreserved camera interval from the audit. We need to align on how to explain the gap without exposing the tenant we protected.",
+      "offer": "Exact building service rhythms and access practices to help coordinate our story.",
+      "request": "Agree on a common disclosure boundary before talking to Morgan or anyone else.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, I understand you are collecting accounts regarding Vale's route and the building. Before I offer anything, what specifically will 'fair treatment' and a 'bounded account' mean in your report?",
+      "offer": "The operational context of the camera audit notice and service routes.",
+      "request": "A guarantee of precise attribution and tenant protection before I open my records.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The camera audit notice points to a real physical gap, but it does not identify Vale or prove who used the service route. Let's stick to what we actually saw instead of inventing a murder story.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure of the camera gap to protect uninvolved residents.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Inez to discuss the audit notice and coordinate a disclosure boundary.",
+    "Engaged Morgan to demand terms for a bounded account."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Dee Nowak focuses on protecting the building's pension and residents from unfair blame regarding the unpreserved camera interval. Initiated conversations with Inez to align on disclosure boundaries and with Morgan to establish terms for any bounded account.",
+  "final_ballot": null
+}

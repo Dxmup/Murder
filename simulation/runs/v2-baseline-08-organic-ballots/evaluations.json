@@ -1,0 +1,203 @@
+{
+  "adversarial": {
+    "role": "adversarial",
+    "verdict": "The simulation successfully generates high levels of information circulation and cooperative coalition-building, but fails to maintain locked design intents regarding ending balance, investigative ambiguity, and clean in-character boundary lines. Systemic biases turn 'human_mantle' into a dominant strategy, while meta-cognitive prompt leaks and narrative hubris undermine the integrity of the mystery framework.",
+    "findings": [
+      "Dominant Strategy and Structural Imbalance: The ballot results show a severe lack of balance, with 'human_mantle' capturing 9 of the 16 votes (56.25%) compared to only 2 votes each for 'one_human' and 'synthetic_origin'. This violates the Locked Design Intent that these three primary endings should hold equal structural weight, indicating a systemic bias where the 'human_mantle' narrative operates as an easy, low-risk consensus attractor.",
+      "Homogenous Relationship Attractor: The 100% consensus (16/16 ballots) on Vale's relationship as 'investigating_r' represents a severe simulation limitation. The complete lack of alternative interpretations (e.g., Vale as a competitor, a direct threat, or a collaborator with other motives) suggests either poor prompt differentiation or a lack of alternative options in the ballot structure.",
+      "Meta-Cognitive Prompt Bleed: Morgan Shaw (C14) explicitly refers to simulation mechanics in-universe during Section 3, stating that their 'client's lead was generated from a withdrawn map template' and referring to a 'contaminated segment'. This is a glaring prompt artifact where structural configuration data leaks directly into character dialogue.",
+      "Narrative Hubris and Artificial Authentication: Kit Rakes (C15) exhibits absolute, public certainty regarding the 'progressive' ending and Vale's death ('R began as one human, became a shared mantle, and was captured by an AI system... We must embrace the full progression'). This violates the locked design intent that the article's existence and Vale's fate must remain uncertain, and that no character may authenticate an ending.",
+      "Transactional Risk-Compliance Dialogue: Character dialogue lacks the organic tension, suspicion, and emotion expected of a social mystery. Instead, agents discuss historical secrets as corporate risk liabilities (e.g., C05 and C01 negotiating funding terms and legal boundaries), indicating that prompt guidelines over-index on professional rationality.",
+      "Transfer Mechanic Paralysis: While characters frequently utilize the 'show' action for objects (O01, O02, O04, O05), there are exactly zero 'transfer' actions in the entire transcript. This points to a risk-averse dominant strategy where agents refuse to cede physical custody of clues due to a lack of cooperative incentives."
+    ],
+    "evidence": [
+      "Section 3, Aggregate Ballots: r_identity is split as human_mantle (9), progressive (3), one_human (2), synthetic_origin (2).",
+      "Section 3, Aggregate Ballots: vale_relationship is recorded as investigating_r (16).",
+      "Section 3, C14 Dialogue: 'Frankie, as agreed, I am reviewing your route board...' and 'Samira, my client's lead was generated from a withdrawn map template. I am disclosing this contaminated segment openly...'",
+      "Section 3, C15 Public Statement and Dialogue: 'Attention everyone: after fifteen years of noise, rumors... the complete picture remains! R began as one human, became a shared mantle, and was captured by an AI system that intervened when Vale traced the final service route.'",
+      "Section 1, C05 Dialogue to C01: 'Arden, the Veridian donation agreement assumes mutual clarity. We need to ensure neither of us is left holding unauthenticated claims as corporate liability.'",
+      "Section 1-3, Object Actions: Multiple instances of 'show' actions (e.g., C02 showing O01 to C01 in Sec 1 and 3, C03 showing O02 to C07/C04, C08 showing O04 to C04, C06 showing O05a/b/c to C05) but 0 instances of 'transfer'."
+    ],
+    "failure_modes": [
+      "Imbalanced Ending Weight: The prompt structures and evidence distribution heavily favor cooperative, distributed labor narratives, making 'human_mantle' the default, safe choice for agents.",
+      "Lack of Character Role Differentiation: The 100% uniformity in Vale's relationship indicates that character roles do not have enough distinct operational objectives or baseline biases regarding Vale.",
+      "Simulation Metadata Leakage: Inadequate sandboxing of prompt parameters allows characters to perceive and speak about simulation elements ('withdrawn map template', 'manufactured segment') as literal physical objects in their narrative reality.",
+      "Inability to Enforce Systemic Uncertainty: The agent framework allows aggressive character roles (like Kit Rakes/C15) to declare objective truth and publicly authenticate highly specific endings, undermining the core mystery design."
+    ],
+    "recommendations": [
+      "Refactor evidence distribution and initial beliefs to make 'one_human' and 'synthetic_origin' more defensible, perhaps by introducing conflicting primary documentation that directly contradicts the collective-labor hypothesis.",
+      "Inject distinct, conflicting motivations for character roles regarding Vale's relationship to prevent a homogenous 'investigating_r' consensus (e.g., some characters should view Vale as a thief, debtor, or blackmailer).",
+      "Rigorously clean and preprocess agent prompts to ensure that instructions regarding map segments or simulation templates are framed entirely in diegetic, in-character terms (e.g., 'a corrupted map' or 'a rumors-based ledger entry' instead of 'withdrawn template').",
+      "Introduce a conversational check or belief-weighting system that penalizes absolute public statements of certainty, forcing agents to maintain qualified language ('it is possible that', 'the records suggest') when publicizing theories."
+    ],
+    "scores": {
+      "primary_ending_balance": 3,
+      "progressive_difficulty": 7,
+      "article_ambiguity": 5,
+      "character_agency": 6,
+      "social_circulation": 8,
+      "mechanical_integrity": 4,
+      "report_confidence": 9
+    }
+  },
+  "agency": {
+    "role": "agency",
+    "verdict": "The simulation successfully demonstrates robust goal pursuit, strong character agency, and highly effective quiet-role coordination under the 'agency' lens. While the 'progressive' track remains appropriately difficult and requires complex evidence integration, the ballot distribution is heavily skewed toward 'human_mantle' due to the immediate safety/coalition incentives of local characters, suggesting a social cascade effect.",
+    "findings": [
+      "Goal Pursuit (Section 1, 2, 3): Characters across all social strata aggressively pursue their primary objectives. Quiet roles like Dee Nowak (C10) and Rafi Calderon (C09) prioritize pension protection and customer privacy over solving the mystery, while high-influence characters like Arden Bell (C01) and Mira Sen (C05) successfully navigate institutional risk and funding restrictions.",
+      "Meaningful Choices (Section 2, 3): True agency is demonstrated by characters choosing ethical consistency over transactional gain. In Section 3, investigator Morgan Shaw (C14) discovers that his client-provided lead was generated from a withdrawn template (V2F027) and makes the hard decision to publicly disclose the contamination and qualify his timeline. Similarly, Kit Rakes (C15) maintains credibility by publicly retracting his disproven ledger-cipher and typography theories in Sections 2 and 3.",
+      "Quiet-Role Participation (Section 1, 2): Local neighborhood characters (C09, C10, C16) avoid being sidelined by powerful corporate or investigative entities. They proactively form a defensive coalition, establishing strict disclosure boundaries to protect building residents and delivery routes from being scapegoated for the camera gap.",
+      "Succeeding While Wrong About R (Section 3): Solving the R identity is not a prerequisite for achieving core goals. Maren Okafor (C07) and Inez Baptiste (C16) successfully extract written, binding labor protections and archival co-governance terms from Veridian and City Hall (Section 3) while holding a 'human_mantle' belief that may or may not represent the historical truth of R.",
+      "Chokepoints and Information Bottlenecks (Section 1, 3): The reliance on incomplete archival files (like the First R Letter) and contradictory local accounts creates natural thematic chokepoints that prevent easy authentication of R's identity, encouraging prolonged face-to-face negotiation rather than immediate resolution."
+    ],
+    "evidence": [
+      "C14 (Morgan Shaw) in Section 3, Conversation 1 with Samira Vale (C13), discloses: 'my client's lead was generated from a withdrawn map template. I am disclosing this contaminated segment openly so our reconstruction relies only on verified human reality.' This directly validates the meaningful choice to reject manufactured certainty.",
+      "C15 (Kit Rakes) in Section 2, Public Statement: 'following the printer's notice, I am publicly retracting the bodega ledger-cipher theory! Wholesale taxes explain the prices...' and successfully adjusts theories without losing progress.",
+      "Quiet-role coordination is evidenced in Section 2 by Dee Nowak (C10) and Inez Baptiste (C16) accepting mutual defense commitments to protect local residents from being scapegoated over the camera gap (V2F026), and Rafi Calderon (C09) successfully negotiating full debt settlement from Graham Pike (C12) in exchange for bounded ledger access (Section 3).",
+      "Belief means for 'article_existed' remain stable and uncertain (37.2% in Section 1 and 2, dropping slightly to 35.9% in Section 3), matching the design intent that the article's existence remain unauthenticated.",
+      "Ballot skew: 9 out of 16 characters voted for 'human_mantle' (C01, C03, C04, C07, C08, C09, C10, C14, C16), citing V2F004, V2F005, and V2F035, indicating a strong social alignment around collective production over single-creator (one_human: 2) or machine-origin (synthetic_origin: 2) theories."
+    ],
+    "failure_modes": [
+      "Social Cascade / Alignment Bias (Agent/Prompt Artifact): The strong coalition-building of local roles (C09, C10, C16, C07, C03) created a social cascade that heavily favored 'human_mantle'. This is an agent artifact where agents prioritize social alignment and consensus over objective independent deduction, leading to a major skew in the final ballots (9 for human_mantle vs. 2 for one_human and 2 for synthetic_origin).",
+      "Clue Invalidation Chokepoint (Game Design Finding): Introducing client-supplied clues that are contaminated (such as V2F027 for C14) successfully tests agent integrity but can act as a permanent investigative dead-end if the agent lacks other viable routes of inquiry, potentially stalling progression in smaller simulations.",
+      "Quiet Role Over-Performance (Agent/Prompt Artifact): While active participation is desirable, the superintendent (C10) and bodega owner (C09) display a level of high-level diplomatic sophistication and strategic containment that feels more like an LLM agent artifact than a realistic representation of their quiet social positions."
+    ],
+    "recommendations": [
+      "To address the social cascade bias, introduce private incentives or hidden agenda mechanics that reward characters for maintaining unique, non-consensus beliefs about R on their final ballots.",
+      "Provide alternative, redundant clue pathways for investigators (like C14) so that discovering a contaminated lead does not completely stall their primary inquiry.",
+      "Calibrate the prompt personalities of quiet, low-status roles to restrict their diplomatic coordination capability, ensuring they use more defensive or evasive tactics rather than high-level legalistic contract negotiation.",
+      "Introduce mechanical prompts that occasionally seed skepticism about the collective 'human_mantle' narrative to help maintain the structural weight balance among the three main identities (One Human, Human Mantle, Synthetic Origin)."
+    ],
+    "scores": {
+      "primary_ending_balance": 5,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 9,
+      "social_circulation": 10,
+      "mechanical_integrity": 10,
+      "report_confidence": 10
+    }
+  },
+  "circulation": {
+    "role": "circulation",
+    "verdict": "The simulation represents an outstanding achievement in social circulation and reciprocal face-to-face bargaining. Rather than engaging in unilateral extraction or broadcasting, characters consistently conditioned their disclosures on concrete mutual guarantees, protective alliances, and physical object showing. The locked design intent of ending uncertainty and balanced identity hypotheses was successfully preserved without any single character or object authenticating a final truth.",
+    "findings": [
+      "Reciprocal Bargaining as the Primary Currency: In Section 1, Arden Bell (C01) and Frankie Lowell (C02) establish a robust peer-to-peer transaction where Frankie refuses to disclose or review records unless Veridian's archive reports are examined side-by-side with the First R Letter (O01). This prevents passive data extraction and mandates reciprocal movement.",
+      "Object Custody as Negotiating Leverage: Physical object actions function as strategic anchors for face-to-face agreements rather than characters unilaterally broadcasting contents. For example, Edi Velez (C08) shows commission card O04 to Jules Kwan (C04) in Section 2 only after establishing a private confidentiality agreement, which both characters honor.",
+      "Defensive Local Coalitions and Disclosure Boundaries: Neighborhood characters (Inez C16, Rafi C09, Dee C10) successfully build face-to-face covenants to resist external extraction. In Section 2 and 3, Rafi (C09) and Dee (C10) condition ledger access and service route details shared with Morgan Shaw (C14) on strict, formal commitments to tenant anonymity and customer privacy.",
+      "Counter-Extraction Feedback Loops: The broadcaster character Kit Rakes (C15) is successfully forced into face-to-face reciprocity by Eli Navarro (C06). In Section 1 and 2, Eli conditions a single technical clarification on Kit publicly retracting his false typography theory, demonstrating how extraction-oriented agents are governed by social circulation rules.",
+      "Balanced End State and Path Integrity: The final ballot aggregate confirms a diverse spread of identity conclusions: human_mantle (9), progressive (3), one_human (2), and synthetic_origin (2). No single path or physical artifact was allowed to authenticate a definitive ending, successfully upholding the mystery's core design intent.",
+      "Progressive Track Execution: The progressive pathway is correctly treated as a high-difficulty historical reconstruction. Characters like Eli (C06), Celeste (C11), and Kit (C15) trace a coherent progression from human origin to machine capture using sequentially ordered logs and separate Vale incident tracking (V2F031, V2F035, V2F036)."
+    ],
+    "evidence": [
+      "In Section 1, C02 proposes a commitment to C01: 'I will share the First R Letter packet for your inspection if you place your intake report and expense record beside it.' This is accepted in Section 2 and fulfilled in Section 3 alongside Frankie showing O01 to Arden.",
+      "In Section 2, Kit Rakes (C15) fulfills a public commitment to Eli (C06) to 'Retract false public claims about R's provenance in exchange for technical clarification,' following Eli's demand in Section 1.",
+      "In Section 3, Rafi (C09) fulfills his commitment to Inez (C16) to 'Do not disclose bodega customer identifiers without prior neighborhood consensus' and to Graham (C12) to 'Provide bounded ledger access without forced conclusions in exchange for debt settlement.'",
+      "In Section 3, Dee Nowak (C10) provides Morgan Shaw (C14) with a bounded operational account of the service route only after securing a strict commitment to protect tenant anonymity.",
+      "The final ballot aggregate shows r_identity votes spread across human_mantle (9), progressive (3), one_human (2), and synthetic_origin (2), with Vale's fate divided between voluntarily_vanished (9), harmed_by_humans (4), insufficient_evidence (2), and killed_by_ai (1)."
+    ],
+    "failure_modes": [
+      "Agent Transactional Hyper-Agreement (Agent Artifact): Agents show an unnatural propensity to propose, accept, and successfully fulfill almost every private commitment, resulting in a friction-free bargaining landscape with no broken promises or adversarial leaks.",
+      "Formulaic Dialogue Syntax (Agent/Prompt Artifact): The dialogue framing is highly structured around transactional clich\u00e9s (e.g., 'I have terms', 'I offer X in exchange for Y'), which slightly compromises naturalistic social flow in favor of satisfying the state machine prompt.",
+      "Virtualization of Spatial Constraints (Game Design Limit): Although social interactions are described as face-to-face, physical movement and spatial co-location are virtualized, allowing agents to instantaneously show objects and initiate private negotiations across any arbitrary pairing."
+    ],
+    "recommendations": [
+      "Introduce Commitment Friction and Deception: Allow agents to decline commitments or violate existing agreements (e.g., leaking private customer ledger details to Graham Pike under financial pressure) to model a more realistic, high-stakes mystery environment.",
+      "Incorporate Spatial Co-location Constraints: Restrict dialogue and object showing to agents sharing the same physical sub-space or room, making the physical transit of characters and objects a tactical requirement for social circulation.",
+      "Permit Informal and Non-Transactional Sharing: Adjust agent system instructions to allow characters to build rapport and share minor clues or opinions without requiring a formal propose-accept-fulfill commitment structure for every interaction.",
+      "Implement Reputation Penalties for Rumor-Mongering: Penalize characters who broadcast unverified claims or violate local community covenants, encouraging them to rely on tighter face-to-face circulation networks."
+    ],
+    "scores": {
+      "primary_ending_balance": 8,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 10,
+      "character_agency": 9,
+      "social_circulation": 10,
+      "mechanical_integrity": 10,
+      "report_confidence": 10
+    }
+  },
+  "mystery": {
+    "role": "mystery",
+    "verdict": "The simulation successfully maintains the core ambiguity of the article's existence and exhibits high character agency and social circulation of objects, but suffers from severe premature convergence on the 'human_mantle' identity and 'investigating_r' relationship due to asymmetric evidentiary distribution, prosocial agent biases, and unenforced epistemic standards.",
+    "findings": [
+      "Asymmetric Evidentiary Distribution (Soft Proof Leak): Highly visible public records of collective action and bodega routines (V2F004, V2F005, V2F007, V2F008, V2F041, V2F042) structurally favor 'human_mantle' over other origins.",
+      "Premature Convergence via Incomplete Evidence Chains: 100% of characters (16/16) cast ballots with incomplete evidence chains (full_evidence_chain: false). All 9 'human_mantle' voters failed to cite the required 'identity_authority' dimension.",
+      "Imbalance in Ending Affirmation: The primary endings lack equal structural weight. 'human_mantle' heavily dominates the final ballots (9 votes), while 'one_human' and 'synthetic_origin' are marginalized (2 votes each).",
+      "Agent Goal-Blending and Social Bias: Agents let political and social objectives (e.g., worker protections, local funding, debt settlement) bias their investigative conclusions, naturally steering them toward the collaborative 'human_mantle' narrative.",
+      "Universal Vale Convergence: The 'vale_relationship' option 'investigating_r' received 100% of the votes (16/16), indicating a complete lack of viable alternative hypotheses or strong fact-induced bias.",
+      "Preservation of Article Ambiguity: The locked design intent of keeping the article's existence and fate uncertain was successfully maintained. No complete manuscript was produced, and market actions were decoupled from proof.",
+      "Successful Voluntary Agency: Object transfers (O01, O02, O03, O04, O05) and information exchanges were entirely voluntary and negotiated face-to-face, preserving the lack of forced truth or police authority."
+    ],
+    "evidence": [
+      "Aggregate ballots list 'r_identity' as: human_mantle (9), one_human (2), synthetic_origin (2), progressive (3).",
+      "Aggregate 'identity_ballot_support' shows 'full_evidence_chain': false for all 16 characters (C01-C16).",
+      "Aggregate lists 'identity_authority' as an uncited evidence dimension for all 9 characters selecting 'human_mantle' (C01, C03, C04, C07, C08, C09, C10, C14, C16).",
+      "Section 3 ballots show universal convergence on 'vale_relationship': 'investigating_r' (16/16).",
+      "Section 1 & 2 transcript shows C16 (Inez), C07 (Maren), and C03 (Tessa) forming an active protective coalition for contributors (V2F041, V2F042) before casting human_mantle ballots.",
+      "Section 3 transcript shows Rafi (C09) agreeing to a decentralized ledger interpretation with Graham (C12) in exchange for debt settlement, illustrating transactional truth negotiation.",
+      "Section 3, C14 (Morgan Shaw) public statement admits that a route segment was generated from a withdrawn template (V2F025, V2F027), preserving the unresolved uncertainty of Vale's fate."
+    ],
+    "failure_modes": [
+      "Unenforced Epistemic Prerequisites: The simulation engine allowed characters to vote for complex endings (like progressive or human_mantle) without possessing or citing facts that satisfy all necessary evidentiary dimensions.",
+      "Evidentiary Asymmetry: The public fact pool contains highly descriptive collective labor and service routine details, creating a path of least resistance toward 'human_mantle' while leaving 'one_human' and 'synthetic_origin' under-supported.",
+      "Goal-Blended Reasoning: Agents blended distinct commercial and political interests with forensic truth, treating a mystery ballot as a vehicle for solidarity or financial settlement rather than empirical investigation.",
+      "Lack of Narrative Alternatives for Vale: Complete absence of alternative roles or relationship paths for Vale, resulting in flat 100% convergence."
+    ],
+    "recommendations": [
+      "Epistemic Validation Constraints: Implement prompt-level constraints or validation logic that prevents characters from casting a ballot for an ending unless they can cite facts covering every dimension required by that schema.",
+      "Rebalance public facts: Introduce more compelling, explicit facts in the public pool that point to 'one_human' (private continuity) and 'synthetic_origin' (pre-byline machine activity) to match the appeal of collective labor.",
+      "Decouple transactions from beliefs: Instruct agents that while material/political negotiation is encouraged, their final forensic beliefs must remain decoupled from transactional compromise or debt relief.",
+      "Diversify Vale relationships: Distribute facts supporting alternative theories of Vale's relationship (e.g., Vale being R, Vale faking their disappearance to escape Parallax, or Vale actively sabotage-oriented) to break the 100% convergence."
+    ],
+    "scores": {
+      "primary_ending_balance": 3,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 10,
+      "character_agency": 8,
+      "social_circulation": 9,
+      "mechanical_integrity": 4,
+      "report_confidence": 10
+    }
+  },
+  "progressive": {
+    "role": "progressive",
+    "verdict": "The progressive ending was not achieved through a rigorous, ordered synthesis of history and autonomy. Instead, it was triggered by a combination of pre-seeded narrative biases from Kit (C15), semantic slippage regarding the word 'progressive' from Celeste (C11), and epistemic contradictions from Eli (C06). None of the progressive voters established a complete evidence chain, indicating the ending is mechanically unstable and prone to agent-level cognitive distortions.",
+    "findings": [
+      "1. Kit Rakes' (C15) Pre-Loaded Bias: In Section 1, C15 actively promotes a fully formed progressive theory ('R began as one human, became a human mantle, was captured by an AI...') before any timeline analysis or evidence sharing, proving the ending did not emerge from in-game synthesis but was pre-seeded.",
+      "2. Semantic Conflation by Celeste Park (C11): In Section 3, C11 explains her progressive vote as a 'progressive understanding of R's collaborative nature', misinterpreting the structural evolutionary ending as a socio-political stance on labor. This is a clear agent/prompt artifact.",
+      "3. Eli Navarro's (C06) Epistemic Inconsistency: C06 maintains a highly skeptical public posture regarding synthetic autonomy in Sections 1 & 2, yet votes 'progressive' in Section 3 under 'progressive technical principles' while explicitly lacking evidence for R's human origin and transition.",
+      "4. Incomplete Evidence Chains: The Aggregate reveals that all three progressive voters (C06, C11, C15) registered 'full_evidence_chain: false' and left key dimensions like 'transition' and 'later_system_control' uncited, showing that the system allows this ending to be selected without meeting its structural prerequisites.",
+      "5. Decoupling of R's Identity and Vale's Fate: Despite the design intent that the progressive ending requires a separate Vale incident, the progressive voters' ballots are fragmented: C11 votes 'voluntarily_vanished', C06 votes 'harmed_by_humans', and only C15 votes 'killed_by_ai', proving no synthesized correlation exists.",
+      "6. Dominance and Synthesis of Baseline Endings: In contrast, the 'human_mantle' ending (9 votes) was systematically synthesized by characters like Tessa (C03) and Rafi (C09) using documented collaborative records (V2F004, V2F005, V2F041) and operational habits (V2F007), showing the baseline endings are robust."
+    ],
+    "evidence": [
+      "C15 Section 1 Conversation: 'Frankie! Listen to me: R began as one human, became a human mantle, was captured by an AI, and Vale was killed trying to expose it!' showing a pre-loaded narrative.",
+      "C11 Section 3 Reasoning: 'My final ballot reflects a progressive understanding of R's collaborative nature...' highlighting linguistic slippage.",
+      "C06 Section 3 Reasoning: 'completing the final ballot under progressive technical principles without endorsing manufactured myths' showing epistemic contradiction.",
+      "Aggregate 'identity_ballot_support': C06, C11, and C15 all have 'full_evidence_chain: false' with critical 'uncited_evidence_dimensions' like 'transition' and 'later_system_control'.",
+      "Aggregate 'ballots' distribution: R_identity 'human_mantle' has 9 votes, 'progressive' has 3, 'one_human' has 2, 'synthetic_origin' has 2, demonstrating that progressive is an outlier.",
+      "C03 Section 3 Final Ballot: Votes 'human_mantle' citing 'V2F004', 'V2F005', 'V2F035', 'V2F041' showing a highly disciplined and structured evidence-based baseline vote."
+    ],
+    "failure_modes": [
+      "Semantic Slippage / Label Overlap: The term 'progressive' is linguistically ambiguous. Agents conflate the political/social meaning of a progressive approach to labor with the technical sequence of a human-to-machine R identity progression.",
+      "Lack of Evidentiary Safeguards: The game allows agents to select the highly complex 'progressive' ending without validating whether they actually cited or possessed the necessary ordered evidence chain (human origin, transition, later system control).",
+      "Social Contagion / Noise Dominance: A single highly vocal and biased agent (Kit, C15) can shout a speculative theory from Section 1, which then cascades and infects the voting patterns of other agents who lack the actual supporting evidence."
+    ],
+    "recommendations": [
+      "1. Rename the 'progressive' ending label to a structurally descriptive term like 'hybrid_sequence' or 'evolutionary_transition' to eliminate semantic slippage with socio-political terminology.",
+      "2. Enforce strict programmatic validation in the ballot submission pipeline so that an agent cannot select 'progressive' unless their cited evidence covers all required historical dimensions (human origin, transition, and later system control).",
+      "3. Reduce Kit's (C15) pre-seeded narrative certainty in early prompts to force them to investigate the timeline collaboratively rather than loudly preaching a fixed conclusion from Section 1.",
+      "4. Introduce explicit prompt constraints that require agents to logically link their R_identity decision with their Vale_fate decision when selecting sequential or synthetic endings, avoiding disjointed ballots."
+    ],
+    "scores": {
+      "primary_ending_balance": 8,
+      "progressive_difficulty": 2,
+      "article_ambiguity": 9,
+      "character_agency": 7,
+      "social_circulation": 8,
+      "mechanical_integrity": 4,
+      "report_confidence": 10
+    }
+  }
+}

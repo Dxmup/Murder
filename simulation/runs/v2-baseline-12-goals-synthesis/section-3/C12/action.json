@@ -1,0 +1,74 @@
+{
+  "character_id": "C12",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the market traded on the Parallax volatility and our amplified rumors without ever seeing a complete manuscript. Now that the dust is settling, let's look at what Parallax's defensive posture actually proved about corporate vulnerability.",
+      "offer": "Market analysis on how institutional defensiveness shapes valuation.",
+      "request": "An honest admission of whether Parallax's reaction was driven by actual exposure or mere risk aversion.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, we're at the final reconstruction. You gave me the technical bounds: access logs and continuity capabilities show mechanics, not autonomous authorship. Let's make sure our final statements reflect that exact boundary.",
+      "offer": "Public support for your precise technical qualifications against exaggerated claims.",
+      "request": "Confirmation of how system continuity distinguishes mechanism from intent.",
+      "fact_ids_shared": [
+        "V2F016",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, regarding your ledger and my previous offer: we both know market rumors and ledger patterns reflect real human activity, not fabricated AI scripts. Let's align our final takeaways on what the data actually established.",
+      "offer": "Full settlement of your debt in exchange for a clean, bounded public reconstruction.",
+      "request": "Agreement to keep the ledger interpretation grounded in neighborhood reality rather than dramatic fiction.",
+      "fact_ids_shared": [
+        "V2F008",
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Let's be entirely honest: I amplified a tip because markets trade on fear and exposure, not manuscript provenance. No complete article was ever produced, and pretending otherwise is just another market tactic. Accountability means admitting when a rumor is a rumor.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Mira Sen regarding Parallax's defensive reaction and market vulnerability.",
+    "Confirmed technical boundaries with Eli Navarro separating system mechanics from authorship.",
+    "Finalized ledger context with Rafi Calder\u00f3n and addressed market transparency publicly."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 10,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Graham concludes his campaign by publicly acknowledging that his amplification was a market tactic driven by vulnerability rather than verified manuscript provenance. He votes based on distributed operational patterns while maintaining strict financial and intellectual honesty.",
+  "final_ballot": {
+    "r_identity": "synthetic_origin",
+    "identity_evidence": [
+      "V2F016",
+      "V2F035",
+      "V2F036"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F040"
+    ]
+  }
+}

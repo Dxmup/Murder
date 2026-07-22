@@ -1,0 +1,55 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need a shared boundary on what workflow evidence can be released without turning an evaluator into a suspect or exposing the worker Vale met.",
+      "offer": "Bounded collaborative labor context without identifying contributors",
+      "request": "Agreement on a sentence describing collaborative labor that names no contributor",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm must be addressed independently of the R mystery. I will only discuss bounded evaluator testimony after hearing a remedy that exists whether R was human or machine.",
+      "offer": "Conditional willingness to share bounded evaluator testimony",
+      "request": "A binding institutional remedy for invisible labor that does not depend on proving R's identity",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, we need to compare protections for workers and neighborhood witnesses before either group speaks or institutions start demanding names.",
+      "offer": "Coordination on grassroots protection strategies",
+      "request": "Joint advocacy to ensure no witness or worker is used as mystery currency",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Worker harm is real whether or not an article exists and whether or not R was human or machine. We demand enforceable protections before any testimony circulates.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Initiated boundary discussion with Tessa Quill regarding workflow evidence.",
+    "Demanded institutional remedy independent of R from Mira Sen.",
+    "Connected with Inez Baptiste on worker and witness protections."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Maren focuses on securing written anonymity protections for the evaluator Vale met, establishing collaborative boundaries with Tessa, demanding unconditional worker remedies from Mira, and aligning with Inez on neighborhood protections.",
+  "final_ballot": null
+}

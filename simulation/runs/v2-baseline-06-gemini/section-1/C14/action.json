@@ -1,0 +1,47 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I'm trying to establish a reliable timeline without leaning on manufactured client leads. What boundaries would make a conversation about Vale's movements possible between us?",
+      "offer": "To share my route board with uncertainty labels intact and discuss client pressures privately.",
+      "request": "Your perspective on whether Vale planned an absence and how to interpret ambiguous statements.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I know investigators often take neighborhood knowledge and leave residents at risk. I want voluntary accounts under fair-treatment terms. What boundaries do you require?",
+      "offer": "Discretion and a commitment that local accounts will not be misattributed or sold to my client.",
+      "request": "Introduction to witnesses who can speak to neighborhood activity near the former printing floor.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's keep this narrow. Do you recall anything specific about Vale entering the neighborhood near the former printing floor two days before the gathering?",
+      "offer": "A careful separation of observation from inference regarding transit traces.",
+      "request": "Your ledger or local memory regarding transactions and sightings in that specific time window.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "As an investigator looking into Vale's disappearance, I am examining the record carefully. No complete article or finished solution is established tonight, and every claim must be tested against what was actually observed.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Samira regarding timeline boundaries and client involvement.",
+    "Proposed fair-treatment terms to Inez for neighborhood witness accounts.",
+    "Approached Rafi with a narrow time and place regarding Vale's movement near the printing floor."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "As Morgan Shaw, I am maintaining discretion while investigating Vale's movements. I initiated conversations with Samira Vale, Inez Baptiste, and Rafi Calder\u00f3n to establish voluntary boundaries, secure fair-treatment terms for local residents, and examine narrow timeframes around the former printing floor without relying on the manufactured client lead.",
+  "final_ballot": null
+}

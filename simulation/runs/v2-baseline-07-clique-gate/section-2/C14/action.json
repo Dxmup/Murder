@@ -1,0 +1,75 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I want to formally accept your boundary: no personal route detail enters my timeline without your explicit consent and uncertainty labels.",
+      "offer": "To disclose my client communications and any manufactured segments before finalizing my report.",
+      "request": "Your recognition of familiar route elements and safety patterns regarding Vale's movements.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms: I will keep customer privacy protected and ensure clear attribution while reviewing your transaction continuity and collectors pattern.",
+      "offer": "My route board and verified transit traces near the former printing floor.",
+      "request": "A limited, careful description of the transaction continuity and collectors pattern from your ledger.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, under your fair-treatment terms, I pledge to protect neighborhood residents and maintain discretion as we examine who saw Vale near the printing floor.",
+      "offer": "Strict discretion and an open willingness to preserve contradictions rather than manufacturing a neat conclusion.",
+      "request": "Introductions to local witnesses who can provide voluntary accounts of Vale's presence.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "An investigator's duty is to separate observation from manufactured neatness. I am committed to preserving contradictions and verifying every segment of the timeline.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To respect Samira's disclosure limits and require explicit consent before adding personal route details to my timeline.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "To restrict ledger disclosure review to bounded terms and protect customer identity and shop records.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C16",
+      "promise": "To uphold fair-treatment terms for neighborhood witnesses and ensure residents do not hold the risk.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Samira's boundary terms regarding personal route details.",
+    "Engaged Rafi under strict customer privacy and attribution terms to review transaction continuity.",
+    "Established fair-treatment terms with Inez for neighborhood witness interactions."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Conducted Section 2 conversations by formally accepting privacy and boundary terms with Samira Vale, Rafi Calder\u00f3n, and Inez Baptiste. Maintained transparency on uncertainty labels while continuing to investigate the manufactured timeline segment.",
+  "final_ballot": null
+}

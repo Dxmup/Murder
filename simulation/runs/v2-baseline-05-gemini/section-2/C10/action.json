@@ -1,0 +1,65 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management is pushing hard on the camera gap. Let's align on our disclosure boundary so we protect our tenants before anyone outside starts spinning stories.",
+      "offer": "Complete context on the unpreserved camera interval and shared tenant protection strategy.",
+      "request": "Accept our previous commitment to coordinate disclosure and safeguard resident anonymity.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, your counter logs match our shift changes in some places and miss them in others. Let's compare notes so neither of us takes the fall for missing packages.",
+      "offer": "Exact building rhythms, shift change logs, and service route access practices.",
+      "request": "Compare collector shift timing without exposing vulnerable couriers or residents.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, you want the operational truth about the service route. I need a binding guarantee of tenant anonymity and fair treatment before I hand over my account.",
+      "offer": "A bounded operational account of the service route and audit context.",
+      "request": "A strict agreement on precise attribution and protection for the building's residents.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Management likes simple stories, but buildings have gaps because equipment fails and people improvise. Do not mistake a camera interval for a murder plot.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure of the camera interval to protect resident anonymity.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Reconnected with Inez to cement the disclosure boundary and protect tenants.",
+    "Compared shift-change and transaction details with Rafi.",
+    "Demanded strict terms of fair treatment and bounded reporting from Morgan before full disclosure."
+  ],
+  "beliefs": {
+    "one_human": 35,
+    "human_mantle": 35,
+    "synthetic_origin": 10,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Dee focuses on locking down a coordinated disclosure strategy with Inez, comparing shift realities with Rafi, and holding the line with Morgan for guaranteed resident protections and precise attribution.",
+  "final_ballot": null
+}

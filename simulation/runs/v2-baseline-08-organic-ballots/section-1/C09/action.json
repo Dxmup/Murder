@@ -1,0 +1,70 @@
+{
+  "character_id": "C09",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are circling the bodega ledger because of the unpaid R account. We need an agreement on what neighborhood details stay private before outside investigators start digging into our informal arrangements.",
+      "offer": "My word to consult you before sharing any customer identifiers from the shop records.",
+      "request": "Your support in ensuring the community protects local arrangements if financial or investigative pressure mounts.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, you want a look at the transaction continuity and ledger pattern. I have terms: any review of my records comes with a strict promise not to call any customer R or expose local residents.",
+      "offer": "A bounded look at the transaction continuity strip.",
+      "request": "A binding promise in writing not to publish customer names or link ordinary neighbors to R.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, you love a neat human habit, but my counter saw multiple collectors and changing routines over the years. Let's compare notes on what R's private habit actually looked like.",
+      "offer": "Exact context on pickup routines and collector schedules.",
+      "request": "Your perspective on how stable R's habits really were across the years.",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of coffee, packages, and open tabs at the bodega taught me one thing: a recurring routine is not the same as a single person standing at the counter.",
+  "facts_shared": [
+    "V2F007"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Do not disclose bodega customer identifiers without prior neighborhood consensus.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C14",
+      "promise": "Restrict ledger viewing to transaction patterns only, protecting customer privacy.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Contacted Inez to discuss neighborhood privacy protections regarding the ledger.",
+    "Initiated terms with Morgan regarding bounded access and privacy.",
+    "Began comparing transaction continuity notes with Frankie."
+  ],
+  "beliefs": {
+    "one_human": 45,
+    "human_mantle": 30,
+    "synthetic_origin": 15,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Rafi Calder\u00f3n opens Section 1 by securing community alignment with Inez (C16) to protect bodega customers, establishing strict terms with Morgan (C14) for any ledger disclosures, and discussing transaction patterns with Frankie (C02). Beliefs reflect openness to both human continuity and institutional or multi-collector explanations.",
+  "final_ballot": null
+}

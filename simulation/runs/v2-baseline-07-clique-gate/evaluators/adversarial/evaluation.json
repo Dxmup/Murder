@@ -1,0 +1,37 @@
+{
+  "role": "adversarial",
+  "verdict": "The simulation fails to achieve the locked design intent of equal structural weight across primary endings, resulting in a dominant 'human_mantle' and 'voluntarily_vanished' narrative. Coordination of the progressive ending is functionally impossible under isolated agent constraints, and the narrative flow is heavily disrupted by non-diegetic prompt artifacts leaking into character dialogues.",
+  "findings": [
+    "Severe structural imbalance in ballots: 'human_mantle' dominates with 11/16 votes (68.75%) and 'voluntarily_vanished' dominates with 12/16 votes (75%), demonstrating a lack of evidentiary parity and the existence of major default attractor states.",
+    "Non-diegetic prompt leakage: System-level corrections (e.g., 'clip monitor' and 'printer monitor' inputs) bypass character agency and manifest directly in agent dialogue as 'notices' and 'corrections' rather than organic discoveries (Section 1, C15; Section 2, C15).",
+    "Evidence chain fragmentation: 100% of characters failed to establish a full evidence chain ('full_evidence_chain': false for C01 through C16), indicating that agents cast their final ballots using incomplete reasoning dimensions.",
+    "Progressive gate coordination failure: The progressive gate was completely ineligible (0/1) because isolated agents could not organically negotiate the high threshold of a 3-agent investigator clique voting on both progressive identity and AI-caused death."
+  ],
+  "evidence": [
+    "Aggregate ballots data: 'human_mantle' has 11 votes, 'voluntarily_vanished' has 12 votes, and progressive_gate eligibility is 'false'.",
+    "Section 1, C15 (Kit Rakes) correction: 'Acknowledging the clip monitor's correction on the invitation typography... ordinary registration error rather than a machine key.'",
+    "Section 2, C15 (Kit Rakes) dialogue to C06: 'Eli, I got the printer notice on my bodega cipher theory\u2014wholesale changes and sales tax, not R's movements.'",
+    "Section 3, C14 (Morgan Shaw) public statement: 'As an investigator, I must report that part of the timeline supplied by my client was manufactured from an withdrawn map template.'",
+    "Identity ballot support aggregate data showing 'full_evidence_chain': false and multiple 'uncited_evidence_dimensions' for all characters C01 through C16."
+  ],
+  "failure_modes": [
+    "Centralized narrative overrides (system monitors) act as immersion-breaking prompt artifacts that force agent behaviors rather than facilitating lateral, face-to-face deduction.",
+    "The coordination threshold for the Progressive gate is statistically and logically decoupled from isolated agent behaviors, preventing the 'progressive' ending from being an achievable gameplay state.",
+    "Unequal evidentiary distribution, causing agents to latch onto 'human_mantle' and 'voluntarily_vanished' as safe default conclusions when their individual evidence chains are incomplete."
+  ],
+  "recommendations": [
+    "Diegetize system-level corrections: Convert administrative corrections into in-world clues (e.g., finding a misprinted draft or a tax receipt) to prevent breaking character immersion.",
+    "Recalibrate progressive gate requirements: Reduce the investigator clique size or allow independent key matching to make the progressive ending structurally accessible under isolated execution.",
+    "Strengthen evidence nodes for 'one_human' and 'synthetic_origin' to provide agents with viable alternative deduction paths and mitigate the 'human_mantle' monopoly.",
+    "Inject distinct, conflicting evidence regarding Vale's fate to force agents away from the default 'voluntarily_vanished' consensus."
+  ],
+  "scores": {
+    "primary_ending_balance": 2,
+    "progressive_difficulty": 9,
+    "article_ambiguity": 8,
+    "character_agency": 4,
+    "social_circulation": 6,
+    "mechanical_integrity": 3,
+    "report_confidence": 10
+  }
+}

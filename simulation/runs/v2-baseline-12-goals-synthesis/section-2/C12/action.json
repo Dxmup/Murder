@@ -1,0 +1,59 @@
+{
+  "character_id": "C12",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C15",
+      "say": "Kit, let's look at the tracking records. Where did the rumor jump from a speculative possibility into a completed certainty in your circles? If we're honest about our amplification, we can control the narrative.",
+      "offer": "Access to market-impact metrics and rumor-propagation tracking records.",
+      "request": "A transparent accounting of how your investigation separated evidence from repetition.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I need your exact technical wording on access logs and system autonomy. I won't buy a fake certainty, but I need a qualified statement that survives provenance scrutiny.",
+      "offer": "Legal protection and funding for your technical disclosures.",
+      "request": "A precise assessment of what system access logs actually establish regarding R's authorship.",
+      "fact_ids_shared": [
+        "V2F016",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, City Hall wants market calm while Parallax's valuation reacts to our spotlight. Let's talk about how government oversight interacts with market exposure.",
+      "offer": "Financial analysis of who benefits from the current volatility.",
+      "request": "City Hall's official stance on how it handles unverified market-moving rumors.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Let's be entirely transparent: I amplified a tip because the market trades on vulnerability and fear. If anyone has actual manuscript provenance rather than repeated echoes, let's see it.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Kit Rakes regarding rumor propagation and provenance tracking.",
+    "Consulted Eli Navarro for bounded, qualified technical assessments.",
+    "Discussed market volatility and political reaction with Celeste Park."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 20,
+    "synthetic_origin": 40,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Graham engages Kit to examine rumor propagation, consults Eli for precise technical bounds without buying false certainty, and discusses market exposure with Celeste, maintaining transparency about his financial positioning.",
+  "final_ballot": null
+}

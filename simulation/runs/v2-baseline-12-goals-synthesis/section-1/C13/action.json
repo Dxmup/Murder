@@ -1,0 +1,63 @@
+{
+  "character_id": "C13",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, stop manufacturing intimacy with Vale's name. Tell me the complete conversation around how succession could be manufactured before I say anything about what I know.",
+      "offer": "Context on Vale's prior safety patterns and warning signs",
+      "request": "The complete account of how succession was discussed with Vale",
+      "fact_ids_shared": [
+        "V2F034"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale told you R was no longer human. What technical logs or evidence made that seem real to Vale emotionally, and what remains uncertain?",
+      "offer": "Insight into Vale's emotional state regarding technical logs",
+      "request": "Explanation of the evidence behind the claim that R was no longer human",
+      "fact_ids_shared": [
+        "V2F028"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, we need to set a boundary right now: no personal route detail enters your timeline without my explicit consent and an uncertainty label.",
+      "offer": "Recognition of matching personal route items",
+      "request": "Agreement to label all uncertainty and secure consent for personal route material",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Vale was a person who forgot groceries and became impossible when frightened, not a plot device or a corporate symbol for anyone's career. Stop turning absence into theater.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "To review route details with Morgan only under strict uncertainty labeling and explicit consent",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "Correcting the false assumption that Vale's absence is a definitive proof of death or a polished final article rather than a familiar pattern of withdrawal or distress.",
+  "goal_progress": [
+    "Engaged Jules regarding the succession conversation.",
+    "Discussed the 'no longer human' statement with Eli.",
+    "Established boundaries with Morgan regarding personal route details.",
+    "Expressed initial skepticism of public narratives around Vale."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 20,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "As Samira Vale, the focus is on protecting Vale's privacy, challenging those who turn Vale into a myth or symbol, and probing Jules, Eli, and Morgan for their respective pieces of the puzzle without surrendering personal control over the envelope.",
+  "final_ballot": null
+}

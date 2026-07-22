@@ -1,0 +1,49 @@
+{
+  "character_id": "C12",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C06",
+      "say": "Eli, the market wants a clean binary: autonomous machine or human operator. You know the logs better than anyone. If I offer legal protection and financial backing, can we frame your technical caveats accurately without distorting what the infrastructure actually shows?",
+      "offer": "Legal protection and financial research backing",
+      "request": "A qualified statement on system access logs that resists false certainty",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Kit, you asked where the article rumor gained traction. I'll give you an honest accounting of how my tip propagation worked if you publicly acknowledge that repetition isn't authentication.",
+      "offer": "An honest account of tip propagation and platform visibility",
+      "request": "A public acknowledgment separating market amplification from manuscript proof",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "A rumor moving markets proves people are paying attention to systemic risk, not that a manuscript exists. Let's stop laundering speculation as authenticated history.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Eli Navarro regarding technical logs and caveats",
+    "Responded to Kit Rakes on rumor provenance and market amplification",
+    "Maintained transparency regarding financial positioning without buying false certainty"
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 15,
+    "synthetic_origin": 45,
+    "progressive": 20,
+    "article_existed": 25,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "In Section 2, Graham focuses on securing qualified technical context from Eli Navarro while rejecting the anonymous market trap to buy false certainty. Graham also answers Kit Rakes's challenge regarding rumor provenance with transparency about market amplification.",
+  "final_ballot": null
+}

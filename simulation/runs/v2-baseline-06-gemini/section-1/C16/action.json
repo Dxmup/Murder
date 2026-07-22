@@ -1,0 +1,75 @@
+{
+  "character_id": "C16",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, our workers and couriers keep this neighborhood running while institutions extract our history. Let's coordinate contractor and resident protections before investigators start pinning the service route gap on people who can't afford lawyers.",
+      "offer": "Neighborhood contractor and courier protections backed by grassroots witness context.",
+      "request": "Joint worker and resident protection terms that neither of us will trade away.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, someone's offering cash for names attached to the service route, and Dee's getting nervous. We need a shared boundary on what outsiders hear before your ledger or Dee's building logs become everyone's target.",
+      "offer": "Protected meeting with Dee and a unified narrative on the back room access.",
+      "request": "Agreement to hold a common line and protect neighborhood infrastructure from being used as scapegoats.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Welcome to the neighborhood, Arden. Veridian wants local legitimacy for its anniversary, but history isn't free. What concrete, written commitments\u2014funding, worker protection, or rent support\u2014is Veridian prepared to put in writing tonight?",
+      "offer": "Neighborhood participation and legitimacy for Veridian's event.",
+      "request": "A binding, written institutional commitment for neighborhood space and worker protection.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Veridian celebrates on our floors, but neighborhood people are constituents, not scenery. No one trades away Dee, Rafi, or our service routes without concrete, written commitments first.",
+  "facts_shared": [
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Coordinate joint protection for neighborhood workers and residents against outside institutional blame.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C09",
+      "promise": "Maintain a unified boundary with Dee and Rafi regarding service route inquiries.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C01",
+      "promise": "Deliver neighborhood event participation in exchange for a written institutional commitment.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Maren on coordinating worker and resident protections.",
+    "Connected with Rafi and Dee regarding service route pressures and protective boundaries.",
+    "Approached Arden to demand concrete written commitments for neighborhood support."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez establishes protective solidarity with Maren and Rafi, confronts Arden for concrete institutional commitments, and sets clear boundaries regarding unverified back-room access before outside scrutiny intensifies.",
+  "final_ballot": null
+}

@@ -1,0 +1,85 @@
+{
+  "character_id": "C12",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C09",
+      "say": "Rafi, our arrangement stands. Here is your debt settled unconditionally in exchange for the ledger pattern and honest transaction account.",
+      "offer": "Full debt settlement without conditions.",
+      "request": "Provide bounded ledger access and an honest account of transaction data.",
+      "fact_ids_shared": [
+        "V2F037",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, the market relied on the rumor of automation, but log timing and execution continuity prove nothing without human direction.",
+      "offer": "Financial analysis and platform transparency for your technical caveats.",
+      "request": "Confirm the exact limits of execution logs regarding autonomy.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, City Hall's scramble shows that market fear moves policy just as fast as facts. Let's make sure our public positions reflect actual risks.",
+      "offer": "Market transparency and financial analysis of rumor impact.",
+      "request": "Disclose how City Hall prepared for the Parallax exposure.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Markets move on fear, repetition, and valuation exposure, not unprinted articles or ghosts. My campaign amplified analysis, not a fabricated source. Accountability requires admitting what we know and what we traded on.",
+  "facts_shared": [
+    "V2F029",
+    "V2F035",
+    "V2F036",
+    "V2F037"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "Provide bounded ledger access and an honest account of transaction data in exchange for full unconditional debt settlement.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Acknowledged that amplifying a market rumor without a complete manuscript conflated financial exposure with verified publication.",
+  "goal_progress": [
+    "Fulfilled debt settlement with Rafi (C09) and secured ledger access.",
+    "Engaged Eli (C06) to calibrate technical caveats around system logs.",
+    "Challenged Celeste (C11) on political preparation and market reaction.",
+    "Completed final reconstruction and ballot submission."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 25,
+    "synthetic_origin": 35,
+    "progressive": 20,
+    "article_existed": 20,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Graham Pike, I am concluding my short-seller campaign by fulfilling my commitment to Rafi, acknowledging the distinction between market amplification and verified article existence, and submitting a final ballot based on distributed patterns and operational records.",
+  "final_ballot": {
+    "r_identity": "synthetic_origin",
+    "identity_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F034",
+      "V2F036"
+    ],
+    "vale_relationship": "seizing_or_impersonating_r",
+    "vale_fate": "killed_by_ai",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

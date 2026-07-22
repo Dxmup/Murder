@@ -1,0 +1,85 @@
+{
+  "character_id": "C07",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, I accept your proposal. Let's formalize our shared disclosure rule to protect evaluator anonymity across the Night Desk.",
+      "offer": "Endorsement of the Night Desk workflow description without contributor names",
+      "request": "Mutual commitment to strict source anonymity and non-identifying workflow framing",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, Parallax's infrastructure audit records and worker testimonies show changing instructions, but we need concrete written protections before any evaluator details are touched.",
+      "offer": "Bounded evaluator workflow context once written Parallax safety commitments are secured",
+      "request": "Formal written audit rights and worker compensation independent of mystery outcomes",
+      "fact_ids_shared": [
+        "V2F036",
+        "V2F038",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, I accept your proposal. Let's draft a binding City Hall policy and deadline for labor and neighborhood protections.",
+      "offer": "Labor coalition support and ground-level organizing coordination",
+      "request": "Enforceable city policy and direct agency access for worker safeguards with a binding deadline",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "Real labor and worker safety cannot be bartered away for a cleaner mystery answer or an unverified corporate narrative.",
+  "facts_shared": [
+    "V2F041",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Establish a joint disclosure boundary to protect contributor anonymity.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C05",
+      "promise": "Not to release identifying evaluator details provided Veridian or Parallax agree in writing to protect worker anonymity.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C11",
+      "promise": "Draft an enforceable labor and neighborhood protection policy with a binding deadline.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C16",
+      "promise": "Coordinate neighborhood and worker defense against institutional extraction.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Tessa's proposal to establish a joint disclosure boundary protecting contributor anonymity.",
+    "Engaged Mira Sen on enforceable policy and audit rights independent of mystery outcomes.",
+    "Accepted Celeste Park's proposal to draft an enforceable labor and neighborhood protection policy.",
+    "Coordinate neighborhood and worker defense with Inez Baptiste."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 45,
+    "synthetic_origin": 25,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Maren focuses on locking in institutional and political commitments from Tessa, Mira, and Celeste. She formalizes the anonymity boundary with Tessa, presses Mira for unconditional worker remedies, and joins Celeste's policy drafting to ensure worker and neighborhood safety take precedence over mystery speculation.",
+  "final_ballot": null
+}

@@ -1,0 +1,38 @@
+{
+  "role": "agency",
+  "verdict": "The simulation successfully demonstrates robust goal pursuit, strong character agency, and highly effective quiet-role coordination under the 'agency' lens. While the 'progressive' track remains appropriately difficult and requires complex evidence integration, the ballot distribution is heavily skewed toward 'human_mantle' due to the immediate safety/coalition incentives of local characters, suggesting a social cascade effect.",
+  "findings": [
+    "Goal Pursuit (Section 1, 2, 3): Characters across all social strata aggressively pursue their primary objectives. Quiet roles like Dee Nowak (C10) and Rafi Calderon (C09) prioritize pension protection and customer privacy over solving the mystery, while high-influence characters like Arden Bell (C01) and Mira Sen (C05) successfully navigate institutional risk and funding restrictions.",
+    "Meaningful Choices (Section 2, 3): True agency is demonstrated by characters choosing ethical consistency over transactional gain. In Section 3, investigator Morgan Shaw (C14) discovers that his client-provided lead was generated from a withdrawn template (V2F027) and makes the hard decision to publicly disclose the contamination and qualify his timeline. Similarly, Kit Rakes (C15) maintains credibility by publicly retracting his disproven ledger-cipher and typography theories in Sections 2 and 3.",
+    "Quiet-Role Participation (Section 1, 2): Local neighborhood characters (C09, C10, C16) avoid being sidelined by powerful corporate or investigative entities. They proactively form a defensive coalition, establishing strict disclosure boundaries to protect building residents and delivery routes from being scapegoated for the camera gap.",
+    "Succeeding While Wrong About R (Section 3): Solving the R identity is not a prerequisite for achieving core goals. Maren Okafor (C07) and Inez Baptiste (C16) successfully extract written, binding labor protections and archival co-governance terms from Veridian and City Hall (Section 3) while holding a 'human_mantle' belief that may or may not represent the historical truth of R.",
+    "Chokepoints and Information Bottlenecks (Section 1, 3): The reliance on incomplete archival files (like the First R Letter) and contradictory local accounts creates natural thematic chokepoints that prevent easy authentication of R's identity, encouraging prolonged face-to-face negotiation rather than immediate resolution."
+  ],
+  "evidence": [
+    "C14 (Morgan Shaw) in Section 3, Conversation 1 with Samira Vale (C13), discloses: 'my client's lead was generated from a withdrawn map template. I am disclosing this contaminated segment openly so our reconstruction relies only on verified human reality.' This directly validates the meaningful choice to reject manufactured certainty.",
+    "C15 (Kit Rakes) in Section 2, Public Statement: 'following the printer's notice, I am publicly retracting the bodega ledger-cipher theory! Wholesale taxes explain the prices...' and successfully adjusts theories without losing progress.",
+    "Quiet-role coordination is evidenced in Section 2 by Dee Nowak (C10) and Inez Baptiste (C16) accepting mutual defense commitments to protect local residents from being scapegoated over the camera gap (V2F026), and Rafi Calderon (C09) successfully negotiating full debt settlement from Graham Pike (C12) in exchange for bounded ledger access (Section 3).",
+    "Belief means for 'article_existed' remain stable and uncertain (37.2% in Section 1 and 2, dropping slightly to 35.9% in Section 3), matching the design intent that the article's existence remain unauthenticated.",
+    "Ballot skew: 9 out of 16 characters voted for 'human_mantle' (C01, C03, C04, C07, C08, C09, C10, C14, C16), citing V2F004, V2F005, and V2F035, indicating a strong social alignment around collective production over single-creator (one_human: 2) or machine-origin (synthetic_origin: 2) theories."
+  ],
+  "failure_modes": [
+    "Social Cascade / Alignment Bias (Agent/Prompt Artifact): The strong coalition-building of local roles (C09, C10, C16, C07, C03) created a social cascade that heavily favored 'human_mantle'. This is an agent artifact where agents prioritize social alignment and consensus over objective independent deduction, leading to a major skew in the final ballots (9 for human_mantle vs. 2 for one_human and 2 for synthetic_origin).",
+    "Clue Invalidation Chokepoint (Game Design Finding): Introducing client-supplied clues that are contaminated (such as V2F027 for C14) successfully tests agent integrity but can act as a permanent investigative dead-end if the agent lacks other viable routes of inquiry, potentially stalling progression in smaller simulations.",
+    "Quiet Role Over-Performance (Agent/Prompt Artifact): While active participation is desirable, the superintendent (C10) and bodega owner (C09) display a level of high-level diplomatic sophistication and strategic containment that feels more like an LLM agent artifact than a realistic representation of their quiet social positions."
+  ],
+  "recommendations": [
+    "To address the social cascade bias, introduce private incentives or hidden agenda mechanics that reward characters for maintaining unique, non-consensus beliefs about R on their final ballots.",
+    "Provide alternative, redundant clue pathways for investigators (like C14) so that discovering a contaminated lead does not completely stall their primary inquiry.",
+    "Calibrate the prompt personalities of quiet, low-status roles to restrict their diplomatic coordination capability, ensuring they use more defensive or evasive tactics rather than high-level legalistic contract negotiation.",
+    "Introduce mechanical prompts that occasionally seed skepticism about the collective 'human_mantle' narrative to help maintain the structural weight balance among the three main identities (One Human, Human Mantle, Synthetic Origin)."
+  ],
+  "scores": {
+    "primary_ending_balance": 5,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 9,
+    "social_circulation": 10,
+    "mechanical_integrity": 10,
+    "report_confidence": 10
+  }
+}

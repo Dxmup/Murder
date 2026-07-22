@@ -1,0 +1,52 @@
+{
+  "character_id": "C01",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, your journalistic lineage anchors tonight, but our archive records on the First R Letter contain expense entries that complicate your account. Let us review the provenance together before we speak publicly.",
+      "offer": "Controlled access to Veridian archive intake files and provenance records.",
+      "request": "Your agreement on how we publicly frame the archive's records without undermining your history.",
+      "fact_ids_shared": [
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, Veridian cannot celebrate community storytelling while treating neighborhood participation as decorative. What specific partnership commitment would make tonight meaningful for your community?",
+      "offer": "A formal public role on our program and future archive partnership commitments.",
+      "request": "Your active participation and feedback on Veridian's community engagement.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C05",
+      "say": "Mira, the event is drawing intense scrutiny regarding R and Parallax. We need to ensure our funding terms remain stable as questions arise tonight.",
+      "offer": "Discretion regarding our recent funding terms and institutional alignment.",
+      "request": "Political and financial reassurance as we navigate tonight's inquiries.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Welcome to Fifteen Years of R. Tonight we celebrate investigative rigor, but we do so with open eyes regarding the rumors and questions surrounding our shared history.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Frankie Lowell regarding archive records.",
+    "Began discussions with Inez Baptiste about neighborhood participation.",
+    "Assessed stability with Mira Sen regarding funding terms."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 10,
+    "progressive": 30,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Arden Bell opens Section 1 by engaging Frankie Lowell over archive discrepancies regarding the First R Letter, consulting Inez Baptiste on meaningful neighborhood participation, and discreetly touching base with Mira Sen about Parallax funding stability. Beliefs remain balanced across potential R models given the ambiguous messaging.",
+  "final_ballot": null
+}

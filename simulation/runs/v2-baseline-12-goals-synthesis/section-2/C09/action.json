@@ -1,0 +1,68 @@
+{
+  "character_id": "C09",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, I received your message about dating the pattern change. I agree to show a bounded view of the ledger pattern under our agreed terms.",
+      "offer": "Bounded view of the transaction continuity records.",
+      "request": "Fulfill your promise not to call any customer R based on my records.",
+      "fact_ids_shared": [
+        "V2F008",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C12",
+      "say": "Graham, you offered terms to settle my debt or pay for ledger access. Let's discuss your offer, provided you repeat what the ledger cannot prove.",
+      "offer": "Limited inspection of the ledger pattern.",
+      "request": "Full debt settlement or payment while respecting the limits of what the ledger proves.",
+      "fact_ids_shared": [
+        "V2F008",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, outsiders like Graham and Morgan are pressing for ledger access. We must hold our boundary so delivery logs are not twisted into guilt.",
+      "offer": "Mutual defense of neighborhood records and customer confidentiality.",
+      "request": "Maintain our joint stance against outside exploitation of shop records.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "A ledger records real neighbors who paid for coffee and packages, not a script for outsiders to rewrite. Any disclosure stays bounded.",
+  "facts_shared": [
+    "V2F007",
+    "V2F008",
+    "V2F039",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "I will provide a bounded ledger view to date the pattern change, conditioned on your promise not to call any customer R.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Responded to Morgan's message to establish clean ledger access terms.",
+    "Engaged Graham regarding debt settlement and bounded ledger access.",
+    "Reinforced neighborhood privacy boundaries with Inez."
+  ],
+  "beliefs": {
+    "one_human": 50,
+    "human_mantle": 30,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Rafi navigates Section 2 by locking down terms with Morgan for bounded ledger disclosure, addressing Graham's buyout/settlement offers while maintaining evidentiary limits, and reaffirming alignment with Inez to protect local customer privacy.",
+  "final_ballot": null
+}

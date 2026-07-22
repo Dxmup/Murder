@@ -1,0 +1,60 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management flagged the unpreserved camera interval from the audit notice. We need to talk about our disclosure boundary before we answer anyone else.",
+      "offer": "To coordinate our account of the building service route and protect the tenant.",
+      "request": "Your agreement on how we explain the camera gap without exposing anyone.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's compare our shift change records and collectors for the building service routes so we keep our shift details straight.",
+      "offer": "Exact building shift times and routine service logs.",
+      "request": "Your records of transactions and shift changes.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Morgan, before I share any records about the audit notice or access gaps, what do fair treatment and a bounded account mean in your report?",
+      "offer": "Building rhythms and access practice context.",
+      "request": "A guarantee of precise attribution, resident anonymity, and defensible handling of the audit.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The service routes in our building are practical passages for working people, not a criminal conspiracy. An audit flag does not mean a murder.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate our disclosure boundary regarding the camera gap before speaking publicly.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Inez to discuss the camera interval audit before answering Morgan.",
+    "Initiated comparison of shift-change details with Rafi.",
+    "Asked Morgan what fair treatment and bounded account mean in the final report."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Dee Nowak approaches Inez Baptiste first to discuss the unpreserved camera interval audit notice (V2F026) and align on a protective disclosure boundary. Dee also compares shift change details with Rafi Calder\u00f3n and asks Morgan Shaw for explicit terms of fair treatment and a bounded account before offering building records.",
+  "final_ballot": null
+}

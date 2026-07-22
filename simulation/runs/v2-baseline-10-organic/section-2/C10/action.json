@@ -1,0 +1,66 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, we need to finalize our disclosure boundary so we protect the tenant who needed the informal favor while keeping management off our backs.",
+      "offer": "Exact camera audit details and building rhythm context.",
+      "request": "Agreement on how to present the unpreserved camera interval without exposing uninvolved residents.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's keep our shift-change records aligned so no one turns ordinary bodega and service deliveries into a fictional murder plot.",
+      "offer": "Service-route timing and shift change observations.",
+      "request": "Corroboration of our local access logs without inventing single-customer identities.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, before I offer any bounded account of the service route access, I need your explicit commitment on fair treatment and resident anonymity.",
+      "offer": "A bounded operational account of the service exit use.",
+      "request": "A firm guarantee of precise attribution and protection for building staff in your report.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The camera gap and automated access changes are separate physical and system events. Do not let anyone collapse them into a single fictional murder story.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundaries regarding the camera interval without exposing uninvolved residents.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C14",
+      "promise": "Provide a bounded account of building service access in exchange for fair treatment and protection.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Reaffirmed coordination with Inez regarding the camera audit and resident privacy.",
+    "Aligned service-route timing and shift details with Rafi.",
+    "Pressed Morgan for fair treatment and precise attribution before full disclosure."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Dee Nowak maintains the strict separation between physical service access and automated system changes, working with Inez and Rafi to protect building residents and pension while demanding fair terms from Morgan before releasing any bounded operational records.",
+  "final_ballot": null
+}

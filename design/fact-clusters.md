@@ -272,16 +272,6 @@ The primary endings each receive three affirmative clusters when compatible evid
 
 This is structural equality, not yet numerical balance. Simulation must test persuasiveness, timing, and character credibility.
 
-## Progressive-ending gate
-
-Kit begins with the complete theory but none of the evidence required to certify a key. The room can make the progressive ending eligible only by publicly assembling all three keys from independent holders:
-
-1. **Identity-history key:** E01 plus E02, with credible testimony that human-origin and shared-human production occurred at different stages.
-2. **Autonomous-control key:** at least two of E06, E07, and E10, including Eli's bounded technical interpretation and independent corroboration.
-3. **Vale-incident key:** E09 plus E11, with a majority concluding that Vale was a separate human and that autonomous action caused Vale's death rather than escape, obstruction, or nonfatal harm.
-
-The host records whether each key was publicly articulated, not whether the host believes it. Exact vote thresholds remain a simulation variable. Kit's statement alone, a private discovery, or a single artifact never qualifies.
-
 ## Distribution audit
 
 No core character monopolizes a conclusion:

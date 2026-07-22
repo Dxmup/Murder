@@ -1,0 +1,54 @@
+{
+  "character_id": "C13",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you asked how an uncontestable succession could be manufactured. Now tell me the rest of that conversation before I decide how your ambition fits into Vale's disappearance.",
+      "offer": "Context regarding Vale's communication style and strategic ambiguity",
+      "request": "The complete context around your conversation on manufacturing succession",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know what the material you showed Vale did to them emotionally. Let's look at what those logs actually establish without turning loss into technical mythology.",
+      "offer": "Insight into Vale's emotional state when dealing with technical logs",
+      "request": "A clear account of what the technical logs establish and what remains uncertain",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, we have an agreement: no personal route detail enters your timeline without my explicit consent and an uncertainty label attached.",
+      "offer": "Acknowledgment of possible overlap with earlier safety patterns",
+      "request": "Your proposed route details for review and verification",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale was a person with human flaws, fear, and courage\u2014not a plot device or a mythical figure for your careers.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "To maintain confidentiality regarding intimate history and disclose if the client pressured a manufactured route.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Correcting the false claim that Vale's absence or relationship to R represents a finished narrative or non-human operation rather than a human individual's choices.",
+  "goal_progress": [
+    "Continued pressing Jules for the complete succession conversation.",
+    "Engaged Eli on the emotional and technical reality of the logs.",
+    "Maintained boundaries with Morgan regarding personal route details and uncertainty labels."
+  ],
+  "beliefs": {
+    "one_human": 45,
+    "human_mantle": 20,
+    "synthetic_origin": 10,
+    "progressive": 25,
+    "article_existed": 20,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Samira presses Jules, Eli, and Morgan for accountability and honesty about Vale, maintaining privacy while demanding that uncertainty remain visible.",
+  "final_ballot": null
+}

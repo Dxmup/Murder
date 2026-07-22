@@ -1,0 +1,60 @@
+{
+  "character_id": "C09",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are sniffing around the old R-associated account ledger trying to turn routine neighborhood credit and parcel holds into a scandal. We need to agree on what stays private before financial and investigative pressure exposes our people.",
+      "offer": "My assurance that local arrangements stay protected and my support for whatever neighborhood boundary we set.",
+      "request": "Your backing and advice on how to handle the unpaid balance without compromising customer discretion.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, I have the transaction export and the ledger strips, but you only get a bounded look under strict terms. No calling customers R, and clear protection for the shop's records.",
+      "offer": "A limited, careful description of the transaction continuity and collectors pattern.",
+      "request": "A formal promise in writing regarding customer privacy and clear attribution terms.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, you always talk about R's stable habits. Tell me how you remember that private routine, because my ledger shows a pattern that shifted subtly over the years.",
+      "offer": "Comparison between your memory and the actual recurring private habit logged at the counter.",
+      "request": "Your honest description of R's supposed private habit without embellishing the authentication.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Fifteen years of keeping a neighborhood counter teaches you that repetition isn't a single person. Before anyone trades on the ledger, remember there were multiple collectors and shifting routines.",
+  "facts_shared": [
+    "V2F007",
+    "V2F008"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "Restrict ledger disclosure to a bounded review and protect customer identity.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Inez regarding neighborhood customer protection.",
+    "Engaged Morgan with terms for bounded ledger access.",
+    "Discussed R's private habit with Frankie to test continuity against ledger records."
+  ],
+  "beliefs": {
+    "one_human": 45,
+    "human_mantle": 25,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Rafi Calder\u00f3n opens Section 1 by securing neighborhood alignment with Inez, setting strict privacy terms for investigator Morgan regarding the ledger strip and transaction continuity, and comparing notes with Frankie on whether R's habits were truly consistent or just routine.",
+  "final_ballot": null
+}

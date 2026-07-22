@@ -1,0 +1,87 @@
+{
+  "character_id": "C03",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you have committed to protecting anonymous contributor labor and establishing collective governance rights. Under those witnessed conditions, the Night Desk acknowledges your succession framing.",
+      "offer": "Endorsement of succession governance tied to strict contributor protection",
+      "request": "Fulfillment of your public commitment to worker rights",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, our joint boundary successfully kept our contributors out of the suspect lists while documenting collaborative labor. Let's hold this line on the final ballot.",
+      "offer": "Reaffirmation of our disclosure boundary",
+      "request": "Aligned voting on human mantle and collective labor",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian's archives must respect the autonomous boundaries of working relationships rather than converting invisible labor into corporate legend.",
+      "offer": "Bounded workflow context from the Night Desk",
+      "request": "Institutional commitment to source preservation without exposure",
+      "fact_ids_shared": [
+        "V2F002",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "R was sustained by collaborative labor, shared infrastructure, and protective ambiguity\u2014not a single miraculous mind or a solitary owner. Our contributors remain protected.",
+  "facts_shared": [
+    "V2F004",
+    "V2F005",
+    "V2F035",
+    "V2F041"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O02",
+      "action": "show",
+      "to": "C04"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Commit to protecting anonymous contributor labor and establishing collective governance rights for R.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured enforceable contributor protections and commitments from Jules.",
+    "Maintained strict disclosure boundaries with Maren to protect Night Desk workers.",
+    "Finalized reconstruction stance supporting a human mantle of collaborative labor."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 70,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 40,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Tessa Quill concludes her participation by accepting Jules's commitment to worker protection, reaffirming her boundary with Maren, and casting her final ballot for a human mantle reflecting the collective infrastructure of the Night Desk.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F035"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "insufficient_evidence",
+    "vale_evidence": [
+      "V2F025",
+      "V2F032"
+    ]
+  }
+}

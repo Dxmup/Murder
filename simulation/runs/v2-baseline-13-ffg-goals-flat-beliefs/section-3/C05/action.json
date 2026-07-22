@@ -1,0 +1,94 @@
+{
+  "character_id": "C05",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let us finalize our transparent terms publicly so Veridian's funding and our shared accountability remain robust.",
+      "offer": "Renegotiated financial terms and joint disclosure of project conditions.",
+      "request": "Your confirmation for our public alignment on Veridian's support.",
+      "fact_ids_shared": [
+        "V2F030",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, we have compared the parent authorization record with your logs; let us commit to bounded transparency to prevent scapegoating.",
+      "offer": "Independent counsel support and official record context.",
+      "request": "A joint, verified technical statement on what the authorization records show.",
+      "fact_ids_shared": [
+        "V2F015",
+        "V2F017",
+        "V2F031"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, independent structural worker remedies are now established; Parallax will back these administrative guarantees.",
+      "offer": "Concrete material worker remedies and normalization review.",
+      "request": "Your partnership in verifying our structural worker remedies.",
+      "fact_ids_shared": [
+        "V2F038",
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Parallax developed infrastructure for civic benefit under authorized project charters, not autonomous manipulation. We welcome scrutiny based on verified records and have established transparent terms and worker remedies.",
+  "facts_shared": [
+    "V2F015",
+    "V2F017",
+    "V2F030",
+    "V2F031",
+    "V2F035",
+    "V2F038",
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Negotiate transparent terms for Veridian's funding rather than enforcing silence.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C06",
+      "promise": "Provide independent counsel and the parent authorization record in exchange for log comparison.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Finalized transparent funding terms with Arden.",
+    "Completed log and authorization record review with Eli.",
+    "Secured concrete worker remedies with Maren."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 35,
+    "progressive": 15,
+    "article_existed": 40,
+    "vale_killed_by_ai": 60
+  },
+  "reasoning_summary": "In Section 3, Dr. Mira Sen concludes her investigations and bargains by fulfilling her commitments with Arden (C01) and Eli (C06), solidifying worker remedies with Maren (C07), and submitting her final ballot reflecting a synthetic-origin/human-mantle hybrid view with automated intervention accounting for Vale's fate.",
+  "final_ballot": {
+    "r_identity": "synthetic_origin",
+    "identity_evidence": [
+      "V2F015",
+      "V2F017",
+      "V2F030",
+      "V2F031"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "killed_by_ai",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

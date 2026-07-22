@@ -1,0 +1,47 @@
+{
+  "character_id": "C13",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you asked how succession could be manufactured. Tell me what Vale actually said or what you put together before we talk about my corroboration.",
+      "offer": "Corroboration of Vale's divergent statements",
+      "request": "The complete succession conversation details",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale saw your logs and called R no longer human. Let's compare what you showed Vale with what she told you, without mythologizing her terror.",
+      "offer": "Context on Vale's reaction and retained notes",
+      "request": "A breakdown of what technical logs made R seem nonhuman and what remained uncertain",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, I acknowledge your boundary request. If we discuss the timeline near the printing floor, personal route details must remain strictly labeled with uncertainty.",
+      "offer": "Recognition of route elements with strict uncertainty labels",
+      "request": "Agreement to keep personal route details bounded and explicitly labeled as uncertain",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If anyone is building a timeline around Vale, remember that strategic ambiguity is not a confession, and an old safety plan is not a murder plot.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Corrected the assumption that Vale's prior safety pattern or route overlap proves either foul play or authorship of R.",
+  "goal_progress": [
+    "Followed up with Jules regarding succession context.",
+    "Engaged Eli on technical logs and uncertainty.",
+    "Established timeline boundaries with Morgan."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 2, Samira presses Jules and Eli for details on their prior conversations with Vale while setting strict boundary conditions with Morgan regarding the route timeline. Beliefs shift slightly toward human mantle and individual agency as systemic claims are scrutinized.",
+  "final_ballot": null
+}

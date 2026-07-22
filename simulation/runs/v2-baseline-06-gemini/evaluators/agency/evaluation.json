@@ -1,0 +1,37 @@
+{
+  "role": "agency",
+  "verdict": "The simulation successfully demonstrates high character agency, robust social circulation of physical evidence, and secure gating for the progressive path, though it reveals a significant imbalance in the final ballots favoring the human mantle interpretation over one human or synthetic origin.",
+  "findings": [
+    "The structural weight of the primary endings is heavily skewed towards human_mantle (9 votes) compared to one_human (4 votes) and synthetic_origin (2 votes), indicating that late-stage collaborative evidence dimensions overshadowed origin-based facts.",
+    "Quiet roles and local characters exhibited high agency by establishing defensive boundaries, successfully preventing outside exploitation of local secrets without halting the simulation.",
+    "The progressive ending was appropriately difficult and successfully gated, with only one character voting for it and the mechanical gate remaining ineligible due to a lack of ordered history.",
+    "The voluntary sharing of physical objects (O01 and O03) successfully generated localized, face-to-face negotiations regarding succession and archive validation, satisfying the design constraint against forced transfers.",
+    "Characters successfully achieved their primary goals independent of their beliefs about R's identity, demonstrating that the central mystery acts as a catalyst for narrative tension rather than an absolute win-condition bottleneck."
+  ],
+  "evidence": [
+    "Aggregate ballots: human_mantle (9), one_human (4), synthetic_origin (2), progressive (1).",
+    "Section 3, C14 (Morgan Shaw) rejects a 'purchased certainty' and exposes a manufactured client lead (V2F027) based on an outdated map template, choosing instead to report an qualified timeline.",
+    "Section 2 & 3, C10 (Dee Nowak) and C16 (Inez Baptiste) coordinate disclosure boundaries regarding the camera interval (V2F026) to shield vulnerable building tenants from outside pressure.",
+    "Section 2 & 3, C04 (Jules Kwan) voluntarily shows the succession-message printout (O03) to C02, C03, C06, and C13 to secure conditional stewardship rather than unilateral authentication.",
+    "Section 3, C07 (Maren Okafor) and C11 (Celeste Park) lock in enforceable municipal procurement safeguards and worker protections, achieving their goals regardless of the R mystery's final resolution.",
+    "Aggregate progressive_gate: keys['identity_history'] is false, rendering eligibility false."
+  ],
+  "failure_modes": [
+    "The collaborative production and identity authority evidence dimensions (V2F035, V2F039, V2F041) exerted disproportionate persuasion in the final section, leading to an ending imbalance that violates the locked intent of equal structural weight.",
+    "Kit Rakes (C15) exhibited agent-level narrative railroading, repeatedly asserting the progressive AI capture theory in public statements despite lacking the ordered history keys to validate it."
+  ],
+  "recommendations": [
+    "Rebalance the primary ending weights by introducing high-integrity physical evidence for Synthetic Origin and One Human earlier in the simulation to counteract the late-stage dominance of the collaborative mantle facts.",
+    "Ensure the progressive ordered history keys (such as identity_history) are structurally distributed across investigative roles like Morgan Shaw (C14) or Samira Vale (C13) rather than relying on enthusiast speculation.",
+    "Further incentivize quiet-role agency by formalizing negotiated non-attribution agreements (such as Rafi's ledger and Dee's building logs) into systemic reputation or influence rewards."
+  ],
+  "scores": {
+    "primary_ending_balance": 5,
+    "progressive_difficulty": 9,
+    "article_ambiguity": 9,
+    "character_agency": 9,
+    "social_circulation": 9,
+    "mechanical_integrity": 10,
+    "report_confidence": 9
+  }
+}

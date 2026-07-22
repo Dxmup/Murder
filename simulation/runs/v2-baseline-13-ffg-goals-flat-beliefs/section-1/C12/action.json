@@ -1,0 +1,65 @@
+{
+  "character_id": "C12",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's stop pretending our positions are anything other than transactional. Veridian needs market stability, and my campaign needs data. If you pledge public transparency on Parallax's funding exposure, I'll back your foundation's optics.",
+      "offer": "Market reach and financial analysis supporting Veridian's public defense.",
+      "request": "A verifiable statement acknowledging the market pressure without a theatrical denial.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Kit, your theory on R is generating impressive volume, but let's look at provenance. Which part of your grand narrative rests on verified documents rather than echoed repetition?",
+      "offer": "Platform amplification and access to market chatter data.",
+      "request": "Visible corrections distinguishing between confirmed evidence and amplified rumor.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, your ledger patterns are fascinating. I have two distinct propositions for you: settling your debt outright, or purchasing a bounded interpretation of the transaction records.",
+      "offer": "Debt settlement or financial compensation for analytical work.",
+      "request": "Access to specific ledger patterns without forcing a predetermined conclusion.",
+      "fact_ids_shared": [
+        "V2F037"
+      ]
+    }
+  ],
+  "public_statement": "Markets move on fear and repetition, not immaculate provenance. If Parallax wants to survive the current chatter, they should stop pretending a rumor is a manuscript and start answering the audit.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Provide transparent market analysis regarding Parallax volatility in exchange for Veridian's cooperation.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated engagement with Arden regarding market valuation and public reaction.",
+    "Challenged Kit on rumor provenance vs. evidence.",
+    "Approached Rafi regarding ledger patterns and debt terms."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Graham Pike engages key actors in Section 1 to test the Parallax rumor's market impact, challenge narrative provenance with Kit, and explore ledger patterns with Rafi while maintaining initial neutral beliefs.",
+  "final_ballot": null
+}

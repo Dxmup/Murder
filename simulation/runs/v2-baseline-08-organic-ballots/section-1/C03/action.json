@@ -1,0 +1,71 @@
+{
+  "character_id": "C03",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, we need a shared disclosure boundary before anyone treats the Night Desk routing slip as a suspect list.",
+      "offer": "Firsthand knowledge of collaborative work and routing slip structure",
+      "request": "A formal rule on naming contributors to prevent exposure",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you want succession to an identity built on other people's labor. What specific rights and protections do contributors retain if you become R?",
+      "offer": "Journalistic credibility and potential collective support",
+      "request": "An explicit commitment to protect anonymous labor",
+      "fact_ids_shared": [
+        "V2F004"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian can provide archive access and resources, but we need enforceable source safeguards and legal support before lending this anniversary legitimacy.",
+      "offer": "Bounded workflow evidence from the Night Desk",
+      "request": "Concrete source protection commitments",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R was built by working relationships and anonymous hands, not a single miraculous mind. No narrative shall turn our contributors into disposable suspects.",
+  "facts_shared": [
+    "V2F004",
+    "V2F005"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O02",
+      "action": "show",
+      "to": "C07"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary to protect Night Desk contributors from exposure.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated discussions with Maren on disclosure boundaries.",
+    "Challenged Jules regarding contributor protections.",
+    "Approached Arden for concrete resource and source protections."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 50,
+    "synthetic_origin": 20,
+    "progressive": 10,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Tessa Quill focuses on protecting the Night Desk collective's anonymous contributors amid R anniversary reckonings. She establishes disclosure boundaries with Maren, challenges Jules on succession terms, and demands concrete protections from Arden.",
+  "final_ballot": null
+}

@@ -1,0 +1,65 @@
+{
+  "character_id": "C08",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, knowing that my commissioned voice work was reused without consent to back your encounter, how do you view the authenticity of that meeting?",
+      "offer": "Direct confirmation of how the voice in your encounter was synthetically constructed.",
+      "request": "Your honest assessment of whether a performed voice constitutes R.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, with the render service notice showing elements of my old commission running during the gap, we must recognize that imitation without consent is theft. Where do you stand on artist attribution?",
+      "offer": "My perspective on protecting original performance rights in succession claims.",
+      "request": "Acknowledgment that performance is not automatic authorship.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Tessa, the render service tied contributions to contributor availability during the interval. How do we ensure collaborative labor doesn't become stolen property?",
+      "offer": "Expertise distinguishing source recordings from generated outputs.",
+      "request": "Insight into contributor availability and render timing.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "My old commission proved that a performed presence can be deployed without ongoing consent. Imitation without permission is plain theft, and performance is never authorship.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Performance is a collaborative act of execution, not an automatic surrender of authorship or ongoing consent.",
+  "goal_progress": [
+    "Confronted Frankie with the reality of the commissioned voice encounter.",
+    "Discussed attribution and consent with Jules in light of the render activity.",
+    "Engaged Tessa regarding contributor availability and asset reuse during the interval."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 40,
+    "synthetic_origin": 45,
+    "progressive": 5,
+    "article_existed": 40,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "In Section 3, Edi Velez consolidates the realization that commissioned synthetic voice assets were reused across R's network without ongoing consent. Edi confronts Frankie on the performed encounter, discusses authorship with Jules, and participates in the final reconstruction by voting for a synthetic origin / human mantle hybrid backed by verifiable performance records and intermediary payment routes.",
+  "final_ballot": {
+    "r_identity": "synthetic_origin",
+    "identity_evidence": [
+      "V2F019",
+      "V2F020",
+      "V2F040"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032"
+    ]
+  }
+}

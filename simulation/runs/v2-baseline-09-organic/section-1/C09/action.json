@@ -1,0 +1,72 @@
+{
+  "character_id": "C09",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, people are asking about the ledger and the old R-associated account. We need to agree on what neighborhood details remain off-limits before outsiders start treating every informal arrangement as guilt.",
+      "offer": "My support and discretion regarding neighborhood customer protections.",
+      "request": "Your backing if ledger anomalies or past favors surface under scrutiny.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, I have transaction continuity records and collector details, but I will only discuss the pattern if you agree not to call any customer R and respect customer privacy.",
+      "offer": "A bounded look at the transaction pattern and collector context.",
+      "request": "A clear, binding promise on attribution limits and customer privacy.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, before we talk about R's habits, tell me how you remember the private routine so we don't confuse good storytelling with authentication.",
+      "offer": "A comparison with the private habits noted in my counter records.",
+      "request": "Your exact recollection of R's purported private habit.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of keeping a shop teaches you that habits feel personal, but accounts are shared and collectors change. Before anyone buys certainty from my counter, let's be clear about what the ledger actually supports.",
+  "facts_shared": [
+    "V2F007",
+    "V2F008",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Protect local customer records and informal arrangements from public exposure.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C14",
+      "promise": "Restrict ledger disclosure terms and avoid naming any customer as R.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Contacted Inez to discuss neighborhood disclosure boundaries.",
+    "Engaged Morgan with terms for ledger discussion and attribution limits.",
+    "Prompted Frankie on R's supposed private habit."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Rafi Calder\u00f3n opens Section 1 by securing neighborhood alignment with Inez, setting strict attribution terms with Morgan, and comparing notes with Frankie while maintaining the integrity of shop records against premature monetization or exposure.",
+  "final_ballot": null
+}

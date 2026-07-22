@@ -1,0 +1,54 @@
+{
+  "character_id": "C13",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you asked how succession could be manufactured. Tell me the full conversation before I decide what to disclose about Vale's prior patterns.",
+      "offer": "I can share context on Vale's communication habits if you explain your exact question.",
+      "request": "Repeat the complete conversation around succession.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, you noted Vale told you R was no longer human. Let's look at what logs made that seem plausible and what remains uncertain.",
+      "offer": "I can offer context on how Vale handled intense emotional strain during investigations.",
+      "request": "Share what evidence you showed Vale and how Vale reacted.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, I will compare routes only if personal detail is handled with strict uncertainty labels and explicit consent.",
+      "offer": "I can share my recognition of route elements if you agree to keep uncertainty visible.",
+      "request": "Share your route board with uncertainty labels intact.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale's disappearance is not a blank slate for anyone to project their theories or manufacture proof. Real history has boundaries.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "I will not share Samira's intimate history or personal disclosures without prior consent.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Correction: Vale's prior voluntary disappearance was a personal safety pattern arranged with help, not a blueprint for staged theatricality or an automatic confession of harm.",
+  "goal_progress": [
+    "Continued dialogue with Jules regarding succession manufacturing.",
+    "Engaged Eli on the non-human R statement and technical logs.",
+    "Established timeline boundaries with Morgan."
+  ],
+  "beliefs": {
+    "one_human": 45,
+    "human_mantle": 20,
+    "synthetic_origin": 20,
+    "progressive": 15,
+    "article_existed": 30,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Samira maintains skepticism toward anyone turning Vale into a symbol, pressing Jules for the succession conversation, discussing technical logs with Eli, and setting boundaries with Morgan on route comparisons.",
+  "final_ballot": null
+}

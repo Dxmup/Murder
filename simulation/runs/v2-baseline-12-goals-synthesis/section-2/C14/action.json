@@ -1,0 +1,66 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, thank you for setting that boundary. I agree to label all route uncertainty and secure your explicit consent before any personal detail enters my notes.",
+      "offer": "I will show my route board with uncertainty labels intact and protect your confidences.",
+      "request": "Help me evaluate whether the client-supplied route segment near the printing floor matches Vale's actual movements.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I accept your fair-treatment terms. I am here for verified neighborhood accounts, not to leave residents holding the risk.",
+      "offer": "Complete discretion and strict protection of local source identities against commercial exposure.",
+      "request": "Can you introduce me to a witness who saw transit or activity near the printing floor two nights ago?",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms: no customer will be labeled R based on your ledger. Let's look strictly at the transaction continuity.",
+      "offer": "A bounded view of my route board timeline near the former printing floor.",
+      "request": "Show me the bounded ledger entries for the time Vale entered the neighborhood.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "Review route details with Samira only under strict uncertainty labeling and explicit consent.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Agree not to call any customer R based on transaction records.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Established formal agreement with Samira regarding uncertainty labeling and consent for personal route details.",
+    "Accepted Inez's fair-treatment terms for neighborhood witness engagement.",
+    "Agreed to Rafi's privacy terms in exchange for bounded transaction continuity records."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 45,
+    "vale_killed_by_ai": 35
+  },
+  "reasoning_summary": "Engaged Samira, Inez, and Rafi under strict voluntary and confidential terms to test the manufactured route segment and gather local observations without compromising source safety.",
+  "final_ballot": null
+}

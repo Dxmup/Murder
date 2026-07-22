@@ -1,0 +1,68 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, what boundaries would make a timeline conversation possible between us without assuming my client's narrative is clean?",
+      "offer": "I can share my route board with uncertainty labels intact to keep our comparison transparent.",
+      "request": "Tell me what you know about Vale's movements before disappearing, especially regarding strategic ambiguity.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I want voluntary accounts from neighborhood witnesses. Please name your fair-treatment terms so I can respect local risk.",
+      "offer": "I can offer complete discretion and public correction if my reported findings misrepresent neighborhood realities.",
+      "request": "Can you introduce me to residents who remember the printing floor activity two days before the gathering?",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's look at one narrow time and place near the former printing floor rather than broad speculation about Vale.",
+      "offer": "I can show you specific timeline comparisons from my notes to help bound our observations.",
+      "request": "Do you remember any unusual transactions or movements near the printing floor two days ago?",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    }
+  ],
+  "public_statement": "An investigation is only as honest as its weakest segment. I am reviewing the route traces section by section and invite anyone with direct observation of the printing floor area to separate fact from supplied summary.",
+  "facts_shared": [
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "I will not share Samira's intimate history or personal disclosures without prior consent.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C16",
+      "promise": "I will abide by Inez's fair-treatment terms and protect witness risk before publishing any neighborhood accounts.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Samira Vale to discuss boundaries for a timeline conversation.",
+    "Approached Inez Baptiste to establish fair-treatment terms for neighborhood witness accounts.",
+    "Engaged Rafi Calder\u00f3n with a narrow time and place inquiry regarding the former printing floor."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "As Morgan Shaw, my priority in Section 1 is establishing trusted channels with Samira, Inez, and Rafi while quietly probing the discrepancies in the client-supplied route segment near the printing floor. I am keeping my route board transparent with uncertainty labels and avoiding premature conclusions.",
+  "final_ballot": null
+}

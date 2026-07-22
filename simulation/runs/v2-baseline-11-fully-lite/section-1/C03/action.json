@@ -1,0 +1,64 @@
+{
+  "character_id": "C03",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, we need a shared disclosure boundary before contributors panic or get exposed as suspects.",
+      "offer": "My firsthand knowledge of collective workflow and the routing slip context.",
+      "request": "Agreement on a rule that protects contributor names while acknowledging our collaborative labor.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, claiming succession means nothing if contributors become disposable scenery. What rights do they retain?",
+      "offer": "Support for your succession if proper guardrails and contributor protections are met.",
+      "request": "A binding statement on how you will protect anonymous laborers.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian has resources, but we need concrete legal and archive protections before lending legitimacy.",
+      "offer": "Redacted workflow evidence from the Night Desk routing slip.",
+      "request": "Enforceable source safeguards and funding without editorial ownership.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R was sustained by invisible hands and collective infrastructure, not just a single legend. We demand protection for contributors before any names or routing slips are weaponized.",
+  "facts_shared": [
+    "V2F004",
+    "V2F005"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary to protect vulnerable contributors from being treated as R suspects.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated discussion with Maren on establishing a contributor disclosure boundary.",
+    "Challenged Jules on contributor protections and rights under succession.",
+    "Approached Arden for concrete resource and legal protections for the Night Desk."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 60,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Tessa focused Section 1 on securing worker protections, engaging Maren for a disclosure boundary, questioning Jules on succession obligations, and negotiating with Arden for institutional safeguards using the Night Desk routing slip context.",
+  "final_ballot": null
+}

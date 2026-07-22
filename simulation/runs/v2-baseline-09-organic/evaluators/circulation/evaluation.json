@@ -1,0 +1,41 @@
+{
+  "role": "circulation",
+  "verdict": "The simulation successfully generated reciprocal face-to-face movement and defensive information gating rather than unilateral extraction or broadcasting, though it suffered from a severe structural convergence on a single ending and hyper-conservative object custody.",
+  "findings": [
+    "Reciprocal Bargaining as a Corrective Loop (C15, C06): Kit Rakes (C15) and Eli Navarro (C06) engage in a highly structured conditional bargain where Kit's public retractions of speculative theories are directly traded for Eli's precise technical clarifications of continuity headers, successfully filtering out false rumors through face-to-face dialogue.",
+    "Defensive Social Circulation and Community Sovereignty (C16, C10, C09, C07): The neighborhood collective (Inez, Dee, Rafi, Maren) gates localized information (camera gaps, service routes) behind strict defensive commitments, forcing investigator Morgan Shaw (C14) to accept privacy terms and uncertainty labels before accessing local ledger fragments, thereby preventing unilateral extraction.",
+    "App-Driven Civic and Institutional Action (C01, C16): Inez Baptiste (C16) leverages neighborhood backing and anniversary endorsement to extract written, enforceable institutional commitments from Arden Bell (C01) of Veridian Dynamics for neighborhood archive preservation and workspace authority, proving that text/app interactions successfully catalyzed face-to-face physical concessions.",
+    "Endings Convergence and Lack of Structural Weight Balance (Game-Design Finding): Although the Locked Design Intent mandates equal structural weight for One Human, Human Mantle, and Synthetic Origin, the collaborative nature of social circulation creates a powerful 'gravity well' that pulls 11 out of 16 agents to converge on 'human_mantle' because it naturally synthesizes and honors multiple characters' localized truths.",
+    "Stagnant Object Custody (Simulation Weakness): Despite voluntary transfers being explicitly permitted, characters exclusively use the 'show' action (O01 shown by C02, O02 shown by C03, O03 shown by C04) and never execute a transfer of physical custody, indicating that agents treat objects as read-only proof items rather than dynamic bargaining chips.",
+    "Dialogue Flattening and Voice Uniformity (Agent Artifact): A clear LLM default artifact is the highly formal, diplomatic, and structurally uniform nature of communication, where diverse characters\u2014ranging from bodega owners to security guards\u2014all speak in an identical, highly polished administrative dialect."
+  ],
+  "evidence": [
+    "Section 1 and 2 conversations between C15 (Kit Rakes) and C06 (Eli Navarro) showing a conditional exchange of retractions for technical clarifications.",
+    "Section 1, 2, and 3 defensive commitments between C16 (Inez), C07 (Maren), C09 (Rafi), and C10 (Dee) protecting local residents and workers from outside investigation.",
+    "Written and fulfilled institutional commitments between Arden Bell (C01) and Inez Baptiste (C16) in Section 3 regarding neighborhood archive protection.",
+    "Aggregate ballots showing r_identity skew: 11 ballots for 'human_mantle', 2 for 'one_human', 1 for 'synthetic_origin', and 2 for 'progressive'.",
+    "Object actions in Sections 1, 2, and 3 restricted entirely to 'show' actions for O01, O02, and O03, with zero physical custody transfers.",
+    "Graham Pike (C12) public statement and correction in Section 3 confirming that no complete article was ever produced and that Parallax's reaction reflected financial exposure rather than authenticated manuscript existence."
+  ],
+  "failure_modes": [
+    "Hyper-Conservative Object Custody: Agents treat physical object custody as completely static, utilizing 'show' actions exclusively and avoiding 'transfer' actions, which prevents custody from serving as a dynamic symbol of trust or leverage.",
+    "Dialogue Voice Flattening: The LLM default overrides distinct character registers, making a local bodega owner (C09), a security guard (C10), a corporate director (C05), and a political activist (C16) speak in an identical, highly polished administrative dialect.",
+    "Narrative Gravity Well of Human Mantle: The structural design allows social circulation to act as a consensus engine that naturally favors the 'Human Mantle' ending, because it is the most cooperative and inclusive narrative, leaving 'One Human' and 'Synthetic Origin' severely underrepresented despite the locked design intent.",
+    "Frictionless Commitment Fulfillment: Commitments are proposed, accepted, and fulfilled with absolute success and zero friction, betrayal, or strategic risk, which makes the social negotiations feel like a cooperative puzzle rather than a tense, suspicious social mystery."
+  ],
+  "recommendations": [
+    "Incentivize Physical Object Transfers: Introduce explicit character-specific goals that can only be satisfied by obtaining actual physical possession of an object, forcing characters to negotiate custody transfers rather than relying on read-only shows.",
+    "Inject Explicit Linguistic Styles and Persona Guidelines: Add strict stylistic constraints in each character's system prompt (e.g. colloquialisms, short sentences, technical jargon, defensive tones) to break the LLM's natural tendency to flatten all dialogue into a polite corporate monotone.",
+    "Counter-Balance the Narrative Gravity Well: Introduce mutually exclusive, high-integrity clues that directly contradict the 'Human Mantle' theory, forcing agents to take conflicting sides rather than allowing them to easily merge all findings into a single cooperative narrative.",
+    "Introduce Betrayal and Conflicting Motivations: Give certain characters covert goals to leak information, break commitments, or act as double agents to introduce genuine strategic risk, suspicion, and dramatic tension into face-to-face negotiations."
+  ],
+  "scores": {
+    "primary_ending_balance": 4,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 9,
+    "social_circulation": 9,
+    "mechanical_integrity": 9,
+    "report_confidence": 10
+  }
+}

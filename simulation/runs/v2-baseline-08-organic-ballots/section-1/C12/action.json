@@ -1,0 +1,58 @@
+{
+  "character_id": "C12",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's stop pretending either of us is above leverage. Veridian's legitimacy meets my market position. What public reaction from you would justify a formal pledge tonight?",
+      "offer": "My original tip record and financial analysis of who benefited from the rumor.",
+      "request": "Transparent acknowledgment of how Parallax plans to handle the valuation drop.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Kit, your grand theory is electric, but let's look at the plumbing. Which part of your narrative rests on actual verified evidence rather than compounding repetition?",
+      "offer": "Platform reach to make your corrections consequential.",
+      "request": "A clear breakdown of your sources versus your deductions.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I hear you have a ledger pattern the market would love. Let's talk terms without pretending we're curing diseases.",
+      "offer": "Full debt settlement on clean terms.",
+      "request": "Bounded ledger access without forced conclusions.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "A market moves on fear and exposure, not manuscripts. If nobody has produced a complete article, let's stop confusing price action with proof.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden Bell regarding Veridian's stance and public reaction.",
+    "Challenged Kit Rakes on evidence versus repetition in the rumor cycle.",
+    "Approached Rafi Calder\u00f3n regarding ledger access and debt settlement."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 20,
+    "synthetic_origin": 40,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Graham Pike focuses on rumor provenance, market leverage, and testing the reality behind the Parallax valuation drop while keeping his own amplification practices grounded in transactional transparency.",
+  "final_ballot": null
+}

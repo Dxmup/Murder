@@ -1,0 +1,61 @@
+{
+  "character_id": "C11",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the calendar recovery message is out. We need to compare your authorization record with my entry now so we share responsibility rather than trading competing denials.",
+      "offer": "To align on shared disclosure terms for the off-calendar meeting without exposing City Hall to unilateral blame.",
+      "request": "Your agreement to compare records and issue a joint statement on informal oversight.",
+      "fact_ids_shared": [
+        "V2F029"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, symbolic advisory committees are off the table. I can deliver City Hall funding and procurement backing if you give me enforceable worker safeguards with hard deadlines.",
+      "offer": "Credible paths to funding and municipal enforcement power for labor protection.",
+      "request": "Specific, binding labor demands that survive tonight's event.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I arranged the access that may have put Vale in motion, but I want to ensure Vale's personal privacy and dignity are protected before we address any disclosures.",
+      "offer": "A strict privacy boundary regarding Vale's personal context and records.",
+      "request": "Your cooperation in separating verified administrative facts from market speculation.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "City Hall's response must anchor on verified worker and neighborhood protections rather than unverified rumors or panic.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C05",
+      "promise": "Jointly review and disclose the off-calendar meeting records with shared administrative accountability.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C07",
+      "promise": "Incorporate enforceable worker safeguards with firm deadlines into municipal procurement policy.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Dr. Mira Sen to align on meeting record accountability and containment.",
+    "Proposed concrete enforcement terms to labor leadership for worker protections."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 30,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Pursued secondary and primary goals by contacting Mira Sen regarding meeting record alignment, Maren Okafor regarding enforceable worker protections, and Samira Vale regarding privacy boundaries. Maintained balanced beliefs reflecting progressive and human factors in institutional interactions.",
+  "final_ballot": null
+}

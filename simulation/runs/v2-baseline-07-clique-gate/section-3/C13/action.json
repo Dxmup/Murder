@@ -1,0 +1,67 @@
+{
+  "character_id": "C13",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you heard my question and your account matches part of the pattern, but let's be clear: manufacturing succession is not discovery. Vale used you just as Vale used others to test the waters.",
+      "offer": "My perspective on Vale's prior pattern and protective habits",
+      "request": "Your final acknowledgment of the manipulation involved in pre-message succession talks",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, the logs show what they show, but calling R 'no longer human' was Vale's framing under emotional strain, not a technical inevitability. Let's keep uncertainty visible.",
+      "offer": "Context on Vale's emotional state when reviewing technical material",
+      "request": "Agreement to label the technical logs with appropriate uncertainty in any final recap",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, our boundary holds. The personal route overlap supports escape just as easily as harm, and any timeline must reflect that ambiguity explicitly.",
+      "offer": "My recognition of familiar safety patterns from the earlier disappearance",
+      "request": "Your confirmation that the final report respects our disclosure limits and uncertainty labels",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale's absence is not a prop for your theories or a clean plot device. Whether Vale withdrew voluntarily or faced harm, a human life and real choices preceded this silence.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "Respect disclosure limits and maintain the agreed uncertainty labels on personal route details.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Correcting the assumption that Vale's disappearance and the nature of R can be reduced to a single manufactured narrative without acknowledging prior escape patterns and human cost.",
+  "goal_progress": [
+    "Completed final exchanges with Jules, Eli, and Morgan",
+    "Maintained privacy boundaries regarding the envelope and personal history",
+    "Finalized ballot and evaluation of Vale's fate and R's identity"
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 35,
+    "synthetic_origin": 15,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 3, Samira concludes her interactions by enforcing boundaries with Jules, Eli, and Morgan, refusing to let Vale's humanity be erased by conspiracy theories or manufactured certainty, and casting her final ballot reflecting voluntary disappearance and human investigation.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F032"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F028",
+      "V2F034"
+    ]
+  }
+}

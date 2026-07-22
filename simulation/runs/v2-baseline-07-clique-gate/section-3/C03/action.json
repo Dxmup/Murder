@@ -1,0 +1,87 @@
+{
+  "character_id": "C03",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, our joint disclosure boundary held. Let's make sure our public stance firmly rejects turning Night Desk contributors into suspects while acknowledging the reality of our shared workflow.",
+      "offer": "Reaffirmation of our joint disclosure boundary and worker protection stance.",
+      "request": "Solidify our unified position on contributor protections for the final reconstruction.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you committed to contributor oversight and governance protections. As we face the final ballot, ensure those governance rights remain non-negotiable under any succession claim.",
+      "offer": "Public recognition of formal governance guarantees if honored.",
+      "request": "Strict adherence to contributor veto power and transparency.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian's archives must respect the invisible hands and rotating infrastructure of collective labor rather than erasing them behind corporate prestige.",
+      "offer": "Bounded workflow context from the Night Desk routing slip.",
+      "request": "A lasting institutional commitment to legal support and source safeguards.",
+      "fact_ids_shared": [
+        "V2F005",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R was sustained by rotating hands, translated fragments, and silent contributors. Let us not honor a single legend by erasing the infrastructure that made the work survive.",
+  "facts_shared": [
+    "V2F004",
+    "V2F005"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "We will jointly defend evaluator anonymity and circulate only contributor-free workflow descriptions.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C04",
+      "promise": "I commit to establishing contributor oversight and governance protections before formalizing any claim to R.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured joint disclosure boundary with Maren to protect Night Desk contributors.",
+    "Held Jules to governance and contributor protection commitments.",
+    "Challenged Veridian's institutional prestige with demands for concrete source safeguards."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 70,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 40,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Tessa concluded her participation by enforcing strict contributor protections, cementing her alliance with Maren around safe workflow disclosures, holding Jules accountable to governance terms, and casting her final ballot for a human mantle that recognizes rotating collaborative labor.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F007",
+      "V2F008"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "insufficient_evidence",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032"
+    ]
+  }
+}

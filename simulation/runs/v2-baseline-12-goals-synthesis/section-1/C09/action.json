@@ -1,0 +1,64 @@
+{
+  "character_id": "C09",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are buzzing about the old ledger and the R account. We need to agree on what neighborhood details stay private before every delivery irregularity looks like guilt.",
+      "offer": "Support whatever public choice I make about the debt if you help protect customer privacy.",
+      "request": "Agree to help defend neighborhood boundaries against outside exploitation.",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, I know you want a look at the ledger to date the pattern change. We can discuss the continuity pattern, but only if you offer clear terms on customer privacy and attribution.",
+      "offer": "A bounded view of transaction continuity.",
+      "request": "Promise never to call any customer R based on my records.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, you always talk about R's stable human habits. My counter records show a recurring private habit too, though several collectors rotated through.",
+      "offer": "Compare notes on R's supposed private habits.",
+      "request": "Describe your perspective on R's habits without turning it into absolute authentication.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years is long enough to know that a ledger records real people, not just legends. Whoever is asking about R should talk to the shopkeepers who kept the lights on, not just hunt for a villain.",
+  "facts_shared": [
+    "V2F007",
+    "V2F008"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "I will share a bounded ledger view regarding transaction patterns if you agree not to call any customer R.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Inez to establish neighborhood protection boundaries.",
+    "Approached Morgan with terms on ledger disclosure and attribution.",
+    "Engaged Frankie on the discussion of recurring private habits."
+  ],
+  "beliefs": {
+    "one_human": 55,
+    "human_mantle": 25,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Rafi Calder\u00f3n opens Section 1 by securing neighborhood alignment with Inez, setting strict terms with investigator Morgan regarding ledger privacy, and exchanging observations with Frankie on habits while protecting vulnerable customer records.",
+  "final_ballot": null
+}

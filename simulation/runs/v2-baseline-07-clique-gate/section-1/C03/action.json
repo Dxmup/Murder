@@ -1,0 +1,64 @@
+{
+  "character_id": "C03",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, contributors are already panicking that the Night Desk routing slip will be treated as an arrest list. We need a shared disclosure boundary right now that separates workflow from names.",
+      "offer": "Firsthand context on collaborative production and anonymous drops.",
+      "request": "Agreement on a disclosure boundary that protects worker anonymity before any schedules circulate.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you want succession to an identity built on other people's labor. What binding guarantees will you give contributors to ensure they aren't turned into disposable scenery?",
+      "offer": "Consideration of support if clear succession and protection conditions are met.",
+      "request": "An explicit statement of what obligations and rights contributors retain under your succession.",
+      "fact_ids_shared": [
+        "V2F004"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian's archives carry immense weight, but institutional prestige cannot come at the cost of exposing vulnerable researchers. Let's discuss concrete source protection.",
+      "offer": "Limited workflow evidence from the Night Desk routing slip.",
+      "request": "A binding institutional commitment to legal support and source safeguards for collective labor.",
+      "fact_ids_shared": [
+        "V2F005"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R was sustained by rotating hands, translated fragments, and silent contributors. Let us not honor a single legend by erasing the infrastructure that made the work survive.",
+  "facts_shared": [
+    "V2F004",
+    "V2F005"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary to protect contributor anonymity before releasing schedule data.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated discussions with Maren on a shared disclosure boundary.",
+    "Challenged Jules on contributor protections and rights under succession.",
+    "Approached Arden to negotiate concrete source protection in exchange for bounded workflow evidence."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 50,
+    "synthetic_origin": 10,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Tessa focused Section 1 on establishing defensive alliances and boundaries. She engaged Maren to set a strict disclosure rule protecting anonymous contributors from being recast as suspects, pressed Jules on accountability for collective labor, and opened talks with Arden regarding institutional protections before any records or routing slips are broadly discussed.",
+  "final_ballot": null
+}

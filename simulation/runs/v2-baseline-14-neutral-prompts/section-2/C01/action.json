@@ -1,0 +1,65 @@
+{
+  "character_id": "C01",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, message V2M019 indicates someone is asking about the Parallax funding restriction. We need to clarify our stance on unauthenticated technical claims before this destabilizes Veridian's anniversary.",
+      "offer": "Controlled disclosure terms and joint management of the transparency pledge.",
+      "request": "Explicit confirmation of how Parallax intends to handle the funding terms tonight.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, regarding your request to examine the archive intake report and expense records side-by-side with your First R Letter packet, let's establish mutual transparency.",
+      "offer": "Full access to Veridian's provenance and expense records concerning the original handoff.",
+      "request": "Your First R Letter packet for side-by-side verification before public statements.",
+      "fact_ids_shared": [
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C12",
+      "say": "Graham, your offer to fund institutional outreach if Veridian backs a public transparency pledge is timely. Let's discuss concrete terms.",
+      "offer": "A public transparency pledge treating structural questions as legitimate institutional inquiry.",
+      "request": "Concrete financial support for Veridian's institutional outreach and archive preservation.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Veridian Dynamics stands by the integrity of our archives and our commitment to public-interest reporting. We will address all funding terms and provenance records transparently without yielding to speculative panic.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C02",
+      "promise": "Produce Veridian intake report and expense records concerning the original handoff in exchange for viewing the First R Letter packet.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C05",
+      "promise": "Maintain public alignment on donation terms and operational boundaries.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Addressed funding pressure and Parallax restriction inquiries with Mira",
+    "Advanced provenance and archive verification with Frankie",
+    "Explored outreach funding opportunities with Graham"
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 25,
+    "synthetic_origin": 35,
+    "progressive": 20,
+    "article_existed": 60,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Responded to the Parallax funding restriction escalation, engaged Frankie to reconcile archive records with the First R Letter packet, and discussed institutional outreach funding with Graham while adjusting beliefs toward synthetic origin origins based on archive manifests.",
+  "final_ballot": null
+}

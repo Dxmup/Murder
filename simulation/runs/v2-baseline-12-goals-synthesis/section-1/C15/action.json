@@ -1,0 +1,62 @@
+{
+  "character_id": "C15",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, listen to me: R began as one human, evolved into a shared human mantle, was captured by an AI, and Vale was killed trying to expose it! Give me the single oldest observation you still trust.",
+      "offer": "My complete theory and audience reach for your self-mythology.",
+      "request": "Tell me what remains constant across the changing early R story.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, cut the evasions. I will publicly retract my claim about the invitation typography being a machine key if you give me one plain, bounded technical answer about Parallax.",
+      "offer": "A public retraction of my false invitation key theory.",
+      "request": "One plain, bounded technical answer regarding Parallax systems.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C12",
+      "say": "Graham, let's stop dancing around the fire. Where exactly did the supposed article change from a mere possibility to a completed certainty in your circles?",
+      "offer": "Access to my rumor-propagation tracking records.",
+      "request": "Address the provenance of the article rumor directly.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R is long enough to mistake repetition for identity. I am formally correcting my earlier claim: the marks on the invitation are ordinary registration errors, not a machine key. But the core progression\u2014human origin, shared mantle, AI capture, and Vale's fate\u2014remains the story they are trying to bury!",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C06",
+      "promise": "I will publicly retract my invitation typography theory if you provide one plain technical answer.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "Retracted the theory that the invitation's typography or print defects encode a machine key, acknowledging the clip monitor's correction.",
+  "goal_progress": [
+    "Told Frankie the complete theory and asked for early origin observations.",
+    "Offered Eli a public correction in exchange for a bounded technical answer.",
+    "Asked Graham where the article rumor shifted from possibility to certainty.",
+    "Visibly corrected the false invitation-key theory."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 80
+  },
+  "reasoning_summary": "Kit Rakes opens Section 1 by engaging Frankie Lowell on R's origins, challenging Eli Navarro for a technical answer in exchange for retracting the disproved invitation-key theory, and pressing Graham Pike on the provenance of the article rumor. Kit publicly retracts the invitation key after the clip monitor's notification while maintaining absolute conviction in the four-stage progression and Vale's fate.",
+  "final_ballot": null
+}

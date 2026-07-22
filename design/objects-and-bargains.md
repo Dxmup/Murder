@@ -175,6 +175,7 @@ The host never decides whether a promise was kept. Players may reveal broken com
 
 - Objects move only with the holder's consent.
 - A holder may show an object without surrendering it.
+- When an object is transferred, the person transmitting the item retains memory of that item, but only so far as knowing exactly which person they handed the item to.
 - Players may take handwritten notes but may not photograph props unless the holder agrees.
 - No object is destroyed during play.
 - When a message supplies a digital attachment, the physical prop remains the primary tradeable object unless the design explicitly says otherwise.

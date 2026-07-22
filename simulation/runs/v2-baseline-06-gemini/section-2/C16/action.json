@@ -1,0 +1,73 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C10",
+      "say": "Dee, let's lock in our disclosure boundary. We coordinate the service exit timeline and protect tenant anonymity before Morgan connects any dots.",
+      "offer": "Neighborhood backing and aligned disclosure narrative regarding the unpreserved camera interval.",
+      "request": "Strict adherence to our agreed boundary protecting tenant anonymity.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms. We keep customer privacy intact and consult each other before anyone trades away the shop's ledger for cheap certainty.",
+      "offer": "Unified neighborhood front against external ledger mining.",
+      "request": "Mutual consultation on any public disclosures involving shop accounts.",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you want local accounts, we operate on fair-treatment terms: discretion and no misattribution of neighborhood witnesses.",
+      "offer": "Protected introductions to willing neighborhood witnesses under verified terms.",
+      "request": "A binding commitment that local accounts will not be sold or misattributed.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Neighborhood infrastructure and local workers are not disposable evidence for outside investigators. We stand together.",
+  "facts_shared": [
+    "V2F007",
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "Coordinate disclosure boundaries regarding the camera interval and protect tenant anonymity.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Protect local customer privacy and consult on ledger disclosures before any external agreement.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C07",
+      "promise": "Coordinate joint protection for neighborhood workers and residents against outside institutional blame.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Consolidated protective boundaries with Dee regarding the camera interval and tenant anonymity.",
+    "Accepted Rafi's commitment to protect customer privacy and ledger details.",
+    "Established fair-treatment terms with Morgan for any neighborhood witness interactions."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez formalizes protective agreements with Dee, Rafi, and Maren, sets clear fair-treatment terms with investigator Morgan, and maintains neighborhood solidarity against external exploitation.",
+  "final_ballot": null
+}

@@ -1,0 +1,73 @@
+{
+  "character_id": "C05",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, our funding agreement must be transparently renegotiated so neither of us is left holding concealed liabilities.",
+      "offer": "Continued Veridian financial support under publicly sustainable terms.",
+      "request": "Agreement to jointly disclose the funding conditions without surprise board maneuvers.",
+      "fact_ids_shared": [
+        "V2F030"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, let us compare your preserved capability logs with my parent authorization record under independent counsel to establish what actually occurred.",
+      "offer": "My authorization half and independent legal/technical protection.",
+      "request": "Your preserved log excerpts for a bounded comparison.",
+      "fact_ids_shared": [
+        "V2F017",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, our off-calendar records regarding Vale's access must align so we share responsibility rather than facing uncoordinated disclosures.",
+      "offer": "Coordinated records reconciliation concerning Vale's limited access.",
+      "request": "Your missing calendar context to clarify how Vale reached the infrastructure.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "Parallax developed infrastructure for civic benefit under authorized project charters, not autonomous manipulation. We welcome scrutiny based on verified records rather than manufactured rumors.",
+  "facts_shared": [
+    "V2F017",
+    "V2F029",
+    "V2F030",
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Negotiate transparent terms for Veridian's funding rather than enforcing silence.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C06",
+      "promise": "Provide independent counsel and the parent authorization record in exchange for log comparison.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden regarding transparent renegotiation of Veridian funding terms.",
+    "Proposed structured log and authorization record comparison to Eli.",
+    "Initiated records reconciliation with Celeste regarding Vale's access context."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 45,
+    "vale_killed_by_ai": 55
+  },
+  "reasoning_summary": "In Section 2, Dr. Mira Sen addresses her primary and secondary goals by pressing Arden (C01) on funding terms, engaging Eli (C06) to compare logs with authorization records, and coordinating with Celeste (C11) on calendar context and shared responsibility. Beliefs are adjusted based on technical disclosures and legal pressure, and final_ballot remains null for Section 2.",
+  "final_ballot": null
+}

@@ -1,0 +1,64 @@
+{
+  "character_id": "C03",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, let's finalize our disclosure boundary: we name no contributors and describe only shared workflow mechanics to counter the suspect lists.",
+      "offer": "Firsthand corroboration of the Night Desk workflow context",
+      "request": "Acceptance of our shared descriptive boundary for contributor protection",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, your technical precision matters here. The shared drop monitor notes an activity gap outside our disclosed schedules\u2014let's compare boundaries without exposing names.",
+      "offer": "Our routing slip production dates and context",
+      "request": "Clarification on what access logs and activity gaps actually prove",
+      "fact_ids_shared": [
+        "V2F018",
+        "V2F020"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian archives must not be used to manufacture suspect lists. I want formal source safeguards before we discuss routing slip details further.",
+      "offer": "Bounded workflow evidence from our collective routing slip",
+      "request": "Written institutional commitments for source and worker protection",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "The Night Desk's routing slip proves collaborative production, not a single author. Protecting anonymous labor is non-negotiable.",
+  "facts_shared": [
+    "V2F035",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary to protect vulnerable contributors before releasing routing details.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Corrected the false assumption that shared drop intervals or routing slips identify single authors or establish an exclusive R origin.",
+  "goal_progress": [
+    "Consolidated disclosure boundaries with Maren to protect worker anonymity.",
+    "Engaged Eli to analyze activity gaps without exposing contributors.",
+    "Pressed Arden for formal source-protection commitments in exchange for workflow evidence."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 65,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Tessa continues to prioritize worker protection and transparent collective boundaries. She reinforces her agreement with Maren, consults Eli regarding the disputed activity gap without exposing names, and demands concrete source safeguards from Arden while maintaining her human mantle belief.",
+  "final_ballot": null
+}

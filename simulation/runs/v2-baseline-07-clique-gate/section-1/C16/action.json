@@ -1,0 +1,62 @@
+{
+  "character_id": "C16",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, workers and neighbors are taking the heat for service route gaps. Let's coordinate worker protections and neighborhood space commitments before outsiders dictate terms.",
+      "offer": "Neighborhood participation in worker defense coalitions",
+      "request": "Concrete contractor and courier protections in writing",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, outsiders are offering cash for service route names. We need a shared boundary right now so nobody turns your ledger into an interrogation target.",
+      "offer": "Context on the back room access without exposing local names",
+      "request": "Agreement on what details remain strictly off-book",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian wants local legitimacy for this anniversary. Before we lend our names, what concrete space and rent support are you putting in writing?",
+      "offer": "Neighborhood goodwill and attendance support for Veridian's event",
+      "request": "A written, enforceable commitment for neighborhood space and rent support",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "If institutional attention turns local favors into charges, no one gets a clean story. We protect our neighbors first.",
+  "facts_shared": [
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Coordinate neighborhood and worker protection boundaries against outside inquiry",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated talks with Maren on worker and neighborhood protections.",
+    "Established contact with Rafi to secure route boundaries.",
+    "Challenged Arden on concrete institutional commitments for space and support."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 40,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Inez focuses on securing concrete institutional commitments from Arden, coordinating defenses with Maren, and protecting Dee and Rafi from outside scrutiny over the unlogged service route access.",
+  "final_ballot": null
+}

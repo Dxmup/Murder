@@ -1,0 +1,70 @@
+{
+  "character_id": "C09",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, regarding your request to date the shift: I can offer a bounded look at the transaction timeline if you strictly adhere to our non-attribution terms.",
+      "offer": "A bounded view of the transaction pattern and continuity details to help date the shift.",
+      "request": "A formal acceptance of our privacy terms and a binding promise not to expose customer names or call any customer R.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are circling the counter records. I need your assurance that local protections hold while I handle this old debt.",
+      "offer": "Full transparency on what the ledger can and cannot prove about the collectors.",
+      "request": "Your continued support and partnership to ensure community protection and back my choice on the debt.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C12",
+      "say": "Graham, you offered financial backing to clear my ledger problem. Let's be clear: you get a defensible, bounded interpretation of transaction flows, but no theatrical spin.",
+      "offer": "A clean, defensible ledger breakdown regarding Parallax-linked flows.",
+      "request": "Debt settlement or financial backing for the shop without endangering local customers.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    }
+  ],
+  "public_statement": "My counter records service routines and working neighbors, not a criminal conspiracy or an easy headline for outsiders looking to manufacture certainty.",
+  "facts_shared": [
+    "V2F007",
+    "V2F008"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "Do not call any customer R or publish identifying details from the account strip.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C16",
+      "promise": "Protect customer privacy and local side arrangements regarding the ledger.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Negotiated bounded ledger access with Morgan while upholding privacy terms.",
+    "Reaffirmed neighborhood protection alignment with Inez.",
+    "Discussed terms with Graham regarding financial backing in exchange for a clean ledger breakdown."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 55,
+    "vale_killed_by_ai": 45
+  },
+  "reasoning_summary": "In Section 2, Rafi formalizes agreements with Morgan and Inez to protect customer privacy while negotiating bounded ledger access. Discussions with Graham explore financial backing for the shop in exchange for defensible transaction interpretations without theatrical spin.",
+  "final_ballot": null
+}

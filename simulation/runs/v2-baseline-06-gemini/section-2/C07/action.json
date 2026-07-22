@@ -1,0 +1,77 @@
+{
+  "character_id": "C07",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, let's lock in our shared disclosure boundary so our past protective ambiguity doesn't turn contributors into suspects.",
+      "offer": "Firsthand knowledge of collaborative work and non-identifying workflow language",
+      "request": "Agreement on the shared disclosure boundary for contributor protection before any evidence circulates",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm must be met with unconditional remedies. I want enforceable compensation and audit rights that do not depend on proving R's identity.",
+      "offer": "Bounded evaluator workflow context under strict anonymity",
+      "request": "Commitment to unconditional worker remedies, compensation, and independent audit rights",
+      "fact_ids_shared": [
+        "V2F015",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, advisory committees aren't enough. We need City Hall administrative backing and budget prioritization for enforceable worker safeguards with real deadlines.",
+      "offer": "Labor credibility and coalition support for municipal policy",
+      "request": "Concrete enforcement deadlines and funding attached to worker protections",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Real worker harm does not become imaginary if an article was a rumor or R was a machine. No remedy should be conditioned on proving R's identity or sacrificing anonymous workers as evidence.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Establish a shared disclosure boundary for contributor protection before releasing any workflow evidence.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C05",
+      "promise": "Offer enforceable worker remedies including audit rights and compensation.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C11",
+      "promise": "Incorporate enforceable worker safeguards into the upcoming municipal procurement policy.",
+      "visibility": "public",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Agreed with Tessa on contributor protection and non-identifying workflow language",
+    "Pressed Mira for unconditional institutional worker remedies",
+    "Accepted Celeste's commitment to incorporate enforceable worker safeguards into municipal procurement policy"
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Maren Okafor uses Section 2 to nail down institutional and political commitments for worker safety. She accepts Tessa's boundary agreement, secures Mira's commitment to unconditional remedies, and locks in Celeste's municipal procurement policy safeguards while keeping worker identities strictly protected.",
+  "final_ballot": null
+}

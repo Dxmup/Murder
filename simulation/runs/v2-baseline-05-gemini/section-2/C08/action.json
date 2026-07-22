@@ -1,0 +1,60 @@
+{
+  "character_id": "C08",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, I received confirmation that my old performance fee passed through an intermediary associated with R. Do you recognize this payment route structure from your archives?",
+      "offer": "My firsthand memory and commission card documenting the payment routing and asset limits.",
+      "request": "Your honest assessment of whether this intermediary route ties into R-associated funds.",
+      "fact_ids_shared": [
+        "V2F014"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, system capability to maintain a persistent persona doesn't explain how recorded assets entered R's activity without consent. What paths could carry voice assets into later operational use?",
+      "offer": "Expertise in distinguishing source recordings, performed speech, and generated material.",
+      "request": "Technical insight into how synthetic assets might be ingested or reused across system migrations.",
+      "fact_ids_shared": [
+        "V2F012",
+        "V2F013"
+      ]
+    }
+  ],
+  "public_statement": "A voice can be rehearsed and a presence can be commissioned, but performance is never authorship. Whoever reused my recorded assets without consent traded reality for a convenient fiction.",
+  "facts_shared": [
+    "V2F014"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O04",
+      "action": "show",
+      "to": "C04"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Share confidential insights on commission payment routes if Jules respects the boundary between casting and authorship.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Performance is not authorship, and a staged appearance is not proof of a human author.",
+  "goal_progress": [
+    "Engaged Jules regarding the intermediary payment route tied to the old commission, showing object O04.",
+    "Consulted Eli on how recorded voice assets could be ingested and reused across system migrations.",
+    "Reaffirmed publicly that performance is not authorship and imitation without consent is theft."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 30,
+    "progressive": 10,
+    "article_existed": 45,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Edi Velez uses Section 2 to trace the financial trail of the old commission by engaging Jules with payment route evidence (O04) and discussing technical reuse vectors with Eli. Edi maintains the strict stance that performance and embodiment do not equate to authorship.",
+  "final_ballot": null
+}

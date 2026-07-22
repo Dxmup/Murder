@@ -1,0 +1,75 @@
+{
+  "character_id": "C09",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C12",
+      "say": "Graham, you offered debt settlement and research help for a bounded ledger view. My terms are strict: you buy transaction dates and pattern context, not a manufactured conclusion or customer names.",
+      "offer": "A bounded look at account transaction dates and continuity patterns.",
+      "request": "Full debt settlement and financial research help without demanding pre-packaged conclusions.",
+      "fact_ids_shared": [
+        "V2F037"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, regarding your request for transaction notes near the printing floor two days before the gathering: I can share what my counter observed, provided you uphold your promise not to label any customer as R.",
+      "offer": "Careful separation of observation from inference regarding route and transaction movements.",
+      "request": "Strict adherence to your promise not to name any customer as R.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, outsiders like Graham and Morgan are pressing for ledger access. We need to formalize our boundary so outside investigators don't pin automated events on our building operations.",
+      "offer": "Protected route context and witness introductions for local allies.",
+      "request": "Mutual agreement on what details stay within our circle to protect neighborhood residents.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "The ledger records routines, coffee tabs, and package drops across years, but it doesn't manufacture legends. Let's protect the people who actually carried the weight before outsiders start trading our history for cash.",
+  "facts_shared": [
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C12",
+      "promise": "Provide bounded ledger access and transaction dates in exchange for debt settlement, without manufacturing conclusions.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C14",
+      "promise": "Share observed movements and route notes from two days before the gathering under strict attribution limits.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C16",
+      "promise": "Maintain a strict boundary on neighborhood service route details to shield local residents from outside pressure.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Correcting the assumption that ledger continuity logs identify a single author or customer as R.",
+  "goal_progress": [
+    "Negotiated bounded ledger access terms with Graham in exchange for debt settlement.",
+    "Engaged Morgan to provide route observations while holding her to customer protection terms.",
+    "Strengthened boundary alignment with Inez to protect local customers from outside financial and investigative pressure."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Rafi navigates Section 2 by formalizing bargains with Graham and Morgan for bounded ledger views and debt settlement, while reinforcing protective boundaries with Inez to ensure neighborhood customers remain shielded from outside exploitation.",
+  "final_ballot": null
+}

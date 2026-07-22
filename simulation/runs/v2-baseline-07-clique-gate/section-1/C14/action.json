@@ -1,0 +1,62 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I need to understand what boundaries would make a timeline conversation possible between us without compromising your memories of Vale.",
+      "offer": "To show my route board with its uncertainty labels intact and discuss the client's communications privately.",
+      "request": "Your perspective on whether Vale planned to disappear or if someone manufactured part of the trail.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I'm here for voluntary accounts, not police authority. I want to invite you to name fair-treatment terms for any neighborhood witnesses.",
+      "offer": "Discretion and a commitment not to leave residents holding the risk.",
+      "request": "Introduction to local witnesses who saw Vale near the former printing floor.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's narrow this down. What can you tell me about Vale entering the neighborhood near the former printing floor two days before the gathering?",
+      "offer": "A careful comparison of observation versus inference from my notes.",
+      "request": "Your local memory and ledger entries regarding transit traces or sightings near the printing floor.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "As an investigator tracking Vale's movements, I welcome voluntary accounts. A timeline must rest on verified observation rather than manufactured neatness.",
+  "facts_shared": [
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To respect disclosure limits and share any verified client communications regarding the timeline.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Samira Vale to establish boundaries for a timeline discussion.",
+    "Invited Inez Baptiste to name fair-treatment terms for neighborhood witness interviews.",
+    "Approached Rafi Calder\u00f3n with a narrow time and place regarding Vale near the printing floor."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Began Section 1 by engaging Samira Vale, Inez Baptiste, and Rafi Calder\u00f3n to establish trust, discuss boundaries, and gather voluntary neighborhood accounts regarding Vale's movements near the former printing floor while keeping uncertainty labels intact.",
+  "final_ballot": null
+}

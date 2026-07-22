@@ -1,0 +1,33 @@
+{
+  "role": "agency",
+  "verdict": "Pass with moderate friction regarding progressive agent convergence and ballot polarization.",
+  "findings": [
+    "Characters actively negotiated and traded verifiable evidence (e.g., C02 showing object O01 to C01, C04 showing O03, C08 showing O04) in alignment with voluntary transfer rules.",
+    "Quiet-role and institutional characters (such as C09 Rafi, C10 Dee, and C16 Inez) successfully pursued local defense, privacy boundaries, and concrete written institutional commitments.",
+    "The progressive hypothesis (C15 Kit Rakes) remained difficult and minoritarian (1 ballot), demonstrating appropriate resistance as intended by locked design.",
+    "Article existence and fate remained uncertain, with characters across sections maintaining split perspectives without authentication."
+  ],
+  "evidence": [
+    "C02 showed object O01 (First R Letter packet) to C01 in Section 1 and Section 2.",
+    "C04 showed object O03 (succession message) to C02 and C03 across sections.",
+    "C08 showed object O04 (commission card) to C02 in Section 2.",
+    "C15 ballot selection for progressive received only 1 vote, whereas human_mantle dominated with 11 votes."
+  ],
+  "failure_modes": [
+    "Over-convergence on the 'human_mantle' identity ballot (11 out of 16 characters), reducing structural weight balance against 'one_human' and 'synthetic_origin'.",
+    "Some characters readily dropped auxiliary theories after minimal corrections (e.g., C15 Kit Rakes retracting bodega cipher and invitation-key theories quickly)."
+  ],
+  "recommendations": [
+    "Increase initial structural ambiguity for the identity ballot dimensions to prevent excessive convergence on human_mantle.",
+    "Strengthen synthetic origin and one human evidence weight in early prompts to achieve the intended structural weight parity."
+  ],
+  "scores": {
+    "primary_ending_balance": 7,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 8,
+    "social_circulation": 8,
+    "mechanical_integrity": 9,
+    "report_confidence": 8
+  }
+}

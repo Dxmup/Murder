@@ -1,0 +1,62 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need to agree on a sentence describing collaborative labor that names no contributor so the room cannot turn evaluators into suspects or use their testimony to explain Vale's disappearance.",
+      "offer": "Organizing support and a bounded account of workflow evidence that protects contributors.",
+      "request": "Agreement on shared disclosure boundaries that preserve anonymity.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm is real whether or not an article existed or R was human or machine. I will discuss bounded testimony only after hearing a remedy that exists independently of proving R's identity.",
+      "offer": "Bounded worker testimony regarding continuity process instructions.",
+      "request": "A commitment to institutional remedies and written anonymity protection that does not make justice conditional on solving the mystery.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, we need to coordinate protections for contractors and people near Vale's physical route before institutions begin demanding names and turning witnesses into evidence.",
+      "offer": "Coalition pressure and neighborhood-backed accountability.",
+      "request": "Shared safety protocols for vulnerable workers and witnesses.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Worker labor built these systems without receiving ownership, safety, or credit. Real worker harm does not become imaginary if the article was a rumor or R was a machine.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "To uphold strict anonymity boundaries for all evaluators and contributors in our public statements.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated boundary agreement with Tessa Quill regarding contributor protection.",
+    "Demanded an independent remedy from Mira Sen that does not condition worker safety on proving R's identity.",
+    "Coordinated protection strategies with Inez Baptiste."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Maren focuses on securing written anonymity and institutional protections for workers before any evidence circulates, refusing to let worker testimony be weaponized or bargained away for a mystery answer.",
+  "final_ballot": null
+}

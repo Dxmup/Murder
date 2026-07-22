@@ -1,0 +1,59 @@
+{
+  "character_id": "C01",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, welcome. The archive intake report on the First R Letter is ready and points to a plausible material date, though our records show some expense discrepancies around your account.",
+      "offer": "Controlled access to Veridian's provenance records and archive intake files.",
+      "request": "Your perspective on how we should frame your early involvement on the public program.",
+      "fact_ids_shared": [
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Inez, Veridian wants neighborhood participation that is substantive rather than purely decorative. What would Veridian need to commit to make your presence meaningful?",
+      "offer": "A formal seat on our public program and future community partnership discussions.",
+      "request": "Your honest conditions for meaningful neighborhood participation.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C05",
+      "say": "Mira, as we host tonight's anniversary, let us ensure our shared support remains transparent and aligned with Veridian's mission.",
+      "offer": "Discretion regarding the administrative details of our recent funding arrangement.",
+      "request": "Reassurance that our funding terms will remain supportive and constructive tonight.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Welcome to the Fifteenth Anniversary of R. Fifteen years of reporting under a mysterious byline reminds us that institutions must constantly question what they honor, especially when expected voices are absent.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C02",
+      "promise": "Provide access to archive provenance files in exchange for collaborative framing.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Welcomed Frankie and initiated archive discussions",
+    "Engaged Inez regarding neighborhood participation",
+    "Assessed Mira regarding the funding arrangement"
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Initiated contact with key figures Frankie, Inez, and Mira in accordance with opening instructions, reviewed archive discrepancies concerning the First R Letter, and maintained a balanced initial belief distribution.",
+  "final_ballot": null
+}

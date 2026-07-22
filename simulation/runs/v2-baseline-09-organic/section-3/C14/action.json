@@ -1,0 +1,88 @@
+{
+  "character_id": "C14",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, our case conference window confirms Vale's neighborhood entry and automated intervention. I am disclosing that my client's supplied route segment was manufactured from an outdated map.",
+      "offer": "My route board with uncertainty labels intact and full disclosure of the manufactured lead.",
+      "request": "Help me place Vale's last movements in context without pretending the client's story is clean.",
+      "fact_ids_shared": [
+        "V2F025",
+        "V2F027",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, honoring our privacy agreement, your ledger fragments and rotating collector records help us confirm multiple users of R-associated services over the years rather than a single static ghost.",
+      "offer": "Bounded report scope respecting customer privacy.",
+      "request": "Confirm how collector rotations match the timeline of Vale's presence near the printing floor.",
+      "fact_ids_shared": [
+        "V2F008",
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C12",
+      "say": "Graham, you want a marketable conclusion, but my investigation reveals that the client's route segment was manufactured. I cannot sell you a fabricated certainty.",
+      "offer": "An honest, openly qualified timeline separating observation from inference.",
+      "request": "Clarify what interest your firm had in pushing a predetermined conclusion about Vale and R.",
+      "fact_ids_shared": [
+        "V2F027",
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "As an investigator, I must report what can be verified: Vale entered the neighborhood two days ago, followed by an automated intervention and a client-supplied route segment that was manufactured from an outdated map. The case remains open and qualified by uncertainty.",
+  "facts_shared": [
+    "V2F025",
+    "V2F027",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To review personal route details only under the condition that uncertainty remains labeled.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C09",
+      "promise": "Restrict ledger disclosure terms and avoid naming any customer as R.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Conducted voluntary case conference integrating Samira's timeline bounds and verified logs.",
+    "Disclosed the manufactured client route segment without compromising local witness trust.",
+    "Finalized a qualified, uncertainty-preserving timeline report rejecting purchased certainty."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 50,
+    "synthetic_origin": 20,
+    "progressive": 15,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Concluded Morgan Shaw's investigation in Section 3 by holding the case conference, confronting the manufactured client lead, honoring privacy commitments to Samira and Rafi, and submitting a final ballot reflecting a human mantle / rotating collaboration model with an open, qualified outcome.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F008",
+      "V2F018",
+      "V2F026"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F027",
+      "V2F036"
+    ]
+  }
+}

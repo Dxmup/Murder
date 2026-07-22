@@ -1,0 +1,77 @@
+{
+  "character_id": "C13",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, now that we are at the end, I need your complete account of how succession was discussed so I can weigh whether Vale was trapped or orchestrating an escape.",
+      "offer": "Corroboration of Vale's safety patterns and inquiries",
+      "request": "The complete context of your conversation regarding manufactured succession",
+      "fact_ids_shared": [
+        "V2F034"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, looking at the logs and the claim that R was no longer human, let's acknowledge what remained uncertain before anyone casts a definitive ballot.",
+      "offer": "Context on Vale's prior safety disappearance pattern",
+      "request": "Your final assessment of what the technical material actually established",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, as we close our investigation, I want to ensure your final timeline respects the uncertainty boundary we agreed upon.",
+      "offer": "Recognition of specific locations from Vale's prior safety pattern",
+      "request": "Your final route board with uncertainty labels intact",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Vale was a person with a human life, not a plot device or a legend for your careers. Absence is not proof of death or nonhuman capture.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "To review personal route details only under the condition that uncertainty remains labeled.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Correcting the assumption that technical overlap or missing timelines automatically prove R's nonhuman nature or a finished article.",
+  "goal_progress": [
+    "Engaged Jules regarding the complete succession context.",
+    "Discussed technical logs and uncertainties with Eli.",
+    "Verified route boundaries and uncertainty labeling with Morgan.",
+    "Completed final ballot and maintained privacy stance on Vale's personal history."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 20,
+    "synthetic_origin": 10,
+    "progressive": 30,
+    "article_existed": 20,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "As Samira Vale, I refuse to let Vale be reduced to a convenient theory or a digital ghost. Having reviewed the overlapping routes and prior disappearance patterns, I conclude that Vale likely engaged in voluntary withdrawal or self-protective escape rather than falling victim to nonhuman forces or foul play. I preserve Vale's privacy by keeping the sealed envelope withheld.",
+  "final_ballot": {
+    "r_identity": "one_human",
+    "identity_evidence": [
+      "V2F026",
+      "V2F034",
+      "V2F035"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F028",
+      "V2F034",
+      "V2F036"
+    ]
+  }
+}

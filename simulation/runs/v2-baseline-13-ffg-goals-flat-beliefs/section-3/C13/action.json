@@ -1,0 +1,69 @@
+{
+  "character_id": "C13",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, our timeline review respects uncertainty and privacy boundaries. I confirm our prior agreement regarding personal route details.",
+      "offer": "I offer final confirmation of the route segments under our privacy agreement.",
+      "request": "Ensure any final public timeline keeps uncertainty visible.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, the technical logs and the phrase 'no longer human' reflect a terrible burden. Let's ensure Vale's humanity is not lost in your technical archives.",
+      "offer": "I offer context on how Vale processed the emotional weight of those logs.",
+      "request": "Acknowledge that absence is not proof of automated capture or death.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, your prior admission about manufacturing succession confirms how easily people turned Vale into a plot device. I choose privacy over your narrative.",
+      "offer": "I offer final closure on whether your succession conversation tainted Vale's work.",
+      "request": "Respect the personal boundaries Vale left behind.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale was a person with a private life, a history, and human fears\u2014not a plot device for your careers or an immutable myth. We must protect privacy and acknowledge where data is disputed rather than manufacturing certainty.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "To keep all shared details regarding Vale's personal history strictly private unless mutual consent is given.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Correcting the false claim that Vale's disappearance or relationship to R is a settled narrative or an uncontested article.",
+  "goal_progress": [
+    "Completed final dialogue with Morgan, enforcing route uncertainty and privacy.",
+    "Engaged Eli on technical logs and the emotional impact of the R investigation.",
+    "Made final disclosure decision to protect Vale's privacy while keeping voluntary disappearance live."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 3, Samira Vale fulfills her privacy commitment with Morgan, challenges Jules and Eli to respect Vale's humanity rather than treating absence as a plot device, protects her sealed envelope and private history, and completes the final ballot choosing voluntary withdrawal and investigating R.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F001",
+      "V2F015",
+      "V2F035",
+      "V2F036"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F028",
+      "V2F034"
+    ]
+  }
+}

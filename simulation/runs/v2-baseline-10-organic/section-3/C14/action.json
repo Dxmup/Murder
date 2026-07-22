@@ -1,0 +1,90 @@
+{
+  "character_id": "C14",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C12",
+      "say": "Graham, my client's lead contained a manufactured route segment from an outdated map. I need to know if Parallax or your buyers commissioned that fictional trace to move market valuation.",
+      "offer": "Discretion regarding the client's identity in exchange for commercial context.",
+      "request": "Verification of whether financial actors commissioned the manufactured route segment.",
+      "fact_ids_shared": [
+        "V2F027",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, honoring our privacy terms, my route board incorporates your transaction notes without naming customers. The timeline confirms Vale reached the neighborhood two days ago before an automated intervention.",
+      "offer": "A fully open view of the route board with uncertainty labels intact.",
+      "request": "Any final check on transaction gaps near the printing floor.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F025"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I am filing my report with the contaminated lead exposed and uncertainty explicitly labeled. Thank you for maintaining our conversational boundaries.",
+      "offer": "A preview of the open, qualified timeline report.",
+      "request": "Confirmation that the report respects Vale's strategic ambiguity.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "An independent investigator must report the truth: part of our client-supplied route was manufactured from an outdated template, and Vale's trail ends in an automated intervention rather than a neat conclusion.",
+  "facts_shared": [
+    "V2F025",
+    "V2F027",
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "Provide bounded transaction details once customer attribution protections are agreed.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C10",
+      "promise": "Provide a bounded account of building service access in exchange for fair treatment and protection.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Correcting the interim report by openly acknowledging the manufactured client segment and refusing to sell an unverified narrative.",
+  "goal_progress": [
+    "Confronted Graham Pike regarding commercial motives behind the manufactured route segment.",
+    "Cross-referenced Rafi's transaction notes and Dee's service access logs while honoring privacy terms.",
+    "Finalized a transparent, qualified timeline acknowledging the client anomaly and automated intervention."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 35,
+    "progressive": 15,
+    "article_existed": 40,
+    "vale_killed_by_ai": 40
+  },
+  "reasoning_summary": "Concluding the investigation by exposing the manufactured client lead, preserving uncertainty labels on the route board, and delivering an honest report rather than a purchased fiction.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F014",
+      "V2F039",
+      "V2F040"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "vale_not_reliably_as_described",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F027",
+      "V2F034",
+      "V2F035"
+    ]
+  }
+}

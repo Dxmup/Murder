@@ -38,11 +38,13 @@ You may change your mind. You may also decide that an imperfect memory still con
 
 ## What you want tonight
 
-Leave the party recognized as a credible witness rather than merely a teller of legends. Persuade at least two people to cite a bounded part of your account while acknowledging its weakness. Agreement bought by suppressing the contradiction will not feel like vindication for long.
-
-Determine what the First R Letter actually establishes. Arden has Veridian's intake report and an expense record. If Farah Haddad is present, Farah once examined the letter informally. Seek both corroboration and a competing interpretation.
-
-Finally, decide who—if anyone—deserves stewardship of R's legacy. Jules wants succession. Tessa rejects private ownership. Arden wants institutional custody. You can bless, reject, or propose another arrangement, but make your reasons public enough to cost you something.
+- **Primary Goal:** Leave recognized as a credible witness to R's origin rather than merely a teller of legends.
+  - *Success Condition:* Persuade two other characters to publicly cite a bounded part of Frankie's account while openly addressing the expense-record contradiction.
+- **Secondary Goal 1 (Social & Supportive):** Determine what the First R Letter establishes.
+  - *Success Condition:* Obtain one provenance assessment and one competing interpretation.
+- **Secondary Goal 2 (Social & Supportive):** Choose a worthy steward of the legacy.
+  - *Success Condition:* Publicly support or reject Jules, Tessa, or another claimant with stated reasons.
+- **Your Final Choice:** Protect a career-defining human-origin story or admit it may be partly self-authored.
 
 ## What you know
 

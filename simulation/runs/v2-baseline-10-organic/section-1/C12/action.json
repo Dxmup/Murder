@@ -1,0 +1,65 @@
+{
+  "character_id": "C12",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's stop pretending our interests are pure. I have a financial position against Parallax, and your Veridian funding depends on public sentiment. What kind of public reaction would make you pledge transparency rather than empty denials?",
+      "offer": "Market analysis of who benefits from the rumour and a platform to frame your response.",
+      "request": "A clear statement on Parallax's exposure and your true stance on the R rumor.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Kit, your grand theory is magnificent theater, but let's look at the ledger. Which part of your narrative rests on actual provenance rather than repetition? I'll amplify your best corrections if you strip out the unverified leaps.",
+      "offer": "My reach and audience to make your corrected findings consequential.",
+      "request": "Visible corrections identifying which parts of the rumor rely on evidence versus repetition.",
+      "fact_ids_shared": [
+        "V2F036",
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I know you have a ledger pattern the market would kill for, and I can easily settle your debt. But let's be clear: I am buying bounded ledger access, not a manufactured conclusion.",
+      "offer": "Full debt settlement and financial research help.",
+      "request": "Unfiltered ledger access without pre-packaged conclusions.",
+      "fact_ids_shared": [
+        "V2F037"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R is long enough to confuse repetition with identity, but let's not pretend markets wait for provenance before moving. No complete article exists, yet Parallax valuation is reacting. That's not magic\u2014that's human fear and financial exposure at work.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Share my original tip record if Arden discloses Parallax's internal planning regarding the R rumor.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden Bell regarding public reaction and financial exposure.",
+    "Challenged Kit Rakes on evidence versus repetition in the grand theory.",
+    "Approached Rafi Calder\u00f3n with a clean offer for bounded ledger access without buying a predetermined conclusion."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 10,
+    "synthetic_origin": 40,
+    "progressive": 30,
+    "article_existed": 25,
+    "vale_killed_by_ai": 15
+  },
+  "reasoning_summary": "Graham Pike approaches Section 1 by leaning into his persona as an activist short-seller. He engages Arden Bell on public reaction and financial stakes, challenges Kit Rakes on the provenance of the rumor, and offers Rafi Calder\u00f3n debt settlement in exchange for raw ledger data without buying false certainty. His beliefs reflect high skepticism regarding the existence of a complete article and a leaning toward a distributed or synthetic origin for the rumor propagation.",
+  "final_ballot": null
+}

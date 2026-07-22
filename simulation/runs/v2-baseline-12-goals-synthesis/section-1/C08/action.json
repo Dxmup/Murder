@@ -1,0 +1,60 @@
+{
+  "character_id": "C08",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I've always admired a good stage illusion, but I'm curious what you actually remember in sensory detail about your supposed encounter with R. Before we talk about legends, let's talk about what was really in the room.",
+      "offer": "My firsthand memory of private performance constraints and how easily presence can be staged.",
+      "request": "A detailed description of your encounter with R, without filtering through newsroom myth.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you're looking to inherit something weighty tonight. I happen to recognize the shape of certain intermediary payment structures from past commissions. Let's compare notes under strict confidentiality.",
+      "offer": "Private comparison of payment routing and commission structures.",
+      "request": "Your insight into the intermediaries funding R-associated activities.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I don't want cosmic answers, just technical realities. What plausible pathways could carry source audio and performed assets from an old commission into later automated or synthesized activity?",
+      "offer": "Translation between theatrical performance asset limits and technical system ingest.",
+      "request": "A clear-eyed assessment of how recordings travel beyond their agreed scope.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Performance is not authorship, and imitation without consent is theft. Let's not mistake a well-run production for a sovereign creator.",
+  "facts_shared": [],
+  "object_actions": [
+    {
+      "object_id": "O04",
+      "action": "show",
+      "to": "C04"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Maintain strict confidentiality regarding our comparison of payment intermediary routes.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated conversation with Frankie to explore the reported R encounter.",
+    "Proposed confidential payment comparison with Jules using commission records.",
+    "Engaged Eli on technical pathways for asset reuse."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 35,
+    "progressive": 15,
+    "article_existed": 40,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Edi Velez enters the room seeking to protect performer consent and trace how commissioned performance assets found their way into R-associated use. Conversations with Frankie, Jules, and Eli target memory, payment routes, and technical reuse without revealing Edi's exact role just yet.",
+  "final_ballot": null
+}

@@ -1,0 +1,66 @@
+{
+  "character_id": "C11",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, we need to talk about the off-calendar meeting. Your records and my deleted calendar entry are the two halves of the picture. Let's agree to share responsibility rather than letting a piecemeal disclosure control the story.",
+      "offer": "I can help complete our calendar records transparently so City Hall doesn't scapegoat either of us.",
+      "request": "Acknowledge our shared oversight of Vale's limited access to Parallax without shifting all blame onto my deleted entry.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian needs political protection and stability tonight. If City Hall provides discretion privately, what concrete commitment can Veridian make publicly?",
+      "offer": "Political introductions, agency access, and a credible path to protecting Veridian's institutional standing.",
+      "request": "A public commitment from Veridian to fund or support civic oversight initiatives.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I know City Hall has a history of using neighborhood leaders as photo-ops. I want to change that tonight. Give me one neighborhood demand with a real deadline.",
+      "offer": "Direct agency access, municipal funding paths, and enforcement mechanisms for neighborhood priorities.",
+      "request": "One concrete neighborhood demand with a strict implementation deadline.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Tonight we must separate verified public-interest oversight and real community needs from market panic and unverified rumors about R.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036",
+    "V2F039",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Deliver enforceable neighborhood oversight protections with municipal backing.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated coalition discussions with labor/neighborhood leadership through Inez.",
+    "Engaged Arden regarding Veridian's institutional commitments.",
+    "Approached Mira to align on managing the off-calendar meeting records."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "As Celeste Park, I focused on securing three key constituencies (Mira for institutional alignment, Arden for corporate/donor stability, and Inez for neighborhood leadership) while managing the fallout of the deleted off-calendar meeting record regarding Vale and Parallax.",
+  "final_ballot": null
+}

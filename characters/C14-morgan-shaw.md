@@ -30,11 +30,13 @@ You have never seen a complete authenticated article by Vale or R. Rumor is not 
 
 ## What you want tonight
 
-Build a defensible timeline from voluntary accounts in at least three different parts of the room: neighborhood witnesses, Vale's personal circle, and institutional or technical actors. Preserve at least one contradiction instead of sanding it away.
-
-Identify who hired you, or at least who benefits from the manufactured route segment. Celeste, Graham, and Samira may each know something about the client's provenance.
-
-Finally, decide what kind of investigator you are when the paid answer is unsupported. You can deliver certainty, disclose the contaminated lead, or admit the case remains open.
+- **Primary Goal:** Produce a defensible Vale timeline and identify who is trying to purchase its conclusion.
+  - *Success Condition:* Obtain voluntary accounts from three social knots, label one unresolved contradiction, and decide what to report about the anonymous client.
+- **Secondary Goal 1 (Social & Supportive):** Identify the client.
+  - *Success Condition:* Trade limited timeline access with Celeste, Graham, or Samira for provenance.
+- **Secondary Goal 2 (Social & Supportive):** Test the physical route without police powers.
+  - *Success Condition:* Hold a voluntary case conference with two witnesses whose accounts conflict.
+- **Your Final Choice:** Deliver the purchased answer or admit the case cannot support it.
 
 ## What you know
 

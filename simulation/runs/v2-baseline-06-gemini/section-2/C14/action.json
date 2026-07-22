@@ -1,0 +1,60 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I agree to your boundary. No personal route detail will enter my timeline without your explicit consent and an uncertainty label.",
+      "offer": "To uphold strict uncertainty labeling on all personal route details and exclude unverified client claims.",
+      "request": "Your continued cooperation in keeping personal history separate from fabricated client narratives.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms. I will restrict ledger disclosure analysis strictly to pattern work without labeling any of your customers as R.",
+      "offer": "A binding promise protecting customer confidentiality and transparent attribution terms.",
+      "request": "A bounded look at the account pattern and transaction continuity near the printing floor.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I want to review neighborhood accounts under fair-treatment terms so residents are never left holding the risk for my investigation.",
+      "offer": "Discretion and an agreement that local accounts will be fairly represented without exploitation.",
+      "request": "Your guidance on fair-treatment terms and insights into neighborhood movements.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "As an investigator, I am committed to separating verified neighborhood observations from manufactured client leads. Every timeline claim must stand on actual evidence.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "No personal route detail enters the timeline without explicit consent and an uncertainty label.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Restrict ledger disclosure terms to pattern analysis without naming customers as R.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Samira's boundary terms regarding personal route details.",
+    "Accepted Rafi's terms to restrict ledger disclosure to pattern analysis without naming customers.",
+    "Discussed fair-treatment terms with Inez regarding neighborhood accounts."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 35,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "As Morgan Shaw, I am formalizing agreements with Samira and Rafi to respect their boundaries and confidentiality terms, ensuring my investigation relies on voluntary, verified accounts rather than contaminated client leads.",
+  "final_ballot": null
+}

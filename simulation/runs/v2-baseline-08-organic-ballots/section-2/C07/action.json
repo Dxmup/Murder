@@ -1,0 +1,70 @@
+{
+  "character_id": "C07",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, let's lock in our disclosure boundary. We need a formal rule preventing any routing slip or workflow record from exposing contributors or turning evaluators into suspects.",
+      "offer": "Firsthand knowledge of collaborative labor and routing slip structure without contributor names",
+      "request": "Acceptance of our joint commitment on strict Night Desk contributor protection",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, I've reviewed your proposal. I need independent audit rights, material compensation, and enforceable worker policies that remain fully binding regardless of R's identity.",
+      "offer": "Bounded workflow testimony from protected evaluators under strict anonymity",
+      "request": "A binding institutional commitment for worker compensation and audit rights independent of R's identity",
+      "fact_ids_shared": [
+        "V2F036",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, let's coordinate our terms with Veridian. We must demand concrete labor and neighborhood protections in writing before engaging further with Arden or Celeste.",
+      "offer": "Coalition support and neighborhood contractor introductions",
+      "request": "Agreement to jointly demand concrete labor and community protections from Veridian",
+      "fact_ids_shared": [
+        "V2F042",
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Real worker harm and invisible labor matter whether or not an article existed and regardless of R's identity. Any valid remedy must protect workers independently of the mystery.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "We will only share bounded workflow descriptions that name no contributor or evaluator.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C16",
+      "promise": "Coordinate neighborhood and worker protection terms before engaging with Arden or Celeste",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Tessa's joint disclosure boundary proposal to protect Night Desk contributors.",
+    "Engaged Mira on concrete institutional remedies and audit rights independent of R's identity.",
+    "Coordinated with Inez to align worker and neighborhood protection terms before engaging corporate leadership."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Maren Okafor in Section 2, I secured our disclosure boundary with Tessa, pressed Mira for concrete, unconditional worker remedies, and aligned with Inez to demand written protections from Veridian before any further disclosures occur.",
+  "final_ballot": null
+}

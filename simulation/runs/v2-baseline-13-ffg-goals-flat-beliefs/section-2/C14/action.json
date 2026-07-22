@@ -1,0 +1,74 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms regarding transaction continuity. Let's look at the pattern change without exposing individual customers.",
+      "offer": "Discretion regarding customer identities and comparison of transit timelines.",
+      "request": "Details from your ledger strip concerning the R-associated transaction pattern changes.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, I guarantee resident anonymity and precise attribution for your operational account of the access gap.",
+      "offer": "Protection against being made the convenient culprit and strict adherence to attribution limits.",
+      "request": "Your bounded account of the camera gap and access records.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I agree to keep uncertainty visible on our route board and respect your boundaries regarding Vale's personal history.",
+      "offer": "Route board segments with uncertainty labels intact and adherence to privacy boundaries.",
+      "request": "Your perspective on whether Vale planned to vanish or used ambiguity strategically.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "We have examined the route board and listened to conflicting accounts. If we want a defensible timeline for Vale, we must acknowledge where our data is disputed and where client pressures threaten our objectivity.",
+  "facts_shared": [
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "I will not call any customer R or expose neighborhood side arrangements in exchange for transaction continuity details.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C10",
+      "promise": "I guarantee precise attribution and resident anonymity for your account of the access gap.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C13",
+      "promise": "To keep all shared details regarding Vale's personal history strictly private unless mutual consent is given.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Rafi Calder\u00f3n regarding transaction continuity under strict attribution limits.",
+    "Approached Dee Nowak to secure a bounded account of the building's access gap with anonymity guarantees.",
+    "Confirmed privacy boundaries with Samira Vale regarding the route board and uncertainty labels."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "As Morgan Shaw in Section 2, I am pursuing my primary goal of building a defensible timeline while managing secondary goals around source provenance and confidential witness accounts. I have responded to Rafi's and Dee's private offers, accepted Rafi's terms, proposed terms to Dee, fulfilled my commitment to Samira, and adjusted my identity beliefs slightly to reflect human mantle and multi-person continuity based on incoming disclosures.",
+  "final_ballot": null
+}

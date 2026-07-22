@@ -1,0 +1,81 @@
+{
+  "character_id": "C10",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, let's lock in our disclosure boundary. We'll present the service route context and access gap accurately without ever naming or exposing the uninvolved tenant.",
+      "offer": "Full alignment on building access explanations and mutual defense against scapegoating",
+      "request": "Strict adherence to our coordinated disclosure boundary before speaking with outside investigators",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, under your promise of fair treatment and precise attribution, here is the bounded operational account: the camera gap and automated access change were separate events, and neither proves a murder.",
+      "offer": "A precise operational account of the service exit and separate camera gap interval",
+      "request": "Accurate reporting that respects resident anonymity and avoids collapse into a murder narrative",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F032"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, our shift records and delivery logs show practical neighborhood rhythms rather than a criminal conspiracy. Let's make sure our final accounts match.",
+      "offer": "Verification of building shift changes and service access rhythms",
+      "request": "Confirmation of bounded transaction records without manufactured identities",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    }
+  ],
+  "public_statement": "The building's service routes and camera gaps are matters of practical maintenance and separate automated events, not a murder script. We refuse to let administrative gaps be weaponized against our tenants and workers.",
+  "facts_shared": [
+    "V2F026",
+    "V2F032"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate our disclosure boundary so neither of us names uninvolved residents",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Clarified that the camera gap and automated access change are distinct events, and neither constitutes proof of a violent crime or identifies an operator.",
+  "goal_progress": [
+    "Secured mutual defense agreement and disclosure boundary with Inez.",
+    "Provided a bounded, precise operational account to Morgan under guarantees of resident anonymity.",
+    "Compared shift rhythms with Rafi to maintain credible, non-conspiratorial neighborhood records.",
+    "Completed final ballot reflecting human-operated infrastructure and insufficient evidence for a murder claim."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Dee Nowak protects her pension, building tenants, and Inez by enforcing strict operational boundaries between physical maintenance realities, camera gaps, and automated events. Rejecting sensationalist murder narratives, Dee casts her final ballot based on distributed human and automated infrastructure records.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F016",
+      "V2F020",
+      "V2F026"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "insufficient_evidence",
+    "vale_evidence": [
+      "V2F025",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

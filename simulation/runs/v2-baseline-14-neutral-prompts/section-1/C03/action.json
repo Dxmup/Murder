@@ -1,0 +1,63 @@
+{
+  "character_id": "C03",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, we need to establish a shared disclosure boundary right now before contributors get turned into suspects by anniversary rumor-mongering.",
+      "offer": "My firsthand context on Night Desk shared routing and contributor protection.",
+      "request": "Agreement on a safe disclosure boundary that protects vulnerable contributors.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, support for any personal succession to R is conditional. State clearly what rights and protections contributors retain under your model.",
+      "offer": "Conditional collective support if labor rights are protected.",
+      "request": "A explicit statement on what succession obligates you to protect.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian archive access and formal protections are necessary, but we trade bounded workflow evidence only for genuine source-protection commitments.",
+      "offer": "Bounded workflow routing slip evidence.",
+      "request": "A concrete and durable source-protection commitment.",
+      "fact_ids_shared": [
+        "V2F004"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R was built by working hands, shared drops, and invisible labor\u2014not a singular legend. Any reckoning must protect the contributors.",
+  "facts_shared": [
+    "V2F004",
+    "V2F005",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a shared disclosure boundary to protect anonymous contributors.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated discussions with Maren on disclosure boundaries.",
+    "Challenged Jules regarding contributor protections in succession.",
+    "Approached Arden for concrete protections in exchange for workflow evidence."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Engaged Maren to secure a disclosure boundary per source warnings, challenged Jules on contributor rights for succession, and laid groundwork with Arden for institutional protections in exchange for Night Desk workflow evidence.",
+  "final_ballot": null
+}

@@ -1,0 +1,47 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I need to understand what boundaries would make a conversation about Vale's timeline possible without compromising your trust.",
+      "offer": "I can share my route board with uncertainty labels intact.",
+      "request": "Tell me what boundaries or context you require before we discuss Vale's movements.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I'm working with voluntary accounts and want to ensure fair-treatment terms for any neighborhood residents who speak with me.",
+      "offer": "Discretion and adherence to your fair-treatment terms.",
+      "request": "Name your terms for fair treatment, and help me approach local witnesses without residents holding all the risk.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I'm looking at a specific narrow time and place near the former printing floor two days before the gathering. What do you recall from that exact window?",
+      "offer": "Careful separation of observation from inference from my notes.",
+      "request": "Share what transactions or local sightings you remember near the printing floor.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "I am examining the timeline of Vale's last movements with uncertainty intact. Any accurate reconstruction must separate direct observation from manufactured summaries.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Approached Samira Vale to discuss timeline boundaries.",
+    "Initiated contact with Inez Baptiste to establish fair-treatment terms for neighborhood witnesses.",
+    "Engaged Rafi Calder\u00f3n with a narrow time and place near the former printing floor."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Began Section 1 by initiating targeted conversations with Samira Vale, Inez Baptiste, and Rafi Calder\u00f3n as briefed. Focused on establishing boundaries, fair-treatment terms, and narrow temporal verification around the printing floor while managing the omitted manufactured client segment discreetly.",
+  "final_ballot": null
+}

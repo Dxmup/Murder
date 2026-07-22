@@ -1,0 +1,72 @@
+{
+  "character_id": "C03",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, let's lock in our joint disclosure boundary so we protect our contributors before anyone weaponizes the routing slip.",
+      "offer": "Firsthand insight into Night Desk production processes",
+      "request": "Acceptance of our formal rule on naming contributors",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I have our contributor schedules. We can compare them with the disputed interval as long as you agree not to expose unnamed workers.",
+      "offer": "Contributor-schedule comparison data for the activity gap",
+      "request": "A clear statement on what logs and capability cannot establish",
+      "fact_ids_shared": [
+        "V2F018",
+        "V2F020"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you want succession, but what enforceable protections will you guarantee for the anonymous laborers who built R's work?",
+      "offer": "Journalistic credibility and constructive engagement on succession governance",
+      "request": "An explicit commitment to contributor protections",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "R was sustained by collaborative labor and shared infrastructure, not a single miraculous mind or a solitary owner.",
+  "facts_shared": [
+    "V2F004",
+    "V2F005",
+    "V2F035"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O02",
+      "action": "show",
+      "to": "C06"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "We will only share bounded workflow descriptions that name no contributor or evaluator.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Solidified disclosure boundaries with Maren.",
+    "Engaged Eli regarding contributor schedules and activity gaps.",
+    "Pressed Jules on concrete protections for anonymous contributors."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 55,
+    "synthetic_origin": 20,
+    "progressive": 10,
+    "article_existed": 35,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Tessa continues her efforts to protect Night Desk contributors, formalizing her agreement with Maren, coordinating schedule comparisons with Eli without exposing names, and holding Jules accountable for contributor rights.",
+  "final_ballot": null
+}

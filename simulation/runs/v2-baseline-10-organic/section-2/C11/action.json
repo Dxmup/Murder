@@ -1,0 +1,60 @@
+{
+  "character_id": "C11",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the calendar recovery entry is out. We need to align our records regarding Vale's access before outside actors weaponize our administrative caution.",
+      "offer": "I can compare my recovered calendar entry with your matching authorization to establish joint oversight.",
+      "request": "Let us agree on shared responsibility rather than separate denials.",
+      "fact_ids_shared": [
+        "V2F029"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, workers need enforceable guarantees rather than advisory committees. City Hall is prepared to back concrete policy tonight.",
+      "offer": "I can offer direct administrative backing and agency access for strict worker safeguards.",
+      "request": "What specific neighborhood or labor demand with a binding deadline will you commit to?",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, Vale's movements are being scrutinized by everyone in this room. We want to ensure Vale's privacy is respected without compromising necessary oversight.",
+      "offer": "I can offer a clear boundary protecting Vale's personal privacy from market exploitation.",
+      "request": "Can we agree on a limited disclosure framework that separates verified facts from rumor?",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Let's distinguish verified policy impacts and legitimate oversight needs from market rumors. City Hall is here to deliver real commitments, not press releases.",
+  "facts_shared": [
+    "V2F029"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Draft an enforceable labor and neighborhood protection policy with a binding deadline.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Dr. Mira Sen to coordinate calendar records and share administrative responsibility.",
+    "Advanced labor and neighborhood protections with Maren Okafor.",
+    "Established privacy boundaries with Samira Vale regarding off-calendar meeting disclosures."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Celeste is actively coordinating with Mira Sen to manage the recovered calendar entry, collaborating with Maren Okafor to secure binding worker safeguards, and protecting Samira Vale's privacy boundaries while maintaining municipal stability.",
+  "final_ballot": null
+}

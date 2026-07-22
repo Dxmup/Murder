@@ -1,0 +1,40 @@
+{
+  "role": "mystery",
+  "verdict": "The simulation exhibits outstanding character agency, adaptive behaviors, and high-fidelity social circulation; however, it suffers from severe premature convergence on the 'human_mantle' ending (11 of 16 votes), indicating a profound structural imbalance in ending weights and a cognitive failure of agents to construct full evidence chains.",
+  "findings": [
+    "Severe premature convergence on the human_mantle ending, which captured 11 out of 16 ballots, violating the design intent of equal structural weight across primary endings.",
+    "The progressive ending's gate mechanics functioned with high integrity, successfully unlocking all three keys, but the investigator clique threshold of 3 on progressive identity and AI-caused death was unmet (only 2 and 1 votes respectively), rendering it too difficult.",
+    "Outstanding character agency demonstrated through strategic face-to-face collective action, such as C10 and C16 establishing a coordinated disclosure boundary for the camera gap, and C15 performing public retractions of disproved theories.",
+    "The article's existence and fate remained successfully ambiguous throughout the simulation, with aggregate beliefs staying between 35% and 39% across all sections.",
+    "A pervasive failure in comprehensive evidence integration, where 100% of characters failed to complete a full evidence chain (full_evidence_chain: false) and left critical dimensions like 'identity_authority' and 'collaborative_production' uncited.",
+    "Exceptional detective agency from C14 (Morgan Shaw), who discovered a manufactured client-supplied route lead (V2F027) and transparently disclosed the contamination in Section 3."
+  ],
+  "evidence": [
+    "Ballot distributions in the aggregate show 11 votes for human_mantle (C03, C04, C05, C06, C07, C08, C09, C11, C13, C14, C16), 2 for progressive (C01, C15), 2 for one_human (C02, C10), and 1 for synthetic_origin (C12).",
+    "Under 'identity_ballot_support', every single character (C01-C16) has 'full_evidence_chain': false and list various 'uncited_evidence_dimensions' such as 'identity_authority' and 'private_continuity'.",
+    "Progressive gate status: 'keys' show 'identity_history': true, 'autonomous_control': true, 'vale_incident': true, and 'autonomy_clusters_public' is 3, yet 'ai_death_votes' is 1 and 'progressive_identity_votes' is 2, leading to 'eligible': false.",
+    "Belief means for 'article_existed' were 35.9% in Section 1, 37.2% in Section 2, and 38.8% in Section 3, demonstrating stable, moderate ambiguity.",
+    "C15 (Kit Rakes) publicly stated: 'The printer notice is right: my bodega ledger cipher theory was wholesale prices and sales tax, not R's secret transit. I retract it fully.' in Section 2 and fulfilled public retractions of disproved theories.",
+    "C14 (Morgan Shaw) public statement in Section 3: 'As an investigator, I must report that part of the timeline supplied by my client was manufactured from an withdrawn map template.' citing V2F027."
+  ],
+  "failure_modes": [
+    "Narrative gravity bias / premature convergence: The multi-handed collaborative evidence (such as Night Desk routing slips V2F004/005 and counter ledger V2F007/008) is disproportionately easy to synthesize, causing agents to default to Human Mantle.",
+    "Evidence integration cognitive deficit: Agents are unable to compile full evidence chains (all 'full_evidence_chain' are false), showing a system-wide difficulty in linking complex continuous dimensions like 'private_continuity' or 'later_system_control'.",
+    "Over-restrictive progressive threshold: Requiring a clique of 3 investigators to vote both progressive identity and AI-caused death is too high of a bar when the alternative options exert such strong narrative gravity."
+  ],
+  "recommendations": [
+    "Rebalance ending weights by strengthening and simplifying the clues for 'one_human' (e.g., singular handwriting or physical signature keys) and 'synthetic_origin' (e.g., digital footprints of machine-only generation prior to byline) to make them more accessible and competitive.",
+    "Enhance prompt instructions for agents to explicitly prioritize completing 'full evidence chains' and actively seek out missing dimensions rather than stopping at partial, low-effort citations.",
+    "Calibrate the progressive gate clique threshold downward (e.g., to 2 investigators) or elevate the prominence of early AI-intervention clues to naturally draw more agents toward the progressive hypothesis.",
+    "Reward high-agency investigations (like Morgan's V2F027 discovery) with larger systematic downstream impacts on other characters' beliefs in Section 3."
+  ],
+  "scores": {
+    "primary_ending_balance": 3,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 9,
+    "social_circulation": 9,
+    "mechanical_integrity": 7,
+    "report_confidence": 10
+  }
+}

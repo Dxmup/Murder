@@ -1,0 +1,68 @@
+{
+  "character_id": "C16",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, outsiders are offering cash for names around the service route. We need to coordinate worker and resident protections before Veridian extracts our history for a photo op.",
+      "offer": "Coordination between neighborhood residents and contractor protection networks.",
+      "request": "Joint terms ensuring no contractor or resident is made a disposable suspect by outside investigators.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, Dee and you are getting nervous because outsiders are sniffing around the service exit. Let's establish a shared boundary before Morgan or Arden start piecing things together.",
+      "offer": "My context on the back-room access without exposing vulnerable off-book work.",
+      "request": "Agreement on what we tell outside investigators so nobody takes the fall alone.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, if Veridian wants neighborhood legitimacy for this anniversary, we need more than flattering words. What concrete, written commitments on space or resources are you putting on the table tonight?",
+      "offer": "Neighborhood participation and credibility for Veridian's event.",
+      "request": "A binding written commitment for neighborhood space, rent support, or shared archive authority.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood supplied the labor, delivery routes, and atmosphere long before this floor became an anniversary. Anyone looking for answers about who passed through here needs to deal with our safety and our terms first, not just corporate press releases.",
+  "facts_shared": [
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Deliver neighborhood participation and credibility in exchange for a concrete written commitment supporting local space and resources.",
+      "visibility": "public",
+      "status": "propose"
+    },
+    {
+      "with": "C07",
+      "promise": "Coordinate mutual protections for workers and residents against outside interrogation.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated discussions with Maren on coordinating protections for workers and residents.",
+    "Reached out to Rafi regarding the service route and establishing a shared boundary against outside scrutiny.",
+    "Challenged Arden to provide concrete written commitments for the neighborhood rather than empty celebration."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez is prioritizing neighborhood defense and concrete institutional commitments. She opens conversations with Maren and Rafi to lock down defensive boundaries against outside investigators poking around the service exit, and confronts Arden to demand real written concessions rather than mere corporate legitimacy.",
+  "final_ballot": null
+}

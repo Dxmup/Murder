@@ -1,0 +1,84 @@
+{
+  "character_id": "C03",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, our disclosure boundary held. Let's ensure the Night Desk protections remain enforceable now that the final reconstruction is on the table.",
+      "offer": "Reaffirmation of our joint disclosure boundary and shared labor protection.",
+      "request": "Continued mutual commitment to keep contributor names out of circulation.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, your precision on the logs helped clarify that access gaps do not equal authorship. Let's make sure the final record honors collaborative infrastructure.",
+      "offer": "Endorsement of technical log precision regarding access versus intent.",
+      "request": "Agreement to reject any solo-author mythologies on the ballot.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Kit, your retraction of the ledger cipher was correct. R was sustained by shared labor and human infrastructure, not bodega receipts or lone geniuses.",
+      "offer": "Context on Night Desk production workflows and collective participation.",
+      "request": "Public support for human mantle continuity rather than singular ownership.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "R's history is written in shared drops and invisible labor; no anniversary legend or single heir will erase the workers who sustained it.",
+  "facts_shared": [
+    "V2F004",
+    "V2F035",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "To uphold strict source anonymity and share only contributor-free workflow descriptions through the Night Desk.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Correcting the assumption that contributor schedule gaps or shared drop activity equate to solo authorship or synthetic agency.",
+  "goal_progress": [
+    "Reaffirmed disclosure boundary with Maren to protect Night Desk contributors.",
+    "Aligned with Eli on technical log limits and infrastructure interpretation.",
+    "Challenged Kit's framing and reinforced collaborative human mantle reality.",
+    "Completed final ballot reflecting human mantle and protective solidarity."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 75,
+    "synthetic_origin": 5,
+    "progressive": 10,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Tessa concludes her role by locking in disclosure boundaries with Maren, confirming technical limits with Eli, refuting lone-genius myths with Kit, and casting her final ballot for the human mantle supported by verifiable collaborative workflows.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F035",
+      "V2F040",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

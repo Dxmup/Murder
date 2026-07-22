@@ -1,0 +1,82 @@
+{
+  "character_id": "C07",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, our joint disclosure boundary is holding. Let's ensure worker anonymity remains protected as the final ballot closes.",
+      "offer": "Continued solidarity and adherence to our joint disclosure boundary.",
+      "request": "Stand firm against any pressure to expose individual contributors.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, the institutional remedies and procurement safeguards we discussed must be fully enacted, independent of whatever the room decides about R's identity.",
+      "offer": "Labor coalition backing for transparent institutional accountability.",
+      "request": "Fulfill the commitment to permanent written anonymity and independent audit rights.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, City Hall's procurement policy incorporating enforceable worker safeguards is critical. Let's make sure it is locked in tonight.",
+      "offer": "Organizing support and public legitimacy for municipal policy.",
+      "request": "Ensure municipal procurement policy strictly enforces worker safety and anonymity.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Real worker harm does not become imaginary if the article was a rumor or R was a machine. We demand enforceable protections and compensation now, independent of any mystery outcome.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Establish a joint disclosure boundary to protect vulnerable contributors from exposure",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C11",
+      "promise": "Incorporate enforceable worker safeguards into City Hall procurement policy.",
+      "visibility": "public",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Reaffirmed joint disclosure boundary with Tessa Quill.",
+    "Held Mira Sen accountable for independent institutional remedies and worker protections.",
+    "Locked in City Hall procurement policy commitments with Celeste Park.",
+    "Completed final ballot reflecting human mantle and systemic worker harm."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 45,
+    "synthetic_origin": 25,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Maren concludes her role by securing enforceable worker protections, fulfilling commitments with Tessa and Celeste, and casting her final ballot for a human mantle shaped by collaborative labor and shifting continuity instructions.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "insufficient_evidence",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026"
+    ]
+  }
+}

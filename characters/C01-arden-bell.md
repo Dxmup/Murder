@@ -36,11 +36,13 @@ You also do not know whether the rumored article existed. An R-associated accoun
 
 ## What you want tonight
 
-Your first priority is keeping Veridian alive without openly surrendering its mission. Before the evening ends, obtain at least two different forms of meaningful support: money, political protection, neighborhood participation, labor cooperation, archive partnership, or a public commitment that makes another commitment possible.
-
-You also need to make the anniversary legitimate. Frankie Lowell can give it journalistic lineage, but Frankie suspects Veridian is monetizing R. Inez Baptiste can give it neighborhood legitimacy, but Inez believes organizations like yours extract stories and leave obligations behind. Winning only one of them will make the other’s criticism sharper.
-
-Finally, decide what to do about the Parallax restrictions. You may defend the agreement, renegotiate it with Mira, seek political cover from Celeste, disclose it and risk the institution, or find another course entirely. What matters is that you make a choice instead of allowing the restriction to govern Veridian invisibly.
+- **Primary Goal:** Keep Veridian Dynamics alive without surrendering its public mission.
+  - *Success Condition:* Obtain two materially different commitments from guests and publicly state whether the Parallax restrictions will be accepted or rejected.
+- **Secondary Goal 1 (Social & Supportive):** Make the anniversary legitimate.
+  - *Success Condition:* Secure public participation from both a journalism figure and a neighborhood representative.
+- **Secondary Goal 2 (Social & Supportive):** Resolve the concealed donation.
+  - *Success Condition:* Reach a recorded understanding with Mira or Celeste about disclosure, repayment, or revised restrictions.
+- **Your Final Choice:** Save Veridian through compromise or expose the funding arrangement and risk collapse.
 
 ## What you know
 

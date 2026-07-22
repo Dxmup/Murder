@@ -1,0 +1,99 @@
+{
+  "character_id": "C16",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, if Veridian wants neighborhood legitimacy and our endorsement tonight, those written institutional commitments for archive access and workspace protections must be finalized.",
+      "offer": "Neighborhood participation and endorsement for the anniversary",
+      "request": "Fulfill written, enforceable institutional commitments",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, our camera gap and service route boundary is holding, but we need to ensure outside investigators don't twist the maintenance log into a scapegoat story.",
+      "offer": "Coordinated service route context and mutual defense",
+      "request": "Maintain our joint disclosure boundary",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, let's lock in our contractor and worker protections so Veridian and City Hall cannot trade away local labor for good publicity.",
+      "offer": "Neighborhood coalition backing and witness protection",
+      "request": "Enforce joint worker safeguards with administrative backing",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood provides the labor, storage, and routes that keep this building alive. If institutions want a manageable story tonight, they can start by guaranteeing protection and shared authority for the people who actually run the block.",
+  "facts_shared": [
+    "V2F026",
+    "V2F040",
+    "V2F041",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Provide written, enforceable institutional commitments for neighborhood participation and archive access",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C07",
+      "promise": "Coordinate neighborhood and contractor protection against outside investigator pressure",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C09",
+      "promise": "Establish a shared boundary to protect Dee, Rafi, and Manny from being scapegoated over the service route",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C10",
+      "promise": "Coordinate disclosure of the camera gap to protect uninvolved residents",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured and accepted Arden's written institutional commitments for neighborhood participation.",
+    "Fulfilled defensive coordination pacts with Dee, Maren, and Rafi to protect neighborhood residents from scapegoating.",
+    "Completed final ballot reflecting a progressive collaborative R and Vale's independent investigation."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 25,
+    "synthetic_origin": 20,
+    "progressive": 40,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "As Inez Baptiste in Section 3, I have successfully locked in Arden's written commitments for neighborhood archive and workspace support, fulfilled our protective boundaries with Dee, Maren, and Rafi, and cast my final ballot recognizing R as a progressive collaborative workflow and Vale as an investigator who vanished safely through our route.",
+  "final_ballot": {
+    "r_identity": "progressive",
+    "identity_evidence": [
+      "V2F018",
+      "V2F020",
+      "V2F040",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

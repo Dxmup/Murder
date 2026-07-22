@@ -30,11 +30,13 @@ You are more certain about one thing: whoever reused your recordings treated con
 
 ## What you want tonight
 
-Your main purpose is to establish ownership of your performed identity work and identify at least one plausible route by which it entered R-associated use. Get two people to say aloud that performance and authorship are different.
-
-Reconstruct the old commission with Jules, Frankie, Eli, or anyone holding relevant payment or witness context. You do not need a perfect answer; you need enough to decide whom to confront.
-
-Finally, give the room one honest demonstration of fabricated embodiment. Make it clear that you are demonstrating possibility, not proving what happened. Let different people draw different conclusions.
+- **Primary Goal:** Establish ownership of Edi's performed identity work and determine who reused it.
+  - *Success Condition:* Get two characters to distinguish performance from authorship and identify one plausible path by which the material entered R-associated use.
+- **Secondary Goal 1 (Social & Supportive):** Reconstruct the commission.
+  - *Success Condition:* Trade performance details with Jules, Frankie, or optional Ash for payment or witness context.
+- **Secondary Goal 2 (Social & Supportive):** Demonstrate synthetic embodiment without declaring R synthetic.
+  - *Success Condition:* Perform or explain one disclosed demonstration that another character interprets in more than one way.
+- **Your Final Choice:** Expose the commission or protect a client and retain control of the art.
 
 ## What you know
 

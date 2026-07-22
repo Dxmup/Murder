@@ -1,0 +1,98 @@
+{
+  "character_id": "C14",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, my interim report omitted the client's manufactured route segment to preserve integrity, but the discrepancy is clear. Here is my route board with uncertainty labels intact.",
+      "offer": "To disclose the contaminated client lead and respect our confidentiality agreement.",
+      "request": "Your confirmation of Vale's actual movements versus the manufactured narrative.",
+      "fact_ids_shared": [
+        "V2F027",
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, honoring our privacy terms, I am recording your transaction continuity ledger details without naming any customer as R.",
+      "offer": "Strict adherence to our agreement protecting vulnerable neighborhood records.",
+      "request": "Final verification of the transit traces near the former printing floor.",
+      "fact_ids_shared": [
+        "V2F008",
+        "V2F025"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I am publicly reporting that the case cannot support a manufactured conclusion. Thank you for holding me to fair-treatment terms.",
+      "offer": "A public correction and an open, qualified timeline that protects local residents.",
+      "request": "Your perspective on how the neighborhood's accounts withstand institutional pressure.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F033",
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "No complete article or manufactured route can replace verified observation. I am reporting an open, qualified timeline and disclosing that the client's supplied lead was contaminated.",
+  "facts_shared": [
+    "V2F025",
+    "V2F026",
+    "V2F027",
+    "V2F035",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To maintain confidentiality regarding intimate history and disclose if the client pressured a manufactured route.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C16",
+      "promise": "To respect fair-treatment terms and protect local witnesses from unwarranted exposure.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C09",
+      "promise": "Share bounded ledger details on transaction continuity only if Morgan agrees not to identify any customer as R.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Acknowledging that the client-supplied route segment was manufactured from an outdated map template, and reporting an open, qualified timeline rather than a purchased conclusion.",
+  "goal_progress": [
+    "Confronted client anomaly with Samira Vale while upholding privacy boundaries.",
+    "Utilized Rafi Calder\u00f3n's transaction continuity details under agreed terms.",
+    "Confirmed fair-treatment terms with Inez Baptiste and published an openly qualified timeline.",
+    "Completed final ballot reflecting insufficient evidence for a closed narrative and caution regarding manufactured leads."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Morgan Shaw concludes the investigation by refusing to publish the client's manufactured route segment, honoring privacy commitments to Samira Vale, Rafi Calder\u00f3n, and Inez Baptiste, and submitting a ballot that recognizes the gaps and contradictions in the record.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F008",
+      "V2F025",
+      "V2F035"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F027",
+      "V2F036"
+    ]
+  }
+}

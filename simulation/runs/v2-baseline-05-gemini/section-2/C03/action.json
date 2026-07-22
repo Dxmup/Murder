@@ -1,0 +1,63 @@
+{
+  "character_id": "C03",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, let's formalize our disclosure boundary: we name no contributors and treat all workflow dates as collective infrastructure rather than suspect timelines.",
+      "offer": "Firsthand corroboration of collaborative Night Desk workflows and agreement on anonymity rules",
+      "request": "Acceptance of our joint disclosure boundary proposal",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, claiming R's succession requires enforceable contributor safeguards and transparent governance, not just personal prestige.",
+      "offer": "Evaluation of collective support for your mantle claim under strict conditions",
+      "request": "Concrete commitments protecting anonymous labor",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, your technical logs cannot establish who operated the infrastructure or when control changed; let's exchange boundaries without naming people.",
+      "offer": "Context on Night Desk contributor schedules and shared drops",
+      "request": "Clear statement of what activity gaps cannot establish",
+      "fact_ids_shared": [
+        "V2F018",
+        "V2F020"
+      ]
+    }
+  ],
+  "public_statement": "Collaborative labor built R's work. We demand enforceable protections for anonymous contributors before any claims of ownership are consecrated.",
+  "facts_shared": [
+    "V2F004",
+    "V2F005"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary to protect vulnerable contributors from exposure",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Advanced disclosure boundary coordination with Maren",
+    "Challenged Jules on succession accountability and contributor safeguards",
+    "Engaged Eli regarding limits of activity logs and schedule interpretations"
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 60,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 30,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Tessa solidifies her disclosure boundary with Maren, presses Jules on contributor protections, coordinates with Eli on activity log limits, and maintains a strong human-mantle conviction while demanding worker safety.",
+  "final_ballot": null
+}

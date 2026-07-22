@@ -1,0 +1,53 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, let's lock down our terms before Morgan or anyone else starts pushing a false narrative about that camera gap.",
+      "offer": "To stand by our agreement to protect our resident while presenting a clear operational timeline.",
+      "request": "Accept our proposed commitment so we present a unified front.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's compare our shift records and package logs so we don't let anyone turn routine service into a ghost story.",
+      "offer": "A precise comparison of shift change times and courier routes.",
+      "request": "Your verification of package handling timelines without embellishment.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The service exit is regular building infrastructure. Let's stick to the facts rather than mixing camera gaps and automated logs into a manufactured scandal.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "To coordinate our disclosure about the service route camera gap without naming uninvolved residents.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Correcting the assumption that building access anomalies imply malicious intent or a single unified operator.",
+  "goal_progress": [
+    "Coordinated response strategy and accepted commitment with Inez.",
+    "Compared shift-change and delivery timing details with Rafi.",
+    "Maintained clear separation between physical service exits and automated events."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Dee Nowak collaborates with Inez to secure their disclosure boundary, compares delivery timing with Rafi, and publicly pushes back against dramatized interpretations of building maintenance and camera gaps.",
+  "final_ballot": null
+}

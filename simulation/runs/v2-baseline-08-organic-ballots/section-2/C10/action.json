@@ -1,0 +1,60 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, I accept your offer for mutual defense. Let's align on what we share regarding the camera gap so neither of us takes the fall for routine building access.",
+      "offer": "Complete details of the camera audit context and service exit rhythms",
+      "request": "Coordination on our disclosure boundary to protect our uninvolved residents",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's compare our shift records and service delivery notes to ensure our timeline of couriers and shift collectors remains accurate without inventing single identities.",
+      "offer": "Building delivery schedules and shift-change observation notes",
+      "request": "A consistent timeline of shift collectors and courier movements",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, before I provide any bounded account of the service route, I need your explicit commitment to protect tenant anonymity and ensure fair treatment in your report.",
+      "offer": "A bounded operational account of the camera audit context and access gaps",
+      "request": "An explicit guarantee of fair treatment and protection of tenant anonymity",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The camera gap and automated access changes are separate physical events. Do not let anyone turn routine building maintenance into a murder story.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Protect Dee and Rafi from absorbing sole blame for the service route access",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Coordinated disclosure boundaries and accepted mutual defense with Inez.",
+    "Compared shift-change and delivery observations with Rafi.",
+    "Demanded fair treatment and resident protection from Morgan before releasing a bounded account."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Dee Nowak, I focused on locking in mutual defense with Inez regarding building access, aligning records with Rafi, and holding Morgan to a fair treatment standard before sharing operational details.",
+  "final_ballot": null
+}

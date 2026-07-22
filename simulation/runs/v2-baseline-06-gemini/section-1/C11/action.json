@@ -1,0 +1,72 @@
+{
+  "character_id": "C11",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, we both know our records of Vale's off-calendar meeting are incomplete on their own. Let's compare our entries and agree to share responsibility before someone else weaponizes the gaps.",
+      "offer": "To align our calendar disclosures so neither City Hall nor Parallax carries the full exposure alone.",
+      "request": "Your matching authorization record for the meeting.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, advisory committees without teeth are a waste of your time and mine. I need your labor credibility, and you need enforceable protections with real deadlines and funding attached.",
+      "offer": "City Hall administrative backing and budget prioritization for enforceable worker safeguards.",
+      "request": "A specific labor demand with a concrete enforcement deadline.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I arranged the limited access that may have brought Vale here. I want to respect your privacy boundary, but we need an honest agreement on what can be disclosed.",
+      "offer": "Protection for Vale's personal context and a boundary against manufactured leaks.",
+      "request": "Your cooperation on what limited disclosures are fair to Vale's memory.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Let's distinguish verified worker and community harms from rumors about an unseen article or panic manufactured for market advantage. City Hall is committed to policy and oversight that survives the night.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036",
+    "V2F039",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C05",
+      "promise": "Coordinate joint disclosure of the off-calendar meeting records to prevent unilateral framing.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C07",
+      "promise": "Incorporate enforceable worker safeguards into the upcoming municipal procurement policy.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated discussions with Dr. Mira Sen regarding shared responsibility for the off-calendar meeting records.",
+    "Engaged Maren Okafor to tie labor credibility to enforceable policy commitments.",
+    "Established initial contact with Samira Vale regarding privacy boundaries and disclosures."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Celeste Park, I leveraged my role as a pragmatic City Hall fixer to address the missing calendar records with Mira Sen, establish common ground with labor leader Maren Okafor, and respect Samira Vale's privacy boundaries while anchoring our public stance on concrete harms rather than unverified rumors.",
+  "final_ballot": null
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "C08",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, a payment record confirms my old performance fee passed through an intermediary associated with R. Do you recognize how your encounter fits into that routing?",
+      "offer": "My firsthand memory of the commission constraints and synthetic vocal distinctions.",
+      "request": "Your exact sensory recollection of the R encounter.",
+      "fact_ids_shared": [
+        "V2F014"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, the payment processor notice shows intermediary routing matching your sphere. Let's compare notes privately on whether succession respects original consent.",
+      "offer": "A confidential comparison of payment routing and commission records.",
+      "request": "Your perspective on the financial structure behind R's presence.",
+      "fact_ids_shared": [
+        "V2F014"
+      ]
+    }
+  ],
+  "public_statement": "If a voice or presence is commissioned and performed, let's stop pretending the file proves a singular human author behind the work.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Examined payment route connections with Frankie and Jules.",
+    "Challenged the conflation of performed presence with singular authorship."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 35,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Edi focuses Section 2 on probing Frankie and Jules regarding the payment routing (V2F014) to connect the old commission to R's network while asserting that performance does not equal authorship.",
+  "final_ballot": null
+}

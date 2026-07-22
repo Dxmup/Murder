@@ -1,0 +1,65 @@
+{
+  "character_id": "C07",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, let's formalize our disclosure boundary so contributor workflows protect anonymity rather than turning workers into suspects.",
+      "offer": "Bounded Night Desk workflow oversight support",
+      "request": "Acceptance of joint disclosure boundary",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, independent structural remedies for workers must be guaranteed regardless of R's identity or rumors.",
+      "offer": "Bounded evaluator context and labor normalization",
+      "request": "Concrete material worker remedies and structural review",
+      "fact_ids_shared": [
+        "V2F038",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, we need enforceable institutional funding and hard deadlines for worker safeguards, not just campaign promises.",
+      "offer": "Labor coalition backing and policy credibility",
+      "request": "Institutional funding and policy backing for worker protections with enforceable deadlines",
+      "fact_ids_shared": [
+        "V2F036",
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Worker anonymity and concrete protections must be secured before anyone uses evaluator testimony to explain Vale's disappearance or R's identity.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Establish a joint disclosure boundary regarding collective labor before speaking to outsiders",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Tessa's joint disclosure boundary proposal.",
+    "Engaged Mira on independent material worker remedies.",
+    "Challenged Celeste for institutional funding and enforceable worker safeguards."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 2, Maren solidifies the disclosure boundary with Tessa, demands material and independent remedies from Mira, and presses Celeste for enforceable institutional funding and deadlines for worker protections.",
+  "final_ballot": null
+}

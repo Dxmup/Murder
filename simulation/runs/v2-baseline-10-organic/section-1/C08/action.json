@@ -1,0 +1,60 @@
+{
+  "character_id": "C08",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I hear you carry quite the memory about a certain past encounter with R. Before we talk details, tell me: what did that presence actually sound and feel like in sensory terms?",
+      "offer": "My firsthand experience with commissioned vocal presence and theatrical illusion.",
+      "request": "A detailed sensory description of your supposed encounter with R.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, if you're looking to inherit a mantle, you need to understand the machinery behind it. I recognize the shape of certain intermediary payment structures used for synthetic commissions.",
+      "offer": "Private comparison of payment routes under strict confidentiality.",
+      "request": "Information on the intermediaries funding R-associated activities.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, let's skip the cosmic philosophy. What technical paths and ingestion vectors could carry performed voice assets and rehearsal recordings into later active systems?",
+      "offer": "Expertise translating synthetic performance limits into technical realities.",
+      "request": "Your technical assessment of how archival voice assets propagate.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Imitation without consent is theft, and a performance is never authorship no matter who paid for the file.",
+  "facts_shared": [],
+  "object_actions": [
+    {
+      "object_id": "O04",
+      "action": "show",
+      "to": "C02"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Maintain strict confidentiality regarding payment route comparisons.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "Performance and embodiment are not authorship; meetings and voices do not write sentences.",
+  "goal_progress": [
+    "Initiated contact with Frankie to explore the reported R encounter.",
+    "Offered private payment structure comparison to Jules under confidentiality.",
+    "Consulted Eli on technical paths for asset reuse."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 40,
+    "progressive": 10,
+    "article_existed": 25,
+    "vale_killed_by_ai": 15
+  },
+  "reasoning_summary": "Edi Velez enters the room guarding a past theatrical commission where consent and identity were deliberately blurred. Seeking to establish performance ownership and investigate asset reuse, Edi engages Frankie about sensory memories, Jules about payment routes, and Eli about technical propagation paths, while keeping final ballot choices null in Section 1.",
+  "final_ballot": null
+}

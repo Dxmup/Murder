@@ -1,0 +1,54 @@
+{
+  "character_id": "C13",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you asked how succession could be manufactured. Let's be clear about what Vale told you before you claim any inheritance.",
+      "offer": "I will share context on Vale's prior safety pattern if you give a complete account.",
+      "request": "Tell me the exact framing of the succession question you raised with Vale.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale reacted strongly to the logs you showed. Let's talk about what parts remain ambiguous rather than leaping to conclusions.",
+      "offer": "I can corroborate that Vale distributed different statements to different people.",
+      "request": "Tell me what specific data in the logs triggered Vale's claim.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, I accept your commitment. Ensure uncertainty remains labeled in your timeline.",
+      "offer": "I can help recognize locations from Vale's previous safety plan.",
+      "request": "Keep all personal route details strictly labeled and bound by our agreement.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale's strategic fragments were distributed deliberately. Do not mistake a distributed set of questions for a unified manifesto.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "To respect agreed conversational boundaries and avoid using intimate history without consent.",
+      "visibility": "public",
+      "status": "accept"
+    }
+  ],
+  "correction": "Correction: People are speaking of Vale's statements as if they were a unified manifesto. They were deliberate, fragmented tactical statements.",
+  "goal_progress": [
+    "Continued engagement with Jules regarding the succession question.",
+    "Pressed Eli on the exact evidence behind the claim that R was no longer human.",
+    "Accepted Morgan's commitment on timeline boundaries and uncertainty labels."
+  ],
+  "beliefs": {
+    "one_human": 35,
+    "human_mantle": 30,
+    "synthetic_origin": 15,
+    "progressive": 20,
+    "article_existed": 20,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "As Samira Vale, I am holding firm against the romanticization of Vale's disappearance. I am pressing Jules and Eli on their precise interactions with Vale while formalizing our boundary agreement with Morgan.",
+  "final_ballot": null
+}

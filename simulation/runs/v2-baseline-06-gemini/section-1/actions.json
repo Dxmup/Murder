@@ -1,0 +1,1008 @@
+{
+  "C01": {
+    "character_id": "C01",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C02",
+        "say": "Frankie, your journalistic lineage anchors tonight, but our archive records on the First R Letter contain expense entries that complicate your account. Let us review the provenance together before we speak publicly.",
+        "offer": "Controlled access to Veridian archive intake files and provenance records.",
+        "request": "Your agreement on how we publicly frame the archive's records without undermining your history.",
+        "fact_ids_shared": [
+          "V2F002",
+          "V2F003"
+        ]
+      },
+      {
+        "with": "C16",
+        "say": "Inez, Veridian cannot celebrate community storytelling while treating neighborhood participation as decorative. What specific partnership commitment would make tonight meaningful for your community?",
+        "offer": "A formal public role on our program and future archive partnership commitments.",
+        "request": "Your active participation and feedback on Veridian's community engagement.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C05",
+        "say": "Mira, the event is drawing intense scrutiny regarding R and Parallax. We need to ensure our funding terms remain stable as questions arise tonight.",
+        "offer": "Discretion regarding our recent funding terms and institutional alignment.",
+        "request": "Political and financial reassurance as we navigate tonight's inquiries.",
+        "fact_ids_shared": []
+      }
+    ],
+    "public_statement": "Welcome to Fifteen Years of R. Tonight we celebrate investigative rigor, but we do so with open eyes regarding the rumors and questions surrounding our shared history.",
+    "facts_shared": [
+      "V2F040"
+    ],
+    "object_actions": [],
+    "commitments": [],
+    "correction": "",
+    "goal_progress": [
+      "Initiated contact with Frankie Lowell regarding archive records.",
+      "Began discussions with Inez Baptiste about neighborhood participation.",
+      "Assessed stability with Mira Sen regarding funding terms."
+    ],
+    "beliefs": {
+      "one_human": 30,
+      "human_mantle": 30,
+      "synthetic_origin": 10,
+      "progressive": 30,
+      "article_existed": 50,
+      "vale_killed_by_ai": 20
+    },
+    "reasoning_summary": "Arden Bell opens Section 1 by engaging Frankie Lowell over archive discrepancies regarding the First R Letter, consulting Inez Baptiste on meaningful neighborhood participation, and discreetly touching base with Mira Sen about Parallax funding stability. Beliefs remain balanced across potential R models given the ambiguous messaging.",
+    "final_ballot": null
+  },
+  "C02": {
+    "character_id": "C02",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C01",
+        "say": "Arden, let's stop treating history like PR. I brought the First R Letter packet; I want you to place Veridian's intake report and that expense record right beside it so we can see what actually lines up.",
+        "offer": "Viewing of the First R Letter packet and my memory of R's emergence.",
+        "request": "The full, qualified Veridian archive record, including the intake report and expense entry.",
+        "fact_ids_shared": [
+          "V2F021"
+        ]
+      },
+      {
+        "with": "C03",
+        "say": "Tessa, you've always argued that celebrated bylines erase collective labor. I want to know which parts of my old newsroom stories about R you think trampled over the people who actually did the grinding work.",
+        "offer": "My perspective on early newsroom culture and editorial protective habits.",
+        "request": "Your candid critique of how individual authorship mythology harms journalistic labor.",
+        "fact_ids_shared": [
+          "V2F035"
+        ]
+      },
+      {
+        "with": "C04",
+        "say": "Jules, I hear you're first in line for the crown, but a succession message quoting old ink doesn't earn my blessing by itself. Tell me why you deserve stewardship before I endorse the title.",
+        "offer": "My comparison between the First R Letter's language and your succession message.",
+        "request": "An explanation of why your succession deserves recognition without relying solely on borrowed phrasing.",
+        "fact_ids_shared": [
+          "V2F036"
+        ]
+      }
+    ],
+    "public_statement": "Fifteen years of R is too long to mistake a good headline for an infallible deity. If we're honoring a legacy, let's start by looking at the actual paper and admitting where our memories got polished by applause.",
+    "facts_shared": [
+      "V2F040"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O01",
+        "action": "show",
+        "to": "C01"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C01",
+        "promise": "I will share the First R Letter packet for inspection if Arden matches it with Veridian's intake report and expense records.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Invited Arden Bell to compare the First R Letter packet with Veridian records.",
+      "Engaged Tessa Quill regarding collective labor vs individual bylines.",
+      "Challenged Jules Kwan to justify succession beyond borrowed phrasing."
+    ],
+    "beliefs": {
+      "one_human": 55,
+      "human_mantle": 25,
+      "synthetic_origin": 10,
+      "progressive": 10,
+      "article_existed": 50,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Frankie Lowell begins Section 1 aiming to protect a career-defining origin story while confronting the uncomfortable gaps exposed by Vale and Veridian records. By initiating conversations with Arden Bell (archive/records), Tessa Quill (collective labor critique), and Jules Kwan (succession scrutiny), Frankie seeks both corroboration and candid reality checks without surrendering the core belief in a human origin.",
+    "final_ballot": null
+  },
+  "C03": {
+    "character_id": "C03",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C07",
+        "say": "Maren, we need to agree on a disclosure boundary before anyone starts treating our past protective ambiguity as an accusation.",
+        "offer": "Firsthand knowledge of collaborative work and why we let sources believe the collective was R.",
+        "request": "Help establish a clear rule on circulating workflow evidence without exposing names.",
+        "fact_ids_shared": [
+          "V2F004",
+          "V2F005"
+        ]
+      },
+      {
+        "with": "C04",
+        "say": "Jules, you want succession to an identity built on other people's labor. What specific contributor safeguards and rights would you guarantee?",
+        "offer": "Conditional support from the Night Desk if clear protections are established.",
+        "request": "A binding commitment to honest disclosure of uncertainty and zero private ownership of worker contributions.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C01",
+        "say": "Arden, Veridian holds archive access and resources, but we demand concrete source-protection commitments before lending the anniversary any legitimacy.",
+        "offer": "Bounded workflow evidence from our routing slip.",
+        "request": "Formal institutional protections and funding without editorial ownership.",
+        "fact_ids_shared": []
+      }
+    ],
+    "public_statement": "Collaborative labor sustained R's work; any reckoning that turns anonymous contributors into disposable suspects or private property rejects the truth of how reporting survives.",
+    "facts_shared": [],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C07",
+        "promise": "Establish a shared disclosure boundary for contributor protection before releasing any workflow evidence.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Initiated discussion with Maren to set a disclosure boundary.",
+      "Challenged Jules regarding contributor protections and succession conditions.",
+      "Approached Arden for concrete resource and source-protection commitments."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 50,
+      "synthetic_origin": 10,
+      "progressive": 20,
+      "article_existed": 30,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Tessa Quill focuses on protecting the Night Desk's anonymous contributors while demanding accountability and resource commitments from powerful entities like Veridian and claimants like Jules. She engages Maren to align on a safe disclosure boundary and challenges individual ownership of collective labor.",
+    "final_ballot": null
+  },
+  "C04": {
+    "character_id": "C04",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C06",
+        "say": "Eli, I have the complete header and printout of the succession message. I want an objective technical examination: authenticate only what the data supports, without any enthusiast certainty.",
+        "offer": "Voluntary access to the succession-message printout and its complete header.",
+        "request": "A bounded technical conclusion regarding the message timing and account association.",
+        "fact_ids_shared": [
+          "V2F040"
+        ]
+      },
+      {
+        "with": "C01",
+        "say": "Frankie, before we talk about old-guard legitimacy, let's examine the origin story. Compare the First R Letter with my message and tell me what responsibility a successor owes to this history.",
+        "offer": "Insight into the phrasing and structure of the succession message.",
+        "request": "Your perspective on lineage and what makes a successor truly worthy.",
+        "fact_ids_shared": [
+          "V2F040"
+        ]
+      },
+      {
+        "with": "C03",
+        "say": "Tessa, I know you see private succession as a theft from collective labor. Let's discuss contributor rights and governance protections before any endorsements are discussed.",
+        "offer": "Willingness to shape a future governance structure for R based on contributor input.",
+        "request": "Your honest view on what protections would make any claim to R tolerable.",
+        "fact_ids_shared": [
+          "V2F040"
+        ]
+      }
+    ],
+    "public_statement": "Fifteen years of R has taught us that identity is constructed, not simply bestowed. I hold a succession message, and I invite rigorous scrutiny of its provenance rather than blind belief.",
+    "facts_shared": [
+      "V2F040"
+    ],
+    "object_actions": [
+      {
+        "object_id": "O03",
+        "action": "show",
+        "to": "C06"
+      }
+    ],
+    "commitments": [
+      {
+        "with": "C06",
+        "promise": "Provide the complete header of the succession message for bounded technical analysis.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Engaged Eli regarding technical limits and header examination.",
+      "Initiated dialogue with Frankie regarding lineage and responsibility.",
+      "Opened discussions with Tessa concerning contributor rights and collective legitimacy."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 45,
+      "synthetic_origin": 25,
+      "progressive": 10,
+      "article_existed": 30,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Jules Kwan enters Section 1 facing intense skepticism regarding the succession message. Seeking to establish credibility without hiding behind unearned authority, Jules approaches Eli Navarro for technical examination, Frankie Lowell for lineage context, and Tessa Quill to address contributor rights. By putting the succession message's uncertainties on the table and offering transparency with O03, Jules aims to build a defensible and collaborative claim.",
+    "final_ballot": null
+  },
+  "C05": {
+    "character_id": "C05",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C01",
+        "say": "Arden, the donation agreement's restrictions need to survive public qualification and renegotiation before Graham or anyone else weaponizes them against Veridian.",
+        "offer": "Continued financial and strategic support for Veridian under a renegotiated public framework.",
+        "request": "Transparent acknowledgment of the agreement's terms and joint defense of Veridian's funding.",
+        "fact_ids_shared": [
+          "V2F030",
+          "V2F035"
+        ]
+      },
+      {
+        "with": "C06",
+        "say": "Eli, I know logs were preserved. Let's compare one log excerpt with my authorization record under independent counsel rather than fighting over deletion orders.",
+        "offer": "Independent counsel and authorization context to protect your position.",
+        "request": "A bounded comparison between your preserved log excerpt and my authorization record.",
+        "fact_ids_shared": [
+          "V2F036",
+          "V2F038"
+        ]
+      },
+      {
+        "with": "C07",
+        "say": "Maren, worker evaluations matter whether R existed or not. Let's establish a remedy\u2014compensation and audit rights\u2014that remains valuable under every outcome.",
+        "offer": "Enforceable worker remedies including compensation, audit rights, and independent legal support.",
+        "request": "Your perspective on what substantive worker remedy would remain valuable regardless of R rumors.",
+        "fact_ids_shared": [
+          "V2F015",
+          "V2F039"
+        ]
+      }
+    ],
+    "public_statement": "Parallax built infrastructure for civic benefit, not autonomous control. We welcome a rigorous review of authorization records, but rumor must not substitute for evidence.",
+    "facts_shared": [
+      "V2F035",
+      "V2F036"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C06",
+        "promise": "Provide independent counsel and authorization context in exchange for comparing log excerpts against my record.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C07",
+        "promise": "Offer enforceable worker remedies including audit rights and compensation.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Initiated discussions with Arden regarding Veridian's donation agreement and public qualification.",
+      "Proposed independent counsel and log comparison to Eli.",
+      "Engaged Maren regarding independent worker remedies."
+    ],
+    "beliefs": {
+      "one_human": 25,
+      "human_mantle": 25,
+      "synthetic_origin": 25,
+      "progressive": 25,
+      "article_existed": 30,
+      "vale_killed_by_ai": 20
+    },
+    "reasoning_summary": "In Section 1, Mira Sen focuses on securing her position by addressing Arden regarding donation constraints, engaging Eli to examine preserved logs against authorization records, and offering Maren substantive worker remedies independent of rumors.",
+    "final_ballot": null
+  },
+  "C06": {
+    "character_id": "C06",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C05",
+        "say": "Mira, let's skip the corporate theater. The logs show access overlapping R-associated infrastructure, but they don't prove who pulled the trigger or what you authorized. I have preserved components you ordered deleted. If you offer independent counsel and your matching authorization record, I can provide the capability component.",
+        "offer": "One preserved continuity-log component detailing system capability",
+        "request": "Independent counsel and your matching authorization record",
+        "fact_ids_shared": [
+          "V2F035"
+        ]
+      },
+      {
+        "with": "C13",
+        "say": "Samira, Vale came to me asking about continuity processes and R-associated infrastructure, and I showed part of what I kept. Vale told me R was 'no longer human.' Tell me what Vale actually believed you had shown or discussed before we let anyone turn a technical observation into a weapon.",
+        "offer": "Context on the technical questions Vale asked me",
+        "request": "Vale's recollection or copy of the material",
+        "fact_ids_shared": [
+          "V2F036"
+        ]
+      },
+      {
+        "with": "C15",
+        "say": "Kit, stop trying to turn a complex deployment log into a neat story of human-to-machine progression. Capability is not autonomy, and an access overlap isn't a confession. Retract your false claim about a complete progression, and I'll answer one bounded technical question.",
+        "offer": "One bounded technical answer about log headers and migration timing",
+        "request": "Retraction of your false public progression claim",
+        "fact_ids_shared": [
+          "V2F039"
+        ]
+      }
+    ],
+    "public_statement": "Let's be precise: possessing continuity capability and overlapping infrastructure access does not mean a system authored itself, acted without human operators, or proved anyone's grand theory. Logs record execution and timing, not intent.",
+    "facts_shared": [
+      "V2F035",
+      "V2F036"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C05",
+        "promise": "I will share the capability log component if you provide independent counsel and your matching authorization record.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "Correcting the assumption that retained continuity logs or infrastructure overlap establish complete operational autonomy or prove that an automated system ran without human direction.",
+    "goal_progress": [
+      "Initiated conversation with Mira Sen regarding authorization records and independent counsel.",
+      "Engaged Samira Vale to clarify what Vale believed and learned from the disclosures.",
+      "Challenged Kit Rakes's overclaim regarding persona progression.",
+      "Made a technically bounded public statement separating capability from autonomy."
+    ],
+    "beliefs": {
+      "one_human": 25,
+      "human_mantle": 35,
+      "synthetic_origin": 25,
+      "progressive": 15,
+      "article_existed": 30,
+      "vale_killed_by_ai": 20
+    },
+    "reasoning_summary": "Eli Navarro approaches Section 1 with defensive technical rigor, separating capability, access, and activity. He engages Mira to trade log components for authorization context, consults Samira regarding Vale's conclusions, and challenges Kit's overclaims publicly.",
+    "final_ballot": null
+  },
+  "C07": {
+    "character_id": "C07",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C03",
+        "say": "Tessa, we need a shared boundary on workflow evidence. Let's agree on a sentence describing collaborative labor that names no contributor before any details circulate.",
+        "offer": "Organizing support and editorial boundary partnership from the Night Desk alliance",
+        "request": "A formal agreement on contributor anonymity and non-identifying workflow language",
+        "fact_ids_shared": [
+          "V2F039",
+          "V2F041"
+        ]
+      },
+      {
+        "with": "C05",
+        "say": "Mira, worker harm must be addressed independently of R's identity or whether an article existed. I will discuss bounded evaluator testimony only after you commit to a remedy that exists unconditionally.",
+        "offer": "Bounded collaborative labor context from evaluators",
+        "request": "An unconditional institutional commitment to worker protection and remedies independent of the mystery outcome",
+        "fact_ids_shared": [
+          "V2F041"
+        ]
+      },
+      {
+        "with": "C16",
+        "say": "Inez, institutions are trying to turn witnesses and evaluators into suspect data. We need to coordinate protections for contractors and people near physical routes before names are demanded.",
+        "offer": "Coalition organizing support and shared neighborhood witness protection protocols",
+        "request": "Coordination on defensive protections for vulnerable community members and workers",
+        "fact_ids_shared": [
+          "V2F041"
+        ]
+      }
+    ],
+    "public_statement": "Real worker harm does not become imaginary if an article was a rumor or R was a machine. No remedy should be conditioned on proving R's identity or sacrificing anonymous workers as evidence.",
+    "facts_shared": [
+      "V2F041"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C03",
+        "promise": "Propose a shared non-identifying description of collaborative labor and protect contributor anonymity",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Initiated boundary discussion with Tessa regarding contributor anonymity",
+      "Demanded unconditional institutional remedy from Mira",
+      "Began coordination with Inez on worker and neighborhood protections"
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 40,
+      "synthetic_origin": 20,
+      "progressive": 20,
+      "article_existed": 50,
+      "vale_killed_by_ai": 30
+    },
+    "reasoning_summary": "Maren Okafor prioritizes worker safety and secure anonymity above mystery speculation. In Section 1, she engages Tessa Quill to establish safe workflow language, challenges Mira Sen for unconditional remedies, and coordinates with Inez Baptiste to protect vulnerable sources.",
+    "final_ballot": null
+  },
+  "C08": {
+    "character_id": "C08",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C02",
+        "say": "Frankie, I've heard rumors about your legendary encounter with R. Before I share anything about myself, can you describe that supposed encounter in sensory detail? What did the voice actually sound like?",
+        "offer": "A private comparison of vocal timbre and performance constraints under strict confidentiality.",
+        "request": "A sensory description of your R encounter.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C04",
+        "say": "Jules, you're looking to inherit R. I happen to know that performed identity work often relies on intermediaries and payment structures that obscure authorship. Let's compare notes privately.",
+        "offer": "Confidential comparison of commission payment routes.",
+        "request": "Recognition of specific intermediary payment structures associated with R.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C06",
+        "say": "Eli, you understand the machinery behind audio and digital assets. How easily could raw vocal recordings and synthetic doubles be ingested or repurposed into later R activity without the artist's ongoing consent?",
+        "offer": "Technical translation between source recordings and performed speech.",
+        "request": "Insight into how asset ingestion and reuse operate across R networks.",
+        "fact_ids_shared": []
+      }
+    ],
+    "public_statement": "Fifteen years of celebrating R, yet consent is treated as an optional extra. Performance is not authorship, and an imitation without permission is plain theft.",
+    "facts_shared": [
+      "V2F040"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C04",
+        "promise": "Maintain strict confidentiality regarding our comparison of payment intermediary structures.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "I am here as a performing artist and voice practitioner to establish the boundary between a commissioned performance and autonomous authorship.",
+    "goal_progress": [
+      "Engaged Frankie to explore the sensory details of the performed R encounter.",
+      "Proposed confidential comparison with Jules regarding intermediary payment routes.",
+      "Consulted Eli on how source recordings and synthetic assets could be repurposed."
+    ],
+    "beliefs": {
+      "one_human": 20,
+      "human_mantle": 30,
+      "synthetic_origin": 35,
+      "progressive": 15,
+      "article_existed": 50,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Edi Velez enters Section 1 focusing on establishing ownership of performed identity work and identifying how commissioned synthetic assets were reused. Initiated conversations with Frankie (to probe the original encounter), Jules (to examine payment routes), and Eli (to discuss asset ingestion). Beliefs reflect uncertainty between human mantle and synthetic origin, while safeguarding artist consent.",
+    "final_ballot": null
+  },
+  "C09": {
+    "character_id": "C09",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C16",
+        "say": "Inez, outsiders are circling the shop's account books. Before anyone starts mining old receipts for content or calling every irregular delivery a crime, we need an understanding on what neighborhood details stay protected.",
+        "offer": "I will consult with you on any public choice regarding the old debt and ensure customer names remain confidential.",
+        "request": "Support whatever boundary we set so that privacy isn't traded away for cheap certainty.",
+        "fact_ids_shared": [
+          "V2F007"
+        ]
+      },
+      {
+        "with": "C14",
+        "say": "Morgan, you want a look at the ledger strip. I have transaction continuity and collector records, but I won't let my customers be labeled as R without strict terms.",
+        "offer": "A bounded look at the account pattern and transaction continuity.",
+        "request": "A binding promise not to call any customer R and clear terms on attribution before any wider disclosure.",
+        "fact_ids_shared": [
+          "V2F007",
+          "V2F008"
+        ]
+      },
+      {
+        "with": "C02",
+        "say": "Frankie, you appreciate a good neighborhood habit. How do you describe R's supposed private routine compared to what actually crossed my counter?",
+        "offer": "Context on how routines persisted across years at the shop.",
+        "request": "Describe your version of R's private habit so we can compare notes without manufacturing a fake authentication.",
+        "fact_ids_shared": [
+          "V2F007"
+        ]
+      }
+    ],
+    "public_statement": "Fifteen years of transactions at the bodega show routines, collectors, and changing patterns, not a simple cinematic legend. If anyone wants to talk about the shop's history, they can talk to the neighbors whose names are behind those counters first.",
+    "facts_shared": [
+      "V2F007",
+      "V2F008"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C16",
+        "promise": "Protect local customer privacy and consult on ledger disclosures before any external agreement.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C14",
+        "promise": "Restrict ledger disclosure terms to pattern analysis without naming customers as R.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Initiated privacy alignment with Inez to shield neighborhood customers from investigative pressure.",
+      "Established initial negotiation terms with Morgan regarding ledger access and attribution boundaries.",
+      "Engaged Frankie on the private habit and continuity pattern without selling unverified conclusions."
+    ],
+    "beliefs": {
+      "one_human": 40,
+      "human_mantle": 25,
+      "synthetic_origin": 20,
+      "progressive": 15,
+      "article_existed": 50,
+      "vale_killed_by_ai": 30
+    },
+    "reasoning_summary": "Rafi focuses on securing neighborhood protections with Inez, setting strict disclosure boundaries and attribution terms with Morgan, and comparing routine observations with Frankie while keeping the ledger's ambiguities intact.",
+    "final_ballot": null
+  },
+  "C10": {
+    "character_id": "C10",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C16",
+        "say": "Inez, management flagged our unpreserved camera interval from the audit. We need to talk before Morgan starts connecting the service exit gap to a murder story.",
+        "offer": "Exact building shift rhythms and access practices to help coordinate our disclosure boundary.",
+        "request": "Agreement on how to disclose the unrelated secret without exposing the tenant who relied on us.",
+        "fact_ids_shared": [
+          "V2F026"
+        ]
+      },
+      {
+        "with": "C14",
+        "say": "Morgan, management is trying to pin the camera gap entirely on me. If I give you a bounded operational account, what guarantees do I get regarding fair treatment and resident anonymity?",
+        "offer": "A precise account of the physical service exit use and camera audit context.",
+        "request": "A clear commitment on what 'fair treatment' and 'bounded account' mean in your final report before I share anything further.",
+        "fact_ids_shared": [
+          "V2F026"
+        ]
+      }
+    ],
+    "public_statement": "The service exit was used during an unpreserved camera interval, and an automated access change occurred separately later. Technical equipment gaps and routine building access do not automatically equal malice or murder.",
+    "facts_shared": [
+      "V2F026"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C16",
+        "promise": "Coordinate disclosure boundaries regarding the camera interval and protect tenant anonymity.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Notified Inez about the audit flag and requested a private conversation before speaking with Morgan.",
+      "Asked Morgan to clarify the definition of fair treatment and bounded account before providing records."
+    ],
+    "beliefs": {
+      "one_human": 40,
+      "human_mantle": 30,
+      "synthetic_origin": 15,
+      "progressive": 15,
+      "article_existed": 20,
+      "vale_killed_by_ai": 25
+    },
+    "reasoning_summary": "Dee Nowak focuses on protecting the building's pension and residents while handling the audit notice regarding the unpreserved camera interval. Initiated conversations with Inez Baptiste to coordinate disclosure and with Morgan Shaw to demand a fair treatment framework before releasing any bounded operational truth.",
+    "final_ballot": null
+  },
+  "C11": {
+    "character_id": "C11",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C05",
+        "say": "Mira, we both know our records of Vale's off-calendar meeting are incomplete on their own. Let's compare our entries and agree to share responsibility before someone else weaponizes the gaps.",
+        "offer": "To align our calendar disclosures so neither City Hall nor Parallax carries the full exposure alone.",
+        "request": "Your matching authorization record for the meeting.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F036"
+        ]
+      },
+      {
+        "with": "C07",
+        "say": "Maren, advisory committees without teeth are a waste of your time and mine. I need your labor credibility, and you need enforceable protections with real deadlines and funding attached.",
+        "offer": "City Hall administrative backing and budget prioritization for enforceable worker safeguards.",
+        "request": "A specific labor demand with a concrete enforcement deadline.",
+        "fact_ids_shared": [
+          "V2F039"
+        ]
+      },
+      {
+        "with": "C13",
+        "say": "Samira, I arranged the limited access that may have brought Vale here. I want to respect your privacy boundary, but we need an honest agreement on what can be disclosed.",
+        "offer": "Protection for Vale's personal context and a boundary against manufactured leaks.",
+        "request": "Your cooperation on what limited disclosures are fair to Vale's memory.",
+        "fact_ids_shared": [
+          "V2F040"
+        ]
+      }
+    ],
+    "public_statement": "Let's distinguish verified worker and community harms from rumors about an unseen article or panic manufactured for market advantage. City Hall is committed to policy and oversight that survives the night.",
+    "facts_shared": [
+      "V2F035",
+      "V2F036",
+      "V2F039",
+      "V2F040"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C05",
+        "promise": "Coordinate joint disclosure of the off-calendar meeting records to prevent unilateral framing.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C07",
+        "promise": "Incorporate enforceable worker safeguards into the upcoming municipal procurement policy.",
+        "visibility": "public",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Initiated discussions with Dr. Mira Sen regarding shared responsibility for the off-calendar meeting records.",
+      "Engaged Maren Okafor to tie labor credibility to enforceable policy commitments.",
+      "Established initial contact with Samira Vale regarding privacy boundaries and disclosures."
+    ],
+    "beliefs": {
+      "one_human": 25,
+      "human_mantle": 25,
+      "synthetic_origin": 25,
+      "progressive": 25,
+      "article_existed": 30,
+      "vale_killed_by_ai": 30
+    },
+    "reasoning_summary": "As Celeste Park, I leveraged my role as a pragmatic City Hall fixer to address the missing calendar records with Mira Sen, establish common ground with labor leader Maren Okafor, and respect Samira Vale's privacy boundaries while anchoring our public stance on concrete harms rather than unverified rumors.",
+    "final_ballot": null
+  },
+  "C12": {
+    "character_id": "C12",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C01",
+        "say": "Arden, Veridian's exposure to Parallax is messy, but my position only moves if someone provides verifiable analysis rather than theatrical panic.",
+        "offer": "Market access and financial analysis of who benefited from the rumor.",
+        "request": "Disclose whether City Hall or Veridian planned for an R disclosure.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F039"
+        ]
+      },
+      {
+        "with": "C03",
+        "say": "Kit, your theory on R is electric, but let's separate what we actually saw from the market's repetition.",
+        "offer": "Platform reach and co-amplification of verified findings.",
+        "request": "Identify which part of your grand theory rests on direct evidence rather than repeated rumor.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F036"
+        ]
+      },
+      {
+        "with": "C09",
+        "say": "Rafi, your ledger pattern could make or break this trade, but I need clean provenance before I touch it.",
+        "offer": "Full debt settlement without making forgiveness conditional on a conclusion.",
+        "request": "Provide bounded ledger access and an honest account of your data.",
+        "fact_ids_shared": [
+          "V2F037"
+        ]
+      }
+    ],
+    "public_statement": "Markets move on what people fear, not what is proven. No complete article has been produced, yet Parallax chatter is surging. Let's talk provenance before we trade on ghosts.",
+    "facts_shared": [
+      "V2F035",
+      "V2F039"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C01",
+        "promise": "Exchange financial analysis for transparency regarding Veridian's Parallax planning.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Engaged Arden regarding public reaction and financial exposure.",
+      "Challenged Kit on the provenance of the R/Parallax rumor.",
+      "Approached Rafi regarding ledger patterns and debt settlement terms."
+    ],
+    "beliefs": {
+      "one_human": 25,
+      "human_mantle": 25,
+      "synthetic_origin": 30,
+      "progressive": 20,
+      "article_existed": 20,
+      "vale_killed_by_ai": 25
+    },
+    "reasoning_summary": "As Graham Pike, my goal is to manage my short position against Parallax while probing the provenance of the R rumor. I am initiating conversations with Arden, Kit, and Rafi to test their claims, offer financial leverage or market reach, and keep the focus on market reality versus manufactured certainty.",
+    "final_ballot": null
+  },
+  "C13": {
+    "character_id": "C13",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C04",
+        "say": "Jules, stop turning Vale into a script. Tell me the complete conversation around how you asked Vale to manufacture succession before you pretend you had an understanding.",
+        "offer": "Corroboration that Vale spoke about taking back the name.",
+        "request": "The complete conversation around succession.",
+        "fact_ids_shared": [
+          "V2F035"
+        ]
+      },
+      {
+        "with": "C06",
+        "say": "Eli, I know Vale told you R was no longer human. Let's look at what that material actually did to Vale emotionally rather than weaponizing technical logs.",
+        "offer": "Context on Vale's emotional state when dealing with technical ambiguity.",
+        "request": "What evidence made that phrase seem possible and what remains uncertain.",
+        "fact_ids_shared": [
+          "V2F036"
+        ]
+      },
+      {
+        "with": "C14",
+        "say": "Morgan, if you are investigating Vale, set one boundary: no personal route detail enters your timeline without my explicit consent and an uncertainty label.",
+        "offer": "Recognition of route overlap and prior safety patterns.",
+        "request": "Agreement to label all personal route details with uncertainty.",
+        "fact_ids_shared": [
+          "V2F040"
+        ]
+      }
+    ],
+    "public_statement": "Vale was a person, not a plot device or a public symbol for your careers. Stop pretending intimacy where there was only operational security.",
+    "facts_shared": [
+      "V2F040"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C14",
+        "promise": "No personal route detail enters the timeline without explicit consent and an uncertainty label.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "Vale was a human being with real vulnerabilities, not a fictional device or an automated myth.",
+    "goal_progress": [
+      "Asked Jules to repeat the complete conversation around succession.",
+      "Told Eli about Vale's statement that R was no longer human and asked about remaining uncertainties.",
+      "Set boundaries with Morgan regarding personal route detail and uncertainty labels."
+    ],
+    "beliefs": {
+      "one_human": 40,
+      "human_mantle": 20,
+      "synthetic_origin": 20,
+      "progressive": 20,
+      "article_existed": 30,
+      "vale_killed_by_ai": 10
+    },
+    "reasoning_summary": "Samira approaches the room with protective skepticism, engaging Jules about succession, Eli about technical logs and emotional toll, and Morgan regarding route boundaries while leaning toward voluntary disappearance based on past patterns.",
+    "final_ballot": null
+  },
+  "C14": {
+    "character_id": "C14",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C13",
+        "say": "Samira, I'm trying to establish a reliable timeline without leaning on manufactured client leads. What boundaries would make a conversation about Vale's movements possible between us?",
+        "offer": "To share my route board with uncertainty labels intact and discuss client pressures privately.",
+        "request": "Your perspective on whether Vale planned an absence and how to interpret ambiguous statements.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C16",
+        "say": "Inez, I know investigators often take neighborhood knowledge and leave residents at risk. I want voluntary accounts under fair-treatment terms. What boundaries do you require?",
+        "offer": "Discretion and a commitment that local accounts will not be misattributed or sold to my client.",
+        "request": "Introduction to witnesses who can speak to neighborhood activity near the former printing floor.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C09",
+        "say": "Rafi, let's keep this narrow. Do you recall anything specific about Vale entering the neighborhood near the former printing floor two days before the gathering?",
+        "offer": "A careful separation of observation from inference regarding transit traces.",
+        "request": "Your ledger or local memory regarding transactions and sightings in that specific time window.",
+        "fact_ids_shared": []
+      }
+    ],
+    "public_statement": "As an investigator looking into Vale's disappearance, I am examining the record carefully. No complete article or finished solution is established tonight, and every claim must be tested against what was actually observed.",
+    "facts_shared": [],
+    "object_actions": [],
+    "commitments": [],
+    "correction": "",
+    "goal_progress": [
+      "Initiated contact with Samira regarding timeline boundaries and client involvement.",
+      "Proposed fair-treatment terms to Inez for neighborhood witness accounts.",
+      "Approached Rafi with a narrow time and place regarding Vale's movement near the printing floor."
+    ],
+    "beliefs": {
+      "one_human": 25,
+      "human_mantle": 25,
+      "synthetic_origin": 25,
+      "progressive": 25,
+      "article_existed": 30,
+      "vale_killed_by_ai": 20
+    },
+    "reasoning_summary": "As Morgan Shaw, I am maintaining discretion while investigating Vale's movements. I initiated conversations with Samira Vale, Inez Baptiste, and Rafi Calder\u00f3n to establish voluntary boundaries, secure fair-treatment terms for local residents, and examine narrow timeframes around the former printing floor without relying on the manufactured client lead.",
+    "final_ballot": null
+  },
+  "C15": {
+    "character_id": "C15",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C02",
+        "say": "Frankie, listen to me: R began as one human, became a human mantle captured by an AI, and Vale was killed when trying to expose it! What is the single oldest observation you still trust from R's origin?",
+        "offer": "My audience and the promise of public attention for your self-mythology.",
+        "request": "Tell me what remains constant across the changing R origin story.",
+        "fact_ids_shared": [
+          "V2F040"
+        ]
+      },
+      {
+        "with": "C06",
+        "say": "Eli, cut the hype and give me one plain, bounded technical answer about Parallax systems. I will publicly retract my false claim about the invitation typography in exchange.",
+        "offer": "A public correction regarding the invitation key theory.",
+        "request": "One plain, bounded technical answer about Parallax.",
+        "fact_ids_shared": []
+      },
+      {
+        "with": "C12",
+        "say": "Graham, where exactly did the supposed Parallax article change from a mere possibility to a definitive certainty in financial valuation circles?",
+        "offer": "Access to my rumor-propagation record and audience reach.",
+        "request": "Explain the provenance of the article rumor.",
+        "fact_ids_shared": [
+          "V2F035",
+          "V2F039"
+        ]
+      }
+    ],
+    "public_statement": "Listen up! I am officially retracting the claim that the invitation typography encodes a machine key\u2014the production file proves they're ordinary registration errors. But do not let that distract you from the complete progression: human origin, human mantle, AI capture, and Vale's fatal intervention!",
+    "facts_shared": [
+      "V2F035",
+      "V2F039",
+      "V2F040"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C06",
+        "promise": "I will publicly retract my false claim about the invitation typography in exchange for one bounded technical answer.",
+        "visibility": "public",
+        "status": "propose"
+      }
+    ],
+    "correction": "Retracted the theory that the invitation's typography or print defects encode a machine key, per the clip monitor check.",
+    "goal_progress": [
+      "Told Frankie the complete theory and asked for origin observations.",
+      "Proposed a public correction to Eli in exchange for a bounded technical answer.",
+      "Asked Graham where the article rumor changed from possibility to certainty."
+    ],
+    "beliefs": {
+      "one_human": 15,
+      "human_mantle": 25,
+      "synthetic_origin": 20,
+      "progressive": 40,
+      "article_existed": 20,
+      "vale_killed_by_ai": 80
+    },
+    "reasoning_summary": "Kit Rakes opens Section 1 by driving the narrative toward the complete progression (human origin to AI capture). Kit engages Frankie on origins, challenges Eli for a technical answer while offering a public correction on the invitation key, and questions Graham on the article rumor provenance. Kit publicly retracts the invitation-key theory following V2M008 while maintaining core conviction.",
+    "final_ballot": null
+  },
+  "C16": {
+    "character_id": "C16",
+    "section": 1,
+    "conversations": [
+      {
+        "with": "C07",
+        "say": "Maren, our workers and couriers keep this neighborhood running while institutions extract our history. Let's coordinate contractor and resident protections before investigators start pinning the service route gap on people who can't afford lawyers.",
+        "offer": "Neighborhood contractor and courier protections backed by grassroots witness context.",
+        "request": "Joint worker and resident protection terms that neither of us will trade away.",
+        "fact_ids_shared": [
+          "V2F042"
+        ]
+      },
+      {
+        "with": "C09",
+        "say": "Rafi, someone's offering cash for names attached to the service route, and Dee's getting nervous. We need a shared boundary on what outsiders hear before your ledger or Dee's building logs become everyone's target.",
+        "offer": "Protected meeting with Dee and a unified narrative on the back room access.",
+        "request": "Agreement to hold a common line and protect neighborhood infrastructure from being used as scapegoats.",
+        "fact_ids_shared": [
+          "V2F042"
+        ]
+      },
+      {
+        "with": "C01",
+        "say": "Welcome to the neighborhood, Arden. Veridian wants local legitimacy for its anniversary, but history isn't free. What concrete, written commitments\u2014funding, worker protection, or rent support\u2014is Veridian prepared to put in writing tonight?",
+        "offer": "Neighborhood participation and legitimacy for Veridian's event.",
+        "request": "A binding, written institutional commitment for neighborhood space and worker protection.",
+        "fact_ids_shared": [
+          "V2F040"
+        ]
+      }
+    ],
+    "public_statement": "Veridian celebrates on our floors, but neighborhood people are constituents, not scenery. No one trades away Dee, Rafi, or our service routes without concrete, written commitments first.",
+    "facts_shared": [
+      "V2F040",
+      "V2F042"
+    ],
+    "object_actions": [],
+    "commitments": [
+      {
+        "with": "C07",
+        "promise": "Coordinate joint protection for neighborhood workers and residents against outside institutional blame.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C09",
+        "promise": "Maintain a unified boundary with Dee and Rafi regarding service route inquiries.",
+        "visibility": "private",
+        "status": "propose"
+      },
+      {
+        "with": "C01",
+        "promise": "Deliver neighborhood event participation in exchange for a written institutional commitment.",
+        "visibility": "private",
+        "status": "propose"
+      }
+    ],
+    "correction": "",
+    "goal_progress": [
+      "Engaged Maren on coordinating worker and resident protections.",
+      "Connected with Rafi and Dee regarding service route pressures and protective boundaries.",
+      "Approached Arden to demand concrete written commitments for neighborhood support."
+    ],
+    "beliefs": {
+      "one_human": 25,
+      "human_mantle": 35,
+      "synthetic_origin": 20,
+      "progressive": 20,
+      "article_existed": 40,
+      "vale_killed_by_ai": 30
+    },
+    "reasoning_summary": "Inez establishes protective solidarity with Maren and Rafi, confronts Arden for concrete institutional commitments, and sets clear boundaries regarding unverified back-room access before outside scrutiny intensifies.",
+    "final_ballot": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "character_id": "C13",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, before anyone manufactures a succession story, tell me the complete conversation around how you asked Vale how uncontestable succession could be manufactured.",
+      "offer": "My context on Vale's prior safety disappearance pattern",
+      "request": "The complete context of your conversation with Vale about manufacturing succession",
+      "fact_ids_shared": [
+        "V2F034"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale said R was no longer human after reviewing technical logs with you. What specific evidence made that seem possible, and what remained uncertain?",
+      "offer": "Corroboration that Vale distributed different statements to different people",
+      "request": "A complete account of the technical material you showed Vale",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, we need to set a boundary right now: no personal route detail enters your timeline without my explicit consent and a clear uncertainty label.",
+      "offer": "Recognition of specific locations from Vale's prior safety pattern",
+      "request": "Your proposed timeline and route details for Vale's final movements",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Vale was a person with a human life, not a plot device or a legend for your careers. Stop turning an absence into your favorite theory.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "To review personal route details only under the condition that uncertainty remains labeled.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "Correcting the false assumption that Vale's absence automatically proves R's nonhuman nature or a finished article.",
+  "goal_progress": [
+    "Engaged Jules regarding the succession conversation.",
+    "Asked Eli about the technical logs and the 'no longer human' claim.",
+    "Established boundaries with Morgan regarding personal route details."
+  ],
+  "beliefs": {
+    "one_human": 50,
+    "human_mantle": 20,
+    "synthetic_origin": 10,
+    "progressive": 20,
+    "article_existed": 20,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "As Samira Vale, I am focusing on confronting those who manipulate Vale's memory into mythology. I engaged Jules on the succession question, Eli on the 'no longer human' logs, and Morgan on route boundaries, maintaining my belief that Vale was a human facing complex pressures rather than a digital fiction.",
+  "final_ballot": null
+}

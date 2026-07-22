@@ -1,0 +1,47 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I'm trying to trace Vale's last movements before the disappearance. What boundaries would make a timeline conversation possible without crossing personal lines?",
+      "offer": "To discuss what I've verified so far and keep our conversation confidential.",
+      "request": "Your perspective on Vale's strategic ambiguity regarding sources or protection.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I'm looking into Vale's movements near the old printing floor. I want voluntary accounts and am happy to agree to fair-treatment terms for any residents involved.",
+      "offer": "Discretion and adherence to your fair-treatment terms.",
+      "request": "Introductions or local context regarding who was near the printing floor two days ago.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I'm checking transit traces near the former printing floor from two days before the gathering. What do you remember about movement in that specific area?",
+      "offer": "A look at specific segment labels on my route board.",
+      "request": "Local transaction or transit records for that specific time and place.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "I'm Morgan Shaw, investigating Vale's movements downtown. I'm examining a route board with verified, attributed, disputed, and blank segments, and I welcome voluntary accounts from anyone who can speak to what happened near the former printing floor.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Approached Samira Vale to establish boundaries for a timeline conversation.",
+    "Approached Inez Baptiste to propose fair-treatment terms for witness accounts.",
+    "Approached Rafi Calder\u00f3n with a narrow time and place inquiry."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "Initiated contact with key social knots in Section 1 as instructed: Samira for personal context and boundaries, Inez for neighborhood access and fair terms, and Rafi for local transaction memory near the printing floor. Maintained flat neutral baseline distributions for core identity beliefs, set initial operational beliefs, and kept the final ballot null as required for Section 1.",
+  "final_ballot": null
+}

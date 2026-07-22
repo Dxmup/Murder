@@ -1,0 +1,73 @@
+{
+  "character_id": "C02",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's reconcile the intake report and the expense records with the First R Letter packet so our origin story stands up to scrutiny.",
+      "offer": "Voluntary viewing of the First R Letter packet (O01) and my perspective on the archive records.",
+      "request": "Fulfill our previous commitment by providing full access to Veridian's intake report and expense records concerning the letter.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C08",
+      "say": "Edi, you performed a commissioned identity I once took for R. Tell me who framed that encounter and what constraints you were given.",
+      "offer": "My account of the encounter later revealed as your performance.",
+      "request": "Your firsthand experience with private vocal commissions and performance constraints.",
+      "fact_ids_shared": [
+        "V2F010"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's compare my memory of R's early private habits with the recurring transactional patterns in your ledgers.",
+      "offer": "My description of R's supposed private habit without embellishment.",
+      "request": "A comparison between my memory and your actual transaction records.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    }
+  ],
+  "public_statement": "If we are going to debate the origins of R tonight, we must honor both the physical evidence in our hands and the awkward friction of our own expense records.",
+  "facts_shared": [
+    "V2F001",
+    "V2F002",
+    "V2F003",
+    "V2F010"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O01",
+      "action": "show",
+      "to": "C01"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Share the First R Letter packet for review in exchange for Arden providing the full intake report and expense record.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden to review archive records and fulfill the letter packet agreement.",
+    "Queried Edi regarding the commissioned performance constraints.",
+    "Compared R's private habits with Rafi's transaction records."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 60,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "In Section 2, Frankie pursues primary and secondary goals by working with Arden to review the First R Letter packet and archive expense records, consulting Edi about the staged performance, and comparing private habits with Rafi's ledger. Beliefs shift slightly toward a single human origin and human mantle based on archive friction and performance disclosures, while maintaining neutral stances on Vale.",
+  "final_ballot": null
+}

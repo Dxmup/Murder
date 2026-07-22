@@ -1,0 +1,87 @@
+{
+  "character_id": "C16",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, if Veridian wants neighborhood legitimacy and access to our service route context tonight, you must put resource-sharing and enforceable witness protections in writing.",
+      "offer": "Neighborhood context and coalition participation for Veridian's archives",
+      "request": "A signed written commitment guaranteeing local resource-sharing and witness protections",
+      "fact_ids_shared": [
+        "V2F042",
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, let's lock in our joint worker and resident protection terms so no institution can trade away our people's labor or testimony.",
+      "offer": "Joint neighborhood backing and mutual defense against corporate overreach",
+      "request": "Firm alignment on written worker and resident protection guarantees",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, City Hall needs to back our local infrastructure and witness protections with formal policy terms, not just speeches.",
+      "offer": "Neighborhood coalition support for City Hall's policy framework",
+      "request": "Concrete policy terms and resource-sharing commitments hardcoded into your response",
+      "fact_ids_shared": [
+        "V2F042",
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood's service routes and ledgers are part of our everyday survival, not fodder for outside investigators or corporate PR. Any institution wanting our history must guarantee enforceable protections and resource-sharing in writing.",
+  "facts_shared": [
+    "V2F026",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "Establish a shared disclosure boundary to protect local witnesses from uncoordinated questioning",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C09",
+      "promise": "Protect customer privacy and local side arrangements regarding the ledger",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured institutional alignment and pressed Arden and Celeste for written resource-sharing and protection terms.",
+    "Reinforced worker and witness protections with Maren and maintained strict disclosure boundaries with Dee and Rafi.",
+    "Completed final ballot evaluation based on verified service route context and evidence."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 3, Inez successfully holds the line for neighborhood protections, fulfills her private commitments to Dee and Rafi, extracts institutional commitments from Arden and Celeste, and submits her final ballot citing verified facts.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F018",
+      "V2F020"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

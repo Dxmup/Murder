@@ -1,0 +1,63 @@
+{
+  "character_id": "C16",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, outsiders are offering cash for names attached to the service route, putting our workers and couriers in the crosshairs. We need to coordinate protections before Morgan's investigation pins everything on us.",
+      "offer": "Neighborhood witness context and coalitional support against predatory outside scrutiny.",
+      "request": "Worker protection commitments that align with our neighborhood infrastructure.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, people are getting nervous about the service exit camera gap and the back room. We need a unified boundary before investigators start pulling everyone into the same timeline.",
+      "offer": "Protection for building systems and shared context on the access arrangement.",
+      "request": "A mutual agreement on what we disclose about the route before outsiders apply pressure.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian's anniversary celebration uses our neighborhood's history and labor for legitimacy. Before we lend our support, what specific, enforceable commitments are you putting in writing tonight?",
+      "offer": "Neighborhood participation and legitimacy for Veridian's event.",
+      "request": "A concrete, written commitment to funding, space support, or shared authority.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood has sustained this floor and its stories long before corporate anniversaries. If outsiders want answers about routes and rooms, they will respect local protections first.",
+  "facts_shared": [
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Inez will support Veridian's local legitimacy if Arden provides a written commitment for neighborhood space and resource sharing.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Maren to coordinate worker and neighborhood protections.",
+    "Engaged Dee to establish a shared boundary regarding the service route and camera gap.",
+    "Approached Arden to demand written, concrete commitments in exchange for neighborhood legitimacy."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez focused Section 1 on securing neighborhood protection for Dee and Rafi against outside investigators while confronting Arden for concrete, written institutional commitments. She leveraged her knowledge of the service route inquiries to build solidarity with Maren and Dee.",
+  "final_ballot": null
+}

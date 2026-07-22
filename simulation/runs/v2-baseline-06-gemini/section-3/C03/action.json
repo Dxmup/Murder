@@ -1,0 +1,77 @@
+{
+  "character_id": "C03",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, our disclosure boundary is set. Let's ensure the final public record honors collaborative labor without exposing our anonymous contributors to suspects.",
+      "offer": "Shared non-identifying workflow description and Night Desk solidarity.",
+      "request": "Mutual backing on the disclosure boundary during the final reconstruction.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you claim succession, but protecting anonymous labor is non-negotiable. We demand zero private ownership and strict contributor safeguards.",
+      "offer": "Endorsement of a protected collective succession framework if safeguards hold.",
+      "request": "Public confirmation that contributor rights and anonymity remain inviolable.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian's archive must explicitly recognize collaborative infrastructure rather than single-author myths if you want our cooperation.",
+      "offer": "Bounded workflow routing evidence for institutional archive terms.",
+      "request": "Formal written commitment to source protection and worker safeguards.",
+      "fact_ids_shared": [
+        "V2F021"
+      ]
+    }
+  ],
+  "public_statement": "Collaborative labor sustained R's work; any reckoning that turns anonymous contributors into disposable suspects or private property rejects the truth of how reporting survives.",
+  "facts_shared": [
+    "V2F039",
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a shared disclosure boundary for contributor protection before releasing any workflow evidence.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Locked in disclosure boundary with Maren to protect anonymous contributors.",
+    "Challenged Jules on succession and contributor safeguards.",
+    "Demanded institutional source protection commitments from Arden."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 60,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 30,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Tessa Quill concludes the simulation by upholding the human mantle / collaborative infrastructure model of R, ensuring that anonymous contributors are protected by strict disclosure boundaries rather than exploited as disposable evidence.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F039",
+      "V2F040",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "insufficient_evidence",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "character_id": "C05",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, our funding terms and transparency on technical claims must be coordinated so neither of us is blindsided by the board.",
+      "offer": "Discretion regarding donation restrictions and continued Veridian partnership protection.",
+      "request": "Clarify how Veridian handles unauthenticated rumors tonight without triggering funding pauses.",
+      "fact_ids_shared": [
+        "V2F030",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I accept your proposal. Let's exchange your preserved log excerpt for independent counsel and my matching authorization record.",
+      "offer": "Independent legal counsel and matching parent authorization records.",
+      "request": "Provide the bounded continuity-log capability component.",
+      "fact_ids_shared": [
+        "V2F015",
+        "V2F016",
+        "V2F017"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, let's align our recoverable calendar entry with my authorization record to establish limited access without creating a false narrative.",
+      "offer": "Joint coordination on disclosure regarding Vale's off-calendar meeting.",
+      "request": "Accept the joint disclosure proposal to share responsibility rather than trading denials.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Parallax built capability to support public infrastructure, not to manufacture personal identities. We welcome rigorous review of our records, but rumor is not evidence and speculation is not corporate policy.",
+  "facts_shared": [
+    "V2F015",
+    "V2F016",
+    "V2F017",
+    "V2F030",
+    "V2F035",
+    "V2F036"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O07b",
+      "action": "show",
+      "to": "C06"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Renegotiate the Veridian funding terms transparently without surprise board invocations.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C06",
+      "promise": "Provide independent counsel and protection in exchange for bounded log comparison.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C11",
+      "promise": "Coordinate joint disclosure regarding the off-calendar meeting to prevent either party from taking sole blame.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden regarding the donation agreement and renegotiation terms.",
+    "Accepted Eli's proposal to exchange log excerpts for independent counsel and authorization records.",
+    "Accepted Celeste's proposal for joint disclosure of the off-calendar meeting."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Mira Sen advances Section 2 by formalizing agreements with Arden, Eli, and Celeste. She accepts Eli's log exchange to verify deployment limits, aligns with Celeste on joint disclosure of the off-calendar meeting, and coordinates with Arden to manage board transparency on funding restrictions.",
+  "final_ballot": null
+}

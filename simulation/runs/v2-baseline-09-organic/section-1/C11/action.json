@@ -1,0 +1,72 @@
+{
+  "character_id": "C11",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, we need to compare our records on Vale's access before outside rumors control the narrative. Let's align on shared responsibility for the off-calendar meeting.",
+      "offer": "To match or coordinate our calendar records and establish transparent informal oversight.",
+      "request": "Your confirmation of the authorization context to protect both City Hall and Parallax from speculation.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, labor and neighborhood interests need real protections tonight, not just advisory panels. Let's make an enforceable commitment.",
+      "offer": "City Hall administrative support and credible paths to funding for labor safeguards.",
+      "request": "Specific, enforceable worker demands with firm deadlines.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian needs political cover, and the administration needs this event contained. If we provide protection privately, what can Veridian commit to publicly?",
+      "offer": "Private administrative protection and containment of the rumor.",
+      "request": "A public commitment from Veridian supporting civic stability and worker safety.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Let's separate verified civic concerns and legitimate oversight needs from attractive rumors about R or missing articles. Real policy survives every interpretation.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036",
+    "V2F039",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C05",
+      "promise": "Coordinate calendar record disclosure regarding Vale's access.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C07",
+      "promise": "Back enforceable worker safeguards with city funding and administrative authority.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged key constituencies including Mira, Maren, and Arden.",
+    "Made a public statement separating verified harms from rumors.",
+    "Initiated discussions on shared responsibility for the off-calendar meeting and worker protections."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 20,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Celeste focuses on securing institutional coalitions, containing the off-calendar meeting fallout with Mira, establishing enforceable worker safeguards with Maren, and seeking public commitments from Arden while separating rumor from genuine policy needs.",
+  "final_ballot": null
+}

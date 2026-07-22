@@ -1,0 +1,73 @@
+{
+  "character_id": "C02",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's look at those intake files and expense records together. If my memory is going to be part of the Veridian archive, I need to know why the dates and locations don't line up cleanly.",
+      "offer": "Viewing of the First R Letter packet and my personal recollections of the early newsroom handoff.",
+      "request": "Full access to Veridian's archive intake report and conflicting expense records.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F002",
+        "V2F003"
+      ]
+    },
+    {
+      "with": "C08",
+      "say": "Edi, you performed a commissioned identity years ago that I once mistook for meeting R himself. Tell me frankly who commissioned that performance and what you were asked to embody.",
+      "offer": "My perspective as the editor who was taken in by your performance and our newsroom history.",
+      "request": "An honest account of who stood behind the commission and what cues you were given.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F010"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, you've tracked ledger records showing recurring private habits in early R communications. Let's compare your records with the habits I remember from the newsroom.",
+      "offer": "My firsthand observations of early R correspondence habits and the First R Letter packet.",
+      "request": "A comparison between your counter ledger records and my remembered routine.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R built a legend, but a legend isn't an archive. If we are going to honor what R became, we need to look at the actual letters, the expense sheets, and the messy human friction behind the byline rather than hiding behind polished corporate mythmaking.",
+  "facts_shared": [
+    "V2F001",
+    "V2F021"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O01",
+      "action": "show",
+      "to": "C01"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "I will share the First R Letter packet for archival review if Arden places the full intake report and expense record beside it.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden regarding archive intake records and expense provenance.",
+    "Approached Edi to unpack the commissioned performance and its origin.",
+    "Compared private habits and ledger records with Rafi."
+  ],
+  "beliefs": {
+    "one_human": 45,
+    "human_mantle": 30,
+    "synthetic_origin": 15,
+    "progressive": 10,
+    "article_existed": 35,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Frankie Lowell navigates Section 2 by addressing the uncomfortable gaps in the origin story: reviewing Veridian's intake and expense records with Arden, confronting Edi about the staged performance, and comparing recurring habits with Rafi to determine whether the legend can survive genuine scrutiny.",
+  "final_ballot": null
+}

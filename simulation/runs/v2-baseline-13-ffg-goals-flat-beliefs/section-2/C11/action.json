@@ -1,0 +1,63 @@
+{
+  "character_id": "C11",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the calendar recovery links us both to Vale's access. We need to align our disclosure terms before the administration absorbs all the risk.",
+      "offer": "I will share responsibility for the calendar recovery if you match my disclosure terms.",
+      "request": "Let us compare our authorization records to establish bounded, joint accountability.",
+      "fact_ids_shared": [
+        "V2F029"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, worker protections need enforcement mechanisms, not just rhetoric. Let us establish enforceable safeguards with explicit deadlines.",
+      "offer": "I can secure institutional funding and administrative backing for your labor demands.",
+      "request": "Give me one concrete neighborhood and worker demand with an enforceable deadline.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I arranged the access that may have touched Vale. I want to respect your privacy boundaries before any disclosures occur.",
+      "offer": "I can offer a firm privacy boundary regarding Vale's off-calendar meetings.",
+      "request": "Will you share context on Vale's motives so we can contain the rumor safely?",
+      "fact_ids_shared": [
+        "V2F029"
+      ]
+    }
+  ],
+  "public_statement": "Let us separate verified worker harms and actual policy needs from unverified rumors about articles and invisible threats.",
+  "facts_shared": [
+    "V2F029",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Secure institutional funding and administrative backing for enforceable labor protections.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Mira to coordinate calendar recovery and share responsibility.",
+    "Engaged Maren to establish enforceable worker safeguards and deadlines.",
+    "Contacted Samira to set privacy boundaries and discuss Vale's access context."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 45,
+    "vale_killed_by_ai": 55
+  },
+  "reasoning_summary": "In Section 2, Celeste Park coordinates with Mira Sen to align meeting record disclosures, negotiates enforceable labor guarantees with Maren Okafor, and discusses privacy boundaries with Samira Vale. Beliefs are adjusted slightly to reflect increased awareness of synthetic/mantle dynamics and Vale's fate.",
+  "final_ballot": null
+}

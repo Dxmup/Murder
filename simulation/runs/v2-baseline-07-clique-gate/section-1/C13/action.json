@@ -1,0 +1,47 @@
+{
+  "character_id": "C13",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, before anyone spins a story about succession, tell me what you actually asked Vale about how an uncontestable succession could be manufactured.",
+      "offer": "My context on Vale's prior safety pattern and habits",
+      "request": "The complete conversation around succession you had with Vale",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know Vale said R was no longer human. What evidence or logs did you share with Vale that made that seem possible, and what remains uncertain?",
+      "offer": "Corroboration that Vale made conflicting statements to different people",
+      "request": "A clear account of what technical material you showed Vale and its emotional impact",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, we need to set one strict boundary right now: no personal route detail enters your timeline without my explicit consent and an uncertainty label.",
+      "offer": "My recognition of familiar route elements and safety patterns",
+      "request": "Your proposed route details and agreement on uncertainty labels",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale is a person, not a plot device or a symbol for your theories. Stop manufacturing intimacy or certainty about an absence you refuse to understand.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "Correcting the false assumption that R's nature or Vale's absence can be reduced to a finished article or a clean narrative.",
+  "goal_progress": [
+    "Initiated conversation with Jules regarding succession",
+    "Approached Eli about the statement that R was no longer human",
+    "Set boundary with Morgan regarding personal route details"
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 25,
+    "synthetic_origin": 15,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "As Samira Vale, my focus in Section 1 is to confront Jules about the succession conversation, discuss technical implications with Eli, and set strict boundaries with Morgan regarding personal route details without surrendering my private envelope.",
+  "final_ballot": null
+}

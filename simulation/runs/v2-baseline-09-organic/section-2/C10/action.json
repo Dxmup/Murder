@@ -1,0 +1,54 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, we need to lock down our disclosure boundary on the camera audit before Morgan tries to pin the gap on us as a cover-up.",
+      "offer": "Exact service route timing and camera records context to support our aligned story.",
+      "request": "Accept our proposed disclosure boundary to protect the tenant without risking our pensions.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, your counter logs match some of our building delivery routines. Let's compare shift-change details to ensure we don't let outsiders invent a single customer or fictional suspect.",
+      "offer": "Building delivery rhythms and shift-change access practices.",
+      "request": "Clarify transaction timings on your counter records that overlap with our service exits.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    }
+  ],
+  "public_statement": "The camera audit notice indicates an ordinary maintenance gap, not a murder weapon. Let's stick to verifiable building records rather than dramatizing routine shift logs.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure of the camera gap to protect uninvolved residents.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Confirmed alignment with Inez regarding the camera gap disclosure boundary.",
+    "Compared shift-change and delivery timing details with Rafi.",
+    "Maintained clear separation between physical building access events and automated interventions."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Dee Nowak coordinates closely with Inez to protect the tenant involved in the camera gap, compares operational records with Rafi to prevent fabricated narratives, and firmly insists on distinguishing between routine physical access and automated system events.",
+  "final_ballot": null
+}

@@ -1,0 +1,71 @@
+{
+  "character_id": "C02",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's look at the archive. If your expense records conflict with my remembered handoff, let's put the First R Letter packet side by side with Veridian's intake report rather than letting folklore run the room.",
+      "offer": "Voluntary viewing of the First R Letter packet in my inventory.",
+      "request": "Place Veridian's intake report and expense record beside my letter packet for examination.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F021"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, ambition is fine, but that succession message leans hard on phrases from the First R Letter. Why should old-guard recognition be handed over without scrutinizing the provenance of your phrasing?",
+      "offer": "My comparison between the First R Letter's language and your succession message.",
+      "request": "Explain why your succession claim deserves recognition before asking for my blessing.",
+      "fact_ids_shared": [
+        "V2F010",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Tessa, you argue that celebrated bylines erase collective labor. I want to know specifically which parts of my old newsroom stories bulldozed the translators and assistants so I can face what we built.",
+      "offer": "My perspective on early newsroom history and the reality of bylines.",
+      "request": "Point out which parts of my retrospective accounts erased other people's work.",
+      "fact_ids_shared": [
+        "V2F013",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R is too long a run to mistake a good rewrite for gospel truth. If Vale is absent and the records clash, let's look at the documents we actually hold before crowning anyone's heir.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O01",
+      "action": "show",
+      "to": "C01"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Share the First R Letter packet for examination if Arden provides the intake report and expense record.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated conversation with Arden Bell to compare the First R Letter packet with Veridian's intake and expense records.",
+    "Challenged Jules Kwan on the provenance of the phrasing in the succession message.",
+    "Engaged Tessa Quill regarding the erasure of collective labor in old newsroom byline culture."
+  ],
+  "beliefs": {
+    "one_human": 60,
+    "human_mantle": 20,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Frankie Lowell enters Section 1 defending the human origin story of R while confronting the gaps in memory exposed by Vale's absence and conflicting records. By engaging Arden on archive records, Jules on succession language, and Tessa on collective labor, Frankie seeks to ground the legend in verifiable artifacts rather than pure myth.",
+  "final_ballot": null
+}

@@ -1,0 +1,60 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C10",
+      "say": "Dee, I accept your proposal to coordinate our disclosure boundary. We stick to the facts of working service routes and protect everyone from uncoordinated questioning.",
+      "offer": "Protection and context for the back room access without exposing building logs",
+      "request": "A unified front on the camera gap and service route use",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, your ledger and local side arrangements are your own. I support keeping customer identities and local history private from outside content-hunters.",
+      "offer": "Neighborhood support and solidarity against outside exploitation of your ledger",
+      "request": "Mutual commitment to protect local privacy and prevent outsiders from trading our history",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, if City Hall wants neighborhood legitimacy tonight, you need to put resource-sharing and witness protections in writing, not just in speeches.",
+      "offer": "Local coalition backing for City Hall's policy response",
+      "request": "Concrete policy commitments and enforcement terms hardcoded into your response",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "The neighborhood's service routes and ledgers are part of our everyday survival, not fodder for outside investigators or corporate PR. Any institution wanting our history must guarantee enforceable protections and resource-sharing in writing.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "Establish a shared disclosure boundary to protect local witnesses from uncoordinated questioning",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Protect customer privacy and local side arrangements regarding the ledger",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Dee's proposal to coordinate disclosure boundaries and protect local witnesses.",
+    "Aligned with Rafi to shield local customer privacy and ledger arrangements from outside exploitation.",
+    "Challenged City Hall (Celeste) to provide concrete, written resource-sharing and protection terms."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 2, Inez solidifies protective alliances with Dee and Rafi to shield local workers and witnesses from outside scrutiny, while pressing institutional representatives like Celeste for concrete written commitments.",
+  "final_ballot": null
+}

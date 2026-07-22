@@ -1,0 +1,76 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C10",
+      "say": "Dee, we need to stand firm on the camera gap boundary. I will help shield the building's access rhythms if you keep resident anonymity protected from Morgan's prying.",
+      "offer": "Neighborhood backing and aligned context on the back-room arrangement.",
+      "request": "Strict adherence to our shared disclosure boundary regarding the service exit.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, your ledger and our informal routes keep this neighborhood running. Let's lock in our confidentiality boundary so outsiders don't weaponize your records against our people.",
+      "offer": "Support and protection for the shop's informal customer arrangements.",
+      "request": "Agreement to keep counter records restricted until safety guarantees are met.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you want neighborhood witness accounts, you respect local fair-treatment terms first. No names or routes get dragged into your notes without explicit protection guarantees.",
+      "offer": "Introduction to trusted local context under strict discretion terms.",
+      "request": "Written assurance of witness risk protection and public correction if mischaracterized.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood infrastructure isn't here to supply raw data for corporate investigations. If you want answers about routes and rooms, you start by protecting the people who live here.",
+  "facts_shared": [
+    "V2F026",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "Coordinate disclosure of the camera interval to protect resident anonymity.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "To protect local customer privacy and keep informal arrangements confidential until safeguards are established.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C14",
+      "promise": "I will abide by Inez's fair-treatment terms and protect witness risk before publishing any neighborhood accounts.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Coordinated disclosure boundaries with Dee regarding the camera gap and tenant protection.",
+    "Aligned with Rafi to secure shop privacy and counter records against outside intrusion.",
+    "Established fair-treatment terms with Morgan before permitting neighborhood witness engagement."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 20,
+    "article_existed": 45,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez focused Section 2 on formalizing protective agreements with Dee and Rafi, accepting their proposed commitments to shield local infrastructure and resident privacy, while establishing strict fair-treatment terms with investigator Morgan.",
+  "final_ballot": null
+}

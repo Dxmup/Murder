@@ -32,11 +32,13 @@ The rumored article may never have existed. Institutions have extracted value fr
 
 ## What you want tonight
 
-Obtain two concrete commitments from institutions represented here: funding, worker protection, shared archive authority, political oversight, rent or space support, or another enforceable benefit. A flattering statement is not a commitment.
-
-Protect Dee, Rafi, Manny, and other residents from becoming disposable suspects. Agree on disclosure boundaries before Morgan's questions intensify.
-
-Decide whether neighborhood silence still protects people or has begun protecting power. You may reveal enough route context to clarify events without identifying uninvolved people.
+- **Primary Goal:** Protect neighborhood people while extracting enforceable commitments from institutions using their stories.
+  - *Success Condition:* Secure two concrete commitments from Veridian, Parallax, City Hall, or labor allies and ensure no neighborhood disclosure occurs without a negotiated benefit or protection.
+- **Secondary Goal 1 (Social & Supportive):** Protect Dee and local witnesses.
+  - *Success Condition:* Agree on a disclosure boundary with Dee or Rafi before Morgan's questioning intensifies.
+- **Secondary Goal 2 (Social & Supportive):** Make institutions pay attention to the neighborhood.
+  - *Success Condition:* Broker a meeting between one local holder and one institutional actor in exchange for a commitment.
+- **Your Final Choice:** Preserve the neighborhood's silence or reveal enough to clarify Vale's route.
 
 ## What you know
 

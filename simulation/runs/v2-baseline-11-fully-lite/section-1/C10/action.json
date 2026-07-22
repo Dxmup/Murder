@@ -1,0 +1,52 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management just flagged the unpreserved camera interval on the service exit. We need to talk before anyone tries to pin every unanswered question on us.",
+      "offer": "To tell you the complete reason behind the camera gap so we can agree on how to protect our tenant.",
+      "request": "Help me coordinate our response and ensure the unrelated secret stays protected without risking our jobs.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, I hear you're collecting accounts about the building routes and the audit notice. Before I say anything to you, I need to know what fair treatment and a bounded account mean for your report.",
+      "offer": "An operational account of the service routes once we agree on terms.",
+      "request": "A guarantee of resident anonymity and precise attribution before I open my records.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The service exit is part of ordinary building work, not a criminal tunnel. A camera gap and an automated system change are two separate things, and no one should mix them up into a false story.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "To coordinate our disclosure about the service route camera gap without naming uninvolved residents.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Inez to discuss the audit notice and camera gap before speaking with Morgan.",
+    "Engaged Morgan to demand a defensible hearing and resident protection before offering a bounded account."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Dee Nowak focuses on protecting the building's residents and her pension while managing the fallout from the flagged camera audit. She initiates private talks with Inez to align on the camera gap story and demands terms from Morgan before disclosing operational truths.",
+  "final_ballot": null
+}

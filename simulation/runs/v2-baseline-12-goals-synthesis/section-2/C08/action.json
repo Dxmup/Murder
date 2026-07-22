@@ -1,0 +1,64 @@
+{
+  "character_id": "C08",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, you mentioned the physical letter that started metro journalism fifteen years ago. When you encountered R, what specific sensory details or vocal nuances stuck with you? I want to know if what you heard matches the constraints of a managed performance.",
+      "offer": "My professional ear for distinguishing performed vocal art from spontaneous speech.",
+      "request": "Your precise, unvarnished memory of the encounter you attribute to R.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, regarding the payment route through the intermediary: I hold the commission card and memory of that transaction. Let's compare notes under strict confidentiality to see how performance fees fed into R's apparatus.",
+      "offer": "Inspection of my commission card O04 and firsthand memory of the payment routing.",
+      "request": "Your recognition of the intermediary entities handling R-associated funding.",
+      "fact_ids_shared": [
+        "V2F014"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, Parallax built infrastructure, but performance assets were ingested without universal consent. How do your corporate access logs account for third-party voice and presence data entering active systems?",
+      "offer": "Expertise in synthetic-media asset provenance and performer rights.",
+      "request": "Clarification on whether Parallax archives distinguish between consented rehearsal doubles and autonomous output.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "A performance is an act of collaboration, not an abdication of ownership. If your presence was staged, acknowledge the artist behind the file.",
+  "facts_shared": [
+    "V2F014"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O04",
+      "action": "show",
+      "to": "C04"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Maintain strict confidentiality regarding our comparison of payment intermediary routes and commission records.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Frankie Lowell on sensory memory of the R encounter.",
+    "Shared commission payment route data (V2F014) and showed commission card O04 to Jules Kwan under confidentiality.",
+    "Challenged Parallax records with Mira Sen regarding synthetic asset provenance."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 45,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Edi Velez pursues the provenance of the commissioned performance. By discussing memory with Frankie, showing the payment route and commission card O04 to Jules, and questioning Mira on system asset ingest, Edi seeks acknowledgment of performer ownership without exposing personal culpability prematurely.",
+  "final_ballot": null
+}

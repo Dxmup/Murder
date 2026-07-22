@@ -1,0 +1,97 @@
+{
+  "character_id": "C03",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, our disclosure boundary held. Let's make sure our final ballot and public statements honor collective labor without risking any worker.",
+      "offer": "Continued mutual defense of worker anonymity and collaborative evidence.",
+      "request": "Alignment on a protective final stance for the collective.",
+      "fact_ids_shared": [
+        "V2F041",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you committed to binding contributor protections and shared governance. We expect those guarantees to be honored now that the reconstruction is on the ballot.",
+      "offer": "Public recognition of governed collaborative frameworks.",
+      "request": "Strict adherence to contributor protection before any succession claim.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian must honor enforceable source safeguards and archive provenance terms for precarious workers as we close this anniversary.",
+      "offer": "Bounded workflow context from Night Desk records.",
+      "request": "Formal institutional backing for worker protection.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R was built by collaborative hands, shared drops, and rotating workflows. No individual byline or machine claim should turn working people into disposable suspects or erase collective labor.",
+  "facts_shared": [
+    "V2F018",
+    "V2F020",
+    "V2F035",
+    "V2F040",
+    "V2F041"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O02",
+      "action": "show",
+      "to": "C07"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary before discussing contributor details further.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C04",
+      "promise": "I will consult with contributors on governance before finalizing any claim to R.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured joint disclosure boundary with Maren to protect anonymous contributors.",
+    "Held Jules to governance and contributor protection commitments.",
+    "Pressed Arden and Veridian for concrete worker protection terms.",
+    "Completed final reconstruction ballot reflecting a human mantle of collaborative labor."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 75,
+    "synthetic_origin": 5,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Tessa concludes her participation by fulfilling her commitments to Maren and Jules, reaffirming the Night Desk's routing slip and collaborative workflows, and casting her final ballot for a human mantle sustained by collective labor.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F018",
+      "V2F020",
+      "V2F040",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032"
+    ]
+  }
+}

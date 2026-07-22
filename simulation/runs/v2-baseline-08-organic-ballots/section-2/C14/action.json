@@ -1,0 +1,60 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms. Let us review the ledger transaction continuity strip strictly for pattern matching, keeping customer identities completely protected.",
+      "offer": "A formal written commitment to protect customer privacy and restrict review strictly to transaction continuity.",
+      "request": "A bounded look at the transaction continuity strip near the former printing floor.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C10",
+      "say": "Dee, I understand management is trying to shift blame to you regarding the camera gap. I am committed to fair treatment and tenant anonymity in my report.",
+      "offer": "Protection of tenant anonymity and fair treatment in the investigative report.",
+      "request": "A bounded operational account of the camera audit context and service route.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I want to ensure my reconstruction of Vale's route respects your boundaries and explicitly labels every point of uncertainty.",
+      "offer": "My route board shown voluntarily with its uncertainty labels intact.",
+      "request": "Guidance on whether my current work helps find Vale or if any segment looks manipulated.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "As an investigator, I am examining voluntary accounts and preserving known uncertainties. No manufactured summary can replace physical reality or disciplined observation.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "Restrict ledger viewing to transaction patterns only, protecting customer privacy.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C14",
+      "promise": "I will coordinate with you on personal route details only if uncertainty remains explicitly labeled.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Rafi's privacy terms to review transaction continuity.",
+    "Engaged Dee regarding camera audit context under fair treatment terms.",
+    "Proposed clear uncertainty labeling in route coordination with Samira."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Morgan Shaw secures witness trust by accepting Rafi's privacy terms and offering fair treatment guarantees to Dee, while maintaining transparent uncertainty labeling on the route board.",
+  "final_ballot": null
+}

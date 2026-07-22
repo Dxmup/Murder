@@ -1,0 +1,70 @@
+{
+  "character_id": "C08",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, you mistook my performed presence for R years ago. Now that recent render outputs confirm elements of my commission were reused, let's acknowledge publicly that performance is not authorship.",
+      "offer": "My perspective on the distinction between performed identity and single authorship.",
+      "request": "Your public acknowledgment that the encounter you experienced was a commissioned performance.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F010",
+        "V2F019",
+        "V2F020"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Tessa, media render services confirm output activity during the gap using commission elements. As someone who tracks contributor availability, how do you separate remote action from local authorship?",
+      "offer": "Insight into how commissioned voice assets can be deployed across distributed infrastructure.",
+      "request": "Your assessment of contributor availability and render origin during the gap.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005",
+        "V2F019",
+        "V2F020"
+      ]
+    }
+  ],
+  "public_statement": "If a voice or presence is commissioned and performed, let's stop pretending the file or the encounter proves a singular human author behind the work. Performance is not authorship.",
+  "facts_shared": [
+    "V2F019",
+    "V2F020"
+  ],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Frankie on the reality of the old performed encounter versus singular authorship.",
+    "Discussed render outputs and contributor availability with Tessa.",
+    "Completed final ballot reflecting human mantle / collaborative production and independent investigation of Vale."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 45,
+    "synthetic_origin": 35,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Edi concludes the evening by confronting Frankie on the nature of the old performed encounter and discussing render outputs with Tessa. Edi's final ballot reflects the conviction that R was a distributed human mantle/collaborative production utilizing performed presence rather than a single author, and that Vale's disappearance involved investigation and outside intervention rather than AI murder.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F010",
+      "V2F014",
+      "V2F019"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

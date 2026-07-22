@@ -1,0 +1,68 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I need to know what boundaries make a timeline conversation possible. My client's trace has gaps, and I want to ensure my work helps find Vale rather than manufacturing a story.",
+      "offer": "My route board with uncertainty labels intact, separating observation from inference.",
+      "request": "Insight into Vale's strategic ambiguity when protecting sources or manipulating targets.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I'm looking for voluntary accounts of Vale entering the neighborhood. I want fair-treatment terms so residents don't hold all the risk.",
+      "offer": "Discretion and a willingness to acknowledge neighborhood knowledge rather than police authority.",
+      "request": "Introductions to local witnesses who can verify Vale's movements near the former printing floor.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I am tracking a specific time two days before the gathering near the former printing floor. What did you see around that time?",
+      "offer": "Careful separation of observation from inference in my route notes.",
+      "request": "Your local ledger or memory of transactions and movements in that area.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "I am an independent investigator reconstructing Vale's movements from voluntary accounts. Every claim must be tested against what was personally observed rather than assumed.",
+  "facts_shared": [
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To respect agreed conversational boundaries and avoid using intimate history without consent.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C16",
+      "promise": "To uphold fair-treatment terms and protect local sources from undue risk.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Samira Vale to establish timeline boundaries.",
+    "Contacted Inez Baptiste to discuss fair-treatment terms for local accounts.",
+    "Engaged Rafi Calder\u00f3n regarding specific timestamps near the former printing floor."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Initiated contact with Samira, Inez, and Rafi to cross-reference neighborhood sightings and establish ethical boundaries before addressing the contaminated client-supplied route segment.",
+  "final_ballot": null
+}

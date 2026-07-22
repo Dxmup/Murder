@@ -1,0 +1,50 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management just flagged our unpreserved camera interval. We need to talk before Morgan starts framing that gap as a crime scene.",
+      "offer": "Exact service route access practices and building rhythm details",
+      "request": "Agreement on how to disclose the unrelated tenant secret without endangering anyone",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, I hear you're collecting accounts on Vale's last route and our cameras. Before I say a word, what does fair treatment and a bounded account mean for my pension and my tenants?",
+      "offer": "A bounded operational account of the service exit and camera audit",
+      "request": "A explicit promise of resident anonymity and precise attribution before full disclosure",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate our disclosure boundary so neither of us names uninvolved residents",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Inez regarding the camera audit and agreed to coordinate disclosure boundaries.",
+    "Demanded fair treatment and bounded account definitions from Morgan before releasing records."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Dee Nowak is quiet, exact, and defensive of the building's maintenance workers and tenants. Faced with management's audit notice regarding the unpreserved camera interval (V2F026), Dee approaches Inez first to protect their informal community infrastructure and tenant privacy, and then engages Morgan to demand fair treatment and precise bounds before offering an operational account.",
+  "final_ballot": null
+}

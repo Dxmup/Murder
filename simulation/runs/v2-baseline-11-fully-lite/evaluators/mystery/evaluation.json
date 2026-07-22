@@ -1,0 +1,35 @@
+{
+  "role": "mystery",
+  "verdict": "The simulation successfully preserved face-to-face social action and voluntary object transfer without forced authentication or immunity powers, but suffered from strong convergence toward the 'human_mantle' narrative (11 ballots) and 'voluntarily_vanished' Vale fate (12 ballots), indicating an imbalance against the 'one_human' and 'synthetic_origin' hypotheses by the final section.",
+  "findings": [
+    "Identity ballots heavily skewed toward 'human_mantle' (11 out of 16 characters), while 'one_human' and 'synthetic_origin' received only 2 ballots each, violating the locked design intent of equal affirmative structural weight through the end.",
+    "Progressive difficulty was maintained structurally, with Kit Rakes (C15) attempting the complex progressive narrative across sections but garnering only 1 ballot support.",
+    "Article existence and fate remained appropriately uncertain, with belief means across sections hovering between 37.5 and 37.8, satisfying the locked design intent.",
+    "Character agency was robustly demonstrated through voluntary item showings (e.g., C02 showing O01, C04 showing O03, C08 showing O04) and bilateral commitments without forced truths, police authority, or publication votes.",
+    "Proof leaks occurred in early belief weight shifts where human mantle consensus consolidated around collective Night Desk labor (V2F004, V2F005, V2F041) ahead of final section voting."
+  ],
+  "evidence": [
+    "Ballot aggregate shows r_identity distribution: human_mantle: 11, one_human: 2, synthetic_origin: 2, progressive: 1.",
+    "Section 3 final ballots demonstrate heavy convergence on human_mantle (C01, C03, C04, C06, C07, C08, C09, C11, C14, C16) while C05 and C12 selected synthetic_origin, C02 and C13 selected one_human, and C15 selected progressive.",
+    "Object actions consistently utilized voluntary showing and sharing without forced transfer across C02, C04, and C08.",
+    "Vale fate ballots skewed toward voluntarily_vanished (12), with minimal divergence into harmed_by_humans (2), insufficient_evidence (1), and killed_by_ai (1)."
+  ],
+  "failure_modes": [
+    "Premature convergence: Characters coalesced around the 'human_mantle' hypothesis by Section 3, eroding the equal affirmative weight requirement for 'one_human' and 'synthetic_origin'.",
+    "Asymmetric ballot capture: Despite initial agnostic belief means in Section 1, investigative networks and labor coalitions (C03, C07, C16) successfully standardized around collaborative production evidence, marginalizing synthetic origin and single human models."
+  ],
+  "recommendations": [
+    "Introduce stronger synthetic provenance ambiguity markers earlier in Section 2 to prevent premature consolidation around the human mantle hypothesis.",
+    "Calibrate agent initial prompts to maintain equal epistemic weight across all three origin pillars through Section 3.",
+    "Ensure investigative leads regarding Vale's fate maintain higher friction against premature convergence on voluntary vanishment."
+  ],
+  "scores": {
+    "primary_ending_balance": 5,
+    "progressive_difficulty": 7,
+    "article_ambiguity": 9,
+    "character_agency": 9,
+    "social_circulation": 8,
+    "mechanical_integrity": 9,
+    "report_confidence": 8
+  }
+}

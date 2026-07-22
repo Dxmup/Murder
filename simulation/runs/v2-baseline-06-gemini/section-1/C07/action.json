@@ -1,0 +1,63 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need a shared boundary on workflow evidence. Let's agree on a sentence describing collaborative labor that names no contributor before any details circulate.",
+      "offer": "Organizing support and editorial boundary partnership from the Night Desk alliance",
+      "request": "A formal agreement on contributor anonymity and non-identifying workflow language",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm must be addressed independently of R's identity or whether an article existed. I will discuss bounded evaluator testimony only after you commit to a remedy that exists unconditionally.",
+      "offer": "Bounded collaborative labor context from evaluators",
+      "request": "An unconditional institutional commitment to worker protection and remedies independent of the mystery outcome",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, institutions are trying to turn witnesses and evaluators into suspect data. We need to coordinate protections for contractors and people near physical routes before names are demanded.",
+      "offer": "Coalition organizing support and shared neighborhood witness protection protocols",
+      "request": "Coordination on defensive protections for vulnerable community members and workers",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Real worker harm does not become imaginary if an article was a rumor or R was a machine. No remedy should be conditioned on proving R's identity or sacrificing anonymous workers as evidence.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Propose a shared non-identifying description of collaborative labor and protect contributor anonymity",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated boundary discussion with Tessa regarding contributor anonymity",
+    "Demanded unconditional institutional remedy from Mira",
+    "Began coordination with Inez on worker and neighborhood protections"
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Maren Okafor prioritizes worker safety and secure anonymity above mystery speculation. In Section 1, she engages Tessa Quill to establish safe workflow language, challenges Mira Sen for unconditional remedies, and coordinates with Inez Baptiste to protect vulnerable sources.",
+  "final_ballot": null
+}

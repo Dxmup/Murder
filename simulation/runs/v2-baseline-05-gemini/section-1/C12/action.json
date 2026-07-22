@@ -1,0 +1,66 @@
+{
+  "character_id": "C12",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's stop pretending your panic or my position changes the market facts. What kind of public reaction or regulatory filing from Veridian would justify a financial pledge from my end?",
+      "offer": "Market reach and financial research support",
+      "request": "Transparent acknowledgment of Parallax's current vulnerability",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C15",
+      "say": "Kit, your grand theory is electric, but let's look at the plumbing. Which part of your narrative actually rests on verified evidence rather than repeating the same rumor?",
+      "offer": "Platform amplification and visibility for visible corrections",
+      "request": "Identify the exact evidentiary baseline of your R theory",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I have two separate propositions for you: one settling your ledger debt outright, another for bounded ledger access. No strings on your conclusions.",
+      "offer": "Debt settlement or financial compensation for research access",
+      "request": "Bounded ledger pattern access without manufactured certainty",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of R is a fantastic anniversary for market liquidity, but let's be adults: nobody has produced a complete article, yet Parallax shares are reacting to the sheer weight of what we all want to believe.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Propose financial support if Veridian provides a transparent assessment of market impact.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden Bell regarding public reaction and financial positioning.",
+    "Challenged Kit Rakes to separate evidence from rumor repetition.",
+    "Approached Rafi Calder\u00f3n with distinct offers for debt settlement and ledger access."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 10,
+    "synthetic_origin": 50,
+    "progressive": 20,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Graham Pike focuses on testing rumor provenance and exploring market reactions. Engaged Arden on political/market vulnerability, Kit on evidentiary support versus repetition, and Rafi on ledger access without buying fake certainty.",
+  "final_ballot": null
+}

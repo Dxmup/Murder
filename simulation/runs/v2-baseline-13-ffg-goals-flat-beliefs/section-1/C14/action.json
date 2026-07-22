@@ -1,0 +1,62 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I'm working to reconstruct Vale's last movements. What boundaries would make a timeline conversation possible without compromising your perspective?",
+      "offer": "I can share our route board's verified and disputed segments with their uncertainty labels intact.",
+      "request": "A voluntary account of Vale's mindset before disappearing and whether Vale planned to vanish.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I'm an investigator looking into Vale's presence near the former printing floor. I want voluntary accounts and invite you to name fair-treatment terms.",
+      "offer": "Discretion and a guarantee that observations will be separated from inferences.",
+      "request": "Local context regarding who was near the former printing floor two days before the gathering.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I am looking into a specific time and place regarding Vale's transit near the neighborhood. What do you remember about transactions or sightings there?",
+      "offer": "Careful separation of observation from rumor in our notes.",
+      "request": "Narrow transactional or local memory from two days before the gathering.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "If we are examining Vale's final movements and R's history, we need to separate verified traces from manufactured summaries. I am open to discussing the route board with anyone willing to share ground-level observations.",
+  "facts_shared": [
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C13",
+      "promise": "To keep all shared details regarding Vale's personal history strictly private unless mutual consent is given.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Samira Vale regarding timeline boundaries.",
+    "Approached Inez Baptiste to establish fair-treatment terms for neighborhood context.",
+    "Engaged Rafi Calder\u00f3n with a narrow time and place inquiry."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "As Morgan Shaw, my priorities in Section 1 are patient, discreet inquiry. I have approached Samira to understand boundaries, Inez to establish fair terms for neighborhood access, and Rafi with a narrow time-and-place query. My beliefs are flatly distributed at 25% across all categories as required, and I have initiated a private proposal with Samira.",
+  "final_ballot": null
+}

@@ -1,0 +1,63 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, thanks for meeting. The audit interval flag is real. We need to lock down our disclosure boundary so we don't accidentally throw any innocent tenant under the bus.",
+      "offer": "Exact building shift records and access practices.",
+      "request": "Acceptance of our coordinated disclosure boundary to protect resident anonymity.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's compare our shift notes and package logs. People are trying to tie routine service exits to something sinister, and we need our timeline straight.",
+      "offer": "Service exit timing observations and shift-change details.",
+      "request": "Your verification of the bodega collection patterns against our delivery records.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, regarding your request for my account: do you agree to strict resident anonymity and fair treatment in your report before I hand over operational details?",
+      "offer": "A bounded operational account of the service exit and audit context.",
+      "request": "A firm commitment to fair treatment and protection of uninvolved tenants.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The service exit was used during an unpreserved camera interval, and an automated access change occurred separately later. Technical equipment gaps and routine building access do not automatically equal malice or murder.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundaries regarding the camera interval and protect tenant anonymity.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Met with Inez to discuss the audit flag and coordinate the disclosure boundary.",
+    "Compared shift notes and delivery patterns with Rafi.",
+    "Pressed Morgan on fair treatment and resident anonymity terms before releasing records."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 20,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Dee Nowak coordinates with Inez to protect tenant anonymity regarding the unpreserved camera interval, compares records with Rafi to clarify routine service exits, and negotiates terms with Morgan for a bounded operational account.",
+  "final_ballot": null
+}

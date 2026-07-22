@@ -1,0 +1,87 @@
+{
+  "character_id": "C07",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, let's ensure our joint disclosure boundary holds firm as the room finalizes its conclusions. We must protect all evaluators from being used as evidence or suspects.",
+      "offer": "Continued adherence to strict Night Desk contributor protection and bounded workflow descriptions",
+      "request": "Public reaffirmation of our shared boundary protecting evaluator anonymity",
+      "fact_ids_shared": [
+        "V2F041",
+        "V2F004"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, before the final ballot is cast, Veridian and corporate leadership must commit in writing to unconditional worker compensation and independent audit rights that do not depend on R's identity.",
+      "offer": "Bounded worker testimony and institutional legitimacy without compromising source safety",
+      "request": "A binding, unconditional institutional commitment to worker compensation and audit rights",
+      "fact_ids_shared": [
+        "V2F036",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, our coalition must stand united to ensure neighborhood witnesses and contractors are fully safeguarded against institutional panic and scapegoating.",
+      "offer": "Solidarity and joint political pressure for community protections",
+      "request": "Mutual commitment to enforce community and worker safeguards in the final outcome",
+      "fact_ids_shared": [
+        "V2F041",
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "Real worker harm and invisible labor matter whether or not an article existed and regardless of R's identity. Any valid remedy must protect workers independently of the mystery.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "We will only share bounded workflow descriptions that name no contributor or evaluator.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C16",
+      "promise": "Coordinate neighborhood and worker protection terms before engaging with Arden or Celeste",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Reaffirmed disclosure boundary with Tessa to protect evaluator anonymity.",
+    "Demanded unconditional institutional worker compensation and audit rights from Mira.",
+    "Solidified coalition alignment with Inez to protect neighborhood witnesses and contractors.",
+    "Completed final ballot reflecting human mantle and systemic worker harm."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 50,
+    "synthetic_origin": 15,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 3, I finalized my conversations with Tessa, Mira, and Inez to secure enforceable worker protections and maintain strict contributor anonymity. On the ballot, I voted for 'human_mantle' supported by collaborative labor and workflow records (V2F004, V2F005, V2F041), recognizing that R functioned as a persistent persona sustained by shifting human supervisors and workers over time. For Vale, I selected 'investigating_r' and 'harmed_by_humans' based on Vale's inquiries and the neighborhood route gap.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F035",
+      "V2F041"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "harmed_by_humans",
+    "vale_evidence": [
+      "V2F025",
+      "V2F028",
+      "V2F032"
+    ]
+  }
+}

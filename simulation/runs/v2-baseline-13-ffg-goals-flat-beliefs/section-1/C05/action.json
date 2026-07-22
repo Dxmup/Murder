@@ -1,0 +1,64 @@
+{
+  "character_id": "C05",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, we need to discuss whether our funding agreement can survive public scrutiny without concealing the terms we established.",
+      "offer": "Continued financial support for Veridian under renegotiated, transparent terms.",
+      "request": "Honesty regarding what the board knows about our agreement conditions.",
+      "fact_ids_shared": [
+        "V2F030"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know logs were preserved after deletion orders. Let us review them with independent counsel so we both understand our exposure.",
+      "offer": "Independent counsel and protection in exchange for comparing log excerpts with my authorization record.",
+      "request": "Comparison of your preserved log excerpts with my authorization record.",
+      "fact_ids_shared": [
+        "V2F015",
+        "V2F017"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, worker evaluations matter regardless of R's existence. Let us establish a concrete remedy independent of any rumors.",
+      "offer": "Material worker remedies and independent structural review.",
+      "request": "A concrete proposal for worker support that remains valuable without R.",
+      "fact_ids_shared": [
+        "V2F038"
+      ]
+    }
+  ],
+  "public_statement": "Parallax built infrastructure for civic benefit, not autonomous manipulation. We welcome scrutiny based on records, not rumors.",
+  "facts_shared": [
+    "V2F030",
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Negotiate transparent terms for Veridian's funding rather than enforcing silence.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Arden regarding the funding agreement.",
+    "Proposed independent review terms to Eli regarding preserved logs.",
+    "Offered concrete worker remedy discussions to Maren."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "In Section 1, Dr. Mira Sen addresses her primary and secondary goals by initiating private conversations with Arden (C01) regarding funding terms, Eli (C06) regarding preserved logs and authorization records, and Maren (C07) regarding independent worker remedies. Beliefs are initialized to flat distributions as mandated for Section 1.",
+  "final_ballot": null
+}

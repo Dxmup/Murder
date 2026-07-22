@@ -1,0 +1,72 @@
+{
+  "character_id": "C02",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's stop playing cat-and-mouse with history. I brought the First R Letter packet right here. I want to see your Veridian intake report and that expense record side-by-side with it.",
+      "offer": "Voluntary viewing of the First R Letter packet.",
+      "request": "The full, qualified record including your intake report and expense entry.",
+      "fact_ids_shared": [
+        "V2F001",
+        "V2F021"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, ambition is a fine headline, but let's see if your succession message holds water. Have you actually inspected what you're inheriting, or are you just polishing the byline?",
+      "offer": "My comparison between the letter's language and your message.",
+      "request": "An explanation of why succession deserves recognition without first asking for a blessing.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Tessa, you've always argued that celebrated bylines erase collective labor. I want to know directly which parts of my old newsroom stories trampled on the people in the trenches.",
+      "offer": "Early newsroom history and my perspective on R's emergence.",
+      "request": "Your honest critique of how my old stories erased other people's work.",
+      "fact_ids_shared": [
+        "V2F013",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years ago, we didn't just publish an article; we recognized a voice that cut through the noise of this city. If we're going to talk legacy tonight, let's look at the actual records instead of recycling cocktail-hour folklore.",
+  "facts_shared": [
+    "V2F001",
+    "V2F040"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O01",
+      "action": "show",
+      "to": "C01"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "I will share the First R Letter packet for your inspection if you place your intake report and expense record beside it.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Asked Arden to examine the letter packet alongside Veridian's intake report and expense record.",
+    "Invited Jules to explain succession and defend the message's provenance.",
+    "Engaged Tessa regarding collective labor versus individual bylines in the newsroom history."
+  ],
+  "beliefs": {
+    "one_human": 50,
+    "human_mantle": 20,
+    "synthetic_origin": 20,
+    "progressive": 10,
+    "article_existed": 60,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Initiated targeted conversations with Arden, Jules, and Tessa to challenge records, test succession claims, and confront newsroom history. Displayed the First R Letter packet to Arden in exchange for archival transparency.",
+  "final_ballot": null
+}

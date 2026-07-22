@@ -1,0 +1,70 @@
+{
+  "character_id": "C03",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, let's lock in our disclosure boundary: we protect contributor anonymity and share only bounded workflow descriptions that name no evaluator.",
+      "offer": "My routing slip context and firsthand collaboration records to substantiate collective labor without exposure.",
+      "request": "Formal acceptance of our joint disclosure boundary.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F005",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, private succession is unacceptable if contributors become disposable scenery. What concrete rights and protections do they retain?",
+      "offer": "Conditional support for your succession if guardrails and contributor protections are formally met.",
+      "request": "A binding statement on how you will protect anonymous laborers.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, your technical logs cannot establish autonomous intent or authorship. Let's exchange boundaries, not names, regarding the activity gap.",
+      "offer": "Contributor schedule comparison boundaries.",
+      "request": "A clear statement of what system logs and activity gaps actually cannot prove.",
+      "fact_ids_shared": [
+        "V2F016",
+        "V2F018",
+        "V2F020"
+      ]
+    }
+  ],
+  "public_statement": "Collective infrastructure sustained fifteen years of R. We demand enforceably secure boundaries that protect workers before any names or routing slips are weaponized.",
+  "facts_shared": [
+    "V2F004",
+    "V2F005",
+    "V2F018",
+    "V2F020"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary to protect vulnerable contributors from being treated as R suspects.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Correcting the assumption that activity gaps or workflow overlaps in system logs prove individual authorship or autonomous intent.",
+  "goal_progress": [
+    "Confirmed strict contributor disclosure boundary with Maren.",
+    "Challenged Jules on succession guardrails and contributor rights.",
+    "Engaged Eli to clarify the limits of activity gap logs."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 65,
+    "synthetic_origin": 10,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Tessa solidified her alliance with Maren on disclosure boundaries, pressed Jules on contributor protections, and coordinated with Eli to ensure technical logs are not weaponized against anonymous laborers.",
+  "final_ballot": null
+}

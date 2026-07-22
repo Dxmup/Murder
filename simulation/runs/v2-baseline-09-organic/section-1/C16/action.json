@@ -1,0 +1,69 @@
+{
+  "character_id": "C16",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, outside investigators are sniffing around the service route and making people nervous. We need to coordinate worker and contractor protections before Veridian trades away our local infrastructure.",
+      "offer": "Neighborhood contractor and courier context",
+      "request": "Joint worker and neighborhood protection terms",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I received word that outsiders are offering cash for names attached to the service exit. You, Dee, and Manny need to stay tight so nobody turns our infrastructure into their scapegoat.",
+      "offer": "Early warning on outside scrutiny regarding the service route",
+      "request": "Agreement on a shared boundary before speaking to investigators",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, if Veridian wants neighborhood legitimacy for this anniversary, words and photographs won't cut it. What concrete, enforceable commitments are you putting in writing tonight?",
+      "offer": "Neighborhood participation in Veridian's future",
+      "request": "Written and enforceable institutional commitments",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood provides the labor, storage, and routes that keep this building alive. If institutions want a manageable story tonight, they can start by guaranteeing protection and shared authority for the people who actually run the block.",
+  "facts_shared": [
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Coordinate neighborhood and contractor protection against outside investigator pressure",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C09",
+      "promise": "Establish a shared boundary to protect Dee, Rafi, and Manny from being scapegoated over the service route",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Maren to coordinate worker and neighborhood protections.",
+    "Warned Rafi about outside inquiries into the service route and proposed a shared boundary.",
+    "Challenged Arden to provide concrete written commitments rather than empty PR."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "As Inez Baptiste, my priority is protecting neighborhood residents (Dee, Rafi, Manny, Maren's workers) from outside scapegoating while extracting concrete commitments from institutions like Veridian. I initiated conversations with Maren, Rafi, and Arden to set protective boundaries and demand written concessions before any disclosures are made.",
+  "final_ballot": null
+}

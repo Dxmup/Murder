@@ -1,0 +1,47 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I need to understand what boundaries would make a conversation about Vale's movements possible without compromising your trust.",
+      "offer": "I can share my route board with its uncertainty labels intact and respect your intimate history.",
+      "request": "Tell me if my current work helps find Vale or if any segment looks manipulated.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I am looking for voluntary neighborhood accounts. Name your fair-treatment terms so I can ensure local residents are not left holding the risk.",
+      "offer": "Discretion, anonymous source protection, and strict separation of observation from inference.",
+      "request": "Introduction to neighborhood witnesses who remember Vale near the printing floor.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I have a narrow time and place to check. What do you recall about transactions or sightings near the former printing floor two days before the gathering?",
+      "offer": "A careful comparison of timeline observations and local context.",
+      "request": "Your ledger or specific local memory from that exact window.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "I am an investigator reconstructing Vale's movements from voluntary accounts. Every lead must be verified against physical reality, and no neat summary replaces observed facts.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Approached Samira to establish timeline boundaries and discuss engagement terms.",
+    "Invited Inez to name fair-treatment terms for neighborhood witness accounts.",
+    "Questioned Rafi about a narrow time and place near the former printing floor."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "In Section 1, Morgan Shaw establishes preliminary contacts with Samira, Inez, and Rafi to set boundaries, secure local trust, and test transit leads without exposing the client's manufactured segment yet.",
+  "final_ballot": null
+}

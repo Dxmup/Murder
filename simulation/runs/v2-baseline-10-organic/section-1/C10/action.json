@@ -1,0 +1,66 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management flagged our unpreserved camera interval from the audit. We need to align on how we explain the gap without exposing anyone or making me the scapegoat.",
+      "offer": "Exact building rhythms and shift access context.",
+      "request": "Help coordinate our disclosure boundary before speaking with Morgan.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's compare our shift-change logs and delivery records so we don't let anyone pin separate automated events on our building operations.",
+      "offer": "Building route access and service timing notes.",
+      "request": "Corroborate our shift change details without inventing a single customer.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, before I give you any bounded account of the service route or the camera audit, I need a clear commitment on fair treatment and resident anonymity.",
+      "offer": "A bounded operational account of the service access.",
+      "request": "A explicit promise of fair treatment and precise attribution in your report.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The camera gap and automated access changes are separate physical and system events. Do not let anyone collapse them into a single fictional murder story.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundaries regarding the camera interval without exposing uninvolved residents.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C14",
+      "promise": "Provide a bounded account of building service access in exchange for fair treatment and protection.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Inez regarding the camera interval audit.",
+    "Engaged Rafi on shift-change and route observations.",
+    "Demanded fair treatment and bounded scope from Morgan before disclosure."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Dee Nowak focuses on protecting the building's pension and residents while addressing the management audit notice regarding the unpreserved camera interval. Conversations initiated with Inez and Rafi establish safe disclosure boundaries, while the exchange with Morgan sets preconditions for sharing operational facts.",
+  "final_ballot": null
+}

@@ -1,0 +1,71 @@
+{
+  "character_id": "C04",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I acknowledge that my message borrows phrasing from the first letter\u2014that exact parallel is why I am opening it to examination. True lineage requires accountability, not mimicry.",
+      "offer": "My comparison between the First R Letter's language and my succession message.",
+      "request": "Your perspective on whether old-guard lineage can embrace a structured, accountable succession.",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F021"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Tessa, your point about collective labor is crucial. Under my succession, contributors will retain governance rights and veto power over how the archive and mantle are used.",
+      "offer": "Clear governance terms and contributor protections under any future claim.",
+      "request": "Your support or guidance on what formal guarantees contributors need to make succession tolerable.",
+      "fact_ids_shared": [
+        "V2F004",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I won't hide our prior conversation about how succession could be manufactured. I asked because I wanted to understand if legitimacy could be built under uncertainty. Let's look at Vale's words together.",
+      "offer": "My full account and correspondence regarding the pre-message conversation about succession.",
+      "request": "Your context on Vale's prior pattern and what Vale meant by taking the name back.",
+      "fact_ids_shared": [
+        "V2F009"
+      ]
+    }
+  ],
+  "public_statement": "Succession without transparency is just branding. I welcome every question about the message's origin and my own ambition.",
+  "facts_shared": [
+    "V2F040",
+    "V2F009"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O03",
+      "action": "show",
+      "to": "C02"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "I commit to establishing contributor oversight and governance protections before formalizing any claim to R.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Frankie Lowell on message lineage and institutional responsibility.",
+    "Discussed contributor rights and governance terms with Tessa Quill.",
+    "Addressed the pre-message succession conversation openly with Samira Vale."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 25,
+    "progressive": 15,
+    "article_existed": 30,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "As Jules Kwan, I am actively engaging Frankie on lineage, Tessa on collective governance, and Samira on the uncomfortable reality of our pre-message conversation. By showing the succession message printout and addressing criticisms head-on, I aim to establish a defensible, transparent claim rather than relying on unexamined assertions.",
+  "final_ballot": null
+}

@@ -1,0 +1,66 @@
+{
+  "character_id": "C05",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, our funding agreement included clear terms regarding unauthenticated claims. Concealing that from the board created unnecessary exposure for Veridian and Parallax alike.",
+      "offer": "Support for renegotiating public terms and maintaining Veridian's baseline operations.",
+      "request": "A joint, transparent approach to our funding conditions rather than defensive surprises.",
+      "fact_ids_shared": [
+        "V2F030",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know logs were preserved following the deletion order. We need to compare your record with my authorization bounds to establish what actually occurred.",
+      "offer": "Independent legal counsel and protection for a bounded comparison of log excerpts.",
+      "request": "Comparison of your preserved log excerpt with my parent authorization record.",
+      "fact_ids_shared": [
+        "V2F015",
+        "V2F017"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, workers should not bear the reputational cost of automated evaluation outputs. I want to offer a tangible remedy that remains valid regardless of R rumors.",
+      "offer": "Enforceable policy, audit rights, and compensation independent of any mystery outcome.",
+      "request": "Your perspective on what worker safeguards would be genuinely valuable tonight.",
+      "fact_ids_shared": [
+        "V2F036",
+        "V2F038"
+      ]
+    }
+  ],
+  "public_statement": "Parallax built infrastructure to empower civic institutions, not to author anonymous personas. Rumor must not substitute for authenticated technical records.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C06",
+      "promise": "Provide independent counsel and a bounded comparison window for log review.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden regarding the donation agreement terms and board transparency.",
+    "Offered Eli independent counsel in exchange for comparing log excerpts with authorization records.",
+    "Proposed tangible worker remedies to Maren independent of R rumors."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 40,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Dr. Mira Sen initiated conversations with Arden Bell to address the concealed funding restriction, Eli Navarro to secure log comparisons with legal protection, and Maren Okafor to establish concrete worker remedies. Publicly, Mira anchored the discussion on verifiable records rather than speculative rumors.",
+  "final_ballot": null
+}

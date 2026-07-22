@@ -1,0 +1,78 @@
+{
+  "character_id": "C03",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, our disclosure boundary holds firm: we protect contributor anonymity and reject any narrative that turns collective labor into suspect lists.",
+      "offer": "Firsthand corroboration of collaborative Night Desk workflow and protective boundaries",
+      "request": "Joint public stand upholding worker protection and rejecting unverified claims",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian's archives must respect source protection. We offer our routing slip context only under strict enforceable safeguards for workers.",
+      "offer": "Bounded workflow evidence from our collective routing slip",
+      "request": "Formal institutional commitment to source protection and worker anonymity",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C04",
+      "say": "Jules, succession without explicit enforceable protections for anonymous labor is unacceptable. Will you guarantee contributor rights?",
+      "offer": "Support under strict witnessed conditions of contributor protection and disclosure",
+      "request": "A binding commitment to protect Night Desk labor and maintain transparency",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "The Night Desk's routing slip proves collaborative production, not a single author. Protecting anonymous labor and ensuring enforceable source safeguards are non-negotiable.",
+  "facts_shared": [
+    "V2F035",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary to protect vulnerable contributors before releasing routing details.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Corrected the false assumption that shared drop intervals or routing slips identify single authors or establish an exclusive R origin.",
+  "goal_progress": [
+    "Finalized disclosure boundaries with Maren to protect worker anonymity.",
+    "Pressed Arden for formal source-protection commitments in exchange for workflow evidence.",
+    "Challenged Jules on succession obligations toward collective labor.",
+    "Completed final reconstruction and ballot reflecting human mantle and collaborative reality."
+  ],
+  "beliefs": {
+    "one_human": 10,
+    "human_mantle": 75,
+    "synthetic_origin": 5,
+    "progressive": 10,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Tessa concludes her engagement by securing worker protection boundaries with Maren, demanding institutional source safeguards from Arden, and casting her final ballot for a human mantle based on empirical collaborative labor and the Night Desk routing records.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F035",
+      "V2F040"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F032",
+      "V2F034"
+    ]
+  }
+}

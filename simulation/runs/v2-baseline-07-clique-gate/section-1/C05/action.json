@@ -1,0 +1,73 @@
+{
+  "character_id": "C05",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, concealing the donation restriction from Veridian's board creates unnecessary vulnerability for both of us. Can this agreement survive public qualification and renegotiation?",
+      "offer": "Continued support and renegotiation terms for Veridian",
+      "request": "A joint, defensible public stance on the funding conditions",
+      "fact_ids_shared": [
+        "V2F030"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know you preserved logs after the deletion order. Let us compare one log excerpt with my parent authorization record so we understand the exact boundaries of what occurred.",
+      "offer": "Independent counsel and protection in exchange for a bounded comparison",
+      "request": "One log excerpt from your preserved records",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, we need to address real worker harm regardless of rumors or articles. What enforceable remedy\u2014audit rights, legal support, or compensation\u2014would genuinely matter to you tomorrow?",
+      "offer": "Material worker remedies and independent audit rights",
+      "request": "Your independent assessment of a valuable remedy",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Parallax built capability to support civic infrastructure, but capability is not proof of authorship or control over R. We are committed to transparency, examining the authorization record honestly, and addressing worker concerns directly.",
+  "facts_shared": [
+    "V2F035",
+    "V2F036",
+    "V2F039",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C06",
+      "promise": "Provide independent counsel and protection in exchange for comparing log excerpts with authorization records.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C07",
+      "promise": "Establish an enforceable policy and material worker remedy independent of mystery claims.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Consulted Arden regarding the donation agreement restriction and public position.",
+    "Proposed independent counsel and log comparison to Eli.",
+    "Asked Maren for an independent worker remedy that remains valuable under any outcome."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "As Dr. Mira Sen, I initiated conversations with Arden to address the concealed board restriction, Eli to secure a bounded log comparison, and Maren to discuss concrete worker remedies. Beliefs are distributed as uncertainty remains high regarding R's true nature and the rumored article.",
+  "final_ballot": null
+}

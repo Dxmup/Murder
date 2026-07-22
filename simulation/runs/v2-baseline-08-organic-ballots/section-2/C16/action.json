@@ -1,0 +1,86 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, Veridian's participation terms must include tangible funding and shared archive authority, not just decorative approvals.",
+      "offer": "Neighborhood participation and collaboration on Veridian's historical archives",
+      "request": "Put concrete neighborhood participation terms and material support in writing",
+      "fact_ids_shared": [
+        "V2F042",
+        "V2F044"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, City Hall needs to back our community demands with real deadlines and enforceable municipal oversight, or we walk.",
+      "offer": "Local neighborhood credibility and structured participation",
+      "request": "Enforceable neighborhood oversight protections with municipal backing",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, let's keep our coalition airtight so neither contractors nor witnesses take the fall for institutional panic.",
+      "offer": "Joint coalition pressure and advocacy for exposed community members",
+      "request": "Mutual alignment on safeguarding witnesses before speaking",
+      "fact_ids_shared": [
+        "V2F041",
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "If Veridian and City Hall want our neighborhood's history, they must put durable community commitments and worker protections in writing.",
+  "facts_shared": [
+    "V2F040",
+    "V2F041",
+    "V2F042",
+    "V2F044"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Incorporate concrete neighborhood participation terms into Veridian's upcoming programmatic commitments.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Do not disclose bodega customer identifiers without prior neighborhood consensus.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C10",
+      "promise": "Coordinate disclosure boundaries for the camera gap to protect building residents",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C11",
+      "promise": "Deliver enforceable neighborhood oversight protections with municipal backing.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden and Celeste to demand concrete, written institutional commitments for neighborhood archives and municipal oversight.",
+    "Accepted and reinforced commitments with Rafi and Dee to protect local residents and maintain disclosure boundaries.",
+    "Coordinated with Maren to ensure worker and witness protections remain solid against outside scrutiny."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 45,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 2, Inez focuses on locking down concrete institutional commitments from Veridian (Arden) and City Hall (Celeste) while solidifying protective boundaries with neighborhood allies (Dee, Rafi, Maren) to prevent residents from becoming disposable suspects.",
+  "final_ballot": null
+}

@@ -1,0 +1,76 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C10",
+      "say": "Dee, let's keep our stories straight about the service exit camera gap. We protect our tenants and workers first, before anyone tries to pin anything on us.",
+      "offer": "My backing on a unified explanation for the service exit camera gap.",
+      "request": "Agreement to coordinate our response without exposing uninvolved residents.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, advisory committees without teeth are useless. If City Hall wants neighborhood credibility, we need enforceable protections written into municipal procurement.",
+      "offer": "Neighborhood participation and cooperation with municipal oversight.",
+      "request": "An enforceable neighborhood enforcement mechanism incorporated into municipal review.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, a seat on an advisory board is a good start, but I need assurance that local space and resources are legally secured before we lend our legitimacy to your anniversary.",
+      "offer": "Neighborhood credibility and participation in Veridian's community reporting.",
+      "request": "A binding written agreement granting local veto power and space support.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood stands together. If institutions want answers about who passed through our streets, they must respect our terms, protect our workers, and put their resource commitments in writing.",
+  "facts_shared": [
+    "V2F026",
+    "V2F039",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "Coordinate our disclosure about the service route camera gap without naming uninvolved residents.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C11",
+      "promise": "Incorporate Inez's neighborhood enforcement mechanism into municipal procurement review.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C01",
+      "promise": "Establish a community advisory panel with veto power over local reporting grants by end of quarter.",
+      "visibility": "public",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Coordinated disclosure boundaries with Dee regarding the service route camera gap.",
+    "Secured Celeste's backing for enforceable municipal oversight and neighborhood protections.",
+    "Pressed Arden to formalize concrete institutional commitments in writing."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez focuses on locking down concrete institutional commitments from Arden and Celeste while protecting Dee and neighborhood residents from outside exploitation regarding the service route.",
+  "final_ballot": null
+}

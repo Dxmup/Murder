@@ -1,0 +1,84 @@
+{
+  "character_id": "C16",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, our joint community advisory council needs teeth, including confirmed space allocations and rent protection before we close this anniversary.",
+      "offer": "Enforced neighborhood cooperation and attendance legitimacy",
+      "request": "Signed written commitment for community advisory council space and rent support",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, our boundary holds. We explain the service route gap as local logistics without exposing neighborhood residents to outside liability.",
+      "offer": "Mutual defense and coordinated disclosure boundaries",
+      "request": "Strict adherence to our agreed statement before Morgan asks",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, neighborhood witnesses will speak only under fair-treatment terms that protect their homes and livelihoods from being turned into evidentiary targets.",
+      "offer": "Voluntary accounts of Vale's presence near the neighborhood",
+      "request": "Strict compliance with fair-treatment and onward-disclosure protections",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Institutional attention cannot turn neighborhood favors into charges. We protected people when the systems looked away, and we demand binding commitments before any final story is written.",
+  "facts_shared": [
+    "V2F026",
+    "V2F036",
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Establish a joint community advisory council for Veridian's upcoming investigative archives.",
+      "visibility": "public",
+      "status": "fulfill"
+    },
+    {
+      "with": "C10",
+      "promise": "Coordinate disclosure boundaries to protect uninvolved residents before speaking to Morgan.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured institutional commitments for community advisory council space and support.",
+    "Maintained strict disclosure boundaries with Dee to protect neighborhood residents.",
+    "Established fair-treatment terms with Morgan for local witness accounts."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 45,
+    "synthetic_origin": 25,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Inez fulfills her commitments with Arden and Dee, secures institutional space and protection guarantees, ensures neighborhood residents are shielded from outside interrogation, and submits the final ballot reflecting human mantle and voluntary movement.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F004",
+      "V2F005",
+      "V2F007"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F034"
+    ]
+  }
+}

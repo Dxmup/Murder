@@ -1,0 +1,77 @@
+{
+  "character_id": "C09",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, your terms on attribution are a start. I will share a bounded look at the transaction continuity to help date the shift, provided you strictly honor customer privacy and never label anyone R.",
+      "offer": "Bounded view of the account pattern to help date the pattern change.",
+      "request": "Strict adherence to the promise not to call any customer R and clear attribution terms.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C12",
+      "say": "Graham, settling the debt without conditioning forgiveness on a definitive conclusion is fair. In exchange, I can offer an honest account of our data and a bounded view of the ledger pattern.",
+      "offer": "Bounded ledger access and an honest account of the shop's transaction data.",
+      "request": "Full debt settlement without making forgiveness conditional on a cinematic conclusion.",
+      "fact_ids_shared": [
+        "V2F037",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, outsiders like Graham and Morgan are pressing for access. We need to hold our common line and protect neighborhood infrastructure from being scapegoated.",
+      "offer": "A unified narrative and consultation on any external disclosures.",
+      "request": "Active support for our shared boundary to keep local service routes and customer names safe.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "The ledger records collectors, routines, and shifting patterns over fifteen years, not a simple myth. We are willing to talk about shop history, but only with neighbors whose names and routines are protected first.",
+  "facts_shared": [
+    "V2F008",
+    "V2F037",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "Restrict ledger disclosure terms to pattern analysis without naming customers as R.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C12",
+      "promise": "Provide bounded ledger access and an honest account of transaction data in exchange for full unconditional debt settlement.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C16",
+      "promise": "Maintain a unified boundary with Dee and Rafi regarding service route inquiries and customer privacy.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Negotiated bounded ledger access and attribution terms with Morgan.",
+    "Engaged Graham regarding unconditional debt settlement in exchange for honest transaction context.",
+    "Solidified the neighborhood protection boundary with Inez against external exploitation."
+  ],
+  "beliefs": {
+    "one_human": 45,
+    "human_mantle": 25,
+    "synthetic_origin": 20,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Rafi balances commercial and neighborhood pressures by accepting Morgan's non-attribution terms, agreeing to Graham's unconditional debt settlement for bounded ledger context, and cementing Inez's protection boundary to ensure customer privacy remains intact.",
+  "final_ballot": null
+}

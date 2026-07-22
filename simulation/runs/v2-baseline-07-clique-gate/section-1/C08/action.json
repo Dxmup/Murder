@@ -1,0 +1,39 @@
+{
+  "character_id": "C08",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, before we talk about legends, tell me: what do you actually remember sensing during your supposed encounter with R?",
+      "offer": "My firsthand experience with commissioned presence and synthetic-media distinctions.",
+      "request": "A sensory description of your R encounter.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, if you're claiming succession or mantle ownership, let's look at the financial architecture. Do you recognize the shape of the intermediary payment structures behind some of these early performances?",
+      "offer": "A private comparison of payment routing under confidentiality.",
+      "request": "Your insight into the intermediary payment records.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Performance is not authorship, and an imitated voice is not proof of a human soul behind the file.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Frankie to examine the sensory details of the supposed R encounter.",
+    "Approached Jules to discuss intermediary payment structures and ownership distinctions."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Edi enters Section 1 focusing on establishing ownership of performed identity work. By questioning Frankie on sensory details and discussing payment paths with Jules, Edi aims to uncover whether past performances were weaponized as proof of a singular human author.",
+  "final_ballot": null
+}

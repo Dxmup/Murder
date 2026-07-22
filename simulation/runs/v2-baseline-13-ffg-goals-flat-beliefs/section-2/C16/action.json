@@ -1,0 +1,78 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, if Veridian wants genuine neighborhood participation rather than decorative approval, we need enforceable partnership commitments and formal program inclusion put in writing.",
+      "offer": "Neighborhood legitimacy and participation in future public programs",
+      "request": "Formal written commitments for neighborhood resources and collaborative governance",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms. We protect the bodega's ledger and customer privacy together before letting outsiders mine our history.",
+      "offer": "Support for your ledger's boundaries and neighbor solidarity",
+      "request": "Mutual agreement to withhold vulnerable records without consensus",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, let's keep our disclosure boundary aligned on the service route and camera gap so neither of us is left taking the fall for an unlogged favor.",
+      "offer": "Context on the back-room access arrangement to protect tenants",
+      "request": "Aligned public statements regarding the camera interval",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The neighborhood's labor and history kept this floor alive long before Veridian arrived. Any institutional disclosures must come with concrete, enforceable benefits and protections for local residents.",
+  "facts_shared": [
+    "V2F026",
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Consult with neighborhood representatives on upcoming Veridian public programs in exchange for formal partnership commitments.",
+      "visibility": "public",
+      "status": "accept"
+    },
+    {
+      "with": "C09",
+      "promise": "Do not disclose private customer arrangements or vulnerable neighborhood records without mutual agreement.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C10",
+      "promise": "Coordinate disclosure boundary regarding the camera gap and protect the tenant.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden regarding concrete Veridian commitments and formal neighborhood program representation.",
+    "Accepted Rafi's commitment to protect sensitive ledger records and customer privacy.",
+    "Accepted Dee's commitment to coordinate a shared disclosure boundary regarding the service route camera gap."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 45,
+    "vale_killed_by_ai": 55
+  },
+  "reasoning_summary": "In Section 2, Inez solidifies neighborhood solidarity by accepting commitments with Rafi and Dee to protect vulnerable local records and align on the camera gap. She also engages Arden directly to demand formal, enforceable institutional commitments from Veridian in exchange for local cooperation.",
+  "final_ballot": null
+}

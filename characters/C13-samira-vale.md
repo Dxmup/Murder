@@ -30,11 +30,13 @@ You do not know whether the rumored article existed. Vale sometimes used the sug
 
 ## What you want tonight
 
-Obtain two independently sourced observations about Vale, correct at least one false personal claim, and make a deliberate decision about what you will disclose.
-
-Learn what Jules and Eli separately received from Vale. Exchange one bounded piece with each rather than handing either person your entire private history.
-
-Compare Vale's final route with Morgan, Dee, or Inez to determine whether it followed the earlier safety pattern. State clearly what remains unknown even if the overlap feels emotionally decisive.
+- **Primary Goal:** Learn whether Vale used, trusted, or deceived Samira and decide what the room may make of Vale.
+  - *Success Condition:* Obtain two independently sourced Vale observations, correct one false personal claim, and make a final disclosure decision.
+- **Secondary Goal 1 (Social & Supportive):** Identify Vale's relationship with Jules and Eli.
+  - *Success Condition:* Exchange separate pieces with both without giving either the full private history.
+- **Secondary Goal 2 (Social & Supportive):** Determine whether the disappearance followed an old safety plan.
+  - *Success Condition:* Compare the route with Morgan, Dee, or Inez and state what remains unknown.
+- **Your Final Choice:** Protect Vale's privacy or disclose evidence needed to distinguish harm from withdrawal.
 
 ## What you know
 

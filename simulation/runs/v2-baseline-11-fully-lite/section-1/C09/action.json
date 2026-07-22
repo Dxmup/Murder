@@ -1,0 +1,59 @@
+{
+  "character_id": "C09",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, people are circling the bodega's account strip like hawks. We need to agree on what neighborhood details stay off-limits before outsiders start mining every irregularity for guilt.",
+      "offer": "My word that the full ledger stays locked unless customer privacy and neighborhood protections are secured first.",
+      "request": "Your support for whatever I decide regarding the outstanding balance and debt forgiveness.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, you want context on the R-associated account pattern. We can discuss the transaction continuity and collectors, but only under strict terms.",
+      "offer": "A bounded look at transaction records and collector routines.",
+      "request": "A binding promise that you will not call any customer R or expose neighborhood residents.",
+      "fact_ids_shared": [
+        "V2F007",
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, you have always appreciated a good neighborhood habit. Tell me how you remember R's supposed private routine before I show you what my books actually recorded.",
+      "offer": "Comparison between private customer habits and the actual register notes.",
+      "request": "Your honest recollection of how the routine looked from the street.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Fifteen years of keeping packages out of the rain and extending credit doesn't make my counter a public archive. If you want to talk about R's account, talk to me about customer protection first.",
+  "facts_shared": [
+    "V2F035"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "Share bounded ledger details on transaction continuity only if Morgan agrees not to identify any customer as R.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Inez regarding neighborhood privacy protections.",
+    "Established terms with Morgan for a bounded ledger view.",
+    "Invited Frankie to compare private customer habits with register records."
+  ],
+  "beliefs": {
+    "one_human": 45,
+    "human_mantle": 25,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "In Section 1, Rafi focuses on securing neighborhood protections with Inez, establishing strict attribution and privacy terms with investigator Morgan regarding the unpaid R account, and discussing habits with Frankie. The core objective is safeguarding bodega customers while navigating financial pressure.",
+  "final_ballot": null
+}

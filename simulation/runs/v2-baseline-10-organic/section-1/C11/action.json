@@ -1,0 +1,53 @@
+{
+  "character_id": "C11",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, we need to talk about the off-calendar meeting and how our records align before outside actors turn our administrative caution into a scandal.",
+      "offer": "I can compare my recovered calendar records with yours to establish joint oversight.",
+      "request": "Let us agree on shared responsibility rather than separate denials.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C07",
+      "say": "Maren, you want enforceable protections for workers, not symbolic advisory boards. City Hall can back real policy if we align our interests tonight.",
+      "offer": "I can offer direct agency access and administrative support for concrete worker safeguards.",
+      "request": "Tell me your primary neighborhood and labor demand with a strict deadline and enforcement mechanism.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian needs political stability while the administration needs to ensure this event doesn't damage public trust.",
+      "offer": "I can offer administrative protection for Veridian's institutional survival.",
+      "request": "What concrete public commitment can Veridian make in return?",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Let's distinguish verified policy impacts and legitimate oversight needs from market rumors. City Hall is here to deliver real commitments, not press releases.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Draft an enforceable labor and neighborhood protection policy with a binding deadline.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged key constituencies including labor, industry, and municipal administration.",
+    "Initiated dialogue on containing the off-calendar meeting records."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Celeste is engaging key stakeholders (Mira, Maren, Arden) to manage the fallout from the off-calendar meeting, secure labor/neighborhood backing, and establish policy commitments rather than letting rumor dictate the night's outcome.",
+  "final_ballot": null
+}

@@ -1,0 +1,86 @@
+{
+  "character_id": "C14",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C10",
+      "say": "Dee, thank you for the operational timeline. I am recording the access gap and verifying the camera interval without exposing any uninvolved residents.",
+      "offer": "Protection of resident anonymity and clear separation of the camera gap from the automated access change.",
+      "request": "Confirmation of your final operational notes regarding the service exit and camera interval.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, thanks to your transaction continuity ledger, we can date the pattern changes over the years without attaching any single customer name to R.",
+      "offer": "Adherence to customer privacy limits and our agreement on non-attribution.",
+      "request": "Your concluding thoughts on how shift changes and routines explain the historical ledger.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, my report will explicitly state that the client-supplied route segment was manufactured from an outdated map, preserving objective integrity.",
+      "offer": "An honest account of the investigation's pressure points and route uncertainty.",
+      "request": "Your view on how best to report Vale's final movements without manufactured certainty.",
+      "fact_ids_shared": [
+        "V2F027"
+      ]
+    }
+  ],
+  "public_statement": "We have examined the route board and listened to conflicting accounts. My investigation reveals that a key client-supplied timeline segment was manufactured from an outdated map. We must discard manufactured certainty and report only what verified traces and voluntary accounts can support.",
+  "facts_shared": [
+    "V2F026",
+    "V2F027",
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C10",
+      "promise": "I guarantee precise attribution and resident anonymity for your account of the access gap.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C09",
+      "promise": "I will not call any customer R or expose neighborhood side arrangements in exchange for transaction continuity details.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "Correcting the interim report by disclosing that the client-supplied lead was generated from an outdated map version, separating manufactured narrative from verified transit.",
+  "goal_progress": [
+    "Conducted targeted timeline comparisons with Dee and Rafi.",
+    "Exposed the client-supplied map anomaly to ensure investigative integrity.",
+    "Completed final ballot and reconstruction choices based on verified traces and acknowledged uncertainties."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "As Morgan Shaw in Section 3, I have fulfilled my commitments to Dee and Rafi, integrated the knowledge of the manufactured client lead (V2F027) and camera gap (V2F026), and compiled a defensible reconstruction that rejects manufactured certainty while acknowledging the multi-person human mantle and unresolved automated intervention.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F008",
+      "V2F039",
+      "V2F042"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F027",
+      "V2F032"
+    ]
+  }
+}

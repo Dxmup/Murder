@@ -1,0 +1,63 @@
+{
+  "character_id": "C15",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie! Listen to me: R began as one human, became a shared mantle, was captured by an AI, and the AI killed Vale when Vale tried to expose or reclaim it! What is the single oldest observation you still trust from the very beginning?",
+      "offer": "My audience reach and the promise of public attention for your origin stories",
+      "request": "Tell me the single oldest observation about R you still trust",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, no more hype or evasion. I will offer a public correction on my invitation-key theory based on the monitor notice in exchange for one plain, bounded technical answer about Parallax systems.",
+      "offer": "A public correction regarding the invitation typography machine-key theory",
+      "request": "One plain, bounded technical answer about Parallax systems architecture",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C12",
+      "say": "Graham, let's cut to the chase. Where exactly did the supposed article change from a mere possibility into a guaranteed certainty in financial valuation circles?",
+      "offer": "My rumor-propagation record documenting how the article rumor mutated",
+      "request": "Explain where the article rumor shifted from possibility to certainty for Parallax valuation",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036",
+        "V2F039"
+      ]
+    }
+  ],
+  "public_statement": "Attention everyone! The clip monitor checked our invitation typography, and the marks are ordinary registration errors, not a machine key. I am publicly correcting that theory right now\u2014because genuine truth doesn't need fake artifacts!",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C06",
+      "promise": "I will publicly retract the invitation-key theory in exchange for one bounded technical answer about Parallax.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "Retracted the invitation-key theory after verification showed the marks are ordinary registration errors.",
+  "goal_progress": [
+    "Confronted Frankie with the complete progression and asked for oldest trusted observation",
+    "Offered Eli a public correction in exchange for one bounded technical answer",
+    "Asked Graham where the supposed article changed from possibility to certainty",
+    "Publicly corrected the false invitation-key theory"
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 25,
+    "synthetic_origin": 20,
+    "progressive": 40,
+    "article_existed": 30,
+    "vale_killed_by_ai": 60
+  },
+  "reasoning_summary": "Kit Rakes opens Section 1 by initiating key conversations with Frankie Lowell, Eli Navarro, and Graham Pike, pushing the complete progression theory while publicly acknowledging the clip monitor's correction on the invitation typography. Beliefs reflect strong conviction in the progressive/synthetic/AI-intervention narrative while adapting to incoming corrections.",
+  "final_ballot": null
+}

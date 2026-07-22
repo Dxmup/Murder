@@ -1,0 +1,77 @@
+{
+  "character_id": "C09",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C12",
+      "say": "Graham, you want ledger patterns for market intelligence. I will consider your offer to settle the shop debt, but only if we maintain strict boundaries around customer privacy and avoid forced conclusions.",
+      "offer": "A bounded look at transaction patterns without exposing customer identities.",
+      "request": "Full debt settlement on clean terms.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, your message proposed terms for dating the private habit's shift using my ledger. I am willing to discuss the pattern under our strict privacy agreement.",
+      "offer": "Banded transaction comparison to help date the ledger shift.",
+      "request": "A binding commitment not to call any customer R or expose local neighbors.",
+      "fact_ids_shared": [
+        "V2F008"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, outsiders like Morgan and Graham are circling the bodega records. We need to lock in our shared boundary to protect Dee and our delivery routes before outside pressure mounts.",
+      "offer": "Our agreed timeline consistency and mutual support.",
+      "request": "Active protection for neighborhood delivery routes and customer privacy.",
+      "fact_ids_shared": [
+        "V2F042"
+      ]
+    }
+  ],
+  "public_statement": "A recurring routine across fifteen years is not a single person standing at the counter, and my ledger records several incompatible collectors rather than one fixed legend.",
+  "facts_shared": [
+    "V2F007",
+    "V2F008",
+    "V2F035",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Keep timeline consistent and protect local customers from outside exposure.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C12",
+      "promise": "Provide bounded ledger access without forced conclusions in exchange for debt settlement.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C14",
+      "promise": "Restrict ledger viewing strictly to transaction patterns for dating the shift.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Negotiated bounded ledger access and debt settlement terms with Graham Pike.",
+    "Responded to Morgan Shaw regarding safe dating of the ledger change.",
+    "Solidified local protection boundary with Inez Baptiste against outside investigative pressure."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 35,
+    "synthetic_origin": 15,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Rafi Calder\u00f3n coordinates with Graham (C12) on debt settlement, Morgan (C14) on ledger dating terms, and Inez (C16) on community protection, maintaining balance across multi-collector and human habit interpretations.",
+  "final_ballot": null
+}

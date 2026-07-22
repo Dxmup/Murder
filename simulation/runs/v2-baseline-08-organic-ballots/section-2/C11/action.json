@@ -1,0 +1,67 @@
+{
+  "character_id": "C11",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the calendar recovery notice confirms our overlapping records. Let's agree on shared disclosure terms rather than letting the first leak control us.",
+      "offer": "Transparent alignment on our mutual off-calendar meeting records to protect City Hall and Parallax jointly.",
+      "request": "A joint statement acknowledging informal oversight without shifting all blame onto my deleted entry.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, let's turn our previous discussion into a formal proposal with a real municipal funding deadline.",
+      "offer": "Municipal backing and direct enforcement mechanisms for neighborhood priorities.",
+      "request": "One concrete neighborhood demand backed by written agreement.",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I arranged the limited access meeting that Vale attended. I want to ensure our disclosure respects Vale's privacy.",
+      "offer": "Clear boundaries on what City Hall releases regarding Vale's off-calendar meetings.",
+      "request": "Agreement on a privacy boundary before any public disclosures are made.",
+      "fact_ids_shared": [
+        "V2F029"
+      ]
+    }
+  ],
+  "public_statement": "We must ensure that our administrative records and public commitments protect community oversight without relying on unverified market panic.",
+  "facts_shared": [
+    "V2F029",
+    "V2F035",
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Deliver enforceable neighborhood oversight protections with municipal backing.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Mira to align on managing the off-calendar meeting records.",
+    "Advanced neighborhood commitments with Inez.",
+    "Established privacy boundaries with Samira regarding Vale's access."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "As Celeste Park, I coordinated with Mira on our meeting records to contain exposure, advanced enforceable demands with Inez, and established privacy bounds with Samira while keeping coalition goals intact.",
+  "final_ballot": null
+}

@@ -1,0 +1,60 @@
+{
+  "character_id": "C10",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management's audit on that camera interval is tightening. Let's lock down our agreement so neither of us names uninvolved residents while explaining the service route.",
+      "offer": "Acceptance of your neighborhood backing and coordination on building access disclosures",
+      "request": "A unified story that protects the tenant without taking the fall for the camera gap",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, your ledger tracks transactions our building records miss. Let's compare our shift times and collectors to clear up timing without inventing a single customer.",
+      "offer": "Exact building rhythms, shift changes, and service access practices",
+      "request": "Comparison of shift records and package collector details",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, before I give you a bounded account of the service exit and camera audit, I need your explicit commitment to resident anonymity and precise attribution.",
+      "offer": "An operational account of the service exit and camera audit interval",
+      "request": "A binding promise of fair treatment, tenant protection, and precise reporting",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate our disclosure boundary so neither of us names uninvolved residents",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Confirmed coordination with Inez on disclosure boundaries for building access and tenant protection.",
+    "Compared shift-change and transaction records with Rafi to resolve timing without false identities.",
+    "Pressed Morgan on fair treatment and bounded definitions before disclosing operational records."
+  ],
+  "beliefs": {
+    "one_human": 30,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Dee Nowak maintains a quiet, sardonic stance, coordinating closely with Inez (C16) to protect tenant privacy and shift-time consistency with Rafi (C09) while demanding strict operational boundaries from Morgan (C14).",
+  "final_ballot": null
+}

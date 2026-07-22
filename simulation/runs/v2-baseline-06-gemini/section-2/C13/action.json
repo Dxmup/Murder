@@ -1,0 +1,69 @@
+{
+  "character_id": "C13",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you claimed you hold a succession message. Tell me precisely what led up to that message before I validate a single word of your ambition.",
+      "offer": "Context on Vale's prior pattern of taking back the name.",
+      "request": "The complete context around the succession message.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know what technical logs look like when someone is terrified. Let's look at what remains uncertain rather than building a myth out of fear.",
+      "offer": "Corroboration of Vale's emotional state regarding R's nature.",
+      "request": "Clarification on what technical logs actually prove versus what was assumed.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you want to examine Vale's movements, you must respect the boundary: no personal route detail without uncertainty labels and consent.",
+      "offer": "Recognition of the prior safety pattern and route overlap.",
+      "request": "Strict adherence to uncertainty labeling in your timeline.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    }
+  ],
+  "public_statement": "Do not mistake operational security for a plot device. Vale was a human being.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "No personal route detail enters the timeline without explicit consent and an uncertainty label.",
+      "visibility": "private",
+      "status": "fulfill"
+    },
+    {
+      "with": "C11",
+      "promise": "Cooperate on limited disclosures that respect Vale's personal memory and privacy boundaries.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Vale was a human being with real vulnerabilities, not a fictional device or an automated myth.",
+  "goal_progress": [
+    "Challenged Jules regarding the succession message context.",
+    "Engaged Eli on technical logs and emotional ambiguity.",
+    "Secured Morgan's commitment to uncertainty labels on route details.",
+    "Accepted Celeste's boundary protection for Vale's personal context."
+  ],
+  "beliefs": {
+    "one_human": 35,
+    "human_mantle": 25,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 25,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Samira maintains protective boundaries while pressing Jules, Eli, and Morgan for rigorous accountability, acknowledging Celeste's offered privacy protections, and leaning toward voluntary withdrawal or guarded disappearance.",
+  "final_ballot": null
+}

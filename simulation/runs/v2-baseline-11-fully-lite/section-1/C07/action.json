@@ -1,0 +1,69 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need to agree on a strict boundary right now. Any narrative about Parallax's continuity process or collaborative labor must protect contributor anonymity and never turn workers into candidates for R.",
+      "offer": "Organizing support and editorial backing for the Night Desk collective from data-workers.",
+      "request": "A shared public boundary statement ensuring contributor anonymity.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C05",
+      "say": "Mira, the evaluator Vale met requires written guarantees that worker names will never be used to explain R or Vale's disappearance. Real worker harm matters regardless of whether the rumors or articles are true.",
+      "offer": "Bounded worker testimony regarding shifting instructions and labor conditions.",
+      "request": "A formal, written institutional commitment protecting worker anonymity and providing unconditional remedies.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C16",
+      "say": "Inez, institutions are going to start asking for names of people along Vale's route and workers who evaluated outputs. We need to coordinate protections before anyone speaks.",
+      "offer": "Coalition pressure and shared neighborhood-backed accountability processes.",
+      "request": "Mutual coordination on safety protocols for contractors and witnesses before institutions demand names.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Fifteen years of system outputs were built on invisible labor. We demand written protections for every worker before any evidence circulates, and real remedies that do not depend on proving R's identity.",
+  "facts_shared": [
+    "V2F040",
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "Maintain strict contributor anonymity and share only bounded workflow descriptions that name no evaluator.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C05",
+      "promise": "Provide bounded worker testimony on continuity instructions only after receiving written anonymity guarantees.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated discussions with Tessa to establish safe disclosure boundaries without naming contributors.",
+    "Pressed Mira for written anonymity commitments before worker evidence moves.",
+    "Coordinated with Inez on neighborhood and worker protections against extractive institutional demands."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 30,
+    "progressive": 10,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Focused on establishing written anonymity protections for the evaluator who met Vale, coordinating with Tessa on safe workflow descriptions, and securing commitments from Mira and Inez that worker harm is addressed independently of the R mystery.",
+  "final_ballot": null
+}

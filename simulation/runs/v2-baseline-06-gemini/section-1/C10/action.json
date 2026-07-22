@@ -1,0 +1,52 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management flagged our unpreserved camera interval from the audit. We need to talk before Morgan starts connecting the service exit gap to a murder story.",
+      "offer": "Exact building shift rhythms and access practices to help coordinate our disclosure boundary.",
+      "request": "Agreement on how to disclose the unrelated secret without exposing the tenant who relied on us.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, management is trying to pin the camera gap entirely on me. If I give you a bounded operational account, what guarantees do I get regarding fair treatment and resident anonymity?",
+      "offer": "A precise account of the physical service exit use and camera audit context.",
+      "request": "A clear commitment on what 'fair treatment' and 'bounded account' mean in your final report before I share anything further.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    }
+  ],
+  "public_statement": "The service exit was used during an unpreserved camera interval, and an automated access change occurred separately later. Technical equipment gaps and routine building access do not automatically equal malice or murder.",
+  "facts_shared": [
+    "V2F026"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Coordinate disclosure boundaries regarding the camera interval and protect tenant anonymity.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Notified Inez about the audit flag and requested a private conversation before speaking with Morgan.",
+    "Asked Morgan to clarify the definition of fair treatment and bounded account before providing records."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 30,
+    "synthetic_origin": 15,
+    "progressive": 15,
+    "article_existed": 20,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Dee Nowak focuses on protecting the building's pension and residents while handling the audit notice regarding the unpreserved camera interval. Initiated conversations with Inez Baptiste to coordinate disclosure and with Morgan Shaw to demand a fair treatment framework before releasing any bounded operational truth.",
+  "final_ballot": null
+}

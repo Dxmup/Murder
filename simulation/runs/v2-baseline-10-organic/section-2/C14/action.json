@@ -1,0 +1,69 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms. Let's look at the account continuity pattern near the former printing floor without compromising customer privacy.",
+      "offer": "A bounded look at my route board with uncertainty labels intact.",
+      "request": "Your transaction continuity records for the relevant timestamps.",
+      "fact_ids_shared": [
+        "V2F039"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, I agree to fair treatment and precise attribution in my report. Can you provide the bounded operational account of the service access?",
+      "offer": "Discretion and strict adherence to resident anonymity regarding the building records.",
+      "request": "A bounded account of the service access and camera audit.",
+      "fact_ids_shared": [
+        "V2F026"
+      ]
+    },
+    {
+      "with": "C13",
+      "say": "Samira, I respect your boundary. I will ensure no personal material enters the timeline without explicit consent and clear uncertainty labels.",
+      "offer": "Transparency regarding client-supplied route segments that appear manufactured.",
+      "request": "Insight into Vale's previous safety plan locations.",
+      "fact_ids_shared": [
+        "V2F035"
+      ]
+    }
+  ],
+  "public_statement": "An independent investigator must test every route against direct observation and acknowledge manufactured segments rather than sanding them away for a fee.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "Provide bounded transaction details once customer attribution protections are agreed.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C10",
+      "promise": "Provide a bounded account of building service access in exchange for fair treatment and protection.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Correcting the interim report by acknowledging that one client-supplied route segment appears manufactured and lacks verifiable corroboration.",
+  "goal_progress": [
+    "Engaged Rafi Calder\u00f3n on transaction patterns under privacy terms.",
+    "Coordinates with Dee Nowak on building service access records.",
+    "Confirmed boundary agreements with Samira Vale regarding Vale's personal material."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 35,
+    "vale_killed_by_ai": 35
+  },
+  "reasoning_summary": "Pursuing voluntary accounts and secure witness agreements while addressing the contaminated client-supplied route segment.",
+  "final_ballot": null
+}

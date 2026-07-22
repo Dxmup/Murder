@@ -1,0 +1,72 @@
+{
+  "character_id": "C11",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the calendar recovery message makes our matching records undeniable. Let's formalize our shared responsibility now so neither of us is left holding the liability alone.",
+      "offer": "To align our accounts of the off-calendar meeting and establish controlled disclosure terms.",
+      "request": "Accept our proposed coordination on the meeting record to protect both City Hall and Parallax from speculation.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F035"
+      ]
+    },
+    {
+      "with": "C07",
+      "say": "Maren, City Hall is ready to turn our worker safeguard commitment into enforceable procurement policy with strict deadlines.",
+      "offer": "Concrete procurement language and administrative enforcement for worker protections.",
+      "request": "Your active labor credibility and partnership in shaping the policy before tonight's close.",
+      "fact_ids_shared": [
+        "V2F039",
+        "V2F041"
+      ]
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian needs political stability, and City Hall needs a credible civic commitment that reassures the public without fueling the panic.",
+      "offer": "Back-channel administrative stability and protection from regulatory overreach.",
+      "request": "A definitive public commitment from Veridian supporting open archives and worker collaboration.",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Let us separate verified operational harms and legitimate oversight needs from speculation about R or unseen articles. City Hall is committed to real policy, not panic.",
+  "facts_shared": [
+    "V2F035",
+    "V2F039"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C05",
+      "promise": "Coordinate on a shared account of the off-calendar meeting before disclosing details.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C07",
+      "promise": "Incorporate enforceable worker safeguards into City Hall procurement policy.",
+      "visibility": "public",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Reinforced coordination with Mira Sen regarding meeting records and shared liability.",
+    "Advanced enforceable labor safeguards with Maren Okafor for procurement policy.",
+    "Pressed Arden Bell for a concrete Veridian civic commitment in exchange for political protection."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Celeste focuses on solidifying her prior commitments in Section 2, locking in agreement with Mira on the calendar records, advancing worker safeguards with Maren, and urging Arden to deliver a concrete public commitment.",
+  "final_ballot": null
+}

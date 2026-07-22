@@ -1,0 +1,70 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, a board seat is a start, but we need enforceable terms on space and worker protection put in writing before our community lends its full legitimacy tonight.",
+      "offer": "Neighborhood participation and public support for Veridian's anniversary.",
+      "request": "A binding written commitment for neighborhood space and permanent worker protections.",
+      "fact_ids_shared": [
+        "V2F040"
+      ]
+    },
+    {
+      "with": "C10",
+      "say": "Dee, Morgan is circling about that camera gap. Let's keep our story straight: we explain the access route context without exposing any residents to blame.",
+      "offer": "Mutual defense against outside scapegoating regarding the building logs.",
+      "request": "Agreement to align our disclosure boundary before speaking with investigators.",
+      "fact_ids_shared": [
+        "V2F026",
+        "V2F042"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you want reliable local witnesses, you agree in advance to protect our sources from commercial and institutional exploitation.",
+      "offer": "Introduction to trusted neighborhood voices who can verify printing floor context.",
+      "request": "Strict adherence to fair-treatment and onward-disclosure terms.",
+      "fact_ids_shared": [
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "No institutional anniversary or investigation should treat neighborhood service routes and labor as disposable collateral. Our protection remains non-negotiable.",
+  "facts_shared": [
+    "V2F040",
+    "V2F042"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Establish a community advisory board to ensure Veridian's local programs serve neighborhood interests.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C10",
+      "promise": "Coordinate our disclosure boundary so neither of us names uninvolved residents",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Arden's advisory board proposal while pushing for binding written terms.",
+    "Aligned with Dee on disclosure boundaries regarding the service route and camera gap.",
+    "Established fair-treatment terms with Morgan Shaw before granting access to local witnesses."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Inez accepted Arden's board seat proposal while demanding concrete written guarantees, solidified her alignment with Dee to protect residents from scapegoating over the service route gap, and set strict terms with Morgan Shaw for investigator access.",
+  "final_ballot": null
+}

@@ -1,0 +1,64 @@
+{
+  "character_id": "C08",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, I received word from the payment processor that my old commission fee passed through an intermediary associated with R. Let's compare notes privately under strict confidentiality.",
+      "offer": "Confidential comparison of the payment route connecting my commission to R-associated activity.",
+      "request": "Your insight into the intermediary payment structure and succession provenance.",
+      "fact_ids_shared": [
+        "V2F014"
+      ]
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, thanks for sharing your perspective earlier. Let's look closely at whether your R encounter matches the mechanics of a performed vocal presence rather than authentic authorship.",
+      "offer": "My firsthand expertise distinguishing performed voice assets from genuine authorship.",
+      "request": "Your candid assessment of what your encounter with R actually proved.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C13",
+      "say": "Samira, we share an anger at people turning another person's identity into raw material. Let's discuss whether my old theatrical commission was manipulated just like Vale's legacy.",
+      "offer": "Honest disclosure of how synthetic commissions and performed presence are exploited.",
+      "request": "Your thoughts on whether Vale's statements reveal manipulation of identity.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "A performance is never authorship, and routing money through intermediaries doesn't give anyone the right to treat an artist's voice as raw material.",
+  "facts_shared": [
+    "V2F014"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O04",
+      "action": "show",
+      "to": "C04"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Maintain strict confidentiality regarding payment route comparisons.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Connecting a payment intermediary to a performance proves a route of funds, not the authorship of an article or the identity of a client.",
+  "goal_progress": [
+    "Reviewed payment processor notice confirming intermediary funds connection.",
+    "Followed up with Jules regarding payment route comparisons under confidentiality.",
+    "Engaged Frankie on distinguishing performed presence from authorship."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 40,
+    "progressive": 10,
+    "article_existed": 30,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "Edi Velez pursues the payment processor lead (V2M014), engaging Jules in confidential comparison using commission card O04, consulting Frankie on sensory versus authorship distinctions, and discussing consent ethics with Samira while keeping the final ballot null in Section 2.",
+  "final_ballot": null
+}

@@ -28,11 +28,13 @@ The ledger supports several interpretations. One hidden person may have used cou
 
 ## What you want tonight
 
-Resolve the outstanding balance through payment, a credible promise, or a deliberate public forgiveness. Whatever you decide, win the support of at least one neighbor who understands the cost.
-
-Make the ledger valuable without selling a conclusion it cannot support. Trade a bounded look or a careful description to Morgan, Graham, Frankie, or another interested guest for something concrete.
-
-Protect local customers and informal arrangements. Reach a disclosure boundary with Dee, Inez, or Manny before financial and investigative pressure turns every irregularity into guilt.
+- **Primary Goal:** Settle old obligations tied to R-associated transactions without letting outsiders own the neighborhood story.
+  - *Success Condition:* Resolve the outstanding account through payment, a credible promise, or a deliberate public forgiveness and have one neighbor support the choice.
+- **Secondary Goal 1 (Social & Supportive):** Make the ledger valuable without overclaiming it.
+  - *Success Condition:* Trade a bounded transaction pattern to Morgan, Graham, or Frankie for something concrete.
+- **Secondary Goal 2 (Social & Supportive):** Protect local customers and side arrangements.
+  - *Success Condition:* Reach a mutual disclosure boundary with Dee, Inez, or Manny.
+- **Your Final Choice:** Monetize continuity claims or admit the ledger records several incompatible customers.
 
 ## What you know
 

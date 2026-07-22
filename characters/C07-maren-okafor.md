@@ -32,11 +32,13 @@ Your strongest belief is not about identity. Real worker harm does not become im
 
 ## What you want tonight
 
-Secure two distinct commitments: one institutional and one political or neighborhood-based. Possibilities include written anonymity protection, compensation, audit rights, legal defense, limits on data reuse, or a neighborhood-backed accountability process. Preserve the worker's identity throughout.
-
-Agree with Tessa or Eli on what may be shared. The safe version should establish work and system conditions without identifying an evaluator or turning that evaluator into a candidate for R.
-
-Get Mira, Celeste, Graham, or another powerful actor to acknowledge publicly that worker harm matters whether or not the article existed. A remedy conditional on proving R's identity is not a remedy.
+- **Primary Goal:** Win concrete protections for data workers and keep them from becoming anonymous infrastructure or suspects.
+  - *Success Condition:* Secure two distinct commitments—one institutional and one political or neighborhood—and preserve the protected worker's anonymity.
+- **Secondary Goal 1 (Social & Supportive):** Control the worker testimony boundary.
+  - *Success Condition:* Agree with Tessa or Eli on what can be shared without identification.
+- **Secondary Goal 2 (Social & Supportive):** Separate real harms from the article rumor.
+  - *Success Condition:* Get Mira, Celeste, or Graham to acknowledge that worker harm does not depend on an article existing.
+- **Your Final Choice:** Expose systemic harm or protect the people who never consented to become evidence.
 
 ## What you know
 

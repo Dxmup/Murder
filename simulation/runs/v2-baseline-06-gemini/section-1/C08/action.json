@@ -1,0 +1,56 @@
+{
+  "character_id": "C08",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, I've heard rumors about your legendary encounter with R. Before I share anything about myself, can you describe that supposed encounter in sensory detail? What did the voice actually sound like?",
+      "offer": "A private comparison of vocal timbre and performance constraints under strict confidentiality.",
+      "request": "A sensory description of your R encounter.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you're looking to inherit R. I happen to know that performed identity work often relies on intermediaries and payment structures that obscure authorship. Let's compare notes privately.",
+      "offer": "Confidential comparison of commission payment routes.",
+      "request": "Recognition of specific intermediary payment structures associated with R.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, you understand the machinery behind audio and digital assets. How easily could raw vocal recordings and synthetic doubles be ingested or repurposed into later R activity without the artist's ongoing consent?",
+      "offer": "Technical translation between source recordings and performed speech.",
+      "request": "Insight into how asset ingestion and reuse operate across R networks.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Fifteen years of celebrating R, yet consent is treated as an optional extra. Performance is not authorship, and an imitation without permission is plain theft.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C04",
+      "promise": "Maintain strict confidentiality regarding our comparison of payment intermediary structures.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "I am here as a performing artist and voice practitioner to establish the boundary between a commissioned performance and autonomous authorship.",
+  "goal_progress": [
+    "Engaged Frankie to explore the sensory details of the performed R encounter.",
+    "Proposed confidential comparison with Jules regarding intermediary payment routes.",
+    "Consulted Eli on how source recordings and synthetic assets could be repurposed."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 35,
+    "progressive": 15,
+    "article_existed": 50,
+    "vale_killed_by_ai": 10
+  },
+  "reasoning_summary": "Edi Velez enters Section 1 focusing on establishing ownership of performed identity work and identifying how commissioned synthetic assets were reused. Initiated conversations with Frankie (to probe the original encounter), Jules (to examine payment routes), and Eli (to discuss asset ingestion). Beliefs reflect uncertainty between human mantle and synthetic origin, while safeguarding artist consent.",
+  "final_ballot": null
+}

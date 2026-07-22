@@ -28,11 +28,13 @@ You currently think humans used R-associated infrastructure, probably more than 
 
 ## What you want tonight
 
-Obtain a promise of fair treatment before giving Morgan a bounded account. Then have another neighborhood character corroborate what the account actually says.
-
-Explain the camera gap to Inez before someone else does. Agree on how to disclose the unrelated secret without naming or endangering uninvolved residents.
-
-Compare the service-route observations with Rafi or Manny. Resolve timing differences where possible, but refuse to agree on identities none of you saw.
+- **Primary Goal:** Protect a pension and a neighbor while giving a truthful account of the access gap.
+  - *Success Condition:* Obtain one promise of fair treatment and give Morgan a bounded account that another neighborhood character corroborates.
+- **Secondary Goal 1 (Social & Supportive):** Explain the camera gap.
+  - *Success Condition:* Reach an understanding with Inez about the unrelated secret before either speaks publicly.
+- **Secondary Goal 2 (Social & Supportive):** Resolve the service-route contradiction.
+  - *Success Condition:* Compare observations with Rafi or Manny without agreeing on identities neither saw.
+- **Your Final Choice:** Reveal the unrelated secret or remain a plausible accomplice.
 
 ## What you know
 
