@@ -4,7 +4,7 @@
 
 `runs/baseline-01/` is a completed **Version 1 historical simulation**. It used the discarded cast, the old four-framework model, publication voting, and mechanics that V2 has removed. Its report remains useful evidence for why the redesign occurred, but its character results do not evaluate the V2 game.
 
-`run_simulation.py` is intentionally disabled. The legacy character sheets and message table no longer align with the current V2 character IDs, and running them together would generate a misleading report.
+`run_simulation.py` is intentionally disabled. The legacy character sheets and message table no longer align with the current V2 character IDs, and running them together would generate a misleading report. New protocol inputs and the abbreviated-brief generator are under [`v2/`](v2/).
 
 The JSON schemas are also legacy protocol artifacts until the V2 ballot and agent action model are implemented.
 

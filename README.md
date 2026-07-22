@@ -31,6 +31,8 @@ Inspired by the balance and accessibility of Freeform Games: every player has a 
 | [`design/v2/atomic-facts.csv`](design/v2/atomic-facts.csv) | Forty-two provisional V2 facts awaiting distribution testing. |
 | [`design/v2/fact-distribution-audit.md`](design/v2/fact-distribution-audit.md) | Character access counts, centrality risks, and pre-simulation corrections. |
 | [`design/v2/goal-interaction-matrix.csv`](design/v2/goal-interaction-matrix.csv) | Playable goals, success conditions, choices, and three-section target routes. |
+| [`design/v2/objects-and-bargains.md`](design/v2/objects-and-bargains.md) | Minimal prop set, voluntary custody rules, commitments, and bargain design. |
+| [`design/v2/simulation-messages.csv`](design/v2/simulation-messages.csv) | Minimum three-section V2 message schedule for agent testing. |
 | [`design/data/characters.csv`](design/data/characters.csv) | Current V2 character table. |
 | [`design/data/relationships.csv`](design/data/relationships.csv) | Current V2 relationship and social-knot table. |
 | [`design/data/README.md`](design/data/README.md) | Exact current/legacy status of every CSV. |

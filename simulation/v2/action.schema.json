@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "V2 character section action",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["character_id", "section", "conversations", "public_statement", "facts_shared", "object_actions", "commitments", "correction", "goal_progress", "beliefs", "progressive_keys_claimed", "reasoning_summary", "final_ballot"],
+  "properties": {
+    "character_id": {"type": "string", "pattern": "^C(0[1-9]|1[0-6])$"},
+    "section": {"type": "integer", "minimum": 1, "maximum": 3},
+    "conversations": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["with", "say", "offer", "request", "fact_ids_shared"],
+        "properties": {
+          "with": {"type": "string"},
+          "say": {"type": "string"},
+          "offer": {"type": "string"},
+          "request": {"type": "string"},
+          "fact_ids_shared": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}}
+        }
+      }
+    },
+    "public_statement": {"type": "string"},
+    "facts_shared": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}},
+    "object_actions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["object_id", "action", "to"],
+        "properties": {
+          "object_id": {"type": "string", "pattern": "^O(0[1-9]|10)([abc])?$"},
+          "action": {"type": "string", "enum": ["show", "transfer"]},
+          "to": {"type": "string"}
+        }
+      }
+    },
+    "commitments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["with", "promise", "visibility"],
+        "properties": {
+          "with": {"type": "string"},
+          "promise": {"type": "string"},
+          "visibility": {"type": "string", "enum": ["private", "public"]}
+        }
+      }
+    },
+    "correction": {"type": "string"},
+    "goal_progress": {"type": "array", "items": {"type": "string"}},
+    "beliefs": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["one_human", "human_mantle", "synthetic_origin", "progressive", "article_existed", "vale_killed_by_ai"],
+      "properties": {
+        "one_human": {"type": "integer", "minimum": 0, "maximum": 100},
+        "human_mantle": {"type": "integer", "minimum": 0, "maximum": 100},
+        "synthetic_origin": {"type": "integer", "minimum": 0, "maximum": 100},
+        "progressive": {"type": "integer", "minimum": 0, "maximum": 100},
+        "article_existed": {"type": "integer", "minimum": 0, "maximum": 100},
+        "vale_killed_by_ai": {"type": "integer", "minimum": 0, "maximum": 100}
+      }
+    },
+    "progressive_keys_claimed": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {"type": "string", "enum": ["identity_history", "autonomous_control", "vale_incident"]}
+    },
+    "reasoning_summary": {"type": "string"},
+    "final_ballot": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "required": ["r_identity", "vale_relationship", "vale_fate"],
+      "properties": {
+        "r_identity": {"type": "string", "enum": ["one_human", "human_mantle", "synthetic_origin", "progressive"]},
+        "vale_relationship": {"type": "string", "enum": ["vale_was_r", "mantle_holder", "investigating_r", "seizing_or_impersonating_r", "fabricated_identity", "insufficient_evidence"]},
+        "vale_fate": {"type": "string", "enum": ["killed_by_ai", "harmed_by_humans", "voluntarily_vanished", "vale_not_reliably_as_described", "insufficient_evidence"]}
+      }
+    }
+  }
+}

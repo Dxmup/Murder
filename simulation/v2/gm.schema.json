@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "V2 game master synthesis",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["overall_verdict", "ending_result", "what_worked", "what_broke", "character_findings", "mechanic_findings", "priority_changes", "next_test"],
+  "properties": {
+    "overall_verdict": {"type": "string"},
+    "ending_result": {"type": "string"},
+    "what_worked": {"type": "array", "items": {"type": "string"}},
+    "what_broke": {"type": "array", "items": {"type": "string"}},
+    "character_findings": {"type": "array", "items": {"type": "string"}},
+    "mechanic_findings": {"type": "array", "items": {"type": "string"}},
+    "priority_changes": {"type": "array", "items": {"type": "string"}},
+    "next_test": {"type": "string"}
+  }
+}
