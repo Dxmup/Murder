@@ -2,6 +2,8 @@
 
 [`run_simulation.py`](run_simulation.py) runs the active 16-character, three-section isolated-agent test. It reads only canonical content from `design/data/` and `characters/`; there is no second versioned input tree.
 
+For the complete operating procedure, information-boundary rules, evaluator roles, recovery steps, output guide, and usage-saving advice, see [`AGENT-RUNBOOK.md`](AGENT-RUNBOOK.md).
+
 ```bash
 python3 simulation/run_simulation.py --validate-only
 python3 simulation/run_simulation.py --run-id baseline-05
