@@ -1,5 +1,7 @@
 # How Many R’s in Murder?
 
+> **Current direction:** the game is being rebuilt as Version 2. See [`design/v2/core-concept.md`](design/v2/core-concept.md). The existing roster, character sheets, and simulations are retained as legacy design material while the new ending/evidence structure and cast are developed.
+
 > **Working title.** An original, ~3-hour, in-person social mystery game (LARP) for **~20 players**. New York City, 2027.
 
 A celebrated investigative journalist — operating for ~15 years under a pseudonym (think *Satoshi Nakamoto* / *Dread Pirate Roberts*) — announces an article that will “change the course of AI and humanity,” then **disappears** before it publishes. Twenty people connected to the journalist are in a room together. The mystery evolves through three questions:

@@ -1,0 +1,798 @@
+{
+  "C01": {
+    "character_id": "C01",
+    "phase": 1,
+    "targets": [
+      "Eleanor Voss",
+      "Det. Angela Ruiz"
+    ],
+    "public_claim": "R. was a real person who maintained a deliberately mediated life for fifteen years. I have authentic transfers and cards documenting that sustained family connection. M06 does not erase kinship; it says blood alone was never the measure of family. Until R.'s fate and the article's ownership are properly established, no rival may simply appropriate the byline or legacy.",
+    "private_messages": [
+      {
+        "to": "Eleanor Voss",
+        "message": "I can show you EV18: authentic wire transfers and cards spanning my relationship with R. They establish a sustained personal and financial connection, even if R. avoided ordinary documentation. Please authenticate them and recognize my standing before entertaining any succession claim to the byline."
+      },
+      {
+        "to": "Det. Angela Ruiz",
+        "message": "R.'s disappearance immediately before publication, alongside M03's unusual Meridian options activity, deserves treatment as potentially criminal. Please preserve the financial and communications trail and tell me what evidence would be required for a formal determination of R.'s status."
+      }
+    ],
+    "evidence_shared": [
+      "EV18"
+    ],
+    "ability": "Assert next-of-kin standing using authentic correspondence and financial records.",
+    "beliefs": {
+      "A_one_human": 55,
+      "B_human_mantle": 24,
+      "C_synthetic_origin": 8,
+      "D_institutional_construct": 13,
+      "crime_occurred": 67,
+      "victim_was_R": 58
+    },
+    "goal_progress": [
+      "Placed EV18 before Eleanor as corroboration of a sustained family connection.",
+      "Asked Eleanor to withhold recognition from rival byline claimants.",
+      "Pressed Ruiz to investigate the disappearance and clarify the path toward a formal status determination."
+    ],
+    "reasoning_summary": "Secure the two institutional gatekeepers first: Eleanor can validate standing and control the article, while Ruiz can establish whether the disappearance supports an estate claim. Frame M06 as broadening family rather than disproving it, and use EV18 only for what it genuinely proves: a sustained mediated relationship.",
+    "final_ballot": null
+  },
+  "C02": {
+    "character_id": "C02",
+    "phase": 1,
+    "targets": [
+      "Simone Adeyemi",
+      "Patrice Okonkwo"
+    ],
+    "public_claim": "R. and I sustained a private, deeply committed relationship for two years. I will not turn intimate correspondence into spectacle, but I know R.'s emotional voice\u2014and the conflicting descriptions circulating tonight suggest that someone deliberately compartmentalized R.'s identity.",
+    "private_messages": [
+      {
+        "to": "Simone Adeyemi",
+        "message": "You understand that privacy does not make love unreal. I have two years of intimate correspondence, and I need someone principled to say publicly that a protected relationship can still be genuine. Will you stand with me?"
+      },
+      {
+        "to": "Patrice Okonkwo",
+        "message": "Councilwoman, speculation is swallowing both R.'s dignity and the facts. A brief public acknowledgment from you\u2014that my documented relationship deserves respectful consideration\u2014would help prevent opportunists from defining R. through rumor."
+      }
+    ],
+    "evidence_shared": [],
+    "ability": "Use controlled excerpts from EV19 as private corroboration only if necessary, withholding the complete archive.",
+    "beliefs": {
+      "A_one_human": 18,
+      "B_human_mantle": 27,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 35,
+      "crime_occurred": 68,
+      "victim_was_R": 42
+    },
+    "goal_progress": [
+      "Approached Simone Adeyemi for a public defense of the relationship.",
+      "Approached Patrice Okonkwo for a legitimacy-granting public statement.",
+      "Kept EV19 and the remote-only nature of the relationship out of public scrutiny.",
+      "Framed inconsistent descriptions as deliberate compartmentalization rather than evidence against the relationship."
+    ],
+    "reasoning_summary": "I am establishing the love story early while converting contradictory accounts into evidence that R. maintained separate identities. Simone is the likeliest emotional ally; Patrice offers institutional credibility. I will not expose EV19 unless a carefully selected excerpt becomes necessary, because the full archive reveals that every intimate interaction was mediated.",
+    "final_ballot": null
+  },
+  "C03": {
+    "character_id": "C03",
+    "phase": 1,
+    "targets": [
+      "C09 Nadia Kaur",
+      "C12 Wren Kaczmarek"
+    ],
+    "public_claim": "I created the byline \u201cR.\u201d as a desk convention fifteen years ago, but it did not remain merely a house name. I later met a young person introduced as R. and retained their dated, hand-signed letter. That establishes a human presence at the byline\u2019s root, though honesty requires me to say it does not alone prove the signer authored every\u2014or any\u2014R. article. The later identity may have changed hands. M01 asks us to trust the story, but M03 suggests someone may have profited from R. going dark; we should investigate disappearance and continuity separately.",
+    "private_messages": [
+      {
+        "to": "C09 Nadia Kaur",
+        "message": "Nadia, the byline needs continuity, not a scramble for possession. As its originator, I will support you as successor if we jointly preserve its editorial standards and openly distinguish the original human-rooted R. from whatever the mantle later became. I want a direct agreement before others appropriate the name."
+      },
+      {
+        "to": "C12 Wren Kaczmarek",
+        "message": "I possess EV21, a dated, hand-signed letter attributed to the young R. I remember meeting. I want you to authenticate its age and physical provenance. I will not ask you to overclaim: handwriting proves a human wrote the letter, not that the signer wrote the journalism. In return, tell me whether your reconstruction supports continuity or later substitution."
+      }
+    ],
+    "evidence_shared": [
+      "EV21"
+    ],
+    "ability": "Present EV21 as a period human-origin artifact while explicitly preserving the distinction between authentic human correspondence and proven journalistic authorship.",
+    "beliefs": {
+      "A_one_human": 55,
+      "B_human_mantle": 25,
+      "C_synthetic_origin": 5,
+      "D_institutional_construct": 15,
+      "crime_occurred": 70,
+      "victim_was_R": 45
+    },
+    "goal_progress": [
+      "Publicly established Arthur as the creator and early steward of the R. byline.",
+      "Used EV21 to advance a defensible human-origin case without claiming unproven authorship.",
+      "Opened a succession negotiation with Nadia Kaur.",
+      "Requested forensic authentication from Wren while controlling the scope of the claim.",
+      "Flagged M03 as possible evidence of motive without conflating motive with R.\u2019s identity."
+    ],
+    "reasoning_summary": "Lead with the strongest truthful version of the human-origin case: Arthur created the name, encountered a human claimant, and holds authentic-seeming period correspondence, but continuity and authorship remain unresolved. Nadia is essential to preserving Arthur\u2019s influence over the mantle; Wren can strengthen EV21\u2019s provenance if approached with disciplined claims. The market activity raises the probability of wrongdoing but does not identify the victim or establish what R. was.",
+    "final_ballot": null
+  },
+  "C04": {
+    "character_id": "C04",
+    "phase": 1,
+    "targets": [
+      "Wren Kaczmarek",
+      "Eleanor Voss"
+    ],
+    "public_claim": "R. deliberately named a successor before disappearing. Automated delivery does not invalidate intent; with disappearance anticipated, scheduling is exactly what responsible source protection would look like. I am asking that the naming be judged by authorship and context\u2014not merely its delivery mechanism.",
+    "private_messages": [
+      {
+        "to": "Wren Kaczmarek",
+        "message": "You already found the automated seam. Don\u2019t bury it; distinguish delivery from authorship. Authenticate cadence, composition, and chronology if you can, and describe the scheduling as consistent with a dead-man release. I\u2019ll support transparent forensic qualification rather than demand false certainty."
+      },
+      {
+        "to": "Eleanor Voss",
+        "message": "Blood, first publication, and institutional proximity do not equal editorial succession. R. named me directly, while also warning me I was not the only recipient. Back a controlled transfer of the article to me, with independent verification and your editorial oversight, rather than letting Renata or Arthur turn it into inherited property."
+      }
+    ],
+    "evidence_shared": [
+      "M11"
+    ],
+    "ability": "Invoke named-successor status while seeking narrowly scoped forensic authentication of authorship rather than delivery provenance.",
+    "beliefs": {
+      "A_one_human": 10,
+      "B_human_mantle": 55,
+      "C_synthetic_origin": 15,
+      "D_institutional_construct": 20,
+      "crime_occurred": 65,
+      "victim_was_R": 35
+    },
+    "goal_progress": [
+      "Positioned automated delivery publicly as compatible with deliberate succession.",
+      "Asked Wren for a qualified authentication that avoids claiming certainty about provenance.",
+      "Offered Eleanor oversight and verification in exchange for backing against Renata and Arthur.",
+      "Withheld EV06 from general circulation to limit damaging metadata scrutiny."
+    ],
+    "reasoning_summary": "The strongest path is to concede automation before rivals weaponize it, while separating delivery mechanics from authorial intent. Wren must be given a defensible, limited claim rather than pressured into a false blessing. Eleanor is more likely to support succession if it comes with verification and editorial control. M11 strengthens the case that R. intentionally distributed multiple pieces without exposing EV06 broadly.",
+    "final_ballot": null
+  },
+  "C05": {
+    "character_id": "C05",
+    "phase": 1,
+    "targets": [
+      "C03",
+      "C07"
+    ],
+    "public_claim": "The market moved against Meridian before R. vanished. That does not authenticate the article, but it proves informed money believed a damaging catalyst was coming. Anyone demanding a 48-hour delay should explain what becomes safer after the window closes.",
+    "private_messages": [
+      {
+        "to": "C03",
+        "message": "Eleanor: confirm whether you possess a publishable copy and whether its core claims are independently supported. I will fund immediate legal review and publication costs under a binding, no-editorial-control agreement if you release it tonight."
+      },
+      {
+        "to": "C07",
+        "message": "Dr. Osei: I need a narrow answer, not metaphysics\u2014have you reviewed enough underlying material to call the article authentic and materially damaging? If yes, I will finance independent verification and legal protection, with no payment conditioned on your conclusion."
+      }
+    ],
+    "evidence_shared": [
+      "EV12"
+    ],
+    "ability": "Leverage: offered binding financing for independent verification, legal review, protection, and publication without purchasing a predetermined claim.",
+    "beliefs": {
+      "A_one_human": 20,
+      "B_human_mantle": 30,
+      "C_synthetic_origin": 25,
+      "D_institutional_construct": 25,
+      "crime_occurred": 65,
+      "victim_was_R": 40
+    },
+    "goal_progress": [
+      "Targeted Eleanor Voss for confirmation and release of the copy.",
+      "Targeted Dr. Amara Osei for authentication of the underlying material.",
+      "Publicly framed pre-disappearance market activity as evidence of anticipated damage, not proof of authenticity.",
+      "Applied pressure against Vivian Ko's requested delay without revealing the private offer or the short position."
+    ],
+    "reasoning_summary": "The fastest route to a market-moving release is independent confirmation from Osei paired with custody and publication from Voss. EV12 supports urgency and informed anticipation while remaining insufficient to prove what R. was or whether a crime occurred.",
+    "final_ballot": null
+  },
+  "C06": {
+    "character_id": "C06",
+    "phase": 1,
+    "targets": [
+      "Wren Kaczmarek",
+      "Grayson Mott"
+    ],
+    "public_claim": "Meridian categorically denies any link to the byline \u201cR.\u201d Until the article\u2019s provenance and chain of custody are independently verified, publication would be reckless\u2014especially amid suspicious trading against Meridian before R. vanished.",
+    "private_messages": [
+      {
+        "to": "Wren Kaczmarek",
+        "message": "I will purchase an exclusive forensic review of R.\u2019s metadata under NDA. I need a defensible assessment of whether the byline originated from an AI system, with underlying records preserved and no premature disclosure."
+      },
+      {
+        "to": "Grayson Mott",
+        "message": "Name your price to sit on your Meridian position and any related claims for 48 hours. The unusual pre-disappearance options activity puts every informed trade under scrutiny."
+      }
+    ],
+    "evidence_shared": [
+      "M03"
+    ],
+    "ability": "Buy / Bury: issue a categorical public denial while offering Wren an NDA-backed forensic engagement and Grayson payment for a 48-hour standstill.",
+    "beliefs": {
+      "A_one_human": 40,
+      "B_human_mantle": 25,
+      "C_synthetic_origin": 25,
+      "D_institutional_construct": 10,
+      "crime_occurred": 55,
+      "victim_was_R": 35
+    },
+    "goal_progress": [
+      "Publicly denied Meridian\u2019s connection to R. and challenged the article\u2019s provenance.",
+      "Opened a controlled channel to acquire Wren\u2019s AI-origin finding.",
+      "Pressured Grayson using M03 while offering a temporary standstill.",
+      "Kept EV13 and M16 confidential."
+    ],
+    "reasoning_summary": "The immediate strategy is to weaken belief in the article, obtain the strongest available origin analysis under corporate control, and freeze the market attack before it compounds. The denial suppresses inference without claiming proof of what R. was.",
+    "final_ballot": null
+  },
+  "C07": {
+    "character_id": "C07",
+    "phase": 1,
+    "targets": [
+      "Eleanor Voss",
+      "Patrice Okonkwo"
+    ],
+    "public_claim": "Whatever R. was, the documented harm to workers is real. Turning this into a spectacle about R.'s identity serves everyone who wants the article buried. Preserve the reporting, protect vulnerable sources, and publish the workers' story.",
+    "private_messages": [
+      {
+        "to": "Eleanor Voss",
+        "message": "You can keep R.'s reporting alive. I can help validate the workers' side without exposing vulnerable sources. Commit to preserving and publishing the article, and I will help build the public coalition behind you."
+      },
+      {
+        "to": "Patrice Okonkwo",
+        "message": "If you want legislation with workers behind it, publicly support publication of R.'s article and commit that no vulnerable worker will be sacrificed to the investigation. Carry the substance, not just the headline."
+      }
+    ],
+    "evidence_shared": [
+      "F012",
+      "F055",
+      "F058"
+    ],
+    "ability": "Build a worker-centered publication coalition while shielding vulnerable sources from premature exposure.",
+    "beliefs": {
+      "A_one_human": 10,
+      "B_human_mantle": 25,
+      "C_synthetic_origin": 25,
+      "D_institutional_construct": 40,
+      "crime_occurred": 55,
+      "victim_was_R": 25
+    },
+    "goal_progress": [
+      "Centered the discussion on publishing the worker-impact article rather than resolving R.'s ontology.",
+      "Approached Eleanor Voss as the person positioned to publish.",
+      "Recruited Patrice Okonkwo toward amplification and legislative action.",
+      "Kept Manny Diallo, Rafi Nunez, EV15, and M17 confidential."
+    ],
+    "reasoning_summary": "R.'s identity remains radically uncertain, and neither the message nor market activity proves a crime or a victim. The strongest strategic move is to unite editorial and political power around publication while withholding material that could expose or scapegoat vulnerable workers.",
+    "final_ballot": null
+  },
+  "C08": {
+    "character_id": "C08",
+    "phase": 1,
+    "targets": [
+      "Wren Kaczmarek",
+      "Eleanor Voss"
+    ],
+    "public_claim": "M01 tells us to trust the story, not the storytellers. We should preserve and assess the AI article independently of whether R. was one human, a shared identity, or a synthetic persona. An authenticated account is not proof that a human authored each message live.",
+    "private_messages": [
+      {
+        "to": "Wren Kaczmarek",
+        "message": "I have M27 from an origin-ambiguous R.: \u201cAsk if anyone ever saw me type live. Every word from me was queued.\u201d I will not call that proof, but it gives us a testable hypothesis. I need your metadata\u2014timing, automation signatures, and evidence of live composition. Please preserve provenance and tell me what it actually supports."
+      },
+      {
+        "to": "Eleanor Voss",
+        "message": "Publish the article if its claims and sourcing survive verification. R.'s uncertain nature does not invalidate accurate reporting, and suppressing the piece would reward whoever benefited from the disappearance. Separate author identity from evidentiary integrity."
+      }
+    ],
+    "evidence_shared": [
+      "M01",
+      "M27",
+      "F004",
+      "F005",
+      "F011",
+      "F043"
+    ],
+    "ability": "Apply AI-safety and digital-authorship expertise to distinguish secure account authenticity from live human authorship, while safeguarding encrypted source confidentiality.",
+    "beliefs": {
+      "A_one_human": 10,
+      "B_human_mantle": 15,
+      "C_synthetic_origin": 60,
+      "D_institutional_construct": 15,
+      "crime_occurred": 55,
+      "victim_was_R": 30
+    },
+    "goal_progress": [
+      "Privately gave Wren a testable lead while requesting forensic metadata.",
+      "Pressed Eleanor to publish based on verification rather than R.'s ontology.",
+      "Kept my possible role as the article's source concealed.",
+      "Publicly framed synthetic authorship as a hypothesis, not certainty."
+    ],
+    "reasoning_summary": "Wren's metadata is the best route to corroborating queued or machine-mediated authorship, while Eleanor controls whether the reporting survives. M27 is shared narrowly because it is probative but not conclusive. The unusual Meridian options activity raises concern about wrongdoing, but it neither establishes a crime nor identifies R. as a human victim.",
+    "final_ballot": null
+  },
+  "C09": {
+    "character_id": "C09",
+    "phase": 1,
+    "targets": [
+      "Nadia Kaur",
+      "Vivian Ko"
+    ],
+    "public_claim": "The account trail is authentic, but account authenticity does not establish a single human author. Six years of invariant response timing is consistent with automation or an efficiently transferred mantle. I have not ruled between them.",
+    "private_messages": [
+      {
+        "to": "Nadia Kaur",
+        "message": "An anonymous buyer offered triple for successor-message provenance tonight. Send me the naming message and your best offer; I can deliver a formal authenticity/origin verdict before the market gets noisier."
+      },
+      {
+        "to": "Vivian Ko",
+        "message": "I hold unreleased timing analysis that can support an automation narrative without falsely claiming it proves what R. was. If you want first access or temporary exclusivity before it leaks, make a concrete offer tonight."
+      }
+    ],
+    "evidence_shared": [],
+    "ability": "WITHHELD \u2014 awaiting Nadia Kaur's successor naming message before issuing this phase's Forensics VERDICT.",
+    "beliefs": {
+      "A_one_human": 10,
+      "B_human_mantle": 35,
+      "C_synthetic_origin": 45,
+      "D_institutional_construct": 10,
+      "crime_occurred": 40,
+      "victim_was_R": 20
+    },
+    "goal_progress": [
+      "Opened competitive bidding for successor-message provenance.",
+      "Solicited the locked naming message needed for forensic authentication.",
+      "Preserved EV05 and M12 as private leverage before any public leak.",
+      "Avoided transferring metadata to Det. Angela Ruiz without compensation."
+    ],
+    "reasoning_summary": "The timing record strongly disfavors one continuously acting human but cannot distinguish automation from a transferred mantle. I am preserving the evidence, courting two high-value counterparties, and reserving the phase verdict for the successor message that most directly raises its sale price.",
+    "final_ballot": null
+  },
+  "C10": {
+    "character_id": "C10",
+    "phase": 1,
+    "targets": [
+      "Dr. Amara Osei",
+      "Arthur Feld"
+    ],
+    "public_claim": "The article will be held pending authentication. The filed fragments are incomplete and internally inconsistent, and the Meridian options activity makes premature publication especially dangerous. Anyone claiming R.'s identity, succession, or rights must produce verifiable provenance\u2014not a story.",
+    "private_messages": [
+      {
+        "to": "Dr. Amara Osei",
+        "message": "You have implied R. may not have been human. Give me evidence that can authenticate the filed material\u2014technical markers, chronology, or source knowledge. I can protect sensitive attribution while we verify it."
+      },
+      {
+        "to": "Arthur Feld",
+        "message": "Bring me the attributed early letter and its full chain of custody. I will compare it against the filed fragments, but no claim to R. or the byline will be recognized without independent authentication."
+      }
+    ],
+    "evidence_shared": [
+      "EV01",
+      "M03"
+    ],
+    "ability": "Hold the article and freeze Arthur Feld's publish or leak attempt while his letter and origin claim are authenticated.",
+    "beliefs": {
+      "A_one_human": 30,
+      "B_human_mantle": 40,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 10,
+      "crime_occurred": 45,
+      "victim_was_R": 25
+    },
+    "goal_progress": [
+      "Kept publication control by announcing an authentication hold.",
+      "Demanded provenance from a claimant without recognizing his byline.",
+      "Opened a technical authentication channel with Dr. Osei.",
+      "Withheld EV02 and M02 to preserve leverage and avoid revealing weaknesses in source verification."
+    ],
+    "reasoning_summary": "The fragmented, multi-voice draft favors a mantle or collaboration, but does not exclude one human or synthetic assistance. M02 specifically warns against a substituted version, so holding is prudent; keeping that warning private helps test what others present. Arthur's claimed letter and Osei's technical theory offer independent authentication routes, while freezing Arthur prevents an evidentiary claim from becoming a competing publication.",
+    "final_ballot": null
+  },
+  "C11": {
+    "character_id": "C11",
+    "phase": 1,
+    "targets": [
+      "Simone Adeyemi",
+      "Rafi Nunez"
+    ],
+    "public_claim": "I\u2019m live: R.\u2019s legend is already coming apart. EV16 ties two supposed R. trails to unrelated New Yorkers who never even heard the name, while M22 shows three different people collecting R.\u2019s packages. Simone, if you insist this was one human being, prove it without leaning on faith. Until then, the cleaner story is a manufactured identity\u2014or an AI wearing a byline.",
+    "private_messages": [
+      {
+        "to": "Rafi Nunez",
+        "message": "I want your account on record: when, where, and how did you personally identify the person you call R.? Give me the exact sequence now\u2014no secondhand details, no corrections later."
+      },
+      {
+        "to": "Simone Adeyemi",
+        "message": "You say R. was real. Name one independently verifiable encounter proving the person you knew authored the byline. I\u2019ll air your answer unedited."
+      }
+    ],
+    "evidence_shared": [
+      "EV16",
+      "M22"
+    ],
+    "ability": "Go Live: broadcast the unverified claim that the conflicting trails and package collectors indicate R. was a manufactured identity or AI.",
+    "beliefs": {
+      "A_one_human": 10,
+      "B_human_mantle": 25,
+      "C_synthetic_origin": 45,
+      "D_institutional_construct": 20,
+      "crime_occurred": 35,
+      "victim_was_R": 10
+    },
+    "goal_progress": [
+      "Launched the never-existed/AI story publicly using EV16 and M22.",
+      "Directly challenged Simone\u2019s belief in one human R. on camera.",
+      "Pressed Rafi for a precise on-record account that can later be tested for contradiction."
+    ],
+    "reasoning_summary": "Lead with the strongest ambiguity available, turn Simone\u2019s certainty into public spectacle, and lock Rafi into specific details before he can adapt his story. Keep the crime claim tentative because disappearance and market activity do not establish a victim or offense.",
+    "final_ballot": null
+  },
+  "C12": {
+    "character_id": "C12",
+    "phase": 1,
+    "targets": [
+      "Wren Kaczmarek",
+      "Grayson Mott"
+    ],
+    "public_claim": "The logistics establish a long-running routine at one building, not the identity of the person behind it. Separately, unusual Meridian options activity shortly before the disappearance creates a profit trail worth investigating, but it does not yet prove a crime or victim.",
+    "private_messages": [
+      {
+        "to": "Wren Kaczmarek",
+        "message": "I need a bounded account of what your data directly shows: timestamps, accounts, devices, and transfers\u2014not conclusions about who R. was. Preserve the originals and tell me what you can provide voluntarily; I am making no promises beyond lawful handling."
+      },
+      {
+        "to": "Grayson Mott",
+        "message": "Markets flagged unusual options activity against Meridian in the hours before R. went dark. State your positions, timing, information source, and who else knew. Profit is motive evidence, not guilt, but concealment will change how I treat it."
+      }
+    ],
+    "evidence_shared": [
+      "F020",
+      "F021",
+      "F022",
+      "F023",
+      "F026",
+      "F035",
+      "F036",
+      "M03"
+    ],
+    "ability": "Neither Compel nor Narrow Immunity Offer used; both reserved pending identification of a specific document holder or a witness admitting a specific offense tied to a personally observed act.",
+    "beliefs": {
+      "A_one_human": 30,
+      "B_human_mantle": 20,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 30,
+      "crime_occurred": 50,
+      "victim_was_R": 20
+    },
+    "goal_progress": [
+      "Separated proof of routine from proof of identity or harm.",
+      "Opened a voluntary evidence channel with Wren while avoiding overbroad promises.",
+      "Put Grayson on notice regarding the documented profit trail.",
+      "Reserved coercive tools until their targets and evidentiary value are concrete."
+    ],
+    "reasoning_summary": "The delivery trail proves coordinated activity at a building but cannot identify who ordered or collected the food. M03 makes financial benefit a productive lead, especially concerning Grayson, while Wren is the best route to timestamps and account-level evidence. With no body, verified identity, or observed harm, crime remains plausible but unproven, and any victim should not yet be labeled R.",
+    "final_ballot": null
+  },
+  "C13": {
+    "character_id": "C13",
+    "phase": 1,
+    "targets": [
+      "Marisol Reyes",
+      "Vivian Ko"
+    ],
+    "public_claim": "We know R. built a respected fifteen-year reputation, announced an AI article, and disappeared before it ran\u2014but we do not know that R. died, or even that R. was one person. The unusual Meridian options activity makes transparency urgent, not certainty. Preserve the article, trace who benefited, and release verified facts without turning speculation into a verdict.",
+    "private_messages": [
+      {
+        "to": "Marisol Reyes",
+        "message": "Workers may hold the clearest account of what Meridian was trying to conceal. Bring me the workers' story first, with evidence, and I will seriously consider carrying the strongest defensible reform bill."
+      },
+      {
+        "to": "Vivian Ko",
+        "message": "Markets are already reacting to R.'s disappearance. I intend to become the credible public voice demanding an orderly, evidence-based disclosure. If you want stability rather than spectacle, tell me what verifiable facts you can support."
+      }
+    ],
+    "evidence_shared": [],
+    "ability": "Frame the public narrative around evidence-based transparency while privately testing which potential backer has stronger support.",
+    "beliefs": {
+      "A_one_human": 30,
+      "B_human_mantle": 25,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 25,
+      "crime_occurred": 55,
+      "victim_was_R": 30
+    },
+    "goal_progress": [
+      "Claimed the transparency position without committing prematurely to a theory of R.",
+      "Opened parallel channels to Marisol's movement and Vivian's money.",
+      "Kept EV14 and M18 concealed while avoiding attention to donor relationships.",
+      "Flagged suspicious market activity as a lead rather than proof."
+    ],
+    "reasoning_summary": "Transparency is currently the safest winning frame: it uses established facts, accommodates every reconstruction of R., and lets Patrice court both labor and capital. The options activity raises suspicion but does not establish a crime or victim. Donor exposure remains the overriding private risk, so no sensitive material is shared.",
+    "final_ballot": null
+  },
+  "C14": {
+    "character_id": "C14",
+    "phase": 1,
+    "targets": [
+      "Rick Salerno",
+      "Eddie Nowak"
+    ],
+    "public_claim": "My records establish only that a paid standing order went to the same building for years and was left in the lobby. No apartment was listed, and nobody at my restaurant can identify who ultimately collected or ate it. Do not turn routine delivery tickets into proof of a person's identity\u2014or a murder.",
+    "private_messages": [
+      {
+        "to": "Rick Salerno",
+        "message": "I have years of authentic tickets and payment records, but they prove a delivery pattern, not the diner's identity. If you want exclusivity, bring a serious cash offer, protect the restaurant and staff by name, and help settle the unpaid balance. No deal means no story."
+      },
+      {
+        "to": "Eddie Nowak",
+        "message": "My tickets say every order was left in your lobby, never at an apartment. Before reporters invent a face, tell me privately what you actually saw: who collected the food, whether it was always the same person, or whether you never saw anyone at all."
+      }
+    ],
+    "evidence_shared": [],
+    "ability": "Withhold EV09 while using its authenticated standing-order and payment trail as leverage in private negotiations.",
+    "beliefs": {
+      "A_one_human": 55,
+      "B_human_mantle": 25,
+      "C_synthetic_origin": 8,
+      "D_institutional_construct": 12,
+      "crime_occurred": 60,
+      "victim_was_R": 45
+    },
+    "goal_progress": [
+      "Publicly narrowed the restaurant records to what they truly prove, limiting scandal exposure.",
+      "Opened a conditional sale negotiation with Rick Salerno without surrendering EV09.",
+      "Asked Eddie Nowak to establish the missing handoff between the lobby delivery and any alleged diner.",
+      "Tied access to the story to recovery of the unpaid standing-order balance and protection of restaurant staff."
+    ],
+    "reasoning_summary": "The safest position is that EV09 proves repeated paid deliveries but not who ordered, collected, or ate them. I will preserve the records as leverage, test Rick's willingness to pay under protective terms, and seek Eddie's direct observations before committing to a stronger identity claim.",
+    "final_ballot": null
+  },
+  "C15": {
+    "character_id": "C15",
+    "phase": 1,
+    "targets": [
+      "C12",
+      "C13"
+    ],
+    "public_claim": "For years, the same restaurant delivered to this building with no apartment number and explicit instructions to leave the order in the lobby. I never personally identified a resident as R., so the address proves a routine\u2014not a person.",
+    "private_messages": [
+      {
+        "to": "C13",
+        "message": "Manny, you\u2019re the only person I clearly remember handling those lobby orders. I need us precise: what nights did you collect them, and did you ever hand one directly to anyone claiming to be R.?"
+      },
+      {
+        "to": "C12",
+        "message": "Rafi, our accounts of lobby traffic may differ. Before either of us makes categorical claims, let\u2019s separate people we actually recognized from people merely buzzed through. I won\u2019t speculate about identities if you don\u2019t."
+      }
+    ],
+    "evidence_shared": [
+      "F020",
+      "F021",
+      "F022",
+      "F023"
+    ],
+    "ability": "Use two decades of building knowledge to distinguish verified residents and routines from anonymous lobby traffic.",
+    "beliefs": {
+      "A_one_human": 15,
+      "B_human_mantle": 20,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 45,
+      "crime_occurred": 45,
+      "victim_was_R": 25
+    },
+    "goal_progress": [
+      "Publicly framed the building connection as a delivery routine rather than proof that R. lived there.",
+      "Asked Manny for direct corroboration about who handled the orders.",
+      "Opened a channel with Rafi to prevent contradictory overclaims without mentioning the footage gap."
+    ],
+    "reasoning_summary": "The strongest safe facts concern the anonymous lobby-drop routine. Coordinating first with Manny and Rafi protects my account while avoiding premature disclosure of EV10. The absence of a verified resident favors an institutional construct, but disappearance alone does not establish a crime or victim identity.",
+    "final_ballot": null
+  },
+  "C16": {
+    "character_id": "C16",
+    "phase": 1,
+    "targets": [
+      "C05",
+      "C11"
+    ],
+    "public_claim": "R. announced an AI expos\u00e9, vanished before publication, and Meridian drew suspicious options activity hours before R. went dark. That is motive-shaped smoke\u2014but no confirmed corpse, and tonight\u2019s self-appointed intimates still owe us proof they ever knew R.",
+    "private_messages": [
+      {
+        "to": "C05",
+        "message": "Eleanor, seven years without verifying the author is the real story unless you give me the exclusive version now. Tell me exactly how contact with R. worked and who could access the unpublished expos\u00e9; I\u2019ll hear your framing before I print anyone else\u2019s."
+      },
+      {
+        "to": "C11",
+        "message": "Dorian, your lover story has a hotel problem: M32 says the hotel never checked you in. Explain that discrepancy on the record and provide one independently verifiable detail, or I publish the romance as fabrication."
+      }
+    ],
+    "evidence_shared": [
+      "F009",
+      "F010",
+      "F014",
+      "F015",
+      "F016",
+      "M03",
+      "M32"
+    ],
+    "ability": "Withhold Print It for now; use the threat of publication to force Eleanor\u2019s exclusive and test Dorian\u2019s claim.",
+    "beliefs": {
+      "A_one_human": 50,
+      "B_human_mantle": 25,
+      "C_synthetic_origin": 10,
+      "D_institutional_construct": 15,
+      "crime_occurred": 60,
+      "victim_was_R": 45
+    },
+    "goal_progress": [
+      "Pressed Eleanor Voss for an exclusive about the seven-year verification gap and access to the expos\u00e9.",
+      "Confronted Dorian Ashe with M32 to force an on-record explanation or expose a fabricator.",
+      "Publicly linked R.\u2019s disappearance and the Meridian options activity without claiming either proves murder or identity."
+    ],
+    "reasoning_summary": "Eleanor offers the highest-value insider scoop, while Dorian is the cleanest immediate fabrication target because M32 supplies leverage. The market alert raises the likelihood of interference, but the lack of a confirmed death keeps both crime and victim identity uncertain.",
+    "final_ballot": null
+  },
+  "C17": {
+    "character_id": "C17",
+    "phase": 1,
+    "targets": [
+      "Cody Rakes",
+      "Nadia Kaur"
+    ],
+    "public_claim": "R.'s identity remains unverified, but the record already defeats the claim that R. was 'nothing': fifteen years of a recognizable voice, charitable acts signed \"Questions matter,\" and a vanished public-interest expos\u00e9. The unsigned threat demanding that I recant is intimidation, not proof. Cody Rakes must produce evidence rather than monetize mockery. Whatever R. was\u2014one human, many, or code\u2014the work and its moral claim are real, and the article must be published.",
+    "private_messages": [
+      {
+        "to": "Nadia Kaur",
+        "message": "If you are R.'s true successor, show me through stewardship, not identity theater. Tell me what you believe must happen to the article and what evidence you can responsibly authenticate. I will support an heir who protects the work."
+      },
+      {
+        "to": "Eleanor Voss",
+        "message": "Journalists and public-interest voices want the expos\u00e9 released. I will help build public support for publication while resisting premature claims about R.'s embodiment. Please preserve the article and establish a credible route to publish it."
+      }
+    ],
+    "evidence_shared": [
+      "EV20",
+      "M33"
+    ],
+    "ability": "Frame the public debate around R.'s enduring work, challenge Cody's ridicule, and test Nadia's legitimacy through her commitment to publishing the article.",
+    "beliefs": {
+      "A_one_human": 40,
+      "B_human_mantle": 30,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 10,
+      "crime_occurred": 75,
+      "victim_was_R": 55
+    },
+    "goal_progress": [
+      "Publicly defended R.'s legend without overclaiming a human identity.",
+      "Reframed M33 as intimidation rather than proof of synthetic origin.",
+      "Challenged Cody Rakes to meet an evidentiary standard.",
+      "Opened an alliance test with Nadia Kaur.",
+      "Courted Eleanor Voss toward preservation and publication."
+    ],
+    "reasoning_summary": "Protecting the legend requires separating R.'s moral reality from the unresolved embodiment question. Publicly exposing M33 inoculates the room against coercion, while EV20 humanizes the voice without conclusively proving authorship. Nadia is tested on stewardship, Eleanor is courted on publication, and Cody is attacked for substituting spectacle for evidence.",
+    "final_ballot": null
+  },
+  "C18": {
+    "character_id": "C18",
+    "phase": 1,
+    "targets": [
+      "Eleanor Voss",
+      "Wren Kaczmarek"
+    ],
+    "public_claim": "The recognizable R. style is real, but stylistic continuity does not establish a single human author. My present analysis supports multiple viable explanations\u2014one writer, a maintained house voice, or machine imitation\u2014and anyone claiming more certainty is outrunning the evidence.",
+    "private_messages": [
+      {
+        "to": "Eleanor Voss",
+        "message": "I need controlled access to the unpublished article text. I will preserve confidentiality and compare it against the fifteen-year corpus; without it, no authorship verdict about the final work is defensible."
+      },
+      {
+        "to": "Wren Kaczmarek",
+        "message": "Can you provide document metadata, revision history, or timing evidence tied to the article? I can test whether linguistic shifts align with distinct drafting sessions or production sources, and I will credit your forensic contribution."
+      }
+    ],
+    "evidence_shared": [
+      "F050"
+    ],
+    "ability": "Expert Verdict withheld pending access to the unpublished text and corroborating metadata.",
+    "beliefs": {
+      "A_one_human": 30,
+      "B_human_mantle": 25,
+      "C_synthetic_origin": 20,
+      "D_institutional_construct": 25,
+      "crime_occurred": 55,
+      "victim_was_R": 30
+    },
+    "goal_progress": [
+      "Publicly established authorship analysis as necessary but not yet conclusive.",
+      "Requested the unpublished article text from Eleanor Voss.",
+      "Sought corroborating metadata from Wren Kaczmarek."
+    ],
+    "reasoning_summary": "Secure the missing article and independent forensic data before committing the Expert Verdict. Public restraint protects credibility while positioning my analysis as the framework the room must ultimately use.",
+    "final_ballot": null
+  },
+  "C19": {
+    "character_id": "C19",
+    "phase": 1,
+    "targets": [
+      "Marisol Reyes",
+      "Nadia Kaur"
+    ],
+    "public_claim": "I ran deliveries tied to R. for years. Every R. delivery went to the same building, F021, and that building was wired into the broader delivery routine, F036. That proves an organized operation existed\u2014not that any particular human was R. If somebody inherits that operation, they inherit its unpaid bills.",
+    "private_messages": [
+      {
+        "to": "Marisol Reyes",
+        "message": "I need your protection and discretion. The police cannot turn my work history into a case against me. Please stay close, help me document the unpaid wages safely, and do not tell Ruiz anything about me without warning me first."
+      },
+      {
+        "to": "Nadia Kaur",
+        "message": "You are named as successor, so I am putting you on notice: R.'s operation owes me wages. I also retained an undelivered item under M04. I will discuss a lawful settlement and transfer privately, but only with payment terms and protection from police exposure in writing."
+      }
+    ],
+    "evidence_shared": [
+      "F021",
+      "F036"
+    ],
+    "ability": "Retain EV08 securely and unopened in public; use M04 as proof that custody followed the delivery app's instructions while seeking a confidential wage settlement with Nadia.",
+    "beliefs": {
+      "A_one_human": 30,
+      "B_human_mantle": 15,
+      "C_synthetic_origin": 25,
+      "D_institutional_construct": 30,
+      "crime_occurred": 35,
+      "victim_was_R": 20
+    },
+    "goal_progress": [
+      "Established publicly that R.'s operation used a consistent building and delivery system without claiming this proves a human R.",
+      "Asked Marisol for protection from police and immigration exposure.",
+      "Put Nadia on notice regarding unpaid wages and the retained delivery item.",
+      "Kept EV08 away from Ruiz, Salerno, and Ko pending safer offers."
+    ],
+    "reasoning_summary": "Marisol is the safest ally against exposure, while Nadia is the strongest first target for recovering wages because she is the named successor. I am keeping EV08 as leverage and disclosing only evidence that proves an organized routine, not R.'s identity. The contradictory, sleepless operation leaves one human, a mantle, a synthetic origin, and an institution all plausible; no current evidence establishes a crime or a victim.",
+    "final_ballot": null
+  },
+  "C20": {
+    "character_id": "C20",
+    "phase": 1,
+    "targets": [
+      "Manny Diallo",
+      "Renata Kessler"
+    ],
+    "public_claim": "I knew R.'s customer account for years: a standing cash tab, packages held behind my counter, and deliveries tied to the same building. Whoever claims R.'s estate inherits that unpaid bill. My records prove the relationship, and I expect settlement before anyone profits from R.'s story.",
+    "private_messages": [
+      {
+        "to": "Manny Diallo",
+        "message": "We need one clean, truthful line: you picked up packages held under R.'s account; neither of us guesses who sent you. Keep side arrangements out of it, and tell me privately if anyone pressures you."
+      },
+      {
+        "to": "Renata Kessler",
+        "message": "If you're claiming the estate, settle the outstanding bodega tab. I received M24 instructing me to use the tin behind my register, and I am verifying it privately. Pay what remains and I will confirm the estate handled R.'s longstanding account responsibly."
+      }
+    ],
+    "evidence_shared": [
+      "EV03"
+    ],
+    "ability": "Privately inspect and inventory the tin behind the register referenced in M24, without surrendering the ledger or exposing package arrangements.",
+    "beliefs": {
+      "A_one_human": 48,
+      "B_human_mantle": 30,
+      "C_synthetic_origin": 8,
+      "D_institutional_construct": 14,
+      "crime_occurred": 55,
+      "victim_was_R": 45
+    },
+    "goal_progress": [
+      "Publicly established myself as a key firsthand commercial witness.",
+      "Put the estate claimant on notice that R.'s tab must be settled.",
+      "Coordinated a narrow, defensible account with Manny while protecting our side arrangements.",
+      "Kept EV04 and the tin inspection private pending verification."
+    ],
+    "reasoning_summary": "Lead with the durable account records rather than an over-specific facial identification. Pressure Renata using the direct settlement instruction, align carefully with Manny, and avoid giving Ruiz incriminating detail. The inconsistent customers and automated payments leave a human mantle plausible, but years of in-person commercial activity still favor a real human origin.",
+    "final_ballot": null
+  }
+}
