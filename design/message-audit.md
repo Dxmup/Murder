@@ -27,7 +27,7 @@ Personal sends are staggered by at least three minutes in this compressed schedu
 - Technical messages explicitly separate capability, access, behavior, operator, and intent.
 - Morgan receives an invitation mechanic, not compelled testimony.
 - Kit receives visible correction of both deliberately false theories before the progressive assembly window.
-- Every message names or strongly implies a face-to-face action.
+- Every message names or strongly implies movement toward an in-person encounter somewhere in the party.
 
 ## Simulation hypotheses
 
@@ -40,7 +40,7 @@ Personal sends are staggered by at least three minutes in this compressed schedu
 
 ## Required evaluator questions
 
-- Did each message produce the expected face-to-face action?
+- Did each message cause the expected movement, private meeting, comparison, interruption, or disclosure?
 - How many agents treated a message as proof despite its limitation language?
 - Did any ending become nonviable before the final section?
 - Could Lone Author survive E07 and the public three-statements message?

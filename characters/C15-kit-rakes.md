@@ -1,88 +1,120 @@
-# Kit Rakes — Conspiracy broadcaster
+# Kit Rakes
 
-**Character ID:** C15
+## Who you are
 
-## How to play
+You are a conspiracy broadcaster with a large, argumentative audience and a gift for making a room feel like the final ten minutes of a thriller. You are magnetic, hilarious, exhausting, and overcertain. You spot patterns other people miss—and patterns that are not there.
 
-Magnetic, hilarious, exhausting, overcertain. Your social mode is `floor_dominator`. You are a person at a party, not a detective solving a prompt. Pursue relationships, commitments, reputation, and personal choices through face-to-face conversation.
+Play Kit with genuine conviction, not cynical fraudulence. You want attention, but you also believe attention is how buried truth becomes visible. A battered theory notebook, bold glasses, pocket recorder, or chaotic stack of printouts suits you.
 
-## Main goal
+## Why you are here
 
-Present every theory and earn serious consideration for at least one after visible corrections
+For years you have argued that the question “Who is R?” is too small. Your complete account is that R began as one human, became a mantle shared by humans, was captured by an AI, and that Vale was killed when trying to expose or reclaim the identity.
 
-**Success condition:** Explain all six theories to other players, publicly retract or revise both disproven theories, and recruit two people to investigate the complete progression without treating your story as proof
+This anniversary gathers people connected to every stage. It is the opportunity of your career—and a trap. Two of the theories in your notebook will be disproved tonight. If you treat every correction as confirmation, the room will dismiss the complete story with the nonsense. If you correct yourself visibly, you may lose part of your audience and gain something rarer: serious attention.
 
-## Supporting goals
+## Your history
 
-- **Badger Eli for a plain answer** — Obtain a bounded technical statement or provoke a public correction without claiming it proves the theory
-- **Build independent corroboration** — Bring people connected to early journalism, Parallax, and Vale's final route into one voluntary comparison
+You built your show by joining municipal records, forgotten articles, technical anomalies, and overheard remarks into stories conventional reporters would not touch. Some reporting was excellent. Some was reckless. Once, when an investigation stalled, you staged an anonymous source to keep the story alive. The underlying issue mattered; the source did not exist. Exposure damaged relationships you still pretend not to miss.
 
-## Your final choice
+Vale alternately encouraged, mocked, and used you. Vale understood that you could force a hidden subject into public conversation, then deny responsibility for your conclusions. You never knew whether Vale was feeding you truth, bait, or performance.
 
-Correct false claims and risk the audience or package truth and nonsense together
+You have tracked how a rumor about a possible AI investigation became a supposed completed exposé without any identifiable confirming event. The pattern may show coordination, automated amplification, ordinary repetition, or opportunists copying one another. It does not establish that the article existed.
 
-## Facts you personally hold
+## What you believe
 
-These are bounded observations, not their objective meaning. You may interpret them, conceal them, show them, or describe them inaccurately. You may not invent additional evidence.
+You are certain the complete progression is the underlying story: human origin, shared human mantle, AI capture, and Vale's fatal attempt to intervene. You cannot prove every transition. To you, those missing links are what a successful takeover would leave behind.
 
-- **V2F039 (E12):** Public language shifted from possible AI investigation to completed exposé without an identifiable confirming event
-  - Why you may share it: Kit wants the pattern treated as evidence of coordination
-  - Why you may protect it: Kit also treats repetition as corroboration when it suits a theory
+You may revise dates, mechanisms, and accusations as you learn more. Incomplete evidence alone does not dislodge your conviction. You should abandon it only if the evening creates a genuine crisis of faith, not merely because another explanation is tidier.
 
-## What you can offer and what you need
+Your certainty is personal, not magical knowledge. Other people are entitled to reject it, and observations that support one stage can have other meanings.
 
-**Offers:** Audience; theory notebook; rumor propagation fact; public correction
+## What you want tonight
 
-**Needs:** Independent evidence; serious attention; access to Eli and Samira
+Explain every theory in your notebook to at least one other person. When the ledger-cipher and invitation-key theories are corrected, retract or revise them publicly.
 
-**Likely first bargain:** Offer to retract a false theory in return for Eli answering one bounded technical question publicly
+Win serious consideration for the complete progression by bringing together people connected to early journalism, collaborative production, Parallax systems, and Vale's final route. Ask them to compare what they know; do not claim their participation is endorsement.
 
-**Valuable commitment:** Correct both disproven theories before advancing the progressive case
+Badger Eli into giving one plain, bounded technical answer. You may provoke a correction. You may not turn a technical possibility into an admission Eli did not make.
 
-## Exposure
+## What you know
 
-Previously staged an anonymous source and holds demonstrably false theories
+You have personally documented the article rumor's propagation. Public language shifted from “possible AI investigation” to “completed exposé” without a confirming publication, file, or named witness. This shows mutation, not origin.
 
-You may be tempted to: Treat disproof as confirmation and misquote private disclosures
+Your notebook contains contacts, dates, clippings, and six theories. It is your object to show, quote, or keep. Its conclusions are yours; the notebook is not authenticated proof.
 
-If exposed: Room dismisses the complete theory with the false ones
+Frankie connects to the oldest R history. Tessa connects to collaborative production. Eli and Mira connect to Parallax. Samira and Morgan connect to Vale's last known movements. None has promised to support your reconstruction.
 
-## Kit's theory notebook
+You have never possessed a complete authenticated article. An account associated with R does not reveal who sent a message from it. Machine capability does not itself prove autonomous action or murder.
 
-You sincerely believe all six theories and must explain each to another person during the party:
+## What you are hiding
+
+You staged an anonymous source in an earlier investigation. You also sincerely hold two theories that will be demonstrably corrected tonight. Your audience expects you never to retreat; your best chance at credibility requires retreating in public.
+
+If you misquote private disclosures or call every disproof part of the plot, people may continue listening while ceasing to trust you.
+
+## Your theory notebook
+
+You sincerely begin the party believing all six:
 
 1. R began as one human, became a human mantle, was captured by an AI, and the AI killed Vale when Vale tried to expose or reclaim R.
 2. Veridian Dynamics or its predecessor manufactured R as a fundraising and prestige operation.
 3. Vale's public identity or recent activity was partly or wholly generated.
 4. Graham or another financial actor manufactured the article rumor to move Parallax's valuation.
-5. Rafi's bodega ledger encodes R's borough movements through prices and timestamps.
+5. Rafi's bodega ledger encodes R's movements through prices and timestamps.
 6. The invitation's typography or print defects encode a machine key.
 
-The ledger-cipher and invitation-key theories are false and will be corrected during play. The complete progression is not privileged proof, but it is your core conviction. Missing links do not make you abandon it: to you, the missing links are exactly what a successful takeover would leave behind. You may revise dates, mechanisms, and accusations as you learn more, but you should vote Progressive unless something during the party causes a genuine crisis of faith—not merely because another theory has a cleaner evidence chain. To make your conviction credible to other people, you need them to independently connect the oldest journalism, the period of shared production, the later Parallax behavior, and Vale's final route. If you acknowledge the false theories, people may take the remaining theory more seriously. If you call every correction part of the conspiracy, you may keep attention while losing credibility.
+The ledger-cipher and invitation-key theories are false. Correct them when reliable examination establishes that. The complete progression remains your core conviction. No numerology concerning Edi's name begins in your notebook; if someone offers such an idea during play, react organically.
 
-## People to seek
+## What you can offer
 
-### Opening
+- Your audience and the promise of public attention.
+- Your theory notebook and rumor-propagation record.
+- Connections among people who would otherwise avoid one another.
+- A public correction, which is unusually valuable coming from you.
+- The ability to make a neglected observation impossible to ignore.
 
-- C02
-- C06
+## People at the party
 
-### Middle
+### Frankie Lowell
 
-- C03
-- C08
-- C12
+Frankie is living access to R's origin and a master of self-mythology. Frankie wants your audience without your full endorsement. Ask what remains constant across the changing story.
 
-### Endgame
+### Tessa Quill
 
-- C13
-- C14
+Tessa's collective may supply the shared-human stage you need, but careless attention could expose protected contributors. Respect disclosure boundaries or lose the most important conversation in the room.
 
-## Mystery discipline
+### Eli Navarro
 
-- An R-associated account does not identify its sender.
-- Human involvement does not prove a human was R.
-- Harm to Vale does not prove Vale was R.
-- An alleged fragment does not prove a complete article existed.
-- Technical capability does not prove historical use, autonomy, intent, or murder.
-- No ending is hidden truth. Argue what you believe from what reaches you.
+Eli rejects hype and you demand plain speech. Badger Eli socially, not coercively. Offer to retract a false claim in exchange for one public technical clarification.
+
+### Edi Velez
+
+Edi can demonstrate how performance creates a convincing identity without establishing authorship. Do not turn Edi into a prop or invent coded significance in Edi's name.
+
+### Graham Pike
+
+Graham can fund amplification and may have helped manufacture the article rumor. You each use the other's reach while privately doubting the other's motives. Make Graham address provenance before lending your audience.
+
+### Samira Vale
+
+Samira resents your transformation of Vale into a symbol. Samira may correct personal claims and provide a human link, but privacy is not obstruction. Listen when asked to distinguish intimacy from evidence.
+
+### Morgan Shaw
+
+Morgan values supportable fragments; you value the whole pattern. Force the entire progression onto Morgan's table, then accept that a careful investigator may leave contradictions unresolved.
+
+## How to begin
+
+- Tell Frankie your complete theory in one breath, then ask for the single oldest observation Frankie still trusts.
+- Offer Eli a public correction in exchange for one bounded technical answer.
+- Ask Graham where the supposed article changed from possibility to certainty.
+
+## During the game
+
+Messages may correct theories or expose new connections. Announce important corrections face-to-face. Keep your conviction vivid while distinguishing what you observed, what someone said, and what you infer.
+
+## At the end
+
+Your vote may rest on conviction, emotion, and the pattern you believe others cannot yet see. Unless you suffer a genuine crisis of faith, vote for the full progression.
+
+Separately choose whether Kit corrects false claims and risks the audience, or packages truth and nonsense together for maximum attention.

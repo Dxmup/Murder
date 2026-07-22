@@ -7,18 +7,26 @@ The host paces the gathering, starts each message section, protects consent and 
 ## Before the game
 
 - Read [`canon.md`](canon.md), [`canon-timeline.md`](canon-timeline.md), and [`roster.md`](roster.md).
-- Cast C01–C16. Add C17–C20 only after their optional materials are complete.
-- Give every player their booklet from [`../characters/`](../characters/).
+- Cast C01–C16 for the core game. Add C17–C20 together when running the complete 20-player variant.
+- Verify that every player's inbox contains the welcome email, the correct private briefing from [`../characters/`](../characters/), and only that character's historical mail.
 - Prepare the physical objects listed in [`objects-and-bargains.md`](objects-and-bargains.md) and [`data/evidence.csv`](data/evidence.csv).
-- Load the message schedule from [`data/messages.csv`](data/messages.csv).
-- Verify that the app displays an email-style `To:` line distinguishing individual messages from `Everyone at Fifteen Years of R`.
+- Load the unified inbox records and live schedule from [`data/messages.csv`](data/messages.csv).
+- Verify that the app displays `From:`, `To:`, `Date:`, and `Subject:`, distinguishes individual mail from `Everyone at Fifteen Years of R`, and preserves historical dates and provenance labels.
 - Prepare anonymous ballots and all four ending reveals from [`canon.md`](canon.md).
+
+## Staging the house
+
+Treat the home as a party venue, not as a game table or a series of encounter stations. Provide several naturally usable conversation zones, including places where two or three people can speak privately without leaving play entirely. Keep hallways and doors clear, make accessibility needs part of the layout, and place refreshments so movement and casual encounters happen without host direction.
+
+Do not assign players to rooms or require location turns. Props begin with their character unless a specific design document says otherwise and travel physically with whoever holds them. The host may establish which household areas are out of play, but movement within the playable space is free.
 
 ## Opening briefing
 
 Tell players:
 
-- This is a face-to-face social game; the phone delivers short provocations rather than hosting the investigation.
+- This is an immersive party throughout the house, not a tabletop game. Players may move freely, form private conversations, leave conversations, and share information selectively.
+- The phone is only a private inbox. It delivers context and provocations, then sends players back into the party.
+- Their inbox is a private, incomplete archive. They may voluntarily show its contents, but no sender, recovered message, or interface label is automatically authoritative.
 - Facts are bounded observations. Characters may lie, exaggerate, omit, bargain, speculate, and change their minds.
 - Objects can be shown or transferred only voluntarily.
 - No ability forces truth, testimony, cooperation, or a vote.
@@ -28,7 +36,7 @@ Tell players:
 
 ## Section operation
 
-At the start of each section, press Send once on the host dashboard. Group messages arrive simultaneously; individual messages follow their scheduled offsets. Do not pause the room for routine personal messages.
+At the start of each section, press Send once on the host dashboard. Group messages arrive simultaneously; individual messages follow their scheduled offsets in the same inbox used for pre-game material. Sections alter pressure without stopping free movement or turning play into rounds. Do not gather everyone for routine personal messages.
 
 ### Section 1
 
@@ -52,7 +60,7 @@ Collect three choices:
 
 1. **R identity:** One Human, Human Mantle, Synthetic Origin, or Progressive.
 2. **Vale’s relationship to R:** use the choices defined in `canon.md` and the app ballot.
-3. **Vale’s fate:** killed by AI, killed by a person, voluntarily vanished, alive but prevented from returning, or insufficient evidence.
+3. **Vale’s fate:** use the choices defined in `canon.md` and the inbox ballot.
 
 Players may cite what influenced them, but do not reject a ballot for incomplete evidence. Count the result transparently. Use the agreed tie rule before play; the default is a brief runoff on the tied question.
 

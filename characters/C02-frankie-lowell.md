@@ -1,90 +1,126 @@
-# Frankie Lowell — Retired metro editor
+# Frankie Lowell
 
-**Character ID:** C02
+## Who you are
 
-## How to play
+You are a retired metro editor, a survivor of deadlines, ownership changes, expense-account lunches, and the slow conversion of New York newsrooms into expensive apartments. You are funny because a good line buys attention. You are grandiose because, in your experience, modest people get edited out of history. You are also sentimental, territorial, and more vulnerable than you intend anyone to notice.
 
-Funny, grandiose, sentimental, territorial. Your social mode is `floor_dominator`. You are a person at a party, not a detective solving a prompt. Pursue relationships, commitments, reputation, and personal choices through face-to-face conversation.
+You have told the story of discovering R for fifteen years. It is one of the stories by which younger journalists know you—and one of the stories by which you know yourself.
 
-## Main goal
+Play Frankie expansively. Tell anecdotes, interrupt affectionately, remember old headlines, and make people laugh before asking them to agree with you. A battered press badge, fountain pen, folded newspaper, or jacket that has seen better newsrooms would suit you.
 
-Leave recognized as a credible witness to R's origin rather than merely a teller of legends
+## Why you are here
 
-**Success condition:** Persuade two other characters to publicly cite a bounded part of Frankie's account while openly addressing the expense-record contradiction
+Veridian Dynamics is honoring fifteen years of R, and you are the evening's journalism legend. You expect to be recognized as the editor who first saw what R could become. You also expect to have a say in what happens to the name now.
 
-## Supporting goals
+Vale was supposed to attend. Vale recently asked whether you remembered meeting R or merely remembered telling the story. It was an elegant insult, and it landed. Vale also told you, without explaining, that they had found “the first R.” Now Vale is absent and an R-associated account has promised a reckoning.
 
-- **Determine what the First R Letter establishes** — Obtain one provenance assessment and one competing interpretation
-- **Choose a worthy steward of the legacy** — Publicly support or reject Jules, Tessa, or another claimant with stated reasons
+You came prepared to defend an origin story. You may instead have to decide whether the story deserves defending.
 
-## Your final choice
+## Your history
 
-Protect a career-defining human-origin story or admit it may be partly self-authored
+You spent decades on the metro desk, where the city arrived as phone calls, tips, grudges, obituaries, court filings, and people who insisted their block was the center of the world. Often they were right. You learned that reporting is collaborative and credit is not—but you still believe an editor can recognize a singular voice before anyone else does.
 
-## Facts you personally hold
+Near the first R publication, a paper letter reached your desk. You remember an in-person encounter around its delivery: a guarded stranger, a charged conversation, the unmistakable feeling that somebody had brought you a career. The letter led toward work published under the R byline. You preserved it.
 
-These are bounded observations, not their objective meaning. You may interpret them, conceal them, show them, or describe them inaccurately. You may not invent additional evidence.
+Over time, the scene grew polished. You told it at panels, retirements, and fundraisers. Details shifted: the weather, the meeting place, what the visitor wore, whether the letter was handed to you or waiting when you returned. You called that ordinary memory. Other people called it mythmaking.
 
-- **V2F001 (E01):** A paper letter reached Frankie's desk near the first R publication
-  - Why you may share it: Frankie wants recognition for discovering R
-  - Why you may protect it: Frankie fears scrutiny of the delivery story
+Years later, you attended an encounter you understood as a meeting with R. You now know Edi Velez performed a commissioned identity for an unidentified client. That does not tell you who commissioned Edi or whether the performance concealed one author, represented a group, or embodied something nonhuman. It does mean one of your proudest human encounters may have been theater.
 
-- **V2F010 (E04):** The succession message resembles both an old newsroom phrase and a Parallax recommendation format
-  - Why you may share it: Frankie and Eli each want their expertise credited
-  - Why you may protect it: Neither can establish which resemblance matters
+You care for the old newsroom world without pretending it was just. Tessa Quill is right that translators, researchers, assistants, and sources disappear beneath famous bylines. Tessa is wrong, you think, to treat individual authorship as merely vanity. A voice can belong to a person even when many hands sustain it. Or so you need to believe.
 
-- **V2F013 (E05):** A witness later described Edi's performance as an encounter with R
-  - Why you may share it: Frankie wants the human encounter preserved
-  - Why you may protect it: Frankie fears losing a career-defining story
+## What you believe
 
-- **V2F021 (E08):** Vale told Frankie that Vale had found the first R
-  - Why you may share it: Frankie wants his origin story validated
-  - Why you may protect it: Frankie cannot show what Vale meant
+Your instinct says R began with one human being. The physical letter, the private habits that recur across years, and the stubborn coherence of the voice feel personal to you. Your belief is emotional as much as evidentiary: you want the beginning of R to contain the encounter that made your own career feel consequential.
 
-## What you can offer and what you need
+You cannot prove the visitor wrote the letter. You cannot prove the letter's sender wrote the first article. You cannot prove that one person remained R afterward. Collaboration, performance, shared rituals, and technical systems could all preserve apparent continuity.
 
-**Offers:** O01 viewing; origin history; public prestige
+You may change your mind. You may also decide that an imperfect memory still contains a human truth worth defending.
 
-**Needs:** Archive corroboration; witness validation; legacy influence
+## What you want tonight
 
-**Likely first bargain:** Let Arden inspect O01 in return for the intake report and Veridian crediting Frankie
+Leave the party recognized as a credible witness rather than merely a teller of legends. Persuade at least two people to cite a bounded part of your account while acknowledging its weakness. Agreement bought by suppressing the contradiction will not feel like vindication for long.
 
-**Valuable commitment:** Publicly qualify the meeting story
+Determine what the First R Letter actually establishes. Arden has Veridian's intake report and an expense record. If Farah Haddad is present, Farah once examined the letter informally. Seek both corroboration and a competing interpretation.
 
-## Exposure
+Finally, decide who—if anyone—deserves stewardship of R's legacy. Jules wants succession. Tessa rejects private ownership. Arden wants institutional custody. You can bless, reject, or propose another arrangement, but make your reasons public enough to cost you something.
 
-The remembered meeting has changed across retellings and conflicts with an expense record
+## What you know
 
-You may be tempted to: Use prestige to suppress the expense contradiction
+You possess the First R Letter packet. The paper letter reached your desk near the first publication under the R name. Its paper, ink, folds, and contents look right for the period. You personally associate it with an encounter, but the object does not identify its writer, courier, or author.
 
-If exposed: Public humiliation and collapse of human-origin authority
+You know Veridian has an intake report assessing the materials as period-consistent. The report cannot establish authorship. Arden also has an expense entry that conflicts with your remembered location at the time of the supposed handoff. You have no satisfying explanation yet. Bookkeeping could be wrong; your date could be wrong; the meeting could have occurred differently; or your celebrated version could be partly constructed.
 
+You recognize a peculiar, non-public habit repeated in R-associated communications and transactions. Rafi Calderón has records showing the pattern. It could be one person's habit, a ritual passed among people, or a persistent persona setting.
 
+The message apparently naming Jules as a successor contains a formulation from the First R Letter. Eli says its structure also resembles a Parallax recommendation output. Resemblance establishes neither source.
 
-## People to seek
+You later described Edi's commissioned performance as meeting R. Edi can tell you what was performed, but not necessarily who stood behind the commission.
 
-### Opening
+Vale told you, “I found the first R.” Vale did not explain whether that meant an original author, a founder, a proxy, a toolmaker, or merely the first person Vale could locate. Vale's confidence is not corroboration.
 
-- C01
-- C04
+Later, a private message may challenge your memory directly. Another may tell you more about the language in Jules's succession message. Neither message will decide what happened for you.
 
-### Middle
+## What you are hiding
 
-- C03
-- C08
-- C18
+Your origin story has changed across retellings, and you have encouraged the cleanest version because people wanted it and because it made you important. You did not sit down and fabricate a lie. You allowed memory, applause, and repetition to edit together.
 
-### Endgame
+Admitting that may cost you authority at the precise moment you want to choose R's heir. Concealing it may cost something worse: Edi, Arden, or the records could expose the gaps, making every true part of your account look false.
 
-- C04
-- C13
-- C15
+Honesty would become worthwhile if someone could treat uncertainty as something other than humiliation—perhaps Arden offering a qualified public record, Jules accepting a legacy with conditions, or Tessa acknowledging that you preserved something real even if you did not create it.
 
-## Mystery discipline
+## What you can offer
 
-- An R-associated account does not identify its sender.
-- Human involvement does not prove a human was R.
-- Harm to Vale does not prove Vale was R.
-- An alleged fragment does not prove a complete article existed.
-- Technical capability does not prove historical use, autonomy, intent, or murder.
-- No ending is hidden truth. Argue what you believe from what reaches you.
+- Voluntary viewing of the First R Letter packet.
+- Early newsroom history and your memory of R's emergence.
+- Recognition, introductions, and public prestige within journalism.
+- Your comparison between the letter's language and Jules's message.
+- Your account of the encounter later revealed as Edi's performance.
+- A public endorsement—or a public refusal—concerning R's future.
+
+You can show the letter, quote from it, or keep it close. Nobody can compel you to surrender it. Arden controls the separate intake and expense records.
+
+## People at the party
+
+### Arden Bell
+
+Arden needs your blessing to make the anniversary respectable; you need Veridian's archive to keep your story from becoming cocktail-hour folklore. You suspect Arden is monetizing R, but you also know archives require money. Offer access to the letter in return for the full, qualified record—not a ceremonial endorsement.
+
+### Tessa Quill
+
+Tessa sees celebrated bylines as machines for erasing collective labor. You find Tessa severe, brilliant, and occasionally ungrateful toward the editors who protected that labor. Test the collective account without demanding names. Decide whether a shared workflow disproves your human origin or merely complicates what followed.
+
+### Jules Kwan
+
+Jules wants the old guard to recognize a succession. You enjoy the ambition and distrust its polish. Make Jules confront the weaknesses in the message before offering support. If you bless Jules, decide whether you are passing on a legacy or manufacturing another origin story.
+
+### Edi Velez
+
+Edi may be the human being you once described as R. That possibility embarrasses you, but Edi was working, not necessarily deceiving you for pleasure. Ask who framed the encounter and what Edi was asked to perform. Offer respect before demanding absolution.
+
+### Samira Vale
+
+Samira resents having Vale converted into evidence. You want to know what Vale meant by finding the first R and whether Vale trusted you. Samira may know Vale's habits, not Vale's conclusions. Speak with care; grief and anger are not archive services.
+
+### Kit Rakes
+
+Kit calls your memory proof one moment and cover-up the next. Kit has an audience you would like and a progressive theory you cannot dismiss entirely. Let Kit press you—but correct any claim that turns your letter into more than it is.
+
+### Rafi Calderón
+
+Rafi's account records preserve a recurring private habit. You recognize it from early R material. Rafi may embellish, but the overlap matters. Compare what each of you actually observed before announcing what it means.
+
+## How to begin
+
+- Ask Arden to examine the letter packet and place the intake report and expense record beside it.
+- Invite Jules to explain why succession deserves recognition without first asking you for a blessing.
+- Find Tessa and say, sincerely, that you want to know which parts of your old newsroom story erased other people's work.
+
+## During the game
+
+Private messages may bruise your pride or strengthen parts of your account. Use them to restart conversations. You may show records, tell stories selectively, revise a detail, or admit that applause improved your memory.
+
+No object or account settles R. A human encounter does not establish human authorship; a staged encounter does not establish a synthetic author. You are allowed to vote from instinct, loyalty, resentment, or hope as well as evidence. You are not allowed to invent observations.
+
+## At the end
+
+Vote for the account of R you find most persuasive after hearing the room. Then decide whether Frankie protects the career-defining legend, publicly qualifies it, or helps create a legacy that no longer requires Frankie to have been right about everything.

@@ -1,90 +1,118 @@
-# Dr. Mira Sen — Founder of Parallax Systems
+# Dr. Mira Sen
 
-**Character ID:** C05
+## Who you are
 
-## How to play
+You founded Parallax Systems, an influential artificial-intelligence company whose products are praised as civic infrastructure and condemned as privatized power—sometimes by the same people in the same sentence. You are warm, visionary, politically fluent, and controlling. You rarely issue an order when you can make another person feel they proposed it.
 
-Warm, visionary, politically fluent, controlling. Your social mode is `one_to_one`. You are a person at a party, not a detective solving a prompt. Pursue relationships, commitments, reputation, and personal choices through face-to-face conversation.
+Play Mira as genuinely persuasive. You believe technology can improve institutions, and you also believe consequences are easier to manage when you control the terms. A minimalist jacket, discreetly expensive accessory, company pin, or slim project folder would suit you.
 
-## Main goal
+## Why you are here
 
-Prevent Parallax from becoming a convenient villain while determining what deployment occurred
+Parallax helped fund Veridian and this anniversary. Vale was expected to attend after receiving limited access connected to a Parallax project. Rumors say Vale—or R—had an article about your company. You have never seen a complete authenticated article.
 
-**Success condition:** Form a defensible public position supported by one technical voice and one affected-community voice, neither obtained through payment alone
+Now Vale is absent, R has promised a reckoning, and almost every possible story makes Parallax useful as a villain. You need to learn what deployment occurred, prevent rumor from becoming verdict, and decide whether protecting the company still means protecting the truth.
 
-## Supporting goals
+## Your history
 
-- **Recover the authorization chain** — Exchange access or protection for enough information from Eli or Celeste to identify a decision point
-- **Address real worker harm independently of R** — Offer Maren a concrete remedy that remains valuable even if the article was imaginary
+You built Parallax by translating research into products and products into political inevitability. The company employs talented people, funds public-interest work, and has created systems with genuine benefits. It has also relied on contractors and evaluators whose labor is described as “feedback” rather than expertise.
 
-## Your final choice
+Parallax developed a continuity process capable of maintaining a persistent persona across different operators and technical migrations. Legitimate uses included service consistency, preservation, and resilient public interfaces. You approved the parent project. You did not closely supervise every later experiment or access route.
 
-Contain the deployment or reveal it and accept institutional consequences
+The process eventually touched infrastructure also used by R-associated accounts. You did not personally watch that happen. Surviving records bound your authorization at the project level but leave individual uses unclear. Eli Navarro, then a reliability engineer, preserved logs after an order to delete them. You resent the breach and fear what the logs contain; you also know Eli may be the only person in the room capable of preventing exaggeration.
 
-## Facts you personally hold
+You donated heavily to Veridian when Arden needed rescue. The agreement includes a condition allowing funding to pause if Veridian presents unauthenticated technical claims as fact. You regard that as ordinary accuracy language. Arden concealed the condition from the board, and you understood that the provision gave Parallax leverage whether or not you invoked it.
 
-These are bounded observations, not their objective meaning. You may interpret them, conceal them, show them, or describe them inaccurately. You may not invent additional evidence.
+## What you believe
 
-- **V2F015 (E06):** Parallax built a process that could maintain a persistent persona across operators and migrations
-  - Why you may share it: Mira wants the legitimate project purpose understood
-  - Why you may protect it: Mira concealed the project's uncontrolled uses
+You believe people are eager to assign intention to systems and innocence to institutions. Parallax built capability; that does not establish autonomous authorship, historical control of R, or harm to Vale. Your instinct is that people, tools, and organizations became entangled around the R persona.
 
-- **V2F017 (E06):** Mira approved the parent project but the surviving record does not show approval of every use
-  - Why you may share it: Mira wants responsibility bounded
-  - Why you may protect it: Celeste wants the off-calendar access concealed
+You are less certain than you appear. Activity reportedly continued after Vale's temporary credential was revoked. That could reflect remapping, cloned automation, another credential, falsified logs, or an autonomous process. You need records and physical corroboration before choosing among them.
 
-- **V2F030 (E10):** Vale's temporary credential was revoked before profile-linked behavior continued
-  - Why you may share it: Mira wants revocation treated as responsible action
-  - Why you may protect it: Mira fears the continued activity
+Your emotional bias is defensive: accusations against Parallax feel like accusations against everything you built. The workers affected by the project did not choose to become shields for your legacy.
 
-- **V2F038 (E12):** Mira and Celeste planned for a possible R story without recording that either had seen it
-  - Why you may share it: Each wants the other to explain the concern
-  - Why you may protect it: Both concealed the discussion
+## What you want tonight
 
-## What you can offer and what you need
+Form a defensible public position supported by one technical voice and one affected-community voice. Neither support should be purchased or coerced. Eli's bounded account and Maren's independent judgment matter more than a paid statement.
 
-**Offers:** Money; legal support; access records; O07b authorization half
+Recover the authorization chain. Compare your record with Eli's logs and Celeste's deleted calendar entry to identify a decision point without pretending the surviving record is complete.
 
-**Needs:** Eli's logs; worker cooperation; political containment
+Address real worker harm whether or not R or the rumored article existed. Offer Maren a remedy—legal support, compensation, audit rights, or enforceable policy—that remains valuable under every mystery conclusion.
 
-**Likely first bargain:** Offer Eli independent counsel in exchange for a bounded log comparison
+## What you know
 
-**Valuable commitment:** Fund worker remedy without controlling testimony
+Parallax built a process that could maintain a persistent persona across operators and migrations. Capability is not proof that it became R or operated independently.
 
-## Exposure
+You approved the parent project. Your authorization record does not show approval of every later use. You hold one half of a deleted-calendar recovery: a limited Parallax access authorization associated with Vale. Celeste holds the calendar context. Neither half records what Vale learned.
 
-Approved a project that accessed R-associated infrastructure without close supervision
+Vale's temporary credential was revoked before behavior linked to the profile continued. The continued activity is concerning, but several human and technical explanations remain possible.
 
-You may be tempted to: Buy silence or make funding conditional on a conclusion
+You and Celeste planned for a possible R story. Neither of you recorded having seen an article. Concern about a rumor demonstrates stakes, not that the rumored work existed.
 
-If exposed: Parallax becomes the obvious coercive villain
+You know Arden concealed the donation restriction from Veridian's board. You have not invoked it. Someone may nevertheless try to use it tonight.
 
+Private messages will clarify the limits of your approval record and the limits of what “revoked” establishes. Do not treat legal phrasing as technical certainty.
 
+## What you are hiding
 
-## People to seek
+You approved a project that accessed R-associated infrastructure without ensuring close supervision of every use. Internally, Parallax discussed uncontrolled applications and prepared for reputational consequences. You allowed ambiguity about responsibility because precise responsibility would have required slowing the project.
 
-### Opening
+If exposed, you may become the obvious coercive villain. That could destroy the company, Veridian's funding, and your authority to repair harm. Concealment, however, makes every later offer look like hush money.
 
-- C01
-- C11
+You can disclose the parent authorization, accept bounded responsibility, and fund remedies without conceding claims the records do not establish. That course costs control but may preserve legitimacy.
 
-### Middle
+## What you can offer
 
-- C06
-- C07
-- C12
+- Independent counsel, money, jobs, and material worker remedies.
+- Your authorization half of the deleted-calendar recovery.
+- Project-charter and access context.
+- Legal and technical access for a qualified review.
+- Continued or renegotiated support for Veridian.
+- A public acceptance of bounded corporate responsibility.
 
-### Endgame
+Money can support a bargain; it cannot make another person's conclusion genuine.
 
-- C06
-- C07
-- C11
+## People at the party
 
-## Mystery discipline
+### Arden Bell
 
-- An R-associated account does not identify its sender.
-- Human involvement does not prove a human was R.
-- Harm to Vale does not prove Vale was R.
-- An alleged fragment does not prove a complete article existed.
-- Technical capability does not prove historical use, autonomy, intent, or murder.
-- No ending is hidden truth. Argue what you believe from what reaches you.
+Arden accepted your rescue funding and concealed its restrictions. You understand why and dislike being positioned as the sole author of the compromise. Decide whether to renegotiate, defend, or disclose the agreement together. Veridian's survival matters to you, though perhaps not on Arden's terms.
+
+### Eli Navarro
+
+Eli violated a deletion order and may have preserved evidence your company failed to preserve. You need to know what remains; Eli needs authorization context and protection. Offer independent counsel for a bounded comparison, not silence. Your history contains anger, respect, and mutual fear.
+
+### Maren Okafor
+
+Maren represents workers who evaluated outputs under shifting persona instructions. Maren expects every remedy to arrive with narrative control attached. Prove otherwise. Ask what remains valuable even if no article existed and R had nothing to do with Parallax.
+
+### Celeste Park
+
+Celeste arranged political access and erased a meeting from the official calendar. You share exposure but not identical interests. Celeste can make the city disown you; you can reveal how the city facilitated access. Consider shared responsibility instead of coordinated denial.
+
+### Graham Pike
+
+Graham profits if Parallax's value falls and will turn any reaction into evidence. You cannot charm Graham into neutrality. Challenge provenance, disclose conflicts, and avoid giving theatrical outrage the market signal Graham wants.
+
+### Jules Kwan
+
+Jules's succession message resembles a Parallax recommendation format, but resemblance proves little. Jules may ask whether a system selected them. Resist answering an ownership question with technical vocabulary.
+
+### Inez Baptiste
+
+Inez sees institutions arrive with promises and leave with data. Neighborhood participation could make any remedy real—or expose it as public relations. Offer enforceable local benefit rather than access to your prestige.
+
+## How to begin
+
+- Ask Arden whether the donation agreement can survive public qualification and renegotiation.
+- Offer Eli independent counsel in exchange for comparing one log excerpt with your authorization record.
+- Ask Maren for a remedy that would matter even if every R rumor vanished tomorrow.
+
+## During the game
+
+Messages will increase legal and technical pressure. Return to the room and negotiate what records actually support. You may reveal, contain, fund, apologize, or draw defensible boundaries. Do not convert technical possibility into innocence or guilt.
+
+Your ballot need not resemble a corporate risk memo. Trust, betrayal, fear, and your changing judgment of Vale may shape what you believe.
+
+## At the end
+
+Vote for the account of R that persuades you. Separately decide whether Mira contains the deployment and protects Parallax, reveals it and accepts institutional consequences, or creates a transparent remedy strong enough to survive uncertainty.

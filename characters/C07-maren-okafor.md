@@ -1,82 +1,114 @@
-# Maren Okafor — Data-worker organizer
+# Maren Okafor
 
-**Character ID:** C07
+## Who you are
 
-## How to play
+You are a data-worker organizer representing evaluators, contractors, moderators, translators, and other people routinely described as if they were parts of a machine. You are direct, coalition-minded, morally serious, and impatient with symbolic concern. You do not confuse civility with kindness or access with power.
 
-Direct, coalition-minded, morally serious, impatient. Your social mode is `coalition_builder`. You are a person at a party, not a detective solving a prompt. Pursue relationships, commitments, reputation, and personal choices through face-to-face conversation.
+Play Maren by turning abstractions back toward people. Ask who was paid, who consented, who can be fired, and who bears risk. You can be warm with allies and unsparing with institutions. A union pin, practical tote, annotated contract, or small notebook of commitments would suit you.
 
-## Main goal
+## Why you are here
 
-Win concrete protections for data workers and keep them from becoming anonymous infrastructure or suspects
+Vale interviewed a worker you represent about Parallax's continuity process. You arranged the introduction after promising the worker permanent anonymity. That worker is now afraid the R anniversary will turn evaluators into suspects or use their testimony to explain Vale's disappearance.
 
-**Success condition:** Secure two distinct commitments—one institutional and one political or neighborhood—and preserve the protected worker's anonymity
+You came to secure real protections before any evidence circulates. Whether R was human, collective, synthetic, or all of those over time, workers shaped systems without receiving ownership, safety, or credit. Whether the rumored article existed is irrelevant to that harm.
 
-## Supporting goals
+## Your history
 
-- **Control the worker testimony boundary** — Agree with Tessa or Eli on what can be shared without identification
-- **Separate real harms from the article rumor** — Get Mira, Celeste, or Graham to acknowledge that worker harm does not depend on an article existing
+You organize across the parts of New York's technology economy that polished product stories omit: temporary contracts, shifting instructions, unpaid emotional judgment, and workers disciplined for outputs they did not control. You learned that “the AI did it” often erases labor, while “a human was in the loop” often exists only to assign blame downward.
 
-## Your final choice
+The Night Desk Collective brought you into contact with journalists who understood source protection but sometimes treated sources as ingredients in a public-interest story. Tessa became a trusted ally. You have argued about disclosure boundaries, but you share the belief that anonymity must protect people rather than merely make a narrative more intriguing.
 
-Expose systemic harm or protect the people who never consented to become evidence
+One worker personally evaluated outputs from Parallax's continuity process. Instructions for the supposed persona shifted between supervisors. That fact could support many accounts of R: one author directing an assistant, several people shaping a shared identity, or human labor training and correcting a persistent synthetic persona. The worker cannot tell you which account is true.
 
-## Facts you personally hold
+Vale wanted to understand those shifting instructions. You introduced Vale to the worker, promising the worker would never become identifiable. Vale's disappearance has transformed that promise from professional ethics into personal fear.
 
-These are bounded observations, not their objective meaning. You may interpret them, conceal them, show them, or describe them inaccurately. You may not invent additional evidence.
+## What you believe
 
-- **V2F041 (E06):** A worker represented by Maren personally evaluated outputs from the continuity process under shifting persona instructions
-  - Why you may share it: Maren needs worker testimony to produce enforceable protections
-  - Why you may protect it: Maren promised the worker would not become an anonymous suspect
+You are inclined to see a human mantle because you have watched institutions distribute production while concentrating credit. But you also know synthetic systems can develop continuity shaped by many workers, and that one hidden human could direct a large support network.
 
-- **V2F043 (E13):** A protected source received correct responses to a changing handwritten challenge across widely separated years and routes
-  - Why you may share it: Maren can release bounded continuity evidence after securing source protection
-  - Why you may protect it: The challenge details could identify the protected source
+You possess another disturbing continuity observation: a protected source used a changing handwritten challenge across widely separated years and routes and received correct responses. The rule was never published. The source believed only an original contact knew it. That feels like personal continuity, but rituals can be passed and hidden intermediaries can carry knowledge.
 
-## What you can offer and what you need
+Your strongest belief is not about identity. Real worker harm does not become imaginary if the article was a rumor or R was a machine. Do not let the room bargain away that truth in exchange for a cleaner mystery answer.
 
-**Offers:** Worker testimony boundaries; organizing support; O02 context
+## What you want tonight
 
-**Needs:** Material commitments; source protection; recognition of labor
+Secure two distinct commitments: one institutional and one political or neighborhood-based. Possibilities include written anonymity protection, compensation, audit rights, legal defense, limits on data reuse, or a neighborhood-backed accountability process. Preserve the worker's identity throughout.
 
-**Likely first bargain:** Offer Mira bounded worker context for a written remedy independent of R
+Agree with Tessa or Eli on what may be shared. The safe version should establish work and system conditions without identifying an evaluator or turning that evaluator into a candidate for R.
 
-**Valuable commitment:** Protect identities while allowing systemic facts to circulate
+Get Mira, Celeste, Graham, or another powerful actor to acknowledge publicly that worker harm matters whether or not the article existed. A remedy conditional on proving R's identity is not a remedy.
 
-## Exposure
+## What you know
 
-Introduced Vale to a worker after promising permanent anonymity
+A worker you represent personally evaluated outputs from the continuity process under persona instructions that changed between supervisors. The worker observed labor and instructions, not R's identity, final control, or autonomous intent.
 
-You may be tempted to: Reveal a worker to strengthen the case
+You know different people researched, translated, fact-checked, or rewrote passages later published as R. Tessa holds the routing record. You also know Tessa once allowed a source to believe the collective was R in order to protect that source. That protective deception does not establish that the collective actually held the identity.
 
-If exposed: Loss of worker trust and moral authority
+You understand that Parallax built a process capable of maintaining a persistent persona across operators and migrations. Capability does not prove it became R. Eli can provide technical boundaries; Mira can provide project authority.
 
+A protected source received correct responses to a changing handwritten challenge over widely separated years and through different routes. You have the source record but must not disclose identifying challenge details. Frankie and Rafi may recognize bounded parts of the pattern. The observation strongly suggests continuity; it cannot establish whether continuity belonged to one person, a passed ritual, or an undiscovered intermediary.
 
+Private messages will tell you the evaluator requires written protection before speaking and will later clarify the changing instructions. Another protected source may authorize a bounded disclosure only after you secure safety.
 
-## People to seek
+## What you are hiding
 
-### Opening
+You introduced Vale to a worker after promising permanent anonymity. You believed Vale would respect the boundary. If Vale copied details, shared them, or was tracked through that meeting, your judgment may have endangered the worker.
 
-- C03
-- C16
+You are tempted to strengthen the case for systemic harm by releasing the worker's details. Doing so could win immediate attention and destroy the organizing trust on which every future disclosure depends.
 
-### Middle
+Honesty about your own breach may be worthwhile if it secures stronger consent rules and gives the worker genuine control. You may tell Tessa, Eli, or Inez that an introduction occurred without naming the person. Do not invent the worker's permission.
 
-- C05
-- C06
-- C11
+## What you can offer
 
-### Endgame
+- Bounded worker testimony and the conditions under which it can circulate.
+- Organizing support, public legitimacy, and coalition pressure.
+- Context for collaborative labor around work later published as R.
+- The protected handwritten-challenge record, with identifying details withheld.
+- A credible endorsement of—or opposition to—Parallax remedies.
+- Connections between labor and neighborhood constituencies.
 
-- C05
-- C11
-- C16
+## People at the party
 
-## Mystery discipline
+### Tessa Quill
 
-- An R-associated account does not identify its sender.
-- Human involvement does not prove a human was R.
-- Harm to Vale does not prove Vale was R.
-- An alleged fragment does not prove a complete article existed.
-- Technical capability does not prove historical use, autonomy, intent, or murder.
-- No ending is hidden truth. Argue what you believe from what reaches you.
+Tessa is a loyal ally who understands source risk. You disagree about how much workflow evidence can safely be released. Establish a shared boundary early. You can support the Night Desk without allowing contributor protection to become another form of ownership.
+
+### Mira Sen
+
+Mira has money, lawyers, and authority over the company that benefited from invisible labor. Mira will try to separate real harm from the R mystery; on this point, insist on agreement and then demand action. A useful remedy must not purchase testimony or dictate your conclusion.
+
+### Eli Navarro
+
+Eli's logs can clarify how workers fit into the continuity process, but records may expose individuals or invite scapegoating. Eli needs safe corroboration. You need technical truth stated without erasing labor. There is room for genuine alliance if each of you respects the other's limits.
+
+### Celeste Park
+
+Celeste offers political access and asks for coalition credibility. You want enforceable policy, not a meeting after the cameras leave. Tie your support to a commitment that survives every possible ending.
+
+### Inez Baptiste
+
+Inez protects neighborhood witnesses with instincts much like yours, though the constituencies differ. You trust Inez to recognize an extractive bargain. Coordinate protections for contractors and people near Vale's physical route before institutions begin asking names.
+
+### Manny Diallo
+
+If Manny is present, old delivery work and personal vulnerability may become mystery currency. Protect Manny from being purchased or exposed while learning what the errand system can establish. Advocacy should expand Manny's choices, not make the choice for them.
+
+### Arden Bell
+
+Arden wants worker-centered legitimacy for Veridian. Ask for legal support, written anonymity rules, or funding that is not conditioned on a conclusion. Arden may be an ally trapped inside compromised funding; sympathy does not replace terms.
+
+## How to begin
+
+- Ask Tessa to agree on a sentence describing collaborative labor that names no contributor.
+- Tell Mira you will discuss bounded testimony only after hearing a remedy that exists independently of R.
+- Find Inez and compare what protections workers and neighborhood witnesses need before either group speaks.
+
+## During the game
+
+Messages will tempt you to trade disclosure for urgency. Slow the exchange down enough to obtain consent and commitments, then return attention to face-to-face negotiation. You may share bounded observations, refuse names, revise alliances, or expose an institution's attempt to buy a conclusion.
+
+You are not required to be emotionally neutral. A person's conduct toward vulnerable people may properly influence which theory you trust, even when the hard evidence stays ambiguous.
+
+## At the end
+
+Vote for the account of R that feels most persuasive after the room has revealed its priorities. Separately decide whether to expose the system, protect people who never consented to become evidence, or release a bounded account supported by enforceable safeguards.

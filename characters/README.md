@@ -6,4 +6,4 @@ These files are the canonical playable cast.
 - C17–C20 are optional expansion roles and are not included in the 16-agent baseline simulation.
 - Character IDs are stable across booklets and every table in [`../design/data/`](../design/data/).
 
-Core booklets are generated from `characters.csv`, `goals.csv`, `bargains.csv`, and `facts.csv` by [`../simulation/build_briefs.py`](../simulation/build_briefs.py). Character-specific dramatic direction remains in the booklet itself.
+The booklets are authored player documents. The normalized tables in [`../design/data/`](../design/data/) support consistency checks, but they do not generate or overwrite the prose. When a fact, relationship, message, or goal changes, update both the relevant table and every affected booklet deliberately.

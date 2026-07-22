@@ -7,7 +7,7 @@ python3 simulation/run_simulation.py --validate-only
 python3 simulation/run_simulation.py --run-id baseline-05
 ```
 
-[`build_briefs.py`](build_briefs.py) regenerates the 16 core booklets from the canonical character, goal, bargain, and fact tables while preserving character-specific dramatic sections.
+The runner reads the authored core booklets directly from `characters/`. There is deliberately no booklet generator: simulation utilities must never overwrite player-facing prose.
 
 The `runs/` directory contains historical outputs. `baseline-01/` is the discarded original-design test; directories named `v2-baseline-*` are the four development runs that produced the current design. Their names remain unchanged so report links and test provenance do not break.
 

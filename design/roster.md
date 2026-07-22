@@ -12,7 +12,7 @@ Only these story constraints survive:
 - the alleged article may never have existed and its fate is never revealed;
 - one private investigator is the only formal investigator;
 - no forced testimony, truth, object surrender, cooperation, or voting;
-- the webapp provides the opening story, individual character booklets, and sparse timed/triggered messages without replacing face-to-face play.
+- the webapp provides a character-specific inbox without replacing free movement and private in-person play.
 
 ## The gathering
 
@@ -25,6 +25,14 @@ The evening was planned before Vale disappeared. It was supposed to celebrate fi
 An R-associated account promised that the anniversary would include **“a reckoning.”** The message is authentic to the account; its sender and meaning are unknown.
 
 This is a party with a mystery inside it, not an investigative task force. Everyone arrived wanting something before anyone asked them to solve R.
+
+## Physical play model
+
+The game is performed as a real house party, not played around a table. Players move freely through the host's home, form and leave conversations without taking turns, and use separate rooms, hallways, and outdoor areas for privacy or selective disclosure. A conversation is known only to the people who could naturally hear it; there is no automatic public table talk.
+
+The house is production space rather than a board. Props can be carried, hidden on a person, shown privately, or voluntarily handed over. The design should create reasons to cross the party, interrupt a social knot, draw someone aside, return to a prior conversation, or decide whether to let another person overhear.
+
+Sections change dramatic pressure and message availability, but they do not gather everyone into formal rounds. Except for the opening briefing, section transitions when needed, and the ending, the host should remain socially unobtrusive.
 
 ## Cast-design engine
 
@@ -419,7 +427,7 @@ Every character should have incentives to support and undermine more than one re
 
 Do not automatically give every player three abilities merely because an earlier format did. First write the relationship graph, objects, secrets, and goals; then add a small physical ability card only where conversation alone will not reliably circulate necessary information.
 
-Deals, promises, accusations, voluntary object transfers, favors, challenges, and betrayals happen face-to-face. The app does not record or adjudicate them.
+Deals, promises, accusations, voluntary object transfers, favors, challenges, and betrayals happen through conversations within the party. These may be private, selectively witnessed, interrupted, or overheard. The app does not record or adjudicate them.
 
 Likely signature mechanics, subject to testing:
 
@@ -433,33 +441,19 @@ No combat, arrest, pickpocketing, forced truth, Compel, Immunity, universal cred
 
 ## Minimal webapp
 
-The app is a dramaturgical delivery layer, not the game's operating system. It has only three player-facing functions.
+The app is a dramaturgical delivery layer, not the game's operating system. Its only player-facing interface is the character's email-style inbox.
 
-### 1. Opening story
+At first sign-in, the inbox already contains:
 
-- a short pre-event premise and public cast list;
-- the host-controlled opening beat at the party;
-- optional audio, image, or R-account message that establishes the anniversary and Vale's absence.
+- a welcome email with the public premise, cast, and practical instructions;
+- a private briefing email containing the character booklet;
+- any character-specific historical mail, with its original narrative dates and provenance visible.
 
-The opening should be suitable for projection or host read-aloud so players are not all staring at separate phones during the first scene.
+During play, the same inbox receives sparse host-triggered and scheduled mail. The final reconstruction email opens the ballot. There are no separate opening-story, booklet, evidence, or ballot destinations in player navigation.
 
-### 2. Individual character booklets
+The inbox is a partial archive, not a neutral database. Different players possess different correspondence. Forwarded, recovered, archived, drafted, and disputed messages preserve those qualifications, and no interface treatment authenticates a sender or interpretation.
 
-- public identity and costume guidance before the event;
-- private background, goals, relationships, secret, clue, and starting suggestions unlocked at check-in;
-- a printable version for players who prefer paper.
-
-The booklet is reference material, not an interface players must continually operate.
-
-### 3. Private and scheduled messages
-
-- sparse timed messages;
-- host-triggered messages when a story beat is ready;
-- private recipient lists and occasional per-character variants;
-- displayed sender and basic channel presentation where ambiguity matters;
-- attachments only when a digital format is narratively necessary.
-
-Messages should point players back into the room: approach a person, reconsider a promise, reveal or conceal a fact, respond to pressure, or inspect a physical object. They should never require a lengthy phone exchange.
+Messages should send players back into the house: find a person, draw someone into a private room, reconsider a promise, reveal or conceal a fact, respond to pressure, compare historical correspondence, or inspect a physical object. They should never require a lengthy phone exchange. Printable briefing and accessibility alternatives may be generated from the same canonical content.
 
 ### Explicitly outside the app
 
@@ -471,25 +465,25 @@ Messages should point players back into the room: approach a person, reconsider 
 - challenge and correction workflows;
 - ability targeting;
 - credibility scores;
-- location movement;
+- tracking or restricting location movement;
 - ordinary accusations and testimony.
 
 Physical object cards move by hand. Any money or favors use simple tokens. Rare adjudication goes to the host. Final voting can be paper by default, with an optional host-only tally screen if useful.
 
 ### Phone-time budget
 
-Design for less than five total minutes of required phone attention during a three-hour game:
+Design for less than five total minutes of required phone attention during a three-hour party:
 
-- one brief check-in/booklet unlock;
+- one brief check-in and review of the preloaded inbox;
 - approximately four to six meaningful inbox arrivals per character;
 - messages readable in under twenty seconds;
 - no required written replies.
 
-Notifications should be noticeable but not constant. A message is successful when the recipient puts the phone away and immediately seeks another player.
+Notifications should be noticeable but not constant. A message is successful when the recipient puts the phone away, moves through the party, and seeks another player.
 
 ## Three-section message architecture
 
-The message schedule follows the game's three sections. Nothing is scheduled against the event's absolute clock.
+Live delivery follows the game's three sections. Historical inbox items instead retain their original narrative dates and are present before play; they are never scheduled against the event clock.
 
 At the start of each section, the host reviews the queue and presses **Send Section** once. That action records the section start time and arms every message assigned to it. Messages then deliver automatically according to their relative delay.
 

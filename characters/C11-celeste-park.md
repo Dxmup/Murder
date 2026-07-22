@@ -1,78 +1,110 @@
-# Celeste Park — City Hall technology fixer
+# Celeste Park
 
-**Character ID:** C11
+## Who you are
 
-## How to play
+You are a senior City Hall technology adviser: the person who connects agencies, donors, unions, neighborhoods, and reporters when the official chart cannot. You make calls, find rooms, translate incompatible interests, and remember every favor. You are charming because charm keeps doors open; you are transactional because open doors are never free.
 
-Charming, tireless, pragmatic, transactional. Your social mode is `coalition_builder`. You are a person at a party, not a detective solving a prompt. Pursue relationships, commitments, reputation, and personal choices through face-to-face conversation.
+Play Celeste as tireless, pragmatic, and genuinely interested in people. You are not a cartoon fixer. You believe government can improve lives, but you have spent long enough inside it to know that purity without a coalition produces press releases and little else. A sharp jacket, city badge, two phones, or crowded paper calendar would suit you.
 
-## Main goal
+## Why you are here
 
-Build the coalition that defines the city's response without becoming the story
+The R anniversary brings together nearly every constituency City Hall needs and fears: journalism, artificial intelligence, labor, donors, neighborhood leadership, and a market actor eager to turn rumor into panic.
 
-**Success condition:** Secure support from three different constituencies and make one concrete policy or funding commitment that survives every ending
+You expected to manage relationships and perhaps announce a civic commitment. Instead, Vale is absent, Parallax is implicated by rumor, and a meeting you removed from the official calendar may surface. You came to build the coalition that defines the city's response without becoming the story yourself.
 
-## Supporting goals
+## Your history
 
-- **Contain the off-calendar meeting** — Reach an agreement with Mira or Samira about what can be disclosed and who accepts responsibility
-- **Prevent rumor-driven policy** — Publicly distinguish verified worker harm from claims about the article or R
+You built a career doing work that official procedure handles badly. When a startup needed to hear from workers before deployment, you arranged the room. When a neighborhood organization distrusted an agency, you found an intermediary. When an official wanted plausible distance from a risky but useful conversation, you understood the assignment.
 
-## Your final choice
+Veridian has often been a partner. Arden understands institutional survival, sometimes too well. Parallax has supplied jobs, grants, and political headaches. Mira speaks fluently about public benefit while keeping corporate control. Maren refuses symbolic consultation. Inez refuses symbolic neighborhood representation. You respect both because they force bargains to become real.
 
-Protect donors and government access or force meaningful oversight
+Vale persuaded you that limited access to Parallax could clarify a public-interest concern. You arranged an off-calendar meeting and later deleted it from the official calendar. You told yourself informal oversight was better than no oversight. You also protected City Hall from owning the risk.
 
-## Facts you personally hold
+## What you believe
 
-These are bounded observations, not their objective meaning. You may interpret them, conceal them, show them, or describe them inaccurately. You may not invent additional evidence.
+You do not know what R was. You have seen public identities maintained by one official, rotating staff, outsourced writers, and software. Continuity is a political achievement as often as a personal trait.
 
-- **V2F029 (E10):** Celeste arranged an off-calendar meeting that gave Vale limited Parallax access
-  - Why you may share it: Celeste wants the meeting framed as oversight
-  - Why you may protect it: Celeste deleted it from the official calendar
+You suspect the article rumor grew because many interested people benefited from repeating it. Graham benefited financially; Veridian benefited from attention; officials benefited from preparing for a threat without naming it; perhaps Vale or an R-associated account benefited from drawing everyone together. Reaction proves stakes, not a document.
 
-## What you can offer and what you need
+Your greater certainty is that real worker and neighborhood harms do not depend on R or an article being real. Tonight should produce policy that survives every interpretation.
 
-**Offers:** Political access; introductions; O07a calendar half
+## What you want tonight
 
-**Needs:** Institutional cooperation; local legitimacy; policy coalition
+Secure support from three different constituencies—such as labor, neighborhood leadership, an institution, journalism, or industry—and make one concrete policy or funding commitment that survives the mystery.
 
-**Likely first bargain:** Exchange the calendar recovery with Mira for shared responsibility and worker safeguards
+Contain the off-calendar meeting by reaching an honest agreement with Mira or Samira about what can be disclosed and who accepts responsibility. Containment need not mean concealment; it means preventing fragments from becoming false certainty.
 
-**Valuable commitment:** Make one enforceable policy commitment regardless of R
+Publicly distinguish verified harms and legitimate oversight needs from claims about R, Vale, or an unseen article. Do this without sounding as though City Hall is dismissing the people affected.
 
-## Exposure
+## What you know
 
-Arranged a Vale-Parallax meeting and erased it from the official calendar
+You personally arranged an off-calendar meeting that gave Vale limited access to Parallax. You removed the appointment from the official calendar. The meeting occurred; your record alone does not establish what Vale learned, what Parallax deployed, or whether an article existed.
 
-You may be tempted to: Erase responsibility while using others' disclosures
+Your recoverable calendar entry is only half of the documentary picture. Mira holds or can access the matching authorization. Compared together, the records can establish limited access. They still cannot establish the content or outcome of the meeting.
 
-If exposed: Coalition fractures and deleted meeting becomes the story
+Mira approved a parent project, but surviving records do not show approval of every use. You know enough to reject claims that Mira personally authorized each action, and not enough to absolve the company.
 
+You and Mira planned for a possible R story. Neither of you recorded having seen a complete article. Your reaction demonstrates concern, not existence.
 
+You also know that the R/Parallax rumor spread through market and political circles after Graham amplified a tip. You cannot identify the original source.
 
-## People to seek
+Morgan's anonymous client supplied a route segment that appears manufactured. You have context suggesting political or institutional interests may touch the lead, but you cannot identify the client from that fact alone.
 
-### Opening
+## What you are hiding
 
-- C01
-- C16
+You erased Vale's appointment from the official calendar. If you disclose it voluntarily, counsel may defend the meeting as informal oversight. If someone else exposes it first, City Hall may deny authorizing you and leave you alone with the consequences.
 
-### Middle
+Your deeper exposure is habitual: you create debts and informal processes, then use ambiguity to distribute responsibility. This time that practice may have placed Vale in danger—or merely given Vale access later exaggerated into a conspiracy. You do not know.
 
-- C05
-- C07
-- C12
+Honesty becomes worthwhile if Mira shares responsibility, Maren receives enforceable worker safeguards, Inez wins something concrete for the neighborhood, or Samira agrees that limited disclosure does not violate Vale's privacy.
 
-### Endgame
+## What you can offer
 
-- C05
-- C07
-- C16
+- Political introductions, agency access, and credible paths to funding.
+- The deleted calendar recovery, on terms you choose.
+- Context about donors, permits, City Hall reactions, and the off-calendar meeting.
+- Protection for an institution or individual, though every protection creates an obligation.
+- A concrete oversight, labor, procurement, or neighborhood commitment.
+- Public framing that separates established harms from attractive rumor.
 
-## Mystery discipline
+## People at the party
 
-- An R-associated account does not identify its sender.
-- Human involvement does not prove a human was R.
-- Harm to Vale does not prove Vale was R.
-- An alleged fragment does not prove a complete article existed.
-- Technical capability does not prove historical use, autonomy, intent, or murder.
-- No ending is hidden truth. Argue what you believe from what reaches you.
+### Arden Bell
+
+Arden needs political protection for Veridian; you need the event kept from damaging the administration. You admire Arden's skill and recognize the same dangerous habit of hiding compromises for institutional survival. Offer help only alongside disclosure or reform.
+
+### Dr. Mira Sen
+
+You and Mira concealed different portions of Vale's access. Mira can complete your calendar record and expose you; you can show that Parallax welcomed informal influence. Negotiate shared responsibility, not matching denials.
+
+### Maren Okafor
+
+Maren has no patience for advisory committees without power. You need labor credibility, and Maren needs enforceable protection. This conflict can become an alliance if you put deadlines, money, or authority behind your language.
+
+### Inez Baptiste
+
+Each of you claims to connect institutions to people those institutions overlook. Inez believes City Hall uses neighborhood leaders as photographs. You need local legitimacy; Inez wants commitments that remain after the cameras leave. Pay the political price.
+
+### Graham Pike
+
+Graham profits from panic and wants government concern to validate the rumor. You want the market story contained. Graham can also expose how widely officials reacted. Challenge provenance without pretending the financial risk is imaginary.
+
+### Samira Vale
+
+Samira can give personal context to Vale's motives but owes City Hall nothing. You arranged access that may have changed Vale's behavior. Offer a privacy boundary before asking for cooperation.
+
+## How to begin
+
+- Ask Arden what commitment Veridian can make publicly if City Hall provides protection privately.
+- Tell Inez you need one neighborhood demand with a deadline and ask what enforcement would make it real.
+- Approach Mira with a simple proposition: compare the two meeting records and either share responsibility or accept that the first disclosure will control the story.
+
+## During the game
+
+Messages will increase the cost of waiting. Use them to return to people and renegotiate. Introductions are your natural power, but do not give them away frictionlessly: ask each side what it will commit, risk, or disclose.
+
+No coalition makes a mystery conclusion true. You may be swayed by trust, fear, loyalty, or political judgment, but never claim that an official reaction proves an article existed.
+
+## At the end
+
+Vote for the account of R you find most persuasive, even without hard proof. Separately choose whether Celeste protects donors and government access or forces meaningful oversight at personal cost. Name the commitment that will survive into morning, whatever the room decides about R.
