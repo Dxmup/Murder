@@ -11,3 +11,5 @@ The first V2 baseline is complete; see [`baseline-01-findings.md`](baseline-01-f
 [`baseline-02-findings.md`](baseline-02-findings.md) shows that the controlled revision reduced Progressive from 14 to 12 votes but did not produce a One Human or Synthetic Origin advocate. Baseline 03 preparation adds a protected human-continuity ritual and a pre-byline machine-persona manifest as rival affirmative chains without deleting Kit's deliberately complete theory.
 
 [`baseline-03-findings.md`](baseline-03-findings.md) records the overcorrection: Human Mantle won 15–1 because rival evidence arrived too late and collaboration remained sufficient for a mantle vote. Baseline 04 will move the rival evidence earlier and require theory-specific evidence combinations.
+
+[`baseline-04-findings.md`](baseline-04-findings.md) records an 8–8 Synthetic Origin/Human Mantle split, but only half the ballots met their theory's two-chain support test. One Human and Progressive still lacked advocates. The next pass should improve protected circulation and reduce public saturation before another full run.

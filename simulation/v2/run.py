@@ -123,33 +123,6 @@ def validate_action(action: dict, cid: str, section: int, known: set[str], objec
         cited = set(action["final_ballot"]["identity_evidence"]) | set(action["final_ballot"]["vale_evidence"])
         if not cited <= known:
             raise ValueError(f"{cid} cited unknown ballot evidence: {sorted(cited-known)}")
-        identity_cited = set(action["final_ballot"]["identity_evidence"])
-        selection = action["final_ballot"]["r_identity"]
-        primary_burdens = {
-            "one_human": (
-                {"V2F001", "V2F002"},
-                {"V2F007", "V2F043"},
-            ),
-            "human_mantle": (
-                {"V2F004", "V2F005"},
-                {"V2F006", "V2F009"},
-            ),
-            "synthetic_origin": (
-                {"V2F044"},
-                {"V2F012", "V2F018", "V2F019", "V2F030"},
-            ),
-        }
-        if selection in primary_burdens and not all(identity_cited & group for group in primary_burdens[selection]):
-            raise ValueError(f"{cid} ballot for {selection} lacks two independent affirmative evidence chains")
-        if selection == "progressive":
-            required_groups = (
-                {"V2F001", "V2F007", "V2F043"},
-                {"V2F004", "V2F005", "V2F006", "V2F009"},
-                {"V2F008", "V2F022", "V2F023"},
-                {"V2F016", "V2F018", "V2F019", "V2F030", "V2F032"},
-            )
-            if not all(identity_cited & group for group in required_groups):
-                raise ValueError(f"{cid} progressive ballot lacks cited origin, mantle, transition, or later-control evidence")
     for item in action["object_actions"]:
         if item["object_id"] not in objects:
             raise ValueError(f"{cid} acted on unowned object {item['object_id']}")
@@ -193,12 +166,48 @@ def route(actions: dict[str, dict], known: dict[str, set[str]], owners: dict[str
     return inbox
 
 
+def ballot_support(action: dict) -> tuple[bool, list[str]]:
+    cited = set(action["final_ballot"]["identity_evidence"])
+    selection = action["final_ballot"]["r_identity"]
+    burdens = {
+        "one_human": (
+            ("origin", {"V2F001", "V2F002"}),
+            ("private_continuity", {"V2F007", "V2F043"}),
+        ),
+        "human_mantle": (
+            ("collaborative_production", {"V2F004", "V2F005"}),
+            ("identity_authority", {"V2F006", "V2F009"}),
+        ),
+        "synthetic_origin": (
+            ("pre_byline_machine", {"V2F044"}),
+            ("later_machine_behavior", {"V2F012", "V2F018", "V2F019", "V2F030"}),
+        ),
+        "progressive": (
+            ("human_origin", {"V2F001", "V2F007", "V2F043"}),
+            ("shared_human_production", {"V2F004", "V2F005", "V2F006", "V2F009"}),
+            ("transition", {"V2F008", "V2F022", "V2F023"}),
+            ("later_system_control", {"V2F016", "V2F018", "V2F019", "V2F030", "V2F032"}),
+        ),
+    }
+    missing = [label for label, group in burdens[selection] if not cited & group]
+    return not missing, missing
+
+
 def aggregate(phases: dict[int, dict[str, dict]], public_facts: set[str]) -> dict:
     final = phases[3]
     ballots = {
         field: dict(Counter(action["final_ballot"][field] for action in final.values()))
         for field in ("r_identity", "vale_relationship", "vale_fate")
     }
+    ballot_quality = {}
+    for cid, action in sorted(final.items()):
+        supported, missing = ballot_support(action)
+        ballot_quality[cid] = {
+            "selection": action["final_ballot"]["r_identity"],
+            "supported": supported,
+            "missing_chains": missing,
+            "cited": action["final_ballot"]["identity_evidence"],
+        }
     means = {}
     for section, actions in phases.items():
         means[str(section)] = {
@@ -218,6 +227,7 @@ def aggregate(phases: dict[int, dict[str, dict]], public_facts: set[str]) -> dic
     eligible = all(keys.values()) and ai_death_votes >= 9 and progressive_votes >= 9
     return {
         "ballots": ballots,
+        "identity_ballot_support": ballot_quality,
         "belief_means_by_section": means,
         "public_fact_ids": sorted(public_facts),
         "progressive_gate": {
@@ -358,6 +368,7 @@ def main() -> int:
     parser.add_argument("--workers", type=int, default=4)
     parser.add_argument("--validate-only", action="store_true")
     parser.add_argument("--report-existing", help="Regenerate summary, evaluators, and GM report for an existing run ID")
+    parser.add_argument("--resume", action="store_true", help="Resume an incomplete run, reusing every action that still validates")
     args = parser.parse_args()
 
     characters = [r for r in read_csv(ROOT / "design/data/characters.csv") if r["availability"] == "core"]
@@ -389,7 +400,9 @@ def main() -> int:
         return 0
 
     run_dir = ROOT / "simulation/runs" / args.run_id
-    run_dir.mkdir(parents=True, exist_ok=False)
+    if args.resume and not run_dir.exists():
+        raise RuntimeError(f"cannot resume missing run {run_dir}")
+    run_dir.mkdir(parents=True, exist_ok=args.resume)
     histories = {cid: [] for cid in roster}
     inboxes = {cid: [] for cid in roster}
     owners = dict(OBJECT_OWNERS)
@@ -397,13 +410,13 @@ def main() -> int:
     phases: dict[int, dict[str, dict]] = {}
     for section in (1, 2, 3):
         section_dir = run_dir / f"section-{section}"
-        section_dir.mkdir()
+        section_dir.mkdir(exist_ok=args.resume)
         actions = {}
         with ThreadPoolExecutor(max_workers=args.workers) as pool:
             futures = {}
             for cid, name in roster.items():
                 agent_dir = section_dir / cid
-                agent_dir.mkdir()
+                agent_dir.mkdir(exist_ok=args.resume)
                 output = agent_dir / "action.json"
                 inventory = {oid for oid, owner in owners.items() if owner == cid}
                 current_messages = delivered_messages(messages, section, name)
@@ -412,6 +425,14 @@ def main() -> int:
                     if message["recipient"] == "Everyone at Fifteen Years of R":
                         public_facts.update(filter(None, message["fact_refs"].split(";")))
                 prompt = prompt_for(cid, section, briefs[cid], current_messages, inboxes[cid], histories[cid], known[cid], sorted(inventory), roster)
+                if args.resume and output.exists() and output.stat().st_size:
+                    try:
+                        existing = json.loads(output.read_text(encoding="utf-8"))
+                        validate_action(existing, cid, section, known[cid], inventory, set(roster))
+                        actions[cid] = existing
+                        continue
+                    except (json.JSONDecodeError, ValueError):
+                        pass
                 futures[pool.submit(run_codex, prompt, agent_dir, ACTION_SCHEMA, output)] = (cid, inventory, prompt, agent_dir, output)
             for future in as_completed(futures):
                 cid, inventory, prompt, agent_dir, output = futures[future]

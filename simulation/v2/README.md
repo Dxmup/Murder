@@ -45,6 +45,12 @@ If character turns completed but reporting failed, regenerate only the aggregate
 python3 simulation/v2/run.py --report-existing v2-baseline-01
 ```
 
+If a character action fails deterministic validation after its correction attempt, resume the run and reuse every action that still validates:
+
+```bash
+python3 simulation/v2/run.py --run-id v2-baseline-04 --resume --workers 4
+```
+
 ## Remaining build work
 
 - run the first baseline and inspect whether the compressed protocol itself biases behavior;
