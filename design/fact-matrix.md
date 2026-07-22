@@ -1,47 +1,55 @@
-# Fact-to-Character Matrix (§15 / Next Steps #4–#5)
+# Fact Distribution Audit 01
 
-> **Legacy V1 artifact.** It references the discarded cast and old fact model; it is not V2 canon.
+## Scope
 
-Who knows what, and when. Normalized source of truth is `data/facts.csv` (`who_knows` + `release_phase`) and `data/characters.csv` (`starting_facts`). Updated after [`pressure-test-01.md`](pressure-test-01.md) round 1.
+This audit originally covered forty-two provisional rows in [`data/facts.csv`](data/facts.csv). Baseline 02 added V2F043 and V2F044 as controlled late affirmative chains for Lone Author and Synthetic Origin. Counts below therefore describe the pre-Baseline-03 distribution and should be regenerated before the next run.
 
-> `ALL` = public knowledge every character starts with: **F001, F002, F003, F009, F010, F014, F015, F016**.
+Corroborating holders know a bounded adjacent observation, not necessarily the exact wording of the primary fact. Booklets must express those different perspectives rather than copy the same sentence to several players.
 
-## What each character *owns* (cluster + signature private facts)
+## Quantitative distribution
 
-| ID | Role | Owns / anchors | Starts knowing (beyond ALL) |
-|---|---|---|---|
-| C01 | Claimed kin | disappearance stakes | — (claim is private) |
-| C02 | “Lover” | differing-descriptions tell | F006; later PF14 (disputed) |
-| C03 | Mentor | authorship origin **+ desk-brand (D)** | F004, F050; later F052, **PF21** |
-| C04 | Successor | the “naming” message | later F046, PF16, **PF19** |
-| C05 | Short-seller | money & influence | F012, F055–F057; later F059, PF03 |
-| C06 | AI exec | suppression / is-it-an-AI | F005, F011, F012, F055–F057 |
-| C07 | Organizer | article-for-workers | F012, F055, F058 |
-| C08 | AI-safety source | digital + AI-persona **champion (C)** | F004, F005, F011, F043; later F044–F049, F053, **PF18** |
-| C09 | Hacker | **all metadata** | F043, F056; later the digital cluster, F059, **PF18, PF19**, PF03/04/13 |
-| C10 | Editor | the article + byline control | F004, F011, F012, F017, F043, F050, F055, F058; later PF19, PF21 |
-| C11 | Debunker | never-existed reading **+ D cards** | later F007, F008, F019, F032–F034, **PF20, PF21** |
-| C12 | Detective | **logistics records** (not identity) | F004, F017, F018, delivery F020–F036, F059, PF03/04/08/10/17 |
-| C13 | Councilwoman | narrative / politics | F055; later PF09, PF14 |
-| C14 | Restaurant | delivery origin | F020–F023, F031, F035; later PF15 (2nd-hand) |
-| C15 | Doorman | shift-gap / non-witness | F020–F023, F026, F036; later F025–F042, PF11/12 |
-| C16 | Tabloid | disputed photo + gossip *(trail redistributed)* | later F006/F007/F047, PF05, PF10, PF14, PF15, **PF20** |
-| C17 | Believer | legend / one-author faith | F050, F058; later F008, F019, F049, F051, PF09 |
-| C18 | Authorship expert | **style analysis** | F050; later F051–F054, F048, PF06 |
-| C19 | Fixer | errands + dead drop | F021, F036; later F024, F029, F037, F039, PF06/07/08/11/17 |
-| C20 | Bodega | second node + auto-pay tell | F021, F036; later F006, F029, F033, F037, F045, PF07/11 |
+| Character | Initial facts | Total cluster contacts | Earliest-use sections represented | Assessment |
+|---|---:|---:|---|---|
+| C01 Arden | 4 | 7 | 1 | Strong opening role; later pressure should come through messages rather than more archive facts. |
+| C02 Frankie | 4 | 8 | 1–2 | High but appropriate for the origin advocate; must not receive technical conclusions. |
+| C03 Tessa | 3 | 6 | 1–2 | Healthy mantle and operator-boundary access. |
+| C04 Jules | 3 | 7 | 1–2 | Healthy succession and rumor access. |
+| C05 Mira | 4 | 7 | 2–3 | Strong technical/institutional role; lacks a Section 1 social disclosure beat. |
+| C06 Eli | 6 | 10 | 2–3 | Still the densest technical role; acceptable only if raw observations reside elsewhere and Eli supplies limits rather than verdicts. |
+| C07 Maren | 1 | 4 | 1–2 | Light but coherent; needs goals and worker testimony to generate non-mystery play. |
+| C08 Edi | 2 | 4 | 2 | Focused performance role; needs Section 1 relationship business before the reveal. |
+| C09 Rafi | 1 | 3 | 1–3 | Light mystery load; transaction, debt, and neighborhood goals must carry play. |
+| C10 Dee | 1 | 7 | 2–3 | Mostly corroborative by design; strong late physical-trail role. |
+| C11 Celeste | 1 | 9 | 1–3 | High connective access but only one owned fact; good broker profile if disclosures require bargains. |
+| C12 Graham | 2 | 3 | 1–2 | Light factual load offset by market leverage and rumor amplification. |
+| C13 Samira | 4 | 8 | 2–3 | Reduced from twelve contacts; remains a major Vale node without sole control. |
+| C14 Morgan | 4 | 9 | 2–3 | High by design as organizer, but every conclusion requires voluntary witnesses. |
+| C15 Kit | 1 | 2 | 1 | Intentionally low factual authority; six theories and social prompts create activity. Must receive independent contradictions through play. |
+| C16 Inez | 1 | 4 | 3 | Late evidence role; Section 1–2 institutional and neighborhood bargaining must be strong. |
+| C17 Ash | 0 | 0 | optional | Optional photograph and performance redundancy still need atomic rows if this role is used. |
+| C18 Farah | 0 | 2 | optional/1 | Adds interpretation and authentication limits, never required evidence. |
+| C19 Dorian | 0 | 0 | optional | Correspondence/narrative pressure still needs atomic rows if used. |
+| C20 Manny | 0 | 0 | optional | Logistics redundancy still needs atomic rows if used. |
 
-## Phase-release shape (§16)
-- **Phase 1 (Where?):** public facts + each character’s foundational cluster. Map the disappearance, article stakes, delivery routine.
-- **Phase 2 (Who?):** contradictions land — F006/F007, F008, F027/F029, F045, F051/F052, the disputed photo (PF10), the disputed romance (PF14), the successor message + its automated signature (PF16/**PF19**), device IDs (PF13).
-- **Phase 3 (Was there ever?):** destabilizers — F048/F049, F034, F042, F053, the physical breadcrumbs (PF05–PF08, PF17), plus the two new balancers: **PF18 machine-timing (C leads)** and **PF20 misattribution + PF21 desk-brand (D’s affirmative cards)**.
+## Structural checks
 
-## Design checks
-- **≥2 knowers per fact:** holds after redistribution (PF06→C18/C19, PF07→C19/C20, PF08→C12/C19, PF09→C17/C13, PF17→C19/C12). No orphans.
-- **≥1 cluster per character:** every C01–C20 anchors something.
-- **No master detective:** C12 holds logistics, not identity/authorship/digital-internals.
-- **Breadcrumb trap intact + rebalanced:** physical PFs surface-read A, but PF20 now proves *some* trace to unrelated people (D), and C16 no longer holds the whole trail alone.
-- **C & D no longer starved:** PF18 gives C a leading fact; PF20/PF21 give D affirmative cards; both kept provisional/partial so they don’t prove their framework.
+- Every core character is the initial holder of at least one fact.
+- No primary ending depends on an optional character.
+- No fact verifies a complete article, a human R, Vale as R, or Vale's death.
+- Eli and Samira no longer monopolize their respective clusters, though both remain high-centrality roles worth testing.
+- The three progressive keys cross distinct social knots: origin/collective, Parallax/technical, and Vale/neighborhood.
+- Kit owns the pattern of rumor inflation, not proof of the complete progressive theory.
 
-## ⚠ The rule to re-verify after every change
-**No character’s fact-set — nor any plausible pooling — should *prove* a single living human, and none should let one framework win by elimination.** Re-run the [`pressure-test-01.md`](pressure-test-01.md) pass after the message schedule and after writing sheets.
+## Required corrections before simulation
+
+1. **Write perspective-specific versions.** Split each shared cluster into the exact sentence each holder knows; agents must not receive identical omniscient wording.
+2. **Add optional-role rows.** When testing 17–20 players, add facts for Ash, Farah, Dorian, and Manny that duplicate routes rather than introduce required conclusions.
+3. **Protect quiet roles.** Give Maren, Rafi, Dee, and Inez goals that make their facts costly or relationally important rather than simply extractable.
+4. **Test Eli silence.** The synthetic and progressive cases must remain arguable if Eli withholds half of the logs or refuses Kit's framing.
+5. **Test Samira silence.** Vale's route and conflicting claims must still circulate through Jules, Morgan, Dee, and Inez.
+6. **Separate evidence from expertise.** Morgan organizes a timeline, Eli explains system capability, and Farah limits provenance claims; none may declare truth.
+7. **Delay combinations, not observations.** Characters may begin with private facts intended for later use. Section messages should create reasons to disclose them rather than magically grant all evidence.
+
+## Next artifact
+
+Build the character goal and interaction matrix. It should make disclosure, concealment, bargaining, and correction emerge from personal objectives before message writing begins.

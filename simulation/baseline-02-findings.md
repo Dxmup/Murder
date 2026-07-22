@@ -1,6 +1,6 @@
-# V2 Baseline 02 Findings
+# Baseline 02 Findings
 
-Full report: [`../../simulation/runs/v2-baseline-02/GM-REPORT.md`](../../simulation/runs/v2-baseline-02/GM-REPORT.md).
+Full report: [`runs/v2-baseline-02/GM-REPORT.md`](runs/v2-baseline-02/GM-REPORT.md).
 
 ## Controlled comparison
 

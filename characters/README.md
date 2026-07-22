@@ -1,11 +1,9 @@
-# Character File Status
+# Character Booklets
 
-The individual `C01`–`C20` Markdown sheets in this directory belong to the discarded Version 1 cast. They are retained as structural and historical references only; names, roles, secrets, goals, relationships, and mechanics in them are not V2 canon.
+These files are the canonical playable cast.
 
-The current V2 roster is defined in:
+- C01–C16 are the core game.
+- C17–C20 are optional expansion roles and are not included in the 16-agent baseline simulation.
+- Character IDs are stable across booklets and every table in [`../design/data/`](../design/data/).
 
-- `design/v2/cast-and-mechanics.md`
-- `design/data/characters.csv`
-- `design/data/relationships.csv`
-
-Full V2 character booklets have not yet been written. Do not use the legacy sheets in a V2 playtest or import them into the web app.
+Core booklets are generated from `characters.csv`, `goals.csv`, `bargains.csv`, and `facts.csv` by [`../simulation/build_briefs.py`](../simulation/build_briefs.py). Character-specific dramatic direction remains in the booklet itself.

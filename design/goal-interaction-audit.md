@@ -1,4 +1,4 @@
-# V2 Goal and Interaction Audit 01
+# Goal and Interaction Audit 01
 
 ## Rules applied
 

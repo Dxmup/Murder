@@ -1,22 +1,15 @@
-evidence_id,type,owner,initial_visibility,unlock_condition,related_facts,authenticity,shareable,app_display_requirements
-EV01,document,C10,private,start,F011;F053,disputed (fragmentary/multi-voice; NEVER a clean manuscript per canon Rule 3),partially,"render as scanned fragments; watermark 'DRAFT / UNVERIFIED'; no single-author byline"
-EV02,log,C10,private,start,F043;F044,authentic,no,"7 years of secure-drop timestamps; no identity attached"
-EV03,document,C20,private,start,F021;F036;F033,authentic,yes,"handwritten cash ledger + held-package log; deliberately mushy on names"
-EV04,object,C20,hidden,on M24 opened,,authentic,yes,"the tin behind the register: cash + a scrap that raises a new question, not an answer"
-EV05,document,C09,private,start (leaks via M41),PF18,authentic,yes,"timing-analysis printout: zero-variance latency chart; footnote 'autoresponder possible'"
-EV06,message,C04,private,start,PF16;PF19,disputed (auto-generated signature),yes,"the 'naming' message; provenance shows scheduled/automated markers"
-EV07,photo,C16,private,on M21,PF10,disputed (never verified; could be anyone),yes,"grainy photo; app must label 'UNVERIFIED / DISPUTED'"
-EV08,object,C19,hidden,on M34 (locker code),PF17,authentic object / disputed meaning,conditional,"the dead-drop: material tied to the article and an unidentified intermediary; can establish handling or concealment, never that the handler was R. or that a murder occurred"
-EV09,document,C14,private,start,F020;F031,authentic,yes,"years of standing-order tickets + payment records"
-EV10,document,C15,private,on M19,F042;PF04,authentic,no,"building audit note flagging a footage gap near the apparent disappearance; it does not show who or what was present"
-EV11,document,C18,private,start,F050;F052;F054,"authentic (analysis, not verdict)",yes,"authorship-analysis draft; hedged conclusions; 'evidence not proof'"
-EV12,document,C05,private,start,F059;PF03,authentic,yes,"trade blotter: unusual options activity vs Meridian"
-EV13,document,C06,private,on M16,,authentic,no,"Meridian internal-legal memo: 'if the byline was our model, disclosure triggers'"
-EV14,document,C13,private,on M18,,authentic,no,"donor records with the councilwoman's name tied to Meridian"
-EV15,document,C07,private,on M17,,authentic,yes,"copies of the drivers' subpoenas"
-EV16,document,C11,hidden,on M23,PF20,disputed (source unknown),yes,"the 'misattribution' files: two trails tied to unrelated real New Yorkers"
-EV17,document,C03,private,on M29,PF21,authentic,yes,"archive stub: byline 'R.' first attached to desk copy; editor [redacted] (the Era-0 construct root)"
-EV18,document,C01,private,start,,authentic (but proves nothing),yes,"old wire-transfer receipts + cards 'from R.'; no proof of kinship"
-EV19,document,C02,private,start,PF14,fabricated (you assembled these),no,"'love letters' / screenshots; the tell is they were never in-person (Era-3 AI correspondence)"
-EV20,document,C17,private,start,PF09,authentic,yes,"charity donation records signed 'Questions matter'"
-EV21,letter,C03,private,start,F001;F050,authentic period letter / attribution disputed,yes,"THE ATTRIBUTED LETTER: a dated hand-signed letter from someone Arthur believed represented R. The paper, ink, and human handwriting may be authentic; nothing proves the signer authored R.'s work rather than acting for a mantle, AI, or editorial desk."
+evidence_id,name,component,starts_with,section,can_establish,cannot_establish,related_facts,status
+O01,First R Letter packet,complete,C02,1,Period-consistent physical provenance and conflicting delivery memory,"Author, sender, meeting, or relationship to the first publication",V2F001;V2F002;V2F003,provisional
+O02,Night Desk routing slip,complete,C03,1,Collaborative production and a shared workflow,"Who held R, who decided authorship, or when a mantle began",V2F004;V2F005;V2F006,provisional
+O03,Succession message printout,complete,C04,2,Message body account association timing and phrase overlap,"Composer, sender, intent, or legitimate succession",V2F009;V2F010;V2F011,provisional
+O04,Edi's commission card,complete,C08,2,A performed identity event using human and generated material,That the client or performance was R,V2F012;V2F013;V2F014,provisional
+O05a,Continuity log,capability,C06,2,Persona continuity capability across operators and migrations,Historical use autonomy intent or control,V2F015,provisional
+O05b,Continuity log,access,C06,2,Overlap with R-associated infrastructure,"Sender, authorization chain, or identity",V2F016;V2F017,provisional
+O05c,Continuity log,activity,C06,2,Adaptive activity and its external-feed limitation,"Every operator, autonomy, intent, or personhood",V2F018;V2F019;V2F020,provisional
+O06,Rafi's account strip,complete,C09,1,Transaction continuity multiple collectors and a disputed change,"Customer identity, authorship, residence, or a precise transfer date",V2F007;V2F008,provisional
+O07a,Deleted calendar recovery,calendar half,C11,3,An off-calendar Vale meeting when compared with O07b,What Vale learned or whether an article existed,V2F029,provisional
+O07b,Deleted calendar recovery,authorization half,C05,3,Limited Parallax access when compared with O07a,Every later use or responsibility,V2F029;V2F030,provisional
+O08,Morgan's route board,complete,C14,3,Verified attributed disputed and blank route segments,"That Vale used the exit, died, was R, or was AI-targeted",V2F025;V2F026;V2F027,provisional
+O09,Samira's sealed Vale envelope,complete,C13,3,Vale anticipated disappearance and had an earlier safety pattern,Whether Vale used the plan or survived,V2F028;V2F034,provisional
+O10a,Intervention notice,physical consequence,C10,3,A real-world route access reservation or warning changed,"Operator, intent, encounter, harm, or death",V2F032;V2F033,provisional
+O10b,Intervention notice,system event,C06,3,An automated event followed Vale's last verified contact,"Operator, intent, encounter, harm, or death",V2F030;V2F031;V2F032,provisional

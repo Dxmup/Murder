@@ -1,8 +1,8 @@
-# V2 Minimum Simulation Message Audit
+# Minimum Simulation Message Audit
 
 ## Scope
 
-[`simulation-messages.csv`](simulation-messages.csv) is a compressed test schedule, not final production copy. It contains:
+[`data/messages.csv`](data/messages.csv) is a compressed test schedule, not final production copy. It contains:
 
 - three section-opening group messages;
 - three additional room-wide framing or closing messages;

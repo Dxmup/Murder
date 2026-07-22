@@ -1,25 +1,17 @@
-# V2 Timeline Design Scaffold
+# Three-Section Play Timeline
 
-The timeline will record objective events without assigning their ultimate meaning. It must keep all four prepared endings playable and keep the article's existence unresolved.
+The historical chronology is in [`canon-timeline.md`](canon-timeline.md). This file describes the evening’s pacing.
 
-## Required tracks
+## Section 1 — The Party and the Absence
 
-| Track | Design purpose |
-|---|---|
-| Public R history | Dates of attributed work, public claims, and known account activity. |
-| Human production | Newsroom, collective, source-handling, performance, and courier events. |
-| Technical history | Parallax projects, infrastructure access, migrations, logs, and autonomous behavior. |
-| Article rumor | First attestations and later repetition, each tied to a source rather than stated as fact. |
-| Vale | Verified movements, attributed claims, contradictions, and the point at which evidence stops. |
-| Anniversary | Planning, funding, guest selection, and the R-account promise of a reckoning. |
+The host starts the gathering and sends the Section 1 queue. Players establish wants, trade origin evidence, confront the article rumor, and discover that Vale was expected but is absent.
 
-## Locked ordering only
+## Section 2 — Who Was R?
 
-1. The R byline develops a fifteen-year public history.
-2. Multiple kinds of human and technical infrastructure become associated with it.
-3. The alleged AI-investigation rumor begins and spreads.
-4. Vale pursues the identity, the rumor, or both.
-5. Vale disappears from verifiable view.
-6. The anniversary gathering proceeds and receives R-associated messages.
+The host sends Section 2. Succession, performed identity, collaborative production, Parallax continuity, and contradictory Vale statements enter circulation. Players should compare objects and interpretations rather than gather around one technical authority.
 
-Exact events are deliberately not populated yet. The next pass must define each event with date window, firsthand witnesses, records created, alternate interpretations, and affected ending weights. No event may state that the article existed, that Vale was R, or that Vale was murdered.
+## Section 3 — What Happened to Vale?
+
+The host sends Section 3. Vale’s route, revoked access, continued activity, automated intervention, and voluntary-disappearance history collide. The final message closes delivery and directs players toward reconstruction and ballots.
+
+Messages are staggered within each section according to [`data/messages.csv`](data/messages.csv). Recommended live timing is 45–55 minutes per section plus opening, breaks, ballot discussion, and ending reveal.

@@ -1,22 +1,8 @@
-# Immediate Next Design Steps (§20)
+# Next Design Steps
 
-> **Legacy V1 checklist.** Superseded by the current direction in [`../design/v2/`](../design/v2/). Do not use this as the V2 build plan.
-
-> **Do not start by writing all twenty characters.** Build the source-of-truth structures first, in this order.
-
-- [ ] **1. Finalize the ~20-player roster.** The current list ([`../design/roster.md`](../design/roster.md)) overlaps/exceeds 20 — combine, cut, prioritize.
-- [ ] **2. Establish the objective timeline** covering the journalist’s ~15-year history and final week → [`../design/timeline.md`](../design/timeline.md).
-- [ ] **3. Select ~10–12 major fact clusters** → [`../design/fact-clusters.md`](../design/fact-clusters.md).
-- [ ] **4. Assign each fact cluster to ≥3 characters** (fact-to-character matrix) → `../design/data/facts.csv` + `relationships.csv`.
-- [ ] **5. Ensure every character owns ≥1 fact cluster.**
-- [ ] **6. Draft each character’s main goal + two sub-goals** → `../design/data/characters.csv`.
-- [ ] **7. Design the message-release schedule** across the three-hour game → `../design/data/messages.csv`.
-- [ ] **8. Stress-test all four frameworks** (one-human / many-humans / AI-persona / no-coherent-journalist) remain plausible.
-- [ ] **9. Remove facts** that only add complication without interaction/connection/recontextualization.
-- [ ] **10. Only then** write full character sheets ([`../characters/TEMPLATE.md`](../characters/TEMPLATE.md)) and app content.
-
-## Three-phase arc these feed (§16)
-
-1. **Phase One — Where is the journalist?** Relationships, initial goals, reconstruct the disappearance.
-2. **Phase Two — Who is the journalist?** Contradictions in identity: voices, descriptions, authorship, shared credentials, succession.
-3. **Phase Three — Was there ever a journalist?** Undermine shared assumptions → accusations, arguments, voting, personal-goal resolution.
+1. Write six dated excerpts from R’s historical published work: two early personal excerpts, two middle collaborative-seeming excerpts, and two later machine-like excerpts.
+2. Add three escalating but ambiguous Vale incidents: private electronic anomalies, camera tracking, and a delivery-robot bicycle collision.
+3. Distribute those artifacts across characters and messages so no single recipient receives the Progressive reconstruction.
+4. Regenerate the fact-distribution and message audits.
+5. Run the next 16-agent baseline using the canonical runner and compare ballot diversity with Baseline 04.
+6. Expand C17–C20 into full optional-role goals and bargains before a 20-player test.

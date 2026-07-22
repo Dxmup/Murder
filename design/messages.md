@@ -1,35 +1,51 @@
-# Message-Release Schedule (Next Step #7 draft)
+# Messaging System
 
-> **Legacy V1 artifact.** Do not implement this schedule for V2. Current messaging architecture is in [`v2/messaging.md`](v2/messaging.md).
+## Principle
 
-The dynamic inbox -- the game's core mechanic (section 11). Source of truth is [`data/messages.csv`](data/messages.csv); this is the readable view + design notes. 40 messages across 3 phases; every character C01-C20 receives at least one private beat.
+The inbox creates pacing and private pressure while minimizing phone time. Every message should send its recipient back into face-to-face play.
 
-## The spine: scheduled messages from R.'s accounts
-A set of messages was queued through channels associated with R. before the apparent disappearance (M01, M02, M06, M11, M14, M24, M26, M27*, M34, M40). Who or what scheduled them is unresolved: a human, mantle member, AI process, or institutional operator. Account authenticity never proves a human sender, and M27 is deliberately ambiguous even at the account level.
+## Host flow
 
-## Design rules honored (section 11)
-- **Resolve one uncertainty, open another.** No message is a pure explanation dump.
-- **Sender != origin is a weapon.** M05, M13, M27, M33, M36 arrive looking authoritative but are spoof/unverified -- players cannot trust the 'from' line.
-- **Public-with-variation.** M10 is one wire alert with a private tail only C03/C04 see -- compare-notes drama.
-- **Every message points at people,** not just facts (see `intended_interaction`).
+1. The host opens the next section's queue.
+2. The app displays the section name, recipients, and relative send schedule.
+3. The host presses **Send Section**.
+4. The opening group message is sent to all players simultaneously.
+5. Personal messages deliver at their configured offsets.
+6. The host may pause or resume the queue for safety or practical interruptions.
+7. When the room is ready, the host advances to the next section; unsent messages from the previous section do not silently carry over.
 
-## Phase 1 -- Where is R.? (0:00-0:55)
-Establish stakes and routines. M01 opens and seeds distrust; M03 points at the money (C05/C06); M04 reactivates the dead drop (C19); M05/M06 rattle the two fabricators (C02/C01); M08/M09 raise urgency for the short-seller and the restaurant.
+## Header contract
 
-## Phase 2 -- Who is R.? (1:00-1:58)
-Contradictions land. M10 (may-never-have-been-one-person, + successor tail) and M11 open the mantle question (B); M12 drops the zero-variance timing (C's leading card); M15 taints the successor's naming message; M16 is the exec's existential AI fear; M19/M20 pressure the doorman and detective; M22 puts the multiple-collectors clip on blast (B/D); M23 pre-loads the debunker for Phase 3.
+- `From:` is fictional presentation and may be spoofed, automated, mistaken, or authentic only to an account.
+- `To:` truthfully states message visibility.
+- `Sent:` shows actual delivery time.
+- `Subject:` supplies flavor and a quickly readable hook.
 
-## Phase 3 -- Was there ever an R.? (2:00-2:55)
-Destabilize, then decide. M26 is the bomb (C/D); M27 arms the AI theory; M28/M29 give D its affirmative cards (misattribution + desk-brand origin); M30-M39 are the interpersonal end-state levers (collusion, bidding war, exposure, traps, alliances); **M40 triggers the endgame vote** -- the article auto-publishes at midnight unless the room stops it.
+Use only two recipient forms in the initial design:
 
-## Framework timing (deliberate, per pressure-test round 1)
-- **B** peaks mid-game (M10, M11, M15, M22).
-- **C** gets its leading evidence in Phase 2-3 (M12, M16, M27) so it isn't out-argued early.
-- **D** gets affirmative cards only in Phase 3 (M23->M28, M29) so it converts from 'gesture' to 'playable' late.
-- **A** receives affirmative but deniable support through Arthur's encounter memory and attributed letter; neither authenticates the person's authorship.
+- one named character;
+- `Everyone at Fifteen Years of R`.
 
-## To finalize
-- Attach real **document/evidence** payloads (the-article.pdf, timing-analysis.json, archive-stub.txt, clip.mp4) -- cross-ref `data/evidence.csv`.
-- Decide **host-trigger vs hard-timed** per message (some should fire on room state, not the clock).
-- Localize the M10 variant mechanic in the app (same alert, per-recipient tail).
-- **Re-run the adversarial pressure-test** on the schedule (message timing can re-open a framework leak).
+This lets players infer whether information is private without an immersion-breaking `PRIVATE` or `PUBLIC` badge.
+
+## Timing contract
+
+Messages use relative offsets from the moment the host starts a section. Example:
+
+| Offset | Recipient | Purpose |
+|---:|---|---|
+| 0:00 | Everyone | Open the section's question |
+| 0:04 | One character | Create first private movement |
+| 0:09 | One character | Pressure a different social knot |
+| 0:16 | One character | Recontextualize a conversation likely already underway |
+| 0:24 | Everyone or one character | Escalate only if the section needs it |
+
+The exact schedule should distribute notifications rather than create synchronized phone use. Group delivery is deliberately synchronized; individual delivery is deliberately staggered.
+
+## Message test
+
+Before including a message, complete this sentence:
+
+> After reading this, the player will put the phone away and ________.
+
+If the blank cannot be filled with a face-to-face action, reconsider the message.
