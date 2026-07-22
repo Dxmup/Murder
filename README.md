@@ -26,6 +26,7 @@ Inspired by the balance and accessibility of Freeform Games: every player has a 
 | Path | What’s here |
 |---|---|
 | [`design/v2/`](design/v2/) | **Current V2 source of truth:** premise, cast, mechanics, and messaging architecture. |
+| [`design/v2/ending-evidence-matrix.md`](design/v2/ending-evidence-matrix.md) | V2 evidence clusters, ending-balance audit, and progressive-ending gate. |
 | [`design/data/characters.csv`](design/data/characters.csv) | Current V2 character table. |
 | [`design/data/relationships.csv`](design/data/relationships.csv) | Current V2 relationship and social-knot table. |
 | [`design/data/README.md`](design/data/README.md) | Exact current/legacy status of every CSV. |
@@ -36,4 +37,4 @@ Inspired by the balance and accessibility of Freeform Games: every player has a 
 
 ## Status & next step
 
-V2 cast and relationship architecture are drafted. The next design pass should lock the four-ending evidence model and three-section story spine, then populate V2 facts, events, evidence, and messages before writing full character booklets.
+V2 cast, relationships, and the first ending/evidence matrix are drafted. The next design pass should decompose the matrix into atomic facts and build the Vale and article-rumor timelines, then populate V2 events, evidence, and messages before writing full character booklets.
