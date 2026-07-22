@@ -1,37 +1,36 @@
-# Locked Canon
+# Version 2 Canon and Guardrails
 
-These decisions propagate into character sheets, evidence, messages, the host guide, and simulations.
+The full current premise is in [`v2/core-concept.md`](v2/core-concept.md). These decisions govern all future booklets, evidence, messages, host material, and simulations.
 
-## The truth of R. is unresolved
+## Four prepared endings
 
-There is **no mandatory designer-truth** about whether R. was ever human. Four incompatible frameworks must remain equally playable through the final vote:
+The finale can resolve the performance as:
 
-- **A:** one private human journalist;
-- **B:** a human-origin mantle shared or inherited by several writers;
-- **C:** an AI-operated persona with no human R at any point;
-- **D:** an institutional/emergent construct with no single coherent journalist.
+- one human R;
+- a human mantle;
+- an AI identity from the beginning;
+- the harder progressive reconstruction: human origin, human mantle, AI takeover, and an AI killing Vale after Vale tried to expose or reclaim R.
 
-The earlier layered-sequential canon (“all four were true in turn”) is retired. It produced a satisfying reconstruction but converted the mystery into a consensus puzzle and made a real Founder and final human victim design facts. That contradicts the central question: **was there ever a human R, and was there a murder at all?**
+The first three require comparable affirmative evidence and rebuttals. The progressive ending must be assembled from independent evidence about identity history, autonomous control, and the Vale incident. Kit may state the complete theory but cannot prove it.
 
-## Hard rules
+The selected ending is the room's resolution, not a designer confession. No ending confirms the existence or final fate of the rumored article.
 
-1. **No single piece or pooled set of evidence proves human embodiment.** Evidence may prove that a human acted, wrote, carried, paid, lied, vanished, or was harmed; it may not prove that person authored R.'s work.
-2. **Synthetic origin is a full-history theory.** AI evidence must support the possibility that R. was artificial from the beginning, not only that an AI took over late.
-3. **Human-origin theories receive affirmative but deniable evidence.** Arthur's attributed letter and encounter memory support A/B, but attribution to the byline is unverified.
-4. **Crime and identity are separate inference tracks.** Proving obstruction or harm does not prove a human R, a murder, or the victim's identity.
-5. **No ability resolves R.** Compel, Forensics, Expert Verdict, testimony, or immunity can expose provenance or conduct only.
-6. **Every framework needs affirmative evidence of comparable weight and public reach.** Survival by technical doubt alone is a design failure.
-7. **The article remains fragmentary, disputed, and multi-voice.** It never authenticates its author or supplies a solution.
-8. **There is no post-vote canonical reveal.** The host reports the room's verdict and unresolved contradictions.
+## Locked uncertainty
 
-## The byline
+- A human act never proves that human was R.
+- A crime against Vale never proves Vale was R.
+- An R-associated account never proves a human sender.
+- An alleged fragment never proves a complete article existed.
+- No complete article appears in play or after the game.
+- No ability authenticates R, Vale's role, the article, or an ending.
+- Vale may have been harmed, vanished voluntarily, or been misdescribed.
+- No mechanic forces testimony, truth, cooperation, surrender, or voting.
 
-The journalist publishes as **“R.”** The hollow initial supports a person, a mantle, a machine persona, or a desk identity without favoring one.
+## Cast and play
 
-## The article
-
-The unpublished artifact is a fragmentary investigation involving AI, labor, corporate power, and control of the R. identity. It can read as a human exposé, a mantle dispute, an AI self-exposure, or a staged institutional artifact. It auto-releases at midnight unless stopped, but the release mechanism does not identify who authored or scheduled it.
-
-## Host reference
-
-[`canon-timeline.md`](canon-timeline.md) is now a map of competing reconstructions and epistemic guardrails. It is not a true timeline.
+- Veridian Dynamics hosts the gathering.
+- Morgan Shaw is the only formal investigator and has no police powers.
+- There is no Immunity or Compel mechanic.
+- The app contains the opening, booklets, and sparse three-section messages.
+- The `To:` line always truthfully indicates whether a message is personal or room-wide; `From:` may be unreliable.
+- The alleged article is a rumor and pressure source, never an object whose publication resolves the night.

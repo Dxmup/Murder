@@ -552,10 +552,10 @@ The host dashboard should show each section's message count, relative delivery o
 
 Do not write full character sheets yet.
 
-Next, build:
+Next, build or validate:
 
-1. a 16-by-16 relationship graph with at least four meaningful incoming and outgoing edges per role;
-2. the equal-weight ending/evidence matrix;
+1. the equal-weight ending/evidence matrix;
+2. the provisional relationship graph in `design/data/relationships.csv`, including incoming/outgoing coverage and affection edges;
 3. one Want, Leverage, Exposure, and Choice test scene for every character;
 4. the Vale timeline and the article-rumor propagation timeline;
 5. only then, goals, secrets, objects, messages, and selective signature mechanics.

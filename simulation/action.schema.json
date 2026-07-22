@@ -1,5 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Legacy Version 1 action schema. Do not use for Version 2.",
+  "title": "Legacy V1 simulation action",
   "type": "object",
   "additionalProperties": false,
   "required": ["character_id", "phase", "targets", "public_claim", "private_messages", "evidence_shared", "ability", "beliefs", "goal_progress", "reasoning_summary", "final_ballot"],

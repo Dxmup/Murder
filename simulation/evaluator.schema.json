@@ -1,5 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Legacy Version 1 evaluator schema. Do not use for Version 2.",
+  "title": "Legacy V1 simulation evaluation",
   "type": "object",
   "additionalProperties": false,
   "required": ["role", "verdict", "findings", "evidence", "risks", "recommendations", "scores"],

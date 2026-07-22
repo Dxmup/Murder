@@ -1,5 +1,7 @@
 # Pressure-Test Round 2 (message schedule) — findings & applied fixes
 
+> **Legacy V1 test.** Its message schedule and article artifact are retired; retain this only as design history.
+
 Same four adversaries, re-run against the [message schedule](data/messages.csv) (M01–M40) after round 1 balanced the facts. Question: does message *timing/delivery* re-open a leak or unbalance play?
 
 ## The structural finding

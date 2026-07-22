@@ -1,34 +1,47 @@
-# [Name] — [Public Role]
+# V2 Character Booklet Template
 
-**Character ID:** C— · **Owns:** [their cluster/anchor] · **You lean toward:** *[their framework read, phrased as their own uncertainty — never a label]*
+> Draft only after the ending/evidence matrix and Vale timeline are stable. Write in second person, keep facts distinct from beliefs, and never name an ending label in player-facing copy.
 
-> House style (from the exemplars C10 & C20): second person, in-character voice, ~400–550 words. Keep it playable, not encyclopedic.
+## [Character Name] — [Public Role]
 
----
+### Before the party
 
-## Character Background
-Who you are and why you're in this room tonight. 2–4 short paragraphs, second person.
+- Public identity
+- Costume and performance guidance
+- What brought you to Fifteen Years of R
 
-## What You Know
-Split into three, because the split is where the fully-interpretive discipline lives:
-- **Facts you're sure of:** things that objectively happened (draw from your `starting_facts`). State them plainly; do not interpret them for the player.
-- **What you can't prove / what you privately suspect:** the ambiguities you carry.
-- **Keep this to yourself:** *(the secret callout — bold it)* your one real secret/leverage/vulnerability. This is a fact about YOU, never a fact that resolves what R. was (nobody knows that).
+### Your background
 
-## Main Goal
-[verbatim from characters.csv] — must be winnable without solving the mystery.
+Two to four short paragraphs explaining who you are, what the gathering means to you, and what happened before tonight.
 
-## Sub-Goal One / Sub-Goal Two
-[verbatim] — bold the **named characters** each goal points you toward.
+### What you want tonight
 
-## Relationships
-The specific people you need tonight, one line each, public vs. private where it matters.
+- One concrete main want involving other players
+- Supporting personal or relational objectives
+- A meaningful choice that remains relevant under every ending
 
-## Starting Materials
-Your concrete handouts, each referencing an **evidence ID** from `design/data/evidence.csv` (this is our 'facts-not-clues' layer — evidence carries facts, it doesn't announce their meaning). Quote the **message(s)** already in your inbox. Tease what's coming later if useful.
+### What you know
 
-## Special Ability *(ONLY for the ~8 characters who need one — omit this section entirely otherwise, per §8)*
-**[Name]** — what it does, when it can be used, and its limit. A mechanic must never resolve R.'s nature (e.g., forensics gives a verdict on a *message's* origin, not on what R. was).
+- Firsthand facts: bounded events you directly observed
+- Things you were told: identify the source
+- Beliefs and suspicions: explicitly fallible interpretations
 
-## AI Assistant
-One short paragraph: your assistant knows this sheet, your facts, your materials, and your messages — and does **not** know who/what R. was (nobody does), any other player's private business, or any 'answer'. Use it to organize your view, not to solve the game.
+No statement may turn an R-associated account into a known sender, an alleged fragment into a complete article, a human act into proof that the human was R, or harm to Vale into proof that Vale was R.
+
+### Your leverage and exposure
+
+- Information, access, reputation, money, or an object you may trade voluntarily
+- A personal secret another player can expose
+- One belief about R or Vale that may be wrong
+
+### Other people
+
+Give at least four specific reasons to approach other characters. Include affection or loyalty, conflict, and mutual need. Suggestions prompt conversation; they do not compel behavior.
+
+### Starting suggestions
+
+Offer two or three optional opening moves phrased socially: whom to find, what to ask, and what not to reveal immediately.
+
+### Signature mechanic, only if needed
+
+Add a small physical ability only when ordinary conversation would not circulate important material. It cannot force testimony, truth, cooperation, object surrender, or a vote, and cannot authenticate R, Vale, the alleged article, or an ending.
