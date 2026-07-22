@@ -20,12 +20,12 @@
           "say": {"type": "string"},
           "offer": {"type": "string"},
           "request": {"type": "string"},
-          "fact_ids_shared": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}}
+          "fact_ids_shared": {"type": "array", "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}}
         }
       }
     },
     "public_statement": {"type": "string"},
-    "facts_shared": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}},
+    "facts_shared": {"type": "array", "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}},
     "object_actions": {
       "type": "array",
       "items": {
@@ -69,7 +69,6 @@
     },
     "progressive_keys_claimed": {
       "type": "array",
-      "uniqueItems": true,
       "items": {"type": "string", "enum": ["identity_history", "autonomous_control", "vale_incident"]}
     },
     "reasoning_summary": {"type": "string"},

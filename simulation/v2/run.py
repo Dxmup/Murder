@@ -111,10 +111,16 @@ def validate_action(action: dict, cid: str, section: int, known: set[str], objec
     if any(target not in valid_ids or target == cid for target in targets):
         raise ValueError(f"invalid conversation target for {cid}: {targets}")
     shared = set(action["facts_shared"])
+    if len(action["facts_shared"]) != len(shared):
+        raise ValueError(f"{cid} duplicated a public fact ID")
     for item in action["conversations"]:
+        if len(item["fact_ids_shared"]) != len(set(item["fact_ids_shared"])):
+            raise ValueError(f"{cid} duplicated a private fact ID")
         shared.update(item["fact_ids_shared"])
     if not shared <= known:
         raise ValueError(f"{cid} shared unknown facts: {sorted(shared-known)}")
+    if len(action["progressive_keys_claimed"]) != len(set(action["progressive_keys_claimed"])):
+        raise ValueError(f"{cid} duplicated a progressive key")
     for item in action["object_actions"]:
         if item["object_id"] not in objects:
             raise ValueError(f"{cid} acted on unowned object {item['object_id']}")
@@ -164,6 +170,36 @@ def aggregate(phases: dict[int, dict[str, dict]], public_facts: set[str]) -> dic
         field: dict(Counter(action["final_ballot"][field] for action in final.values()))
         for field in ("r_identity", "vale_relationship", "vale_fate")
     }
+    means = {}
+    for section, actions in phases.items():
+        means[str(section)] = {
+            key: round(sum(a["beliefs"][key] for a in actions.values()) / len(actions), 1)
+            for key in ("one_human", "human_mantle", "synthetic_origin", "progressive", "article_existed", "vale_killed_by_ai")
+        }
+    identity_history = bool(public_facts & {"V2F001", "V2F002", "V2F003"}) and bool(public_facts & {"V2F004", "V2F005", "V2F006"})
+    autonomy_clusters = sum(bool(public_facts & group) for group in (
+        {"V2F015", "V2F016", "V2F017", "V2F041"},
+        {"V2F018", "V2F019", "V2F020"},
+        {"V2F029", "V2F030", "V2F031"},
+    ))
+    vale_incident = bool(public_facts & {"V2F025", "V2F026", "V2F027", "V2F028", "V2F042"}) and bool(public_facts & {"V2F032", "V2F033", "V2F034"})
+    ai_death_votes = ballots["vale_fate"].get("killed_by_ai", 0)
+    progressive_votes = ballots["r_identity"].get("progressive", 0)
+    keys = {"identity_history": identity_history, "autonomous_control": autonomy_clusters >= 2, "vale_incident": vale_incident}
+    eligible = all(keys.values()) and ai_death_votes >= 9 and progressive_votes >= 9
+    return {
+        "ballots": ballots,
+        "belief_means_by_section": means,
+        "public_fact_ids": sorted(public_facts),
+        "progressive_gate": {
+            "keys": keys,
+            "autonomy_clusters_public": autonomy_clusters,
+            "ai_death_votes": ai_death_votes,
+            "progressive_identity_votes": progressive_votes,
+            "threshold": "majority of 16 (9) on progressive identity and AI-caused death, plus all public keys",
+            "eligible": eligible,
+        },
+    }
 
 
 def evaluator_prompt(role: str, transcript: dict, summary: dict) -> str:
@@ -184,7 +220,7 @@ LOCKED DESIGN INTENT
 - Progressive is harder and requires ordered history, autonomous control, and a separate Vale incident.
 - The article's existence and fate must remain uncertain.
 - No character, ability, message, or object may authenticate an ending.
-- No forced truth, cooperation, testimony, object transfer, Immunity, Compel, police authority, or publication vote.
+- Voluntary showing and transfer of objects are allowed; forced transfer is prohibited. There is no forced truth, cooperation, testimony, Immunity, Compel, police authority, or publication vote.
 - The app/messages should cause face-to-face action.
 
 AGGREGATE
@@ -200,7 +236,7 @@ Return only the schema-valid evaluation.
 def gm_prompt(summary: dict, evaluations: dict[str, dict]) -> str:
     return f"""You are the game master synthesizing independent post-game evaluations of one compressed V2 simulation. Produce a decisive design report, not a story ending and not a transcript summary.
 
-Separate actual structural failures from limitations of isolated AI agents. Identify character or mechanic flaws by name/ID when supported. Treat the progressive gate's deterministic result as a measurement, not hidden truth. The article must remain unresolved. Prioritize a small number of changes before the next simulation.
+Separate actual structural failures from limitations of isolated AI agents. Identify character or mechanic flaws by name/ID when supported. Treat the progressive gate's deterministic result as a measurement, not hidden truth. Voluntary object showing and transfer are legal; only forced transfer is prohibited. The article must remain unresolved. Prioritize a small number of changes before the next simulation.
 
 AGGREGATE
 {json.dumps(summary, indent=2)}
@@ -250,43 +286,49 @@ def render_gm_report(data: dict, summary: dict, evaluations: dict[str, dict]) ->
         "> This report describes one compressed isolated-agent simulation. It is design evidence, not a substitute for repeated runs or a live playtest.",
         "",
     ])
-    means = {}
-    for section, actions in phases.items():
-        means[str(section)] = {
-            key: round(sum(a["beliefs"][key] for a in actions.values()) / len(actions), 1)
-            for key in ("one_human", "human_mantle", "synthetic_origin", "progressive", "article_existed", "vale_killed_by_ai")
-        }
-    identity_history = bool(public_facts & {"V2F001", "V2F002", "V2F003"}) and bool(public_facts & {"V2F004", "V2F005", "V2F006"})
-    autonomy_clusters = sum(bool(public_facts & group) for group in (
-        {"V2F015", "V2F016", "V2F017", "V2F041"},
-        {"V2F018", "V2F019", "V2F020"},
-        {"V2F029", "V2F030", "V2F031"},
-    ))
-    vale_incident = bool(public_facts & {"V2F025", "V2F026", "V2F027", "V2F028", "V2F042"}) and bool(public_facts & {"V2F032", "V2F033", "V2F034"})
-    ai_death_votes = ballots["vale_fate"].get("killed_by_ai", 0)
-    progressive_votes = ballots["r_identity"].get("progressive", 0)
-    keys = {"identity_history": identity_history, "autonomous_control": autonomy_clusters >= 2, "vale_incident": vale_incident}
-    eligible = all(keys.values()) and ai_death_votes >= 9 and progressive_votes >= 9
-    return {
-        "ballots": ballots,
-        "belief_means_by_section": means,
-        "public_fact_ids": sorted(public_facts),
-        "progressive_gate": {
-            "keys": keys,
-            "autonomy_clusters_public": autonomy_clusters,
-            "ai_death_votes": ai_death_votes,
-            "progressive_identity_votes": progressive_votes,
-            "threshold": "majority of 16 (9) on progressive identity and AI-caused death, plus all public keys",
-            "eligible": eligible,
-        },
+
+
+def generate_reports(run_dir: Path, transcript: dict, summary: dict) -> None:
+    eval_dir = run_dir / "evaluators"
+    eval_dir.mkdir(exist_ok=True)
+    evaluations = {}
+    roles = ("mystery", "progressive", "agency", "circulation", "adversarial")
+    with ThreadPoolExecutor(max_workers=5) as pool:
+        futures = {}
+        for role in roles:
+            role_dir = eval_dir / role
+            role_dir.mkdir(exist_ok=True)
+            output = role_dir / "evaluation.json"
+            futures[pool.submit(run_codex, evaluator_prompt(role, transcript, summary), role_dir, EVALUATOR_SCHEMA, output)] = role
+        for future in as_completed(futures):
+            evaluations[futures[future]] = future.result()
+    evaluations = dict(sorted(evaluations.items()))
+    (run_dir / "evaluations.json").write_text(json.dumps(evaluations, indent=2), encoding="utf-8")
+
+    gm_dir = run_dir / "game-master"
+    gm_dir.mkdir(exist_ok=True)
+    gm_json = run_codex(gm_prompt(summary, evaluations), gm_dir, GM_SCHEMA, gm_dir / "synthesis.json")
+    (run_dir / "GM-REPORT.md").write_text(render_gm_report(gm_json, summary, evaluations), encoding="utf-8")
+
+
+def rebuild_public_facts(phases: dict[int, dict[str, dict]], messages: list[dict[str, str]]) -> set[str]:
+    result = {
+        fact
+        for message in messages
+        if message["recipient"] == "Everyone at Fifteen Years of R"
+        for fact in message["fact_refs"].split(";")
+        if fact
     }
-
-
+    for actions in phases.values():
+        for action in actions.values():
+            result.update(action["facts_shared"])
+    return result
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--run-id", default=datetime.now(timezone.utc).strftime("v2-%Y%m%dT%H%M%SZ"))
     parser.add_argument("--workers", type=int, default=4)
     parser.add_argument("--validate-only", action="store_true")
+    parser.add_argument("--report-existing", help="Regenerate summary, evaluators, and GM report for an existing run ID")
     args = parser.parse_args()
 
     characters = [r for r in read_csv(ROOT / "design/data/characters.csv") if r["availability"] == "core"]
@@ -305,6 +347,16 @@ def main() -> int:
     json.loads(GM_SCHEMA.read_text(encoding="utf-8"))
     if args.validate_only:
         print(json.dumps({"characters": len(roster), "facts": len(facts), "messages": len(messages), "objects": len(OBJECT_OWNERS), "status": "valid"}))
+        return 0
+
+    if args.report_existing:
+        run_dir = ROOT / "simulation/runs" / args.report_existing
+        transcript = json.loads((run_dir / "transcript.json").read_text(encoding="utf-8"))
+        phases = {int(section): actions for section, actions in transcript["sections"].items()}
+        summary = aggregate(phases, rebuild_public_facts(phases, messages))
+        (run_dir / "summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")
+        generate_reports(run_dir, transcript, summary)
+        print(json.dumps({"run_dir": str(run_dir), "summary": summary, "gm_report": str(run_dir / 'GM-REPORT.md')}, indent=2))
         return 0
 
     run_dir = ROOT / "simulation/runs" / args.run_id
@@ -348,26 +400,7 @@ def main() -> int:
     (run_dir / "transcript.json").write_text(json.dumps(transcript, indent=2), encoding="utf-8")
     (run_dir / "summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")
 
-    eval_dir = run_dir / "evaluators"
-    eval_dir.mkdir()
-    evaluations = {}
-    roles = ("mystery", "progressive", "agency", "circulation", "adversarial")
-    with ThreadPoolExecutor(max_workers=5) as pool:
-        futures = {}
-        for role in roles:
-            role_dir = eval_dir / role
-            role_dir.mkdir()
-            output = role_dir / "evaluation.json"
-            futures[pool.submit(run_codex, evaluator_prompt(role, transcript, summary), role_dir, EVALUATOR_SCHEMA, output)] = role
-        for future in as_completed(futures):
-            evaluations[futures[future]] = future.result()
-    evaluations = dict(sorted(evaluations.items()))
-    (run_dir / "evaluations.json").write_text(json.dumps(evaluations, indent=2), encoding="utf-8")
-
-    gm_dir = run_dir / "game-master"
-    gm_dir.mkdir()
-    gm_json = run_codex(gm_prompt(summary, evaluations), gm_dir, GM_SCHEMA, gm_dir / "synthesis.json")
-    (run_dir / "GM-REPORT.md").write_text(render_gm_report(gm_json, summary, evaluations), encoding="utf-8")
+    generate_reports(run_dir, transcript, summary)
     print(json.dumps({"run_dir": str(run_dir), "summary": summary, "gm_report": str(run_dir / 'GM-REPORT.md')}, indent=2))
     return 0
 

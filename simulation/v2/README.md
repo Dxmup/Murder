@@ -39,6 +39,12 @@ python3 simulation/v2/run.py --run-id v2-baseline-01 --workers 4
 
 The runner enforces fact ownership, object ownership, valid targets, ballot timing, and identity probabilities totaling 100. It routes public statements, private conversations, facts, objects, corrections, and commitments between isolated contexts. Five independent evaluators review mystery balance, progressive difficulty, agency, circulation, and adversarial failure modes; a separate game-master agent synthesizes `GM-REPORT.md`.
 
+If character turns completed but reporting failed, regenerate only the aggregate and reports:
+
+```bash
+python3 simulation/v2/run.py --report-existing v2-baseline-01
+```
+
 ## Remaining build work
 
 - run the first baseline and inspect whether the compressed protocol itself biases behavior;
