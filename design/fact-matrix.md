@@ -1,5 +1,7 @@
 # Fact-to-Character Matrix (§15 / Next Steps #4–#5)
 
+> **Legacy V1 artifact.** It references the discarded cast and old fact model; it is not V2 canon.
+
 Who knows what, and when. Normalized source of truth is `data/facts.csv` (`who_knows` + `release_phase`) and `data/characters.csv` (`starting_facts`). Updated after [`pressure-test-01.md`](pressure-test-01.md) round 1.
 
 > `ALL` = public knowledge every character starts with: **F001, F002, F003, F009, F010, F014, F015, F016**.

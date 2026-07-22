@@ -1,23 +1,23 @@
-# Data Tables (§18 source-of-truth)
+# Data Tables — Version Status
 
-The six CSVs here are the canonical, machine-readable spine of the game. Everything else (character sheets, app content) derives from them. Headers match §18 (with two helper columns on `characters.csv`, noted below).
+Only `characters.csv` and `relationships.csv` have been migrated to Version 2. They are the current machine-readable cast model and derive from `design/v2/cast-and-mechanics.md`.
+
+The other four CSVs remain Version 1 design history. They must not be used to generate V2 booklets, messages, evidence, or app content until they are replaced.
 
 | File | Table | Key |
 |---|---|---|
-| `characters.csv` | Character Table | `character_id` (C01–C20) |
-| `facts.csv` | Fact Table | `fact_id` (F001–F059 established, PF01–PF17 provisional) |
-| `events.csv` | Event Table | `event_id` |
-| `messages.csv` | Message Table | `message_id` |
-| `evidence.csv` | Evidence Table | `evidence_id` |
-| `relationships.csv` | Relationship Matrix | (`character_a`, `character_b`) |
+| `characters.csv` | **Current V2** character table | `character_id` (C01–C20) |
+| `relationships.csv` | **Current V2, provisional** relationship matrix | (`character_a`, `character_b`) |
+| `facts.csv` | **Legacy V1 — not current canon** | `fact_id` |
+| `events.csv` | **Legacy V1 — not current canon** | `event_id` |
+| `messages.csv` | **Legacy V1 — not current canon** | `message_id` |
+| `evidence.csv` | **Legacy V1 — not current canon** | `evidence_id` |
 
-## Conventions
-- **Frameworks:** `A` = one private human · `B` = human-origin passed-down mantle · `C` = synthetic/AI persona from the beginning · `D` = no single coherent journalist / emergent institutional myth. These are incompatible complete reconstructions, not eras in a canonical sequence. Used in `facts.csv` (`interpretations_supported`/`weakened`) and as `framework_lean` in `characters.csv`.
-- **`relationship_status` (characters.csv helper):** how that character’s apparent tie to the “journalist” works — `none` / `mediated` (remote-only) / `remembered` / `inherited` / `fabricated` / `parasocial`. **Hard rule:** no value is ever a *verified in-person* relationship — that would kill Frameworks C and D. See [`../roster.md`](../roster.md#-hard-rule-no-verifiable-relationship-with-the-human).
-- **Release phase:** `1`, `2`, `3`, or `pre` / `any`.
-- **Status:** `immutable` or `provisional` (§13 vs §14).
-- **Multi-value cells:** semicolon-separated (e.g. `C14;C15;C16`) so commas stay CSV-safe.
-- `facts.csv` is **pre-seeded** from §13 (immutable) and §14 (provisional); analytic columns are `TODO` pending Next Steps #3–#4.
-- `characters.csv` roster is **revised for diversity + framework balance** with a **no-verifiable-relationship** rule applied to every personal tie. `framework_lean` and `relationship_status` are non-§18 helper columns.
+## V2 conventions
 
-> Keep these as the single source of truth. If a fact changes here, update derived sheets — not the other way around.
+- `availability` is `core` for the 16-player base cast and `optional` for C17–C20.
+- Multi-value cells use semicolons so commas remain CSV-safe.
+- `design_status` and relationship `status` identify material that still needs booklet-level development.
+- The four intended finale readings are: one human R; R as a human mantle; R as AI; and the progressive composite history. Evidence must also preserve doubt that the rumored article ever existed.
+
+Do not blend rows from the legacy tables into V2. Replace those tables only after the V2 ending/evidence and timeline passes establish their schemas and content.

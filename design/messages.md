@@ -1,5 +1,7 @@
 # Message-Release Schedule (Next Step #7 draft)
 
+> **Legacy V1 artifact.** Do not implement this schedule for V2. Current messaging architecture is in [`v2/messaging.md`](v2/messaging.md).
+
 The dynamic inbox -- the game's core mechanic (section 11). Source of truth is [`data/messages.csv`](data/messages.csv); this is the readable view + design notes. 40 messages across 3 phases; every character C01-C20 receives at least one private beat.
 
 ## The spine: scheduled messages from R.'s accounts

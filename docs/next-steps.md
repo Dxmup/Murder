@@ -1,5 +1,7 @@
 # Immediate Next Design Steps (§20)
 
+> **Legacy V1 checklist.** Superseded by the current direction in [`../design/v2/`](../design/v2/). Do not use this as the V2 build plan.
+
 > **Do not start by writing all twenty characters.** Build the source-of-truth structures first, in this order.
 
 - [ ] **1. Finalize the ~20-player roster.** The current list ([`../design/roster.md`](../design/roster.md)) overlaps/exceeds 20 — combine, cut, prioritize.

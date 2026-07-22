@@ -1,5 +1,7 @@
 # Host / GM Run Guide — *How Many R's in Murder?*
 
+> **Legacy V1 artifact.** This guide does not describe the current V2 cast, ending structure, or minimal three-section messaging design.
+
 Everything you need to run the three-hour game for ~20 players. Read this end-to-end once before your first run. Companion data: [`data/messages.csv`](data/messages.csv) (the schedule), [`data/characters.csv`](data/characters.csv), the sheets in [`/characters`](../characters), [`data/evidence.csv`](data/evidence.csv), [`canon.md`](canon.md), and [`canon-timeline.md`](canon-timeline.md) (the host's map of competing reconstructions and epistemic guardrails).
 
 ---

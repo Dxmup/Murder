@@ -1,5 +1,7 @@
 # Character Goals (Next Step #6 draft)
 
+> **Legacy V1 artifact.** These goals belong to the discarded cast and are not V2 canon. See [`v2/cast-and-mechanics.md`](v2/cast-and-mechanics.md).
+
 Main goal + two sub-goals for all 20. Source of truth is [`data/characters.csv`](data/characters.csv); this is the readable view plus the interaction map.
 
 ## Two hard rules every goal obeys

@@ -1,5 +1,7 @@
 # Character Roster (LOCKED + pressure-tested)
 
+> **Legacy V1 roster.** It is no longer locked or current. The V2 roster is in [`v2/cast-and-mechanics.md`](v2/cast-and-mechanics.md) and [`data/characters.csv`](data/characters.csv).
+
 **20 characters, cast locked**, then stress-tested against the four-framework constraint — see [`pressure-test-01.md`](pressure-test-01.md) for the audit and the fixes folded in below. Organized by **stake and relationship**, spread across class / age / belief, with a living human **champion for every framework** so the mystery never collapses.
 
 ## The four frameworks (must all stay plausible — §6, §19.13)

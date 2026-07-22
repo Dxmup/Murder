@@ -1,6 +1,6 @@
-# Game Design Handoff: *How Many R’s in Murder?*
+# Legacy V1 Game Design Handoff: *How Many R’s in Murder?*
 
-> This document is the **source of truth**, reproduced verbatim from the original handoff. Working files under `/design`, `/characters`, `/app`, and `/print` derive from it.
+> **Legacy notice:** this is the original V1 handoff, retained as design history. It is not current canon. Version 2 lives in [`../design/v2/`](../design/v2/); current cast data lives in `design/data/characters.csv` and `relationships.csv`.
 
 ## 1. Project Status
 
