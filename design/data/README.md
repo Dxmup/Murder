@@ -15,4 +15,4 @@ All tables describe the current game. There are no legacy design tables in this 
 
 Multi-value cells use semicolons. C01–C16 are core; C17–C20 are optional. Facts and messages retain their `V2F` and `V2M` IDs because simulation reports cite those stable identifiers; the prefix is an identifier namespace, not a separate versioned design.
 
-The current `messages.csv` contains the authored live schedule. Its planned expanded record contract is defined in [`../messages.md`](../messages.md); pre-game rows will be added when their email copy and provenance are authored, followed by a simulator migration.
+`messages.csv` implements the full record contract defined in [`../messages.md`](../messages.md): section `0` rows are pre-game inbox items (one welcome email and nine dated historical items) delivered as the pre-loaded inbox at the start of Section 1, and sections `1`–`3` are the timed live schedule. Private briefings are rendered from [`../../characters/`](../../characters/) rather than duplicated here. `goals.csv` and `bargains.csv` now include optional roles C17–C20.

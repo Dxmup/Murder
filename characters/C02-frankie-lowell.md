@@ -24,7 +24,7 @@ Near the first R publication, a paper letter reached your desk. You remember an 
 
 Over time, the scene grew polished. You told it at panels, retirements, and fundraisers. Details shifted: the weather, the meeting place, what the visitor wore, whether the letter was handed to you or waiting when you returned. You called that ordinary memory. Other people called it mythmaking.
 
-Years later, you attended an encounter you understood as a meeting with R. You now know Edi Velez performed a commissioned identity for an unidentified client. That does not tell you who commissioned Edi or whether the performance concealed one author, represented a group, or embodied something nonhuman. It does mean one of your proudest human encounters may have been theater.
+Years later, you attended an encounter you understood as a meeting with R. Lately a suspicion has been gnawing at you: the meeting may have been performed. The staging was too considerate, the room anticipated your expectations too precisely, and the figure across the table had an actor's economy in every gesture. Edi Velez is a performer of exactly that caliber and moved in the right circles at the right time. You cannot confirm any of this—only Edi could. And even if your suspicion is right, it would not tell you who commissioned the performance or whether it concealed one author, represented a group, or embodied something nonhuman. It would only mean one of your proudest human encounters may have been theater.
 
 You care for the old newsroom world without pretending it was just. Tessa Quill is right that translators, researchers, assistants, and sources disappear beneath famous bylines. Tessa is wrong, you think, to treat individual authorship as merely vanity. A voice can belong to a person even when many hands sustain it. Or so you need to believe.
 
@@ -50,13 +50,17 @@ You may change your mind. You may also decide that an imperfect memory still con
 
 You possess the First R Letter packet. The paper letter reached your desk near the first publication under the R name. Its paper, ink, folds, and contents look right for the period. You personally associate it with an encounter, but the object does not identify its writer, courier, or author.
 
+You also carry two clippings from R's first year, kept for fifteen years: first-person street reporting, sensory detail witnesses later confirmed, and a recurring private metaphor about tide tables no editor inserted. To your ear, one writer's voice. A skeptic can answer that a founding voice may later have been imitated—or fed to a machine. Put the clippings on the table and watch faces.
+
 You know Veridian has an intake report assessing the materials as period-consistent. The report cannot establish authorship. Arden also has an expense entry that conflicts with your remembered location at the time of the supposed handoff. You have no satisfying explanation yet. Bookkeeping could be wrong; your date could be wrong; the meeting could have occurred differently; or your celebrated version could be partly constructed.
 
 You recognize a peculiar, non-public habit repeated in R-associated communications and transactions. Rafi Calderón has records showing the pattern. It could be one person's habit, a ritual passed among people, or a persistent persona setting.
 
 The message apparently naming Jules as a successor contains a formulation from the First R Letter. Eli says its structure also resembles a Parallax recommendation output. Resemblance establishes neither source.
 
-You later described Edi's commissioned performance as meeting R. Edi can tell you what was performed, but not necessarily who stood behind the commission.
+You have described your celebrated encounter as meeting R. You now suspect—without proof—that the meeting was a commissioned performance, and that Edi Velez may have been the performer. Only Edi can confirm or dispel that. Even a confirmed performance would not reveal who stood behind the commission.
+
+A live rumor has also reached you: a protected source received correct answers to a private, changing handwritten challenge for fourteen years, across routes no collective could plausibly coordinate. If true, your one human outlived every committee. Maren knows who kept the challenges. A skeptic will say rituals can be passed and hidden intermediaries can carry knowledge—ask for something bounded before you celebrate.
 
 Vale told you, “I found the first R.” Vale did not explain whether that meant an original author, a founder, a proxy, a toolmaker, or merely the first person Vale could locate. Vale's confidence is not corroboration.
 
@@ -73,10 +77,11 @@ Honesty would become worthwhile if someone could treat uncertainty as something 
 ## What you can offer
 
 - Voluntary viewing of the First R Letter packet.
+- The two first-year clippings and your reading of the tide-table voice.
 - Early newsroom history and your memory of R's emergence.
 - Recognition, introductions, and public prestige within journalism.
 - Your comparison between the letter's language and Jules's message.
-- Your account of the encounter later revealed as Edi's performance.
+- Your account of the encounter you now suspect was a performance.
 - A public endorsement—or a public refusal—concerning R's future.
 
 You can show the letter, quote from it, or keep it close. Nobody can compel you to surrender it. Arden controls the separate intake and expense records.
@@ -97,7 +102,7 @@ Jules wants the old guard to recognize a succession. You enjoy the ambition and 
 
 ### Edi Velez
 
-Edi may be the human being you once described as R. That possibility embarrasses you, but Edi was working, not necessarily deceiving you for pleasure. Ask who framed the encounter and what Edi was asked to perform. Offer respect before demanding absolution.
+Edi may be the human being you once described as R—that is your suspicion, not your knowledge, and only Edi can settle it. If you are right, Edi was working, not necessarily deceiving you for pleasure. Ask what Edi remembers of that period before accusing anyone of anything. Offer respect before demanding answers.
 
 ### Samira Vale
 
@@ -110,6 +115,10 @@ Kit calls your memory proof one moment and cover-up the next. Kit has an audienc
 ### Rafi Calderón
 
 Rafi's account records preserve a recurring private habit. You recognize it from early R material. Rafi may embellish, but the overlap matters. Compare what each of you actually observed before announcing what it means.
+
+### Maren Okafor
+
+Maren organizes the workers your newsroom stories tended to leave out, and owes your legend nothing. Maren is said to hold the record of the fourteen-year handwritten challenge—and will not open it without real protection for the source. Offer something concrete, accept a bounded look, and do not ask for a name.
 
 ## How to begin
 

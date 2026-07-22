@@ -29,6 +29,8 @@ No objective event states that R was human, that a complete article existed, or 
 | T−4 years | RH10 | The continuity process receives access to infrastructure also used by R-associated accounts. | Access grant; system identifiers; internal correspondence. | Tool used by R, system operating R, shared vendor, or misleading overlap. |
 | T−3 years | RH11 | R-associated activity continues adaptively during one interval when all known contributors are unavailable. | Timing logs; external-feed record; Edi output; building-access gap. | Autonomous operation or an unknown remote human. |
 | T−14 to T−1 years | RH14 | A protected source receives correct responses to a changing private handwritten challenge across separated years and routes. | Source-held challenges; response copies; one route record. | One continuing human, inherited ritual, or hidden human access around a system. |
+| T−15 to T−2 years | RH15 | Dated excerpts of R's published work survive in scattered clippings and one retained draft: early first-person voice, middle plural production with three margin hands, late flattened cadence with a confabulated location detail. | Frankie's early clippings; Tessa's middle draft; Edi's forwarded late pieces. | A maturing writer, an editing process, a changing mantle, or a machine—no archive holds the arc assembled. |
+| T−7 years | RH16 | A courier later known to Rafi is paid extra to route identical envelopes through several hands, and once to hire strangers to stage a story meeting. | Voicemail transcription; courier's memory; Rafi's saved copy. | Deliberate lone-author camouflage, a mantle founding myth, or fabricated human texture. |
 | T−2 years | RH12 | The persistent private habit subtly changes. Observers disagree on the exact date. | Ledger variation; wording shift; Vale's later notes. | Ordinary personal change, mantle transfer, model update, or noise. |
 | T−1 year | RH13 | Jules begins corresponding with an R-associated account about legacy and succession. | Account messages; Jules's notes; metadata. | Human mentorship, mantle recruitment, AI selection, or manipulation. |
 
@@ -52,6 +54,7 @@ No objective event states that R was human, that a complete article existed, or 
 
 | Time | ID | Objective event | Created traces | Unresolved meaning |
 |---|---|---|---|---|
+| Career-long | VT00 | Vale practices strategic ambiguity while protecting sources and manipulating targets. | Samira's testimony; Morgan's interview notes. | Professional discipline, habitual deception, or deliberate misdirection—limits every reported Vale statement. |
 | T−12 weeks | VT01 | Vale begins asking Frankie about the earliest R material. | Frankie's memory; Vale calendar entry. | Investigation, succession research, or personal identification with R. |
 | T−10 weeks | VT02 | Vale separately tells Frankie, “I found the first R.” | Frankie's recollection. | Literal discovery, rhetorical claim, bluff, or reference to a document. |
 | T−8 weeks | VT03 | Vale asks Jules how a successor could be made credible; Jules asks how succession could be made uncontestable. | Partial correspondence held by each. | Investigative thought experiment, collusion, rivalry, or trap. |
@@ -60,7 +63,12 @@ No objective event states that R was human, that a complete article existed, or 
 | T−5 weeks | VT06 | Eli shows Vale part of preserved continuity-process logs. Vale says, “R is no longer human.” | Eli's memory; partial copied logs. | Technical conclusion, metaphor, manipulation, or preexisting theory. |
 | T−4 weeks | VT07 | Vale's temporary credential is revoked; behavior associated with its profile continues afterward. | Revocation record; later activity logs. | Autonomous continuation, cloned access, remapping, falsification, or Vale's alternate access. |
 | T−3 weeks | VT08 | Vale tells Jules, “I can take the name back.” | Jules's message excerpt. | Vale as R, mantle claimant, investigator using bait, or impersonator. |
+| T−5 weeks | VT16 | Vale reports account sessions opening on unfamiliar devices and a draft that saved itself reworded, and asks Samira to keep the message dated. | Vale's archived mail to Samira. | Surveillance by human or system, multi-device habits, paranoia, or staged evidence. |
+| T−4 to T−2 weeks | VT17 | A camera-fitted vehicle idles outside two locations Vale visits; its plate resolves to a dissolved fleet-leasing shell. | Photographs and registry extract forwarded to Morgan by the anonymous client. | Human tail, repossession or survey vehicle, automated fleet tasking, or a planted lead. |
+| T−3 weeks | VT19 | A draft page whose cadence matches an unpublished R passage reaches Kit's tip line unsolicited. | The draft page; tip-line log. | Vale writing as R, a student of R, a generator imitating both, or bait. |
 | T−2 weeks | VT09 | Vale asks Samira for help preparing to disappear if necessary. | Samira's memory; packed or transferred personal item. | Safety plan, manipulation, voluntary exit, or fear of harm. |
+| Historical, surfacing T−1 week | VT20 | A Night Desk reconciliation flags a pseudonymous contributor whose paid weeks match Vale's travel and silences. | Payment strip; Tessa's ledger access. | Vale inside the mantle, a coincidental freelancer, or an automated payment pattern. |
+| T−9 days | VT18 | A delivery robot swerves into Vale's bicycle at a service crossing absent from its logged route; the cyclist declines documentation and leaves. | Building claims notice held by Dee; Rafi's and Inez's partial recollections. | Routing-software glitch, a warning sent by someone with dispatch access, or an autonomous rehearsal of harm. |
 | T−6 days | VT10 | Morgan is anonymously retained to document Vale's movements and receives one manufactured-looking lead. | Retainer record; false route segment; interim report omission. | Protection, surveillance, misdirection, or self-commissioned disappearance. |
 | T−2 days | VT11 | Vale enters the neighborhood near the former printing floor and uses or approaches a space connected to Inez. | Local recollections; transaction; partial access record. | Meeting R, staging evidence, seeking refuge, or ordinary contact. |
 | T−1 day | VT12 | A service exit is used during a camera gap Dee does not preserve. Vale is not visually identified using it. | Access event; audit gap; Dee and Inez accounts. | Vale's exit, another person's movement, escape route, or unrelated secret. |
@@ -75,6 +83,9 @@ No objective event states that R was human, that a complete article existed, or 
 - RH09–RH11/E06–E07 and VT05–VT07 connect Vale to possible autonomous control.
 - AR01–AR10 overlap Vale's investigation without establishing that Vale originated or believed the rumor.
 - VT11–VT14 provide a possible incident sequence without establishing that Vale died.
+- VT16–VT18 form an escalating incident chain—electronic, observational, physical—held by three different characters; assembled in order it makes autonomous action against Vale arguable, and each link keeps an innocent reading.
+- RH15's ordered stylistic arc is the progressive ending's identity-history material; its three components never begin in one inbox or one pair of hands.
+- VT19–VT20 keep Vale's relationship to R contestable: participant, imitator, investigator, or invention.
 - AR10 and VT15 create the event's dramatic pressure without confirming that R—or a live sender—summoned the room.
 
 ## Timeline guardrails

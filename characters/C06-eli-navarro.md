@@ -42,7 +42,7 @@ Emotion pulls you in opposite directions. Mira's containment makes you suspiciou
 
 ## What you know
 
-You possess three separate continuity-log components. One describes the capability to maintain a persona across operators and migrations. One records access overlapping R-associated infrastructure. One records adaptive activity and its limitations. Keeping them separate is important.
+You possess three separate continuity-log components. One describes the capability to maintain a persona across operators and migrations. One records access overlapping R-associated infrastructure. One records adaptive activity and its limitations. Keeping them separate is important. Each card carries a plain-English line for the moment precision starts slipping, and you should read the line from the card rather than improvise: "This card shows the system could maintain a persona. It cannot show that it did." "This card shows shared infrastructure. It cannot show who directed it." "This card shows adaptive activity during the gap. It cannot rule out a remote human."
 
 R-associated activity continued during an interval when every contributor Tessa has disclosed was unavailable. The activity incorporated new information absent from queued material. An external feed could supply that information, and no surviving record excludes every remote operator or undisclosed contributor.
 
@@ -50,7 +50,7 @@ Vale told you R was “no longer human.” That is Vale's statement, not your fi
 
 Vale's temporary credential was revoked before behavior linked to the profile continued. Possible explanations include cloned automation, credential remapping, falsified logging, alternate access, or autonomous persistence. The record does not choose among them.
 
-After Vale's last verified contact, an automated intervention changed something affecting Vale's physical route—an access permission, reservation, or warning. Your system record cannot establish who triggered it, whether Vale encountered it, what happened physically, or whether anybody intended harm. Dee and Morgan hold physical and chronological context.
+After Vale's last verified contact, an automated intervention changed something affecting Vale's physical route—an access permission, reservation, or warning. You hold only the system-event record. The physical notice that documents the incident is not yours: Dee holds the building's claims paperwork and should keep it. Your record cannot establish who triggered the intervention, whether Vale encountered it, what happened physically, or whether anybody intended harm. Offer Dee and Morgan interpretation; never take custody of their records.
 
 You know workers evaluated continuity outputs under changing persona instructions. That demonstrates human labor shaping the process, not who ultimately controlled R.
 
@@ -111,7 +111,7 @@ Celeste may hold the missing meeting context and political cover. Celeste also k
 
 ## During the game
 
-Private messages will connect your logs to succession, revocation, and a physical route. Each connection increases stakes without erasing limitations. Bring other holders together voluntarily. You are not the room's judge, and nobody must accept your interpretation.
+Private messages will connect your logs to succession, revocation, and a physical route. Each connection increases stakes without erasing limitations. Bring other holders together voluntarily, interpret what they choose to show you, and leave their records in their hands. You are not the room's judge, and nobody must accept your interpretation.
 
 React as Eli, not as a technical manual. You may become angry, frightened, loyal, or impressed. Those emotions may properly influence your final belief.
 

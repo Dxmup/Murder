@@ -30,13 +30,15 @@ Your instinct is to trust people who acknowledge the cost of disclosure. That ma
 
 ## What you want tonight
 
-Recover payment for old work through Rafi, an institutional actor, or someone who wants access to your records. A credible promise or deliberate forgiveness may matter as much as cash.
+- **Primary Goal:** Get paid for the errand trail without letting it expose you.
+  - *Success Condition:* Settle accounts with Rafi, and secure at least one protection in writing before revealing any route detail to anyone.
+- **Secondary Goal 1 (Social & Supportive):** Decide the undelivered object's fate.
+  - *Success Condition:* Learn from Dee or Inez what the delivery address connects to before letting the object pass into anyone's hands.
+- **Secondary Goal 2 (Social & Supportive):** Turn the dispatch record into leverage.
+  - *Success Condition:* Trade one bounded route confirmation to Morgan or Maren in exchange for payment or protection.
+- **Your Final Choice:** Hand the undelivered object over to someone here, deliver it as originally dispatched, or destroy it unopened.
 
-Set disclosure boundaries with Maren or Inez before showing dispatch history. Protect yourself and anyone whose unrelated activity appears nearby.
-
-Compare logistics with Rafi and Dee. Identify what the records actually overlap without agreeing that an account name identifies a person.
-
-Finally, decide what to do with the undelivered object: deliver it, trade it, return it, reveal it under conditions, or keep it out of the story.
+Hold one discipline all night: written protection before route details. A sympathetic nod is not protection. Until something is on paper—or witnessed on terms Maren or Inez would defend—your answers stay general and your records stay in the bag. A natural first bargain: offer Rafi a reconciliation of the half-records you each hold in exchange for settling the old pay.
 
 ## What you know
 
@@ -66,11 +68,11 @@ If you sell the trail to the highest bidder, Maren and Inez may withdraw protect
 
 ### Maren Okafor
 
-Maren wants workers to control testimony and understands retaliation. You need advocacy, but you do not want to become an organizing example without consent. Agree on what can safely move.
+Maren wants workers to control testimony and understands retaliation. Maren is the person most likely to help you put protection in writing before anything else moves—and one bounded route confirmation is a fair price for that help. You need advocacy, but you do not want to become an organizing example without consent. Agree on what can safely move.
 
 ### Rafi Calderón
 
-Rafi holds packages, ledgers, debts, and neighborhood memory. Each of you has half of several transactions. Settle the unpaid work while keeping unrelated customers out of the story.
+Rafi holds packages, ledgers, debts, and neighborhood memory. Each of you has half of several transactions: Rafi's ledger shows pickups and payments your dispatch history can date, and your history shows jobs Rafi's counter can anchor to real hours. Reconcile the halves together, line by line, settle the unpaid work, and keep unrelated customers out of the story.
 
 ### Dee Nowak
 
@@ -78,7 +80,7 @@ Dee knows the building routes you used and fears blame for access gaps. Compare 
 
 ### Inez Baptiste
 
-Inez has protected you and may ask for route context to bargain with institutions. Loyalty matters, but protection should not mean Inez decides for you. State your conditions.
+Inez has protected you and may ask for route context to bargain with institutions. Inez may also know what the undelivered object's address connects to—ask before you let the object move anywhere. Loyalty matters, but protection should not mean Inez decides for you. State your conditions.
 
 ### Morgan Shaw
 
@@ -86,7 +88,7 @@ Morgan may treat your history carefully and still expose it through a timeline. 
 
 ### Graham Pike
 
-Graham can pay immediately and turn a dispatch anomaly into a market claim by morning. If you bargain, learn exactly what conclusion he plans to purchase.
+Graham can pay immediately and turn a dispatch anomaly into a market claim by morning. If you bargain, learn exactly what conclusion Graham plans to purchase.
 
 ## How to begin
 
@@ -100,4 +102,4 @@ Messages may reactivate old dispatches or create pressure to surrender the objec
 
 ## At the end
 
-Vote for the account of R that feels most believable after weighing records, motives, and who treated you honestly. Separately decide whether Manny monetizes the trail, protects everyone caught in it, or finds a negotiated course between those choices.
+Vote for the account of R that feels most believable after weighing records, motives, and who treated you honestly. Separately record Manny's final choice about the undelivered object: hand it over to someone at the party, complete the delivery as originally dispatched, or destroy it unopened. Handing it over makes you part of somebody's theory; delivering it finishes a job whose sender you never verified; destroying it ends the question without answering it. Whatever you choose, the object remains a real package with an unproven story attached.

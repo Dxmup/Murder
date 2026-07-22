@@ -52,7 +52,7 @@ All inbox items should ultimately live in `design/data/messages.csv`. The data m
 | `expected_face_to_face_action` | Intended movement or in-person encounter after reading |
 | `status` | Drafting and approval state |
 
-The current table contains the authored live schedule and retains its existing columns until pre-game inbox content is authored and the simulator is migrated. Existing rows are implicitly `message_type=live`, with blank attachments and provenance specified by their prose.
+The table now implements this contract: every row carries `message_type`, `narrative_date`, and `provenance`. Pre-game rows (`welcome` and nine `historical` items, including the three escalating Vale incidents and the three corpus-excerpt deliveries) use `section` value `0` with a narrative date and no offset; live rows use sections `1`–`3` with offsets. The simulator delivers section-0 rows as the pre-loaded inbox at the start of Section 1. Private-briefing rows are not duplicated into the table; the app renders briefings directly from [`../characters/`](../characters/). `attachment_refs` remains unpopulated until the app supports attachments.
 
 ## Header contract
 

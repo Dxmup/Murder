@@ -44,7 +44,11 @@ Your emotional commitment is firmer than your mystery conclusion: no account is 
 
 ## What you know
 
-You possess the Night Desk routing slip. It documents that material later published as R moved through a shared drop. It can show workflow and dates. It cannot identify every contributor, establish final authorship, or mark the moment a mantle supposedly began.
+You possess the Night Desk routing slip. It documents that material later published as R moved through a shared drop. It can show workflow and dates. It cannot identify every contributor, establish final authorship, or mark the moment a mantle supposedly began. The slip now travels with its contributor-initials column covered. You can uncover it a line at a time—and only as protections are actually negotiated, not promised.
+
+You also retained one middle-period draft from the shared drop: plural sourcing, standardized structure, and margin notes in at least three different hands. It is the only physical record of how the work was actually made in those years. It could show one author absorbing an editing process, direct evidence of shared production, or human collaborators polishing something a machine produced. The hands could identify protected contributors, so it is shown on your terms or not at all.
+
+A quarterly reconciliation recovered from Night Desk accounts flags a pseudonymous contributor paid through the drop, whose active weeks align with the travel and silences of the person you have only ever heard called Vale. The strip proves payment, not identity. Vale may have freelanced near R without being R, may have worked inside the arrangement, or the alignment may be coincidence. Confirming the pseudonym would expose the collective's payment routes.
 
 You personally know that different people researched, translated, checked, and rewrote passages later published as R. Some of them would face professional or personal danger if identified.
 
@@ -64,7 +68,9 @@ Disclosure could damage contributor trust or expose the source to renewed attent
 
 ## What you can offer
 
-- The Night Desk routing slip, shown voluntarily and with redactions you control.
+- The Night Desk routing slip, shown voluntarily, its initials column uncovered line by line as protections are secured.
+- The middle-period draft with its three margin hands, under viewing conditions you set.
+- The recovered payment strip—payment evidence, never an identity claim.
 - Firsthand knowledge of collaborative work later published as R.
 - Context about shared drops, rotating voices, and anonymous production.
 - Collective support, journalistic credibility, and access to trusted intermediaries.

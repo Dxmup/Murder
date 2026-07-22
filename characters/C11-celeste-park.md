@@ -34,9 +34,9 @@ Your greater certainty is that real worker and neighborhood harms do not depend 
   - *Success Condition:* Secure support from three different constituencies and make one concrete policy or funding commitment that survives every ending.
 - **Secondary Goal 1 (Social & Supportive):** Contain the off-calendar meeting.
   - *Success Condition:* Reach an agreement with Mira or Samira about what can be disclosed and who accepts responsibility.
-- **Secondary Goal 2 (Social & Supportive):** Prevent rumor-driven policy.
-  - *Success Condition:* Publicly distinguish verified worker harm from claims about the article or R.
-- **Your Final Choice:** Protect donors and government access or force meaningful oversight.
+- **Secondary Goal 2 (Social & Supportive):** Determine whether Morgan's manufactured lead traveled the back channel.
+  - *Success Condition:* Compare routing details with Morgan without confessing to building the channel.
+- **Your Final Choice:** Quietly resign and let City Hall bury the channel, or hand Morgan its paper trail knowing where it may lead.
 
 ## What you know
 
@@ -48,17 +48,19 @@ Mira approved a parent project, but surviving records do not show approval of ev
 
 You and Mira planned for a possible R story. Neither of you recorded having seen a complete article. Your reaction demonstrates concern, not existence.
 
-You also know that the R/Parallax rumor spread through market and political circles after Graham amplified a tip. You cannot identify the original source.
+You also know that the R/Parallax rumor spread through market and political circles after Graham amplified a tip. You cannot identify the original source—but something in how the tip reached Graham is familiar. The relay pattern, the deniable hops, the way attribution dissolves at exactly the right layer: it resembles plumbing you know intimately, because you built plumbing like it. The resemblance could be coincidence; deniable routing is not a patented invention.
 
-Morgan's anonymous client supplied a route segment that appears manufactured. You have context suggesting political or institutional interests may touch the lead, but you cannot identify the client from that fact alone.
+Morgan's anonymous client supplied a route segment that appears manufactured. You have context suggesting political or institutional interests may touch the lead, and you have a colder worry: the lead's delivery path may show the same routing style. You cannot identify the client from that fact alone, and you may be seeing your own reflection in ordinary tradecraft.
 
 ## What you are hiding
 
 You erased Vale's appointment from the official calendar. If you disclose it voluntarily, counsel may defend the meeting as informal oversight. If someone else exposes it first, City Hall may deny authorizing you and leave you alone with the consequences.
 
-Your deeper exposure is habitual: you create debts and informal processes, then use ambiguity to distribute responsibility. This time that practice may have placed Vale in danger—or merely given Vale access later exaggerated into a conspiracy. You do not know.
+Your deeper exposure is a piece of infrastructure. Years ago you built a deniable back channel at City Hall: a way for officials to move information to reporters, markets, and intermediaries without attribution ever landing anywhere. You told yourself it let necessary truths travel when official channels would have strangled them. It worked. It worked so well that you no longer control who uses it.
 
-Honesty becomes worthwhile if Mira shares responsibility, Maren receives enforceable worker safeguards, Inez wins something concrete for the neighborhood, or Samira agrees that limited disclosure does not violate Vale's privacy.
+Tonight you recognize its routing style in two places: the tip Graham amplified, and possibly the manufactured lead Morgan's client supplied. If you are right, your own plumbing carried the poison—the rumor that engulfed Parallax, perhaps the false trail laid across Vale's route. If you are wrong, you are about to confess to building a leak machine over a coincidence. You genuinely do not know which, and the not-knowing is eating you.
+
+Honesty becomes worthwhile if Mira shares responsibility, Maren receives enforceable worker safeguards, Inez wins something concrete for the neighborhood, or Samira agrees that limited disclosure does not violate Vale's privacy. But the channel is a different order of secret: disclosing it ends your career whatever else it accomplishes.
 
 ## What you can offer
 
@@ -89,7 +91,11 @@ Each of you claims to connect institutions to people those institutions overlook
 
 ### Graham Pike
 
-Graham profits from panic and wants government concern to validate the rumor. You want the market story contained. Graham can also expose how widely officials reacted. Challenge provenance without pretending the financial risk is imaginary.
+Graham profits from panic and wants government concern to validate the rumor. You want the market story contained. Graham can also expose how widely officials reacted. Challenge provenance without pretending the financial risk is imaginary—and listen closely when Graham describes how the tip arrived. Every detail of its path either confirms or relieves your worst suspicion about the channel.
+
+### Morgan Shaw
+
+Morgan is trying to determine whether the anonymous client manufactured evidence. You may be the only person in the room who can recognize the lead's routing—and saying so aloud implicates the thing you built. Trade context carefully: you can help Morgan bound the client's methods without confessing to the architecture, at least for a while. Morgan is also the person you would hand the paper trail to, if you decide burial is worse than exposure.
 
 ### Samira Vale
 
@@ -109,4 +115,4 @@ No coalition makes a mystery conclusion true. You may be swayed by trust, fear, 
 
 ## At the end
 
-Vote for the account of R you find most persuasive, even without hard proof. Separately choose whether Celeste protects donors and government access or forces meaningful oversight at personal cost. Name the commitment that will survive into morning, whatever the room decides about R.
+Vote for the account of R you find most persuasive, even without hard proof. Separately face the back channel: quietly resign and let City Hall bury it, keeping your coalition intact and the question of what it carried forever open—or hand Morgan its paper trail, knowing that ends your career and may place your own plumbing along Vale's route. Neither choice proves what the channel carried; that is precisely what makes the choice yours. Name the commitment that will survive into morning, whatever the room decides about R.

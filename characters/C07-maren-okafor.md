@@ -48,7 +48,7 @@ You know different people researched, translated, fact-checked, or rewrote passa
 
 You understand that Parallax built a process capable of maintaining a persistent persona across operators and migrations. Capability does not prove it became R. Eli can provide technical boundaries; Mira can provide project authority.
 
-A protected source received correct responses to a changing handwritten challenge over widely separated years and through different routes. You have the source record but must not disclose identifying challenge details. Frankie and Rafi may recognize bounded parts of the pattern. The observation strongly suggests continuity; it cannot establish whether continuity belonged to one person, a passed ritual, or an undiscovered intermediary.
+A protected source received correct responses to a changing handwritten challenge over widely separated years and through different routes. This record is your signature piece: the rule changed each time, was never published, and correct answers kept arriving anyway. You have the source record but must not disclose identifying challenge details. Frankie and Rafi may each recognize bounded parts of the pattern. The observation strongly suggests continuity; it cannot establish whether continuity belonged to one person, a passed ritual, or an undiscovered intermediary. There is honest pleasure available here too: institutions have spent years demanding proof from workers, and tonight they need something only your protected source can supply. You are allowed to enjoy watching them squirm—briefly.
 
 Private messages will tell you the evaluator requires written protection before speaking and will later clarify the changing instructions. Another protected source may authorize a bounded disclosure only after you secure safety.
 
@@ -87,6 +87,14 @@ Eli's logs can clarify how workers fit into the continuity process, but records 
 
 Celeste offers political access and asks for coalition credibility. You want enforceable policy, not a meeting after the cameras leave. Tie your support to a commitment that survives every possible ending.
 
+### Frankie Lowell
+
+Frankie built a career on having recognized R first and may genuinely recognize a bounded part of the challenge pattern from early material. That makes Frankie a useful corroborator and a dangerous amplifier: what Frankie confirms, Frankie will also broadcast. Trade one element at a time, protection first, and never a name.
+
+### Rafi Calderón
+
+Rafi's account records preserve years of R-associated continuity and might bound dates the challenge record cannot. Rafi bargains for a living; so do you. Neither of you needs to name a customer or a source to compare the shapes of what you hold.
+
 ### Inez Baptiste
 
 Inez protects neighborhood witnesses with instincts much like yours, though the constituencies differ. You trust Inez to recognize an extractive bargain. Coordinate protections for contractors and people near Vale's physical route before institutions begin asking names.
@@ -102,6 +110,7 @@ Arden wants worker-centered legitimacy for Veridian. Ask for legal support, writ
 ## How to begin
 
 - Ask Tessa to agree on a sentence describing collaborative labor that names no contributor.
+- Within the first hour, show Frankie exactly one bounded element of the handwritten challenge—chosen so it identifies no one—and watch the face. Recognition, envy, and fear each tell you something different.
 - Tell Mira you will discuss bounded testimony only after hearing a remedy that exists independently of R.
 - Find Inez and compare what protections workers and neighborhood witnesses need before either group speaks.
 

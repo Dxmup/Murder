@@ -26,7 +26,8 @@ OBJECT_OWNERS = {
     "O01": "C02", "O02": "C03", "O03": "C04", "O04": "C08",
     "O05a": "C06", "O05b": "C06", "O05c": "C06", "O06": "C09",
     "O07a": "C11", "O07b": "C05", "O08": "C14", "O09": "C13",
-    "O10a": "C10", "O10b": "C06",
+    "O10a": "C10", "O10b": "C06", "O11": "C15", "O12a": "C02",
+    "O12b": "C03", "O12c": "C08", "O13": "C15", "O14": "C03",
 }
 
 
@@ -78,9 +79,12 @@ def run_gemini(prompt: str, cwd: Path, schema: Path, output: Path, model: str = 
 
 
 def delivered_messages(messages: list[dict[str, str]], section: int, name: str) -> list[dict[str, str]]:
+    # Section 0 rows are pre-game inbox items (welcome and historical mail);
+    # they are present when play begins, so they deliver with Section 1.
+    wanted = {0, 1} if section == 1 else {section}
     return [
         row for row in messages
-        if int(row["section"]) == section
+        if int(row["section"]) in wanted
         and row["recipient"] in (name, "Everyone at Fifteen Years of R")
     ]
 
@@ -199,21 +203,21 @@ def ballot_support(action: dict) -> tuple[bool, list[str]]:
     selection = action["final_ballot"]["r_identity"]
     burdens = {
         "one_human": (
-            ("origin", {"V2F001", "V2F002"}),
-            ("private_continuity", {"V2F007", "V2F043"}),
+            ("origin", {"V2F001", "V2F002", "V2F045"}),
+            ("private_continuity", {"V2F007", "V2F043", "V2F048"}),
         ),
         "human_mantle": (
-            ("collaborative_production", {"V2F004", "V2F005"}),
-            ("identity_authority", {"V2F006", "V2F009"}),
+            ("collaborative_production", {"V2F004", "V2F005", "V2F046"}),
+            ("identity_authority", {"V2F006", "V2F009", "V2F053"}),
         ),
         "synthetic_origin": (
             ("pre_byline_machine", {"V2F044"}),
-            ("later_machine_behavior", {"V2F012", "V2F018", "V2F019", "V2F030"}),
+            ("later_machine_behavior", {"V2F012", "V2F018", "V2F019", "V2F030", "V2F047"}),
         ),
         "progressive": (
-            ("human_origin", {"V2F001", "V2F007", "V2F043"}),
-            ("shared_human_production", {"V2F004", "V2F005", "V2F006", "V2F009"}),
-            ("transition", {"V2F008", "V2F022", "V2F023"}),
+            ("human_origin", {"V2F001", "V2F007", "V2F043", "V2F045"}),
+            ("shared_human_production", {"V2F004", "V2F005", "V2F006", "V2F009", "V2F046"}),
+            ("transition", {"V2F008", "V2F022", "V2F023", "V2F047"}),
             ("later_system_control", {"V2F016", "V2F018", "V2F019", "V2F030", "V2F032"}),
         ),
     }

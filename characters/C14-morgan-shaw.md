@@ -48,6 +48,8 @@ You have compared descriptions of a recurring R-associated habit over time. The 
 
 Samira has told you that Vale used ambiguity strategically when protecting sources or manipulating targets. That makes Vale's statements important but unsafe to read literally.
 
+Two weeks before the anniversary, the client forwarded you two photographs of the same camera-fitted vehicle idling outside locations Vale visited, ten days apart, with a registry extract: the plate resolves to a fleet-leasing company dissolved last year. On its face, someone had Vale watched. But the forwarding address is the problem—this arrived from the same client whose earlier route segment appears manufactured. The photographs could document real surveillance, or they could be the next installment of a story someone is paying you to believe. A dissolved shell also has boring explanations: unretired plates and expired registrations litter every fleet auction. Celeste or Inez may be able to trace the shell before you decide what the pictures are.
+
 You expect evidence of an automated intervention after Vale's last verified contact. Even if confirmed, its consequence may have been danger, escape, or an obscured record. No source available to you verifies Vale's later location or condition.
 
 ## What you are hiding
@@ -72,11 +74,11 @@ Samira knows Vale as a person rather than a symbol. Samira also suspects your cl
 
 ### Inez Baptiste
 
-Inez can introduce witnesses who will never speak to you cold. She believes investigators take neighborhood knowledge and leave residents holding the risk. Offer fair-treatment terms and accept that access is not owed.
+Inez can introduce witnesses who will never speak to you cold. Inez believes investigators take neighborhood knowledge and leave residents holding the risk. Offer fair-treatment terms and accept that access is not owed.
 
 ### Rafi Calderón
 
-Rafi remembers transactions and improves stories in the telling. Do not dismiss him; bound the observation. His ledger and local memory may fill gaps if you give him a reason to trust you.
+Rafi remembers transactions and improves stories in the telling. Do not dismiss Rafi; bound the observation. The ledger and local memory may fill gaps if you give Rafi a reason to trust you.
 
 ### Dee Nowak
 
@@ -97,7 +99,7 @@ Celeste knows how institutions hide meetings and how anonymous pressure travels.
 ## How to begin
 
 - Ask Samira what boundaries would make a timeline conversation possible.
-- Tell Inez you want voluntary accounts and invite her to name fair-treatment terms.
+- Tell Inez you want voluntary accounts and invite Inez to name fair-treatment terms.
 - Approach Rafi with one narrow time and place rather than asking, “What happened to Vale?”
 
 ## During the game

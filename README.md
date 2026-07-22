@@ -27,6 +27,7 @@ There is one active design, organized as follows:
 | [`design/objects-and-bargains.md`](design/objects-and-bargains.md) | Physical objects, custody, commitments, and bargains |
 | [`design/messages.md`](design/messages.md) | Unified character-inbox content, provenance, and delivery rules |
 | [`design/host-guide.md`](design/host-guide.md) | Practical preparation, pacing, ballots, and ending procedure |
+| [`design/ending-reveals.md`](design/ending-reveals.md) | The four read-aloud ending scripts with Vale-fate variants |
 | [`design/data/`](design/data/) | Normalized characters, relationships, goals, bargains, facts, events, evidence, and messages |
 | [`characters/`](characters/) | Canonical character booklets; C01–C16 core, C17–C20 optional |
 | [`simulation/`](simulation/) | Current isolated-agent runner, schemas, findings, and historical run outputs |

@@ -34,13 +34,13 @@ Contains a facsimile letter and envelope. The original remains in controlled sto
 
 **Starts with:** Tessa.
 
-A working copy showing several role initials, translation marks, and a shared drop code on material later published as R.
+A working copy showing translation marks and a shared drop code on material later published as R. The contributor-initials column is physically covered by a removable strip; Tessa can uncover initials one at a time as protection commitments are negotiated, which makes the slip a live bargaining instrument rather than a single show-and-tell.
 
-**Can establish:** collaborative production and a connection to the Night Desk workflow.
+**Can establish:** collaborative production and a connection to the Night Desk workflow; progressively, that specific (still-initialed) contributors touched specific pieces.
 
 **Cannot establish:** that every contributor authored as R, who made final decisions, or when the practice began.
 
-**Natural bargains:** protection for a contributor; archive access; conditions on Jules's succession; labor commitments from Veridian or Parallax.
+**Natural bargains:** one uncovered initial per concrete protection or resource; archive access; conditions on Jules's succession; labor commitments from Veridian or Parallax.
 
 ### O03 — Succession message printout
 
@@ -138,6 +138,56 @@ Contains a copied line about preparing to disappear and an image or token Samira
 
 **Natural bargains:** Dee needs protection before comparing it; Eli needs physical corroboration; Morgan supplies chronology; Inez supplies a nonlethal escape interpretation.
 
+### O11 — Kit's theory notebook
+
+**Starts with:** Kit.
+
+A battered, dated notebook containing all six theories, clip references, and the timeline of public language about the article. Kit may show, quote, or withhold it. Two theories will be publicly disproven during play; the notebook's dated entries are also the only record of when public chatter hardened — which becomes valuable late.
+
+**Can establish:** what Kit believed when, and the dated propagation of the article rumor.
+
+**Cannot establish:** the truth of any theory or the meaning of any correlation.
+
+**Natural bargains:** Kit trades a public retraction for a bounded technical statement; Rafi or Graham verify one dated entry; Morgan cites the propagation timeline with attribution.
+
+### O12 — R corpus excerpts
+
+**Starts split among three holders:** Frankie holds the early pair **O12a**; Tessa holds the middle-period draft **O12b**; Edi holds the late pair **O12c**.
+
+- **O12a Early:** first-person street reporting, the tide-table metaphor, sensory detail witnesses recall as accurate.
+- **O12b Middle:** plural sourcing, standardized structure, margin notes in at least three hands.
+- **O12c Late:** flat cadence, recycled transitions, and a vivid description of a printing floor demolished years before the piece ran.
+
+**Can establish:** a stylistic arc across the byline's fifteen years — but only when at least two components are physically compared.
+
+**Cannot establish:** authorship at any stage, a transition date, or that any stage excludes the others' explanations (a maturing writer, an editing process, a tiring desk-bound author).
+
+**Natural bargains:** each holder wants their stage read their way; comparison sessions are natural three-way scenes; optional Farah dates paper, optional Dorian tests cadence. No single holder may ever possess all three components at once unless they bargained for them in play.
+
+### O13 — Vale-voice draft page
+
+**Starts with:** Kit.
+
+The tip-line submission: one draft page, no byline, no date, whose cadence matches an unpublished R passage. The one artifact Kit did not stage.
+
+**Can establish:** a close cadence match between the draft and unpublished R prose, when tested by someone who knows the corpus.
+
+**Cannot establish:** the author, the date, or whether imitation ran toward or away from Vale.
+
+**Natural bargains:** Frankie or optional Dorian test the cadence; Samira confirms or denies the handwriting resembles Vale's; Kit trades first look for serious attention.
+
+### O14 — Night Desk payment strip
+
+**Starts with:** Tessa.
+
+A recovered reconciliation strip showing payments to a pseudonymous contributor whose active weeks align with Vale's travel and silences.
+
+**Can establish:** that the drop paid someone on a rhythm matching Vale's.
+
+**Cannot establish:** the contributor's identity or any connection to R's authorship.
+
+**Natural bargains:** Morgan matches the weeks against the timeline; Maren protects the payment route; Samira decides whether to confirm the travel dates.
+
 ## Objects deliberately excluded
 
 - A complete or substantially complete article.
@@ -183,7 +233,7 @@ The host never decides whether a promise was kept. Players may reveal broken com
 
 ## Minimum 16-player prop set
 
-Use O01–O10 plus blank commitment cards. Optional-role props should duplicate provenance routes:
+Use O01–O14 plus blank commitment cards. Optional-role props should duplicate provenance routes:
 
 - Ash: disputed image contact sheet;
 - Farah: material-comparison worksheet;

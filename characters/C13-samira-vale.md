@@ -40,7 +40,9 @@ You do not know whether the rumored article existed. Vale sometimes used the sug
 
 ## What you know
 
-Jules asked Vale how an uncontestable succession could be manufactured before the apparent succession message appeared. You know the conversation occurred. You do not know whether Jules forged anything, whether Vale arranged a trap, or whether an unknown sender acted independently.
+Jules asked Vale how an uncontestable succession could be manufactured before the apparent succession message appeared. You know the conversation occurred. You do not know whether Jules forged anything, whether Vale arranged a trap, or whether an unknown sender acted independently. Tonight Jules is collecting supporters for the succession—while you still hold that message. Tonight may be the night Jules explains it to your face.
+
+Five weeks before the anniversary, Vale sent you a message you archived and never answered properly. Vale's drafts folder had been opened from a device Vale did not own, and a paragraph had "saved itself reworded"—better, Vale admitted, than the original. Vale asked you to keep the message, dated: "If I sound crazy, keep this anyway. If I stop sounding crazy, you'll know when it started." At the time it read as stress, or paranoia, or the ordinary confusion of a person with too many devices and too little sleep. It may still be exactly that. But it is the earliest dated trace of Vale's fear, and it also shows how much Vale was hiding from you.
 
 Vale practiced strategic ambiguity. Statements were sometimes literal, sometimes protective, sometimes designed to provoke a reaction. This makes you valuable as context and unreliable as a decoder: closeness does not let you read Vale's mind.
 
@@ -63,6 +65,7 @@ Honesty becomes worthwhile if Morgan agrees to a limited and accurately labeled 
 ## What you can offer
 
 - The sealed envelope, if and when you choose to open it.
+- Vale's dated message about the drafts folder—the earliest trace of Vale's fear, shown or withheld on your terms.
 - Vale's habits, correspondence context, language, and prior safety pattern.
 - Corroboration that Vale made different statements to different people.
 - Consent for limited use of personal route information.
@@ -73,7 +76,7 @@ Honesty becomes worthwhile if Morgan agrees to a limited and accurately labeled 
 
 ### Jules Kwan
 
-Jules wants Vale's endorsement or your silence. You know Jules asked how succession could be manufactured. Jules may have been ambitious, frightened, manipulated, or all three. Exchange the exact statement Vale made for the complete succession context, then decide whether to expose the earlier question.
+Jules wants Vale's endorsement or your silence. You know Jules asked how succession could be manufactured, and Jules is recruiting supporters in this room right now. Jules may have been ambitious, frightened, manipulated, or all three. Exchange the exact statement Vale made for the complete succession context, then decide whether to make Jules explain the earlier question—privately, or in front of the people being recruited.
 
 ### Eli Navarro
 
@@ -97,7 +100,11 @@ Kit turns Vale into the missing human link in an enormous theory. Some of Kit's 
 
 ### Inez Baptiste
 
-Inez understands that a protected route can be care rather than conspiracy. You need neighborhood discretion and Inez needs confidence that Vale's drama will not endanger residents. This can become a loyal alliance if you respect local boundaries.
+Inez understands that a protected route can be care rather than conspiracy. You need neighborhood discretion and Inez needs confidence that Vale's drama will not endanger residents. There is something heavier between you: Inez arranged unlogged access for someone Inez never identified, and the route involved may be the one Vale's old safety plan used. Inez may have opened Vale's escape door without knowing it—or opened a door for someone else entirely. If that ever becomes clear, only you and Inez should decide whether it stays secret. This can become a loyal alliance if you respect local boundaries.
+
+### Edi Velez
+
+Edi builds identities for a living—voice, presence, the texture of a real person—and once performed work that may have fed the R legend. Edi can show you how convincing a manufactured person feels from the inside, which bears directly on whether the "R" Vale chased was ever anyone at all. Edi may also wonder whether Vale investigated the commission or exploited its rumor. You share a raw nerve: both of you have watched a person you cared about get turned into raw material. Trade carefully; a performance explained is not the same as an authorship established.
 
 ## How to begin
 

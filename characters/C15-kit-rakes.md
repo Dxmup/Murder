@@ -42,7 +42,9 @@ Your certainty is personal, not magical knowledge. Other people are entitled to 
 
 You have personally documented the article rumor's propagation. Public language shifted from “possible AI investigation” to “completed exposé” without a confirming publication, file, or named witness. This shows mutation, not origin.
 
-Your notebook contains contacts, dates, clippings, and six theories. It is your object to show, quote, or keep. Its conclusions are yours; the notebook is not authenticated proof.
+Your notebook contains contacts, dates, clippings, and six theories. It is a physical object in play tonight—carry it, show it, quote it, guard it, or trade glimpses of it. Its conclusions are yours; the notebook is not authenticated proof.
+
+Three weeks ago your tip line received a submission you did not solicit and did not stage: a draft page, no byline, no date. You know R's published cadence better than almost anyone, and this page matches an R passage that was never published. Whoever wrote it either was R, studied R from the inside, or generated both. You carry the page tonight. It is the first checkable artifact you have ever held bearing on Vale's relationship to R—and your tip line's history of staged material means nobody will take your word for its provenance. Frankie or Dorian could test the cadence against what they hold. Let others examine it; that is the only way it counts.
 
 Frankie connects to the oldest R history. Tessa connects to collaborative production. Eli and Mira connect to Parallax. Samira and Morgan connect to Vale's last known movements. None has promised to support your reconstruction.
 
@@ -71,6 +73,7 @@ The ledger-cipher and invitation-key theories are false. Correct them when relia
 
 - Your audience and the promise of public attention.
 - Your theory notebook and rumor-propagation record.
+- The tip-line draft page, offered for examination by people who can test its cadence.
 - Connections among people who would otherwise avoid one another.
 - A public correction, which is unusually valuable coming from you.
 - The ability to make a neglected observation impossible to ignore.
@@ -97,6 +100,10 @@ Edi can demonstrate how performance creates a convincing identity without establ
 
 Graham can fund amplification and may have helped manufacture the article rumor. You each use the other's reach while privately doubting the other's motives. Make Graham address provenance before lending your audience.
 
+### Rafi Calderón
+
+Rafi holds the actual bodega ledger your cipher theory is built on, and you have never read it with Rafi in the room. Demand a reading—line by line, in front of witnesses if you dare. Either the prices confirm the pattern or the person who wrote them down explains what they really are. A theorist who refuses to look at the primary source is not a theorist; go look.
+
 ### Samira Vale
 
 Samira resents your transformation of Vale into a symbol. Samira may correct personal claims and provide a human link, but privacy is not obstruction. Listen when asked to distinguish intimacy from evidence.
@@ -114,6 +121,8 @@ Morgan values supportable fragments; you value the whole pattern. Force the enti
 ## During the game
 
 Messages may correct theories or expose new connections. Announce important corrections face-to-face. Keep your conviction vivid while distinguishing what you observed, what someone said, and what you infer.
+
+Late in the evening—after both false theories have publicly died—your own clip archive will hand you something real: the week public language hardened from "possible AI investigation" into "a finished exposé" is the same week the bodega ledger dates the private habit break. You recorded both. Nobody else did. The correlation is true and checkable, and it arrives when your credibility is at its lowest. Bring Rafi and Graham a dated side-by-side and ask for verification, not belief. It could mark a human changing plans, a succession struggle leaking, or an automated push coinciding with an operational change—your archive also documents you amplifying the shift. How the room treats it will depend entirely on how you handled the corrections.
 
 ## At the end
 

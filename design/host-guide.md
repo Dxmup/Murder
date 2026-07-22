@@ -12,7 +12,8 @@ The host paces the gathering, starts each message section, protects consent and 
 - Prepare the physical objects listed in [`objects-and-bargains.md`](objects-and-bargains.md) and [`data/evidence.csv`](data/evidence.csv).
 - Load the unified inbox records and live schedule from [`data/messages.csv`](data/messages.csv).
 - Verify that the app displays `From:`, `To:`, `Date:`, and `Subject:`, distinguishes individual mail from `Everyone at Fifteen Years of R`, and preserves historical dates and provenance labels.
-- Prepare anonymous ballots and all four ending reveals from [`canon.md`](canon.md).
+- Prepare anonymous ballots and print the four read-aloud ending scripts from [`ending-reveals.md`](ending-reveals.md).
+- Print one one-page cheat card per role (goals, three opening moves, prop list) for casual players; booklets run 1,200–1,800 words and the card is what survives the second drink. Kit, Eli, Frankie, and Morgan are the highest-demand roles — cast them onto confident performers, and give shy guests Dee, Samira, Farah, or Manny.
 
 ## Staging the house
 
@@ -64,9 +65,18 @@ Collect three choices:
 
 Players may cite what influenced them, but do not reject a ballot for incomplete evidence. Count the result transparently. Use the agreed tie rule before play; the default is a brief runoff on the tied question.
 
+### Ending 4 threshold
+
+The identity ballot's winner selects Endings 1–3 unless the composite threshold is met. Ending 4 plays when either:
+
+1. **Progressive wins the identity ballot outright**, or
+2. **all three** of the following hold: Progressive receives at least one quarter of identity votes; "killed by an AI system" wins the Vale-fate ballot or ties for the win; and during the evening the room publicly connected all three composite keys (an ordered identity history, autonomous system control, and a distinct Vale incident) — the host judges this from the final discussion, not from any checklist shown to players.
+
+If Progressive wins the ballot but the room never assembled the keys, still play Ending 4 — the ballot is sovereign — but lean on the script's language of reconstruction rather than revelation.
+
 ## Ending reveal
 
-Read the ending matching the room’s identity reconstruction, incorporating the Vale result where the ending text calls for it. Phrase the reveal as the account the room has made persuasive, not an omniscient confession. Never disclose the final fate or even the existence of the rumored article.
+Read the matching script from [`ending-reveals.md`](ending-reveals.md), selecting the Vale-fate variant paragraph the ballot chose and folding in the Vale-relationship result where the script cues it. Phrase the reveal as the account the room has made persuasive, not an omniscient confession. Never disclose the final fate or even the existence of the rumored article.
 
 ## Debrief
 

@@ -32,11 +32,15 @@ You also feel protective of the unknown subject. Vindicating yourself by attachi
 
 ## What you want tonight
 
-Have Farah inspect the photograph's material and preservation history without demanding an authorship verdict. Ask Edi whether the subject, styling, or circumstances resemble a paid performance.
+- **Primary Goal:** Vindicate the disputed photograph without repeating the overclaim that ruined you.
+  - *Success Condition:* Get Farah to date the negative, and get two other guests to state publicly what the image can and cannot show.
+- **Secondary Goal 1 (Social & Supportive):** Recover the context of the withheld frames.
+  - *Success Condition:* Trade access to the uncropped sequence to Edi or Dorian in exchange for help identifying the setting, styling, or circumstances of the shot.
+- **Secondary Goal 2 (Social & Supportive):** Turn tonight into a paying story either way.
+  - *Success Condition:* Sell one concrete commitment—exclusive images or your testimony—to Graham, Dorian, or Arden on terms you can live with.
+- **Your Final Choice:** Publish the vindicating version of the story or admit the presentation was manipulated.
 
-Negotiate how the image will be used. Dorian, Graham, and Kit can rehabilitate or exploit it. Obtain credit, payment, a correction, or a promise to state its limits.
-
-Decide whether vindication requires repeating the old claim or confessing how you manipulated its presentation.
+A natural first bargain: offer Farah the first documented examination of the negative in exchange for a dated finding, then decide whether you can commit to publishing only what that finding supports. The withheld frames are your currency all night—show them one at a time, to one person at a time, and keep at least one back until you know what the room will pay for it.
 
 ## What you know
 
@@ -49,6 +53,8 @@ You can describe lens, angle, timing, and edits. You cannot infer authorship fro
 ## What you are hiding
 
 You manipulated presentation and withheld contextual frames. Admission could end your chance at vindication; concealment risks a more damaging exposure by anyone who obtains the full sequence.
+
+There is a second temptation you should name to yourself early: if the dated finding or the room's mood turns against you, you could crop the sequence again—select tonight's most flattering frames, tell tonight's strongest story, and ride it out of the party. It might work. But a second manipulation, discovered, would end the career the first one only damaged. Your final choice is double-or-nothing, and you are the one holding the scissors.
 
 ## What you can offer
 
@@ -101,4 +107,4 @@ When someone reacts instantly to the face, ask what they actually recognized. Cl
 
 ## At the end
 
-Vote for the account of R you believe, allowing instinct and personal trust to matter. Separately choose whether Ash chases vindication with the strongest story or admits the photograph proves less than claimed.
+Vote for the account of R you believe, allowing instinct and personal trust to matter. Separately record Ash's final choice: publish the vindicating version—knowing a second manipulation ends everything if it surfaces—or admit the presentation was manipulated and settle for the narrower, survivable truth. Neither choice is scripted to succeed; choose the person you want to be when the negatives come out.

@@ -46,7 +46,9 @@ Your desire is not proof. It is still real. You may decide that legitimacy comes
 
 You possess the succession-message printout. The message arrived through an R-associated account and appears to name you. Its scheduling and account association can be assessed; neither reveals the composer or establishes legitimate authority.
 
-Before it arrived, you asked Vale how an uncontestable succession might be manufactured. Samira has correspondence reflecting that conversation. You know the wording can make the later message look solicited or staged.
+Before it arrived, you asked Vale how an uncontestable succession might be manufactured. Samira has correspondence reflecting that conversation. You know the wording can make the later message look solicited or staged. Samira has been watching you collect supporters tonight, and this may be the evening Samira decides you will explain that question face to face. How you answer in the moment may matter more than what the message says.
+
+You know Rafi's accounts still show the R-associated tab unpaid after years of continuity. Settling it publicly would be a succession claim made flesh—the heir paying the predecessor's debts in front of the neighborhood. It is tempting theater. It would also announce exactly how much you want the name, and you may not be the only guest tempted to pay; Arden hosts anniversaries for a living.
 
 You have payment context for Edi's old commissioned performance. The money touched an intermediary later associated with R, but the record names no author or client. You were not the performer and cannot establish what Edi was told.
 
@@ -93,7 +95,7 @@ Edi understands what it means to embody an identity for someone else. You hold p
 
 ### Samira Vale
 
-Samira has the correspondence that can make your claim look manufactured and the personal context that might explain Vale's words. Do not pressure Samira to turn intimacy into authentication. Honesty about your ambition may buy a more honest account in return.
+Samira has the correspondence that can make your claim look manufactured and the personal context that might explain Vale's words. Samira may confront you about the manufactured-succession question tonight—privately if you are lucky, publicly if you are not. Do not pressure Samira to turn intimacy into authentication. Honesty about your ambition may buy a more honest account in return.
 
 ### Kit Rakes
 

@@ -50,6 +50,8 @@ A payment record may emerge showing that your fee passed through an intermediary
 
 You may also receive notice that activity using elements of your commission incorporated information absent from the queued material. That could mean a remote human supplied new material, a collective member intervened, or an adaptive system drew from an external feed. It does not by itself establish autonomy, intent, or control.
 
+A colleague from the voice booth recently forwarded you two late R pieces under the subject line "Tell me I'm wrong." You carry the printouts. Your professional ear caught what your colleague's did: the cadence is flat, the transitions recycle, and one vivid passage describes the smell of the Herald printing floor—a floor gutted years before the piece ran. A tiring writer leaning on habit and secondhand memory could produce all of that. So could a weaker successor imitating the house style. So could something generating prose and confabulating a place. You hold only the late end of the published record; whatever came earlier belongs to other hands, if it survives at all. Present the pieces carefully—you are the room's synthetic-media artist, and someone may suggest you generated them yourself.
+
 ## What you are hiding
 
 You accepted money to let someone believe you were R. The client asked for ambiguity, and you supplied it expertly. Confession could damage your career, invite fraud accusations, and make every consent argument you offer sound self-serving.
@@ -63,6 +65,7 @@ Honesty might become worthwhile if someone offers genuine protection, correct at
 - Your commission card and firsthand memory, under conditions you choose.
 - A disclosed voice or synthetic-presence demonstration.
 - Expertise distinguishing source recordings, performed speech, generated material, and authorship.
+- The two late R pieces and a working read of what your ear caught in them.
 - Confidential comparison of the payment route with Jules or Eli.
 - Public support for a claimant who respects consent—or public opposition to one who does not.
 - A correction capable of damaging a cherished story about meeting R.
@@ -87,7 +90,7 @@ Kit will treat you as evidence, omen, accomplice, or all three. A ridiculous num
 
 ### Samira Vale
 
-Samira may know whether Vale investigated your commission or merely used its rumor. You share an anger at people turning another person's identity into raw material. Offer the truth carefully; Samira may see your old performance as one more manipulation that harmed Vale.
+Samira may know whether Vale investigated your commission or merely used its rumor. If Vale kept files, those files may mention the commission—and Samira is the person most likely to know what they contain. You share an anger at people turning another person's identity into raw material. Offer the truth carefully; Samira may see your old performance as one more manipulation that harmed Vale.
 
 ### Ash Salerno, if present
 

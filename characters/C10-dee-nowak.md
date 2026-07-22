@@ -42,7 +42,9 @@ You personally know that a service exit was used during a camera gap. No survivi
 
 The camera gap and a later automated access change were separate events. People may try to collapse them into one dramatic incident. Do not permit that without evidence.
 
-Your portion of the physical record is an intervention notice: an automated change affected a route access reservation or warning after Vale's last verified contact. It establishes a real-world system event. It does not identify an operator, show an encounter, establish intent, or prove injury or death.
+The raw physical record starts with you. You hold an intervention notice: an automated change affected a route access reservation or warning after Vale's last verified contact. It establishes a real-world system event. It does not identify an operator, show an encounter, establish intent, or prove injury or death. Eli holds only the system-event logs and can interpret what a machine could or could not have done; interpretation is not custody, and your notice stays yours.
+
+You also received an automated building claims notice nine days before the party: a third-party delivery robot contacted a cyclist at the service crossing, off the unit's logged route. The cyclist declined medical attention and left before anyone documented a name. You have no idea who the cyclist was. The dull explanation—a routing-software glitch and an unlucky rider—remains entirely possible, and delivery units misroute more often than their vendors admit. Rafi or Inez might know who rides that crossing at that hour.
 
 Tessa and you may each be able to bound human access during later machine activity. Your knowledge concerns local access only. You cannot exclude a remote person, a scheduled process, or an external feed.
 
@@ -59,7 +61,7 @@ You may tell Inez the complete reason. You may give Morgan only the bounded oper
 ## What you can offer
 
 - Exact building rhythms, routes, shift changes, and access practices.
-- The camera audit context and intervention notice.
+- The camera audit context, the intervention notice, and the claims notice about the service-crossing collision.
 - Keys or access for a voluntary comparison, if the host permits it.
 - A distinction between separate physical and automated events.
 - Credibility with Rafi, Inez, and other neighborhood witnesses.

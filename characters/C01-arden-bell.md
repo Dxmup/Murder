@@ -54,7 +54,9 @@ The anniversary was partly justified by a message from an R-associated account p
 
 You know who funded the event, who requested invitations, and which guests arrived because they expected access to one another. You do not know who first proposed celebrating this exact anniversary. The suggestion seemed to emerge through several conversations until everyone remembered it as a plan already underway.
 
-Later tonight, the archive may complete recovery of an older server manifest. Until you receive that message, you do not know what it contains.
+You commissioned the invitations yourself, and your event file contains the print vendor's proof sheet. If anyone announces that the invitation typography hides a machine key, the proof sheet shows the supposedly mysterious marks are ordinary registration errors from the press run. You can end that theory with one piece of paper—gently or publicly, as you choose.
+
+Early in the evening—likely during the party's first stretch—the archive should complete recovery of an older server manifest and send you word. Until that message arrives, you do not know what it contains.
 
 ## What you are hiding
 
@@ -69,7 +71,7 @@ You are not required to confess. You may disclose selectively, negotiate first, 
 - Controlled access to Veridian’s archives and provenance records.
 - A place on the public program and the legitimacy that comes with it.
 - Introductions among donors, journalists, officials, and community leaders.
-- Information about event funding, invitations, and institutional reactions to the article rumor.
+- Information about event funding, invitations, and institutional reactions to the article rumor—including the print vendor's proof sheet for the invitations.
 - Public credit, attribution, or correction.
 - Future partnerships and material commitments—if you are willing to make them concrete.
 
@@ -106,6 +108,7 @@ Maren distrusts mysteries that turn invisible labor into atmosphere. Veridian ha
 - Welcome Frankie personally. Say that the archive report is ready, but ask Frankie what form of public acknowledgment would feel honest before offering access.
 - Find Inez early. Ask what Veridian would have to promise for neighborhood participation to be meaningful rather than extractive.
 - Quietly assess Mira and Celeste. Do not reveal the donation problem immediately; learn first whether either already expects the restriction to be used tonight.
+- Optional flourish: if the evening needs a gesture, consider publicly settling the R-associated account's unpaid neighborhood tab as an anniversary courtesy. It is inexpensive, it is excellent theater, and it puts Veridian on the neighborhood's side of the ledger. Be ready for someone to ask what, exactly, you are buying—and note that you may not be the only guest tempted to pay it.
 
 ## During the game
 

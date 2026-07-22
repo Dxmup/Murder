@@ -12,4 +12,4 @@ The repository now contains one canonical game design. Begin with [`../README.md
 
 Machine-readable content is centralized in [`../design/data/`](../design/data/). Player material is in [`../characters/`](../characters/). The app should consume the canonical character and message content rather than maintain a separate narrative copy.
 
-The game is playable as a 16-role core structure but remains in development. The next content pass should add historical R excerpts and Vale’s escalating electronic-surveillance fears while retaining several plausible explanations for each artifact.
+The game is playable as a 16-role core structure. The V2.1 rebalance added the historical R corpus excerpts, the three escalating Vale incidents, pre-game inbox mail, full optional-role goals, and the read-aloud ending scripts ([`../design/ending-reveals.md`](../design/ending-reveals.md)); each artifact retains several plausible explanations. Remaining work is listed in [`next-steps.md`](next-steps.md).

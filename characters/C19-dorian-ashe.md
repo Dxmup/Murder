@@ -28,11 +28,15 @@ You do not know whether Vale wrote, found, chased, or invented the rumored artic
 
 ## What you want tonight
 
-Obtain two meaningful forms of cooperation for a book: correspondence access, an interview, image rights, archival assessment, or a publishing introduction. Make clear what you are offering in return.
+- **Primary Goal:** Secure the career-defining human story of R and Vale.
+  - *Success Condition:* Obtain on-record confirmation from two people who knew R or Vale intimately, and survive one public challenge to your material's provenance.
+- **Secondary Goal 1 (Social & Supportive):** Authenticate the correspondence trove.
+  - *Success Condition:* Get Samira, Frankie, or Farah to validate or refute one intimate-looking letter—and accept what comes back.
+- **Secondary Goal 2 (Social & Supportive):** Test the tip-line draft page against the trove.
+  - *Success Condition:* Compare cadence with the draft page Kit holds, and state honestly what the comparison can and cannot show.
+- **Your Final Choice:** Publish the moving version or the true one.
 
-Find a defensible human center without pretending that embodiment equals authorship. Ask Samira what Vale was like when no audience was present, Frankie how the earliest story changed, and Edi how a performance can create remembered intimacy.
-
-Decide whether to disclose which correspondence is reconstructed, decontextualized, or fabricated. You may preserve the most compelling story or sacrifice it for an honest account of uncertainty.
+A natural opening bargain: offer Samira editorial control over Vale's portrayal in exchange for reading one disputed letter. The commitment that would make you trustworthy—and might gut the book—is to cut any letter an intimate credibly refutes. Your worst temptation is publishing the fabricated letters as "context" if the true story runs thin; if Samira or Farah demonstrates fabrication in front of the room, the book dies.
 
 ## What you know
 
@@ -43,6 +47,8 @@ Some items are authentic fragments removed from surrounding exchanges. Removal c
 Publishing interest exists because the mystery is marketable, not because a publisher authenticated your account. Your contacts can create attention, contracts, and pressure; they cannot make the underlying claims true.
 
 You have heard about a supposed completed article but have not seen one. References to “the piece” or an exposé do not establish a manuscript.
+
+You have also heard that Kit received, through the tip line, a draft page whose voice sounds like Vale's. If real, it is the one outside object your trove could be tested against. Remember what such a test can show: a match could mean one hand wrote both, one writer studied the other, or something generated both; a mismatch could mean fabrication—yours or the tip line's—or a writer in a different register. Cadence is texture, not signature.
 
 ## What you are hiding
 
@@ -62,11 +68,11 @@ The deeper secret is emotional: you may prefer a beautiful human explanation eve
 
 ### Frankie Lowell
 
-Frankie is both witness and practiced narrator. You admire the performance because it resembles your own craft. Seek early history while asking how retelling changed memory.
+Frankie is both witness and practiced narrator. You admire the performance because it resembles your own craft. One private hazard: some of your trove may recycle Frankie's own embellishments—anecdotes that circulated as memory and came back to you dressed as correspondence. Verify the trove against remembered events while asking how retelling changed memory.
 
 ### Samira Vale
 
-Samira holds the private Vale you most want and most risk exploiting. Offer control over quotation and context. Do not imply that intimacy obliges disclosure.
+Samira holds the private Vale you most want and most risk exploiting—and you hold intimate-looking Vale correspondence Samira has never seen. Samira is the one person who could authenticate a letter, refute it, or detonate it in public. Offer editorial control over Vale's portrayal for a reading of one disputed item. Do not imply that intimacy obliges disclosure.
 
 ### Ash Salerno
 
@@ -82,7 +88,7 @@ Edi can explain how a paid performance becomes a remembered encounter. That know
 
 ### Kit Rakes
 
-Kit has audience and pattern; you have polish and intimacy. Each of you can make the other's weakest material irresistible. Ask what Kit will correct before sharing anything.
+Kit has audience and pattern; you have polish and intimacy. Kit also holds the tip-line draft page whose voice sounds like Vale's—the one object your trove can be tested against. Propose the cadence comparison as a joint experiment with the limits stated aloud. Ask what Kit will correct before sharing anything.
 
 ## How to begin
 
@@ -96,4 +102,4 @@ Messages may alter the value or credibility of your materials. Follow them into 
 
 ## At the end
 
-Vote for the R account you believe, even if emotional coherence outweighs technical neatness. Separately decide whether Dorian publishes the irresistible human story or admits that the most honest biography may be a biography of uncertainty.
+Vote for the R account you believe, even if emotional coherence outweighs technical neatness. Separately record Dorian's final choice: publish the moving version, fabrications folded quietly in as connective tissue, or publish the true one—smaller, gapped, honest about which letters could not be trusted. One of them is the book you wanted. The other may be the only one you can survive.

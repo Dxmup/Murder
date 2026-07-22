@@ -44,7 +44,7 @@ You personally received and amplified a tip claiming R had a market-moving Paral
 
 You know no source has produced a complete authenticated article. Market movement proves belief and exposure, not a manuscript.
 
-You have descriptions of two alleged fragments that conflict in subject, format, or provenance. One or both could be drafts, fakes, generated bait, unrelated writing, or partial work from different people. Their existence does not prove a complete article.
+You have descriptions of two alleged fragments that conflict in subject, format, or provenance. One or both could be drafts, fakes, generated bait, unrelated writing, or partial work from different people. Their existence does not prove a complete article. Worse: you circulated both descriptions, a rival desk has noticed they cannot belong to the same document, and a piece pinning the discrepancy on your amplification is being prepared for publication. You can get ahead of it tonight or get buried by it tomorrow.
 
 Parallax and City Hall planned for the possibility of an R story without recording that either Mira or Celeste had seen it. Their reaction is financially meaningful. It is not authentication.
 
@@ -55,6 +55,8 @@ You may receive an offer to cover your position if you obtain a technical source
 You may have seeded the first public form of the article rumor—or amplified a private tip so effectively that the distinction is academic. Your financial exposure increases every time another person calls the rumor confirmed, and the same amplification that makes you money can make market manipulation look more credible than the article.
 
 You are tempted to pay for certainty: settle Rafi's debt for a dramatic ledger interpretation, buy Morgan's conclusion, or reward Eli for a sentence stripped of caveats. Doing so may move the market tonight and destroy you later.
+
+There is also arithmetic you have not said aloud: your position is underwater enough that breaking one deal tonight may be cheaper than keeping it. A promised exclusive, a confidentiality handshake, a bounded-attribution agreement—any one of them could be sacrificed if the sacrifice buys survival. Betrayal is on the menu; you are pricing it, not ruling it out. Just remember that in a room this small, the person you burn will still be standing next to you at the vote.
 
 Honesty becomes worthwhile if someone gives you a defensible fact, if disclosure protects your larger campaign, or if you decide accountability matters more than winning this particular trade.
 

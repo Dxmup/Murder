@@ -52,6 +52,8 @@ An automated intervention may have changed route access, a reservation, or a war
 
 You possess no proof that Vale died, escaped, was R, or encountered R. You have not seen an authenticated complete article.
 
+One more thing sits at the edge of memory. About a week and a half before the party, somebody mentioned a cyclist getting clipped by a delivery robot at the service crossing—brushed off, declined help, rode away. You half-remember a name attached, or a face, or maybe only a jacket. You cannot fix it. It could have been anyone; that crossing sees a dozen riders a day, and the machines misjudge it constantly. But if someone shows you a claims notice, the half-memory may sharpen—and you should think hard about who hears it when it does.
+
 ## What you are hiding
 
 You arranged the access and told no institution because institutional attention often turns a favor into a charge. Dee may be blamed for a gap you helped create. Rafi and Manny may be pulled into scrutiny because they know the routes.
@@ -87,7 +89,11 @@ Dee controls building systems and may absorb blame for the camera gap. You owe D
 
 ### Celeste Park
 
-Celeste speaks fluently about communities while counting votes and liabilities. You respect her effectiveness and distrust its price. Demand a written or witnessed commitment before lending City Hall your legitimacy.
+Celeste speaks fluently about communities while counting votes and liabilities. You respect Celeste's effectiveness and distrust its price. Demand a written or witnessed commitment before lending City Hall your legitimacy.
+
+### Samira Vale
+
+Samira carries Vale's private history and understands, as you do, that a protected route can be care rather than conspiracy. Here is the weight between you: the unlogged access you arranged may be the same route an old safety plan of Vale's once used. If so, you may have unknowingly opened the door Vale's escape depended on—or opened it for someone else entirely, and you have no way to know which. If that connection ever comes into focus, it belongs to the two of you first: only you and Samira should decide whether it stays secret. Treat Samira as a peer in protection, not a source.
 
 ### Morgan Shaw
 

@@ -46,6 +46,8 @@ The collectors contradicted one another in appearance, schedule, and demeanor. S
 
 Morgan believes your records may independently help date the subtle change. Morgan has promised not to call any customer R. That is a useful promise, not yet sufficient protection.
 
+You also kept a voicemail transcription from Old Benny, a retired courier who moved south. Benny told you about one client he never named: the client paid double to run identical envelopes through three separate hands, and once hired two strangers to sit in a diner looking like a story meeting. Benny thought it was funny. You saved it because it wasn't. If Benny told it straight, evidence of collaboration around R does not kill the lone-author story—it may be the lone author's camouflage. Then again, Benny may have embellished, the client may have been an ordinary paranoid, or the story may be a myth couriers passed around. Either way, several people tonight badly need that story, and you can trade it. Just remember it also documents the kind of off-book package habits your counter would rather not discuss.
+
 ## What you are hiding
 
 You sometimes accepted cash and ignored identification rules. Once, as a favor, you altered a ledger entry. The favor was unrelated to establishing R's identity, but disclosure could expose neighbors, threaten your license, and make the entire ledger look fabricated.
@@ -57,6 +59,7 @@ Honesty becomes worthwhile if the debt is settled fairly, attribution stays boun
 ## What you can offer
 
 - The account strip and a longer private ledger you control.
+- Old Benny's voicemail story, tradable to whoever needs the lone-author theory rescued from collaboration evidence.
 - Exact context for payments, package holds, collectors, and pickup routines.
 - Introductions to neighborhood witnesses who will not speak to strangers without your word.
 - A plausible continuity story—and the contradictions that weaken it.
@@ -84,6 +87,10 @@ Graham will pay for a dramatic reading and call it market intelligence. The mone
 
 Frankie loves a stable human habit because it makes R feel like a person one could have discovered. You enjoy Frankie and recognize a fellow embellisher. Compare the private habit with Frankie's memory, but do not let two good stories become authentication.
 
+### Kit Rakes
+
+Kit has told a large audience that your ledger encodes R's movements through prices and timestamps. It does not, and you are the only person who can prove that with the actual book in hand. When Kit demands a reading, give it—line by line, with relish. The mysterious recurring $4.50 is a bacon-egg-and-cheese. The "coordinates" are wholesale price changes plus sales tax. Perform the demolition in front of witnesses; make it funny rather than cruel. Kit deflated in public is safer for the neighborhood than Kit inflated, and a Kit who takes the correction gracefully may become worth talking to.
+
 ### Manny Diallo, if present
 
 Manny collected and delivered items through your counter and is still owed money for some work. Each of you holds half of several transactions. Affection and frustration coexist. Settle what you can without exposing Manny's vulnerabilities.
@@ -93,6 +100,7 @@ Manny collected and delivered items through your counter and is still owed money
 - Find Inez or Dee and agree on what neighborhood details are off limits until protections exist.
 - Ask Frankie to describe R's supposed private habit before showing that your ledger contains something similar.
 - Tell Morgan you will discuss the pattern, but only after Morgan offers clear terms on attribution and customer privacy.
+- If Kit starts in on the ledger cipher, invite an audience before you open the book. The correction lands best performed.
 
 ## During the game
 
