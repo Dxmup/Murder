@@ -4,7 +4,7 @@
 
 This document defines the evidentiary architecture before individual facts, props, messages, and booklets are written. An evidence cluster is a group of bounded observations that becomes meaningful only when players compare accounts. It is not a clue with a designer-approved interpretation.
 
-The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—must begin with equal structural weight. The progressive ending is intentionally harder: it requires players to order evidence from all three primary cases and separately establish a credible Vale incident.
+The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—must begin with equal structural weight. The progressive ending asks players to order evidence from all three primary cases and separately interpret the Vale incident, but the ballot is an act of belief rather than a proof test. A player may reach any ending through intuition, emotion, trust, fear, or a persuasive reconstruction even when the evidence remains incomplete.
 
 ## Interpretation scale
 

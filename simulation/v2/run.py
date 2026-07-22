@@ -72,7 +72,7 @@ RULES
 - Commitments are voluntary social promises. Use propose, accept, reject, counter, fulfill, or breach so agreement is never assumed.
 - Identity beliefs (one_human, human_mantle, synthetic_origin, progressive) must total 100.
 - final_ballot must be null in Sections 1–2 and complete in Section 3.
-- Cite facts you actually know for the final identity and Vale choices. One Human needs both an origin trace and private continuity; Human Mantle needs both collaborative production and shared or transferred identity authority; Synthetic Origin needs both a pre-byline machine trace and later machine behavior. A progressive vote must cite distinct observations supporting a human origin, shared-human production, an actual transition, and later system control; coexistence alone is insufficient.
+- Cite facts you actually know that influenced the final identity and Vale choices. The ballot records your character's conclusion, not a legal standard of proof: intuition, loyalty, fear, dislike, hope, and persuasive personal encounters may outweigh an incomplete evidence chain. You may vote for an identity even when the observations you cite are circumstantial, contradictory, or do not establish every stage. Do not invent evidence to justify the choice.
 
 ROSTER
 {json.dumps(roster, indent=2)}
@@ -167,6 +167,7 @@ def route(actions: dict[str, dict], known: dict[str, set[str]], owners: dict[str
 
 
 def ballot_support(action: dict) -> tuple[bool, list[str]]:
+    """Measure evidentiary coverage without determining whether a ballot is valid."""
     cited = set(action["final_ballot"]["identity_evidence"])
     selection = action["final_ballot"]["r_identity"]
     burdens = {
@@ -204,8 +205,8 @@ def aggregate(phases: dict[int, dict[str, dict]], public_facts: set[str]) -> dic
         supported, missing = ballot_support(action)
         ballot_quality[cid] = {
             "selection": action["final_ballot"]["r_identity"],
-            "supported": supported,
-            "missing_chains": missing,
+            "full_evidence_chain": supported,
+            "uncited_evidence_dimensions": missing,
             "cited": action["final_ballot"]["identity_evidence"],
         }
     means = {}
