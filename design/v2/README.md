@@ -9,3 +9,5 @@ The ending/evidence matrix now has a first draft. [`timelines.md`](timelines.md)
 The first V2 baseline is complete; see [`baseline-01-findings.md`](baseline-01-findings.md). A controlled second-run revision removes answer-shaped progressive vocabulary, requires evidence-cited ballots, and makes commitments stateful while preserving the successful article and Vale-fate structures.
 
 [`baseline-02-findings.md`](baseline-02-findings.md) shows that the controlled revision reduced Progressive from 14 to 12 votes but did not produce a One Human or Synthetic Origin advocate. Baseline 03 preparation adds a protected human-continuity ritual and a pre-byline machine-persona manifest as rival affirmative chains without deleting Kit's deliberately complete theory.
+
+[`baseline-03-findings.md`](baseline-03-findings.md) records the overcorrection: Human Mantle won 15–1 because rival evidence arrived too late and collaboration remained sufficient for a mantle vote. Baseline 04 will move the rival evidence earlier and require theory-specific evidence combinations.
