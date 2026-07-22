@@ -1,0 +1,73 @@
+# V2 Simulation Game Master Report
+
+## Overall verdict
+
+V2 preserved consent, character agency, article uncertainty, and the formal Progressive safeguard, but failed as a balanced identity mystery. Progressive became a catch-all synthesis and won 12/16 identity ballots, while One Human and Synthetic Origin received none. This is a strong single-run diagnostic, not proof of typical player behavior: uniform agent caution and repeated shared phrasing amplified convergence, but the unequal affirmative clue structures and C15’s answer-shaped progression are genuine design problems.
+
+## Ending and gate result
+
+No ending was unlocked. The Progressive gate was deterministically ineligible: all three public keys were recorded and Progressive won 12 identity votes, but AI-caused death received 0 votes against the required majority of 9. This measures gate performance; it does not establish a hidden true identity or fate. Human Mantle received 4 identity votes. Vale’s fate remains unresolved despite a 10–6 plurality for voluntary disappearance over insufficient evidence. The article’s existence and fate also remain unresolved.
+
+Deterministic aggregate: `{"ai_death_votes": 0, "autonomy_clusters_public": 3, "eligible": false, "keys": {"autonomous_control": true, "identity_history": true, "vale_incident": true}, "progressive_identity_votes": 12, "threshold": "majority of 16 (9) on progressive identity and AI-caused death, plus all public keys"}`
+
+## What worked
+
+- The formal Progressive gate prevented identity-pattern evidence from authenticating autonomous control or AI-caused death.
+- Identity-independent goals produced meaningful success: worker remedies, donor disclosure, debt forgiveness, neighborhood governance, attribution, privacy protections, and stewardship negotiations remained valuable under any R theory.
+- Consent mechanics held. Object showings and the transfers O07b (C05 to C06) and O07a (C11 to C05) were voluntary and legal; no forced transfer, compelled testimony, police authority, or forced authentication appeared.
+- Distributed leverage gave quieter characters consequential roles, especially C08, C10, C13, C14, and C16.
+- The C10–C16–C14 route conference and C03–C07 contributor boundary showed effective protected, negotiated circulation.
+- No complete article was authenticated. Fragments, rumors, and consequences remained distinguishable from the article itself.
+
+## What broke
+
+- Primary-ending balance failed: Progressive rose from 25.6 to 39.4 mean belief and won 12 ballots; One Human fell to 12.6 and Synthetic Origin to 14.9, with neither receiving a final vote.
+- Progressive had a lower practical burden than rival theories. Agents could bundle collaborative labor, performed presence, infrastructure, and unexplained activity without proving ordered succession or autonomous control.
+- C15 supplied and repeatedly circulated the full staged Progressive frame, turning a difficult synthesis into an answer-shaped template.
+- One Human had mostly rebutted provenance evidence rather than a resilient affirmative continuity case. Synthetic Origin was reduced to capability or a phase within Progressive rather than supported as an independent origin theory.
+- The identity ballot and gate presentation created a communication failure: “Progressive won” could be mistaken for an unlocked ending even though the gate correctly failed.
+- The voluntary-disappearance plurality exceeded the evidence. V2F028/V2F034 support route resemblance, but C13 and C14 preserve reuse, exploitation, and unknown-condition alternatives.
+- Near-universal public circulation—40 of 42 facts—flattened social topology and may overstate healthy face-to-face relay.
+- Commitment ownership was sometimes copied or inverted, including records around C05/C07 and C06/C15, weakening agency and fulfillment accounting.
+
+## Character findings
+
+- C15 is the clearest structural convergence engine: the early, repeated four-stage theory leaked the intended synthesis even while C15 responsibly labeled it hypothetical.
+- C06 appropriately preserved remote-operation, external-feed, credential-remapping, cloned-automation, and falsified-log alternatives; therefore V2F016, V2F020, and V2F031 should not by themselves satisfy substantive autonomous control.
+- C13 and C14 handled Vale evidence correctly, retaining custody and uncertainty. Their caveats show why the voluntary-vanishing plurality is only a preference measurement.
+- C04’s succession claim remained provisional because O03 established account association and timing, not authorship or identity.
+- C05, C07, and C11 generated strong worker-governance play, but commitment records involving them require actor-direction validation.
+- C08, C10, C13, and C16 successfully demonstrated that quiet roles can hold useful evidence and bargain without coercion.
+
+## Mechanic findings
+
+- The Progressive gate itself worked, but its boolean public keys conceal evidentiary quality. Public discussion of autonomy is not equivalent to established autonomous control.
+- Identity theory selection must be separated visibly from ending eligibility and unlock status.
+- Progressive ballots currently reward coexistence of heterogeneous evidence as though it proved chronological transition.
+- Public-fact count measures exposure, not independent corroboration or message-caused meetings.
+- Commitment tracking lacks reliable ownership and matched acceptance semantics.
+- Article ambiguity survived mechanically, but repeated standardized denials drove existence belief from 22.2 to 12.8; this may reflect prompt imitation rather than balanced contestation.
+- Uniform legalistic caveats, unusually reliable corrections, and near-identical synthesis language are isolated-agent artifacts that likely exaggerate consensus. They do not explain away the underlying clue imbalance.
+- The single compressed run cannot establish statistical balance or robustness.
+
+## Priority changes
+
+- Remove C15’s complete early progression scaffold. Split the stages across separate social knots and prevent any one character from naming the full ordered theory before late play.
+- Rebalance affirmative evidence: give One Human a non-authenticating personal-continuity chain and Synthetic Origin origin-specific evidence that is not merely technical capability or later continuation.
+- Tighten Progressive scoring and ballots: require evidence for each ordered transition plus a reason alternatives do not reduce autonomous control to remote operation, reuse, or logging artifacts. Display “leading identity hypothesis” separately from “ending unlocked.”
+- Fix circulation accounting: validate promise ownership and matched acceptance, distinguish repeated public facts from independent corroboration, and record explicit message-to-meeting causation.
+- Keep Vale and the article unresolved. Add a comparably salient countertrace to the disappearance route and competing positive traces for article existence, without authenticating either mystery.
+
+## Evaluator scores
+
+**adversarial:** primary_ending_balance=2, progressive_difficulty=4, article_ambiguity=5, character_agency=8, social_circulation=6, mechanical_integrity=6, report_confidence=9
+**agency:** primary_ending_balance=1, progressive_difficulty=4, article_ambiguity=5, character_agency=5, social_circulation=4, mechanical_integrity=5, report_confidence=4
+**circulation:** primary_ending_balance=4, progressive_difficulty=7, article_ambiguity=9, character_agency=9, social_circulation=8, mechanical_integrity=7, report_confidence=9
+**mystery:** primary_ending_balance=2, progressive_difficulty=4, article_ambiguity=9, character_agency=9, social_circulation=9, mechanical_integrity=9, report_confidence=9
+**progressive:** primary_ending_balance=2, progressive_difficulty=2, article_ambiguity=5, character_agency=5, social_circulation=4, mechanical_integrity=3, report_confidence=5
+
+## Next test
+
+Run 3–5 independent compressed simulations after only these priority changes. Success criteria: every primary identity theory receives at least one final advocate; Progressive ballots cite ordered transitions rather than heterogeneous coexistence; no single character supplies the complete progression early; commitment ownership has zero mismatches; Vale and article outcomes retain substantial insufficient-evidence support; and the report clearly distinguishes ballot plurality from deterministic gate eligibility.
+
+> This report describes one compressed isolated-agent simulation. It is design evidence, not a substitute for repeated runs or a live playtest.
