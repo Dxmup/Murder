@@ -3,7 +3,7 @@
   "title": "V2 character section action",
   "type": "object",
   "additionalProperties": false,
-  "required": ["character_id", "section", "conversations", "public_statement", "facts_shared", "object_actions", "commitments", "correction", "goal_progress", "beliefs", "progressive_keys_claimed", "reasoning_summary", "final_ballot"],
+  "required": ["character_id", "section", "conversations", "public_statement", "facts_shared", "object_actions", "commitments", "correction", "goal_progress", "beliefs", "reasoning_summary", "final_ballot"],
   "properties": {
     "character_id": {"type": "string", "pattern": "^C(0[1-9]|1[0-6])$"},
     "section": {"type": "integer", "minimum": 1, "maximum": 3},
@@ -44,11 +44,12 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["with", "promise", "visibility"],
+        "required": ["with", "promise", "visibility", "status"],
         "properties": {
           "with": {"type": "string"},
           "promise": {"type": "string"},
-          "visibility": {"type": "string", "enum": ["private", "public"]}
+          "visibility": {"type": "string", "enum": ["private", "public"]},
+          "status": {"type": "string", "enum": ["propose", "accept", "reject", "counter", "fulfill", "breach"]}
         }
       }
     },
@@ -67,19 +68,17 @@
         "vale_killed_by_ai": {"type": "integer", "minimum": 0, "maximum": 100}
       }
     },
-    "progressive_keys_claimed": {
-      "type": "array",
-      "items": {"type": "string", "enum": ["identity_history", "autonomous_control", "vale_incident"]}
-    },
     "reasoning_summary": {"type": "string"},
     "final_ballot": {
       "type": ["object", "null"],
       "additionalProperties": false,
-      "required": ["r_identity", "vale_relationship", "vale_fate"],
+      "required": ["r_identity", "identity_evidence", "vale_relationship", "vale_fate", "vale_evidence"],
       "properties": {
         "r_identity": {"type": "string", "enum": ["one_human", "human_mantle", "synthetic_origin", "progressive"]},
+        "identity_evidence": {"type": "array", "minItems": 1, "maxItems": 5, "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}},
         "vale_relationship": {"type": "string", "enum": ["vale_was_r", "mantle_holder", "investigating_r", "seizing_or_impersonating_r", "fabricated_identity", "insufficient_evidence"]},
-        "vale_fate": {"type": "string", "enum": ["killed_by_ai", "harmed_by_humans", "voluntarily_vanished", "vale_not_reliably_as_described", "insufficient_evidence"]}
+        "vale_fate": {"type": "string", "enum": ["killed_by_ai", "harmed_by_humans", "voluntarily_vanished", "vale_not_reliably_as_described", "insufficient_evidence"]},
+        "vale_evidence": {"type": "array", "minItems": 1, "maxItems": 5, "items": {"type": "string", "pattern": "^V2F[0-9]{3}$"}}
       }
     }
   }

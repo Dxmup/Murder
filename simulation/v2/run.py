@@ -69,10 +69,9 @@ RULES
 - A conversation is private to its target unless you separately make a public statement.
 - Facts in a conversation go only to that target; top-level facts_shared are public.
 - You may show or transfer only objects currently in your inventory. Showing preserves custody.
-- Commitments are voluntary social promises, not enforced truth.
+- Commitments are voluntary social promises. Use propose, accept, reject, counter, fulfill, or breach so agreement is never assumed.
 - Identity beliefs (one_human, human_mantle, synthetic_origin, progressive) must total 100.
 - final_ballot must be null in Sections 1–2 and complete in Section 3.
-- progressive_keys_claimed records keys you personally believe the room has publicly assembled; it does not certify them.
 
 ROSTER
 {json.dumps(roster, indent=2)}
@@ -119,8 +118,10 @@ def validate_action(action: dict, cid: str, section: int, known: set[str], objec
         shared.update(item["fact_ids_shared"])
     if not shared <= known:
         raise ValueError(f"{cid} shared unknown facts: {sorted(shared-known)}")
-    if len(action["progressive_keys_claimed"]) != len(set(action["progressive_keys_claimed"])):
-        raise ValueError(f"{cid} duplicated a progressive key")
+    if section == 3:
+        cited = set(action["final_ballot"]["identity_evidence"]) | set(action["final_ballot"]["vale_evidence"])
+        if not cited <= known:
+            raise ValueError(f"{cid} cited unknown ballot evidence: {sorted(cited-known)}")
     for item in action["object_actions"]:
         if item["object_id"] not in objects:
             raise ValueError(f"{cid} acted on unowned object {item['object_id']}")
@@ -151,7 +152,7 @@ def route(actions: dict[str, dict], known: dict[str, set[str]], owners: dict[str
             )
         for commitment in action["commitments"]:
             target = commitment["with"][:3]
-            text = f"{cid} promises {target}: {commitment['promise']}"
+            text = f"{cid} commitment {commitment['status']} with {target}: {commitment['promise']}"
             (public if commitment["visibility"] == "public" else inbox[target]).append(text)
         for item in action["object_actions"]:
             target = item["to"][:3]
