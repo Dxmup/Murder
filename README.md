@@ -13,8 +13,8 @@ Inspired by the balance and accessibility of Freeform Games: every player has a 
 ## Design pillars
 
 - **Facts, not clues.** The game is built from objective facts that don’t announce their own meaning. Players build interpretations by combining them.
-- **Four live frameworks.** The same facts stay plausibly compatible with: (A) one human, (B) many humans, (C) an AI persona, (D) no coherent journalist. None should be trivially correct.
-- **No mandatory canon.** Like *Clue*, players ultimately vote on what they believe happened. (Whether a hidden designer-truth exists is still open.)
+- **Four live frameworks.** The same facts stay plausibly compatible with: (A) one private human, (B) a human-origin mantle with many authors, (C) an AI persona that was synthetic from the beginning, or (D) no coherent journalist. Each needs an affirmative case; none is the hidden answer.
+- **No mandatory ontology.** Players ultimately vote on what they believe happened. There is deliberately no host-only truth about whether R. was ever human.
 - **App supplements the room.** Anything best done human-to-human happens in person; anything private, timed, multimedia, or tedious happens in the app.
 - **Dynamic inbox is the core mechanic.** Timed/triggered messages introduce and recontextualize facts. Character-scoped AI assistants are a secondary (but important) mechanic.
 

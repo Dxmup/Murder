@@ -13,10 +13,10 @@ F011,"At least part of the article may exist.",unpublished-article,TODO,TODO,C10
 F012,"Different parties want the article published, suppressed, purchased, verified, or destroyed.",unpublished-article,TODO,TODO,C10;C05;C06;C07,TODO,1,,,immutable
 F013,"The article's exact subject is unconfirmed and contested.",unpublished-article,TODO,TODO,C10;C08;C05,TODO,2,,,immutable
 F014,"The article is the central object many characters want to control.",unpublished-article,TODO,TODO,ALL,TODO,1,,,immutable
-F015,"The journalist disappeared shortly before the article's planned publication.",disappearance,TODO,TODO,ALL,TODO,1,,,immutable
+F015,"The R. identity ceased expected live activity shortly before the article's planned publication; this is publicly described as a disappearance.",disappearance,TODO,TODO,ALL,TODO,1,,,immutable
 F016,"The journalist's death has not been confirmed.",disappearance,TODO,TODO,ALL,TODO,1,,,immutable
-F017,"Voluntary disappearance remains possible.",disappearance,TODO,TODO,C12;C10,TODO,1,A;B,,immutable
-F018,"Murder or forced disappearance remains possible.",disappearance,TODO,TODO,C12,TODO,1,A;B,,immutable
+F017,"Deliberate withdrawal, shutdown, or staged disappearance remains possible.",disappearance,TODO,TODO,C12;C10,TODO,1,A;B;C;D,,immutable
+F018,"Murder, forced disappearance, coercion, or harm to a human intermediary remains possible, but no victim has been identified as R.",disappearance,TODO,TODO,C12,TODO,1,A;B;C;D,,immutable
 F019,"The disappearance may refer to a person, an identity, an AI system, or a network ceasing activity.",disappearance,TODO,TODO,C08;C11;C09;C17,TODO,2,C;D,A,immutable
 F020,"For several years the identity regularly ordered food from the same restaurant.",delivery-bodega,TODO,TODO,C14;C15;C12,TODO,1,A,C;D,immutable
 F021,"The delivery was always sent to the same New York apartment building.",delivery-bodega,TODO,TODO,C14;C15;C19;C20;C12,TODO,1,A,,immutable

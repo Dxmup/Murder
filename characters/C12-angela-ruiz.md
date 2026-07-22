@@ -1,6 +1,6 @@
 # Det. Angela Ruiz — NYPD Detective
 
-**Character ID:** C12 · **Owns:** the logistics trail (delivery, building, financial records) · **You lean toward:** *maybe I've been chasing a person because a case needs one — I can prove a routine happened, but I keep failing to prove a someone was at the end of it, and that gap is starting to scare me.*
+**Character ID:** C12 · **Owns:** the logistics trail (delivery, building, financial records) · **You lean toward:** *maybe I've been chasing a person because a case needs one — I can prove a routine and possibly a crime around it, but neither tells me that a human being was R.*
 
 ---
 
@@ -22,11 +22,11 @@ But every thread you pull comes back frayed. You can put the routine on a whiteb
 
 ## Main Goal
 
-Determine whether a crime occurred and to whom — establish R. as a real person who was harmed.
+Determine what crime, if any, occurred around the disappearance and identify any victim you can support. Do not confuse evidence that a person was harmed with proof that the person was R.
 
 ## Sub-Goal One
 
-Secure key evidence and testimony — **Wren Kaczmarek**'s data and the accounts of **Eddie Nowak**, **Manny Diallo**, and **Rafi Nunez** — without a warrant fight.
+Secure key evidence and bounded testimony — **Wren Kaczmarek**'s data and the accounts of **Eddie Nowak**, **Manny Diallo**, and **Rafi Nunez** — without a warrant fight or promises broader than you can honor.
 
 ## Sub-Goal Two
 
@@ -52,6 +52,8 @@ Identify who benefits from the disappearance. Watch **Grayson Mott**, **Vivian K
 
 **Compel** — once tonight, you can force a player to surrender one physical document to you (legal pressure they can't refuse). It takes a *document* out of someone's hands. It cannot make anyone tell you the truth about what R. was — no badge settles that.
 
+**Narrow Immunity Offer** — once tonight, you may offer one witness protection from one specifically named in-fiction offense in exchange for testimony about an act they personally observed. Record the protected offense and the statement publicly. The offer cannot immunize unrelated conduct, compel cooperation, authenticate hearsay, or establish that an unidentified person was R. Because the witness benefits from the deal, the room is explicitly free to discount the testimony.
+
 ## AI Assistant
 
-Your assistant knows everything on this sheet — your facts, your case file, your two messages, and how Compel works. It does **not** know who or what R. actually was (nobody does), what any other person in this room is privately holding, or any "answer" waiting to be found. It can help you organize the trail; it cannot hand you a victim.
+Your assistant knows everything on this sheet — your facts, your case file, your two messages, and how your abilities work. It does **not** know who or what R. actually was (there is no hidden answer), what any other person in this room is privately holding, or whether a person connected to the case was R. It can help you separate observed acts, inferred identity, harm, and culpability; it cannot hand you a victim.

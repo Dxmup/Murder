@@ -33,7 +33,7 @@ Authenticate the article and its source *enough to act* — without letting the 
 Fend off the buyers and suppressors (**Grayson Mott**, **Vivian Ko**) and the three claimants (**Renata Kessler**, **Arthur Feld**, **Nadia Kaur**) all reaching for the byline at once.
 
 ## Relationships
-- **Arthur Feld** — claims he discovered R. and has a founder-era letter to wave; his origin story competes with your stewardship.
+- **Arthur Feld** — claims he discovered a human R. and has an attributed early letter to wave; its authorship link is unresolved and his origin story competes with your stewardship.
 - **Nadia Kaur** — turned up claiming R. named her successor; wants your blessing.
 - **Renata Kessler** — says she's next of kin and the estate (and the article rights) are hers.
 - **Grayson Mott / Vivian Ko** — one profits if the story breaks a stock, one if it's buried. Both will offer you things.

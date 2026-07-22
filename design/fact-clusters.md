@@ -13,7 +13,7 @@ Select **~10–12** clusters. Each must connect **≥3 characters** (§15) and b
 | 7 | **Authorship & style** | F050–F054 | C18 linguist, C10 editor, C08 researcher | B, C, D | A |
 | 8 | **Money & influence** | F055–F059 | C05 short-seller, C06 exec, C13 councilwoman, C07 organizer | — (stakes) | — |
 
-> **Framework key:** A = one real human · B = passed-down mantle · C = rogue AI · D = never existed.
+> **Framework key:** A = one private human · B = human-origin passed-down mantle · C = synthetic/AI persona from the beginning · D = no single coherent journalist / emergent construct.
 >
 > **Design rule (§6):** no cluster should make any framework trivially correct; keep tension in every direction.
 >
