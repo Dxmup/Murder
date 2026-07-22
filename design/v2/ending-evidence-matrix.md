@@ -184,7 +184,7 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 
 **Circulation pressure:** Celeste and Mira each need the other to absorb responsibility; Eli needs the complete authorization chain; Samira wants to know why Vale went.
 
-**Earliest useful section:** 3.
+**Earliest useful section:** late 2, to permit one full section of challenge and circulation.
 
 ### E11 — The Post-Vale Intervention
 
@@ -201,7 +201,7 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 
 **Circulation pressure:** Morgan insists on distinguishing intervention from homicide; Kit will call it murder; Inez has a plausible voluntary-exit account; Eli fears becoming the operator of record.
 
-**Earliest useful section:** 3.
+**Earliest useful section:** late 2, to permit one full section of challenge and circulation.
 
 ### E12 — The Article Rumor Chain
 

@@ -72,7 +72,7 @@ RULES
 - Commitments are voluntary social promises. Use propose, accept, reject, counter, fulfill, or breach so agreement is never assumed.
 - Identity beliefs (one_human, human_mantle, synthetic_origin, progressive) must total 100.
 - final_ballot must be null in Sections 1–2 and complete in Section 3.
-- Cite facts you actually know for the final identity and Vale choices. A progressive vote must cite distinct observations supporting a human origin, shared-human production, an actual transition, and later system control; coexistence alone is insufficient.
+- Cite facts you actually know for the final identity and Vale choices. One Human needs both an origin trace and private continuity; Human Mantle needs both collaborative production and shared or transferred identity authority; Synthetic Origin needs both a pre-byline machine trace and later machine behavior. A progressive vote must cite distinct observations supporting a human origin, shared-human production, an actual transition, and later system control; coexistence alone is insufficient.
 
 ROSTER
 {json.dumps(roster, indent=2)}
@@ -125,13 +125,22 @@ def validate_action(action: dict, cid: str, section: int, known: set[str], objec
             raise ValueError(f"{cid} cited unknown ballot evidence: {sorted(cited-known)}")
         identity_cited = set(action["final_ballot"]["identity_evidence"])
         selection = action["final_ballot"]["r_identity"]
-        affirmative = {
-            "one_human": {"V2F001", "V2F007", "V2F043"},
-            "human_mantle": {"V2F004", "V2F005", "V2F006", "V2F009"},
-            "synthetic_origin": {"V2F012", "V2F018", "V2F019", "V2F044"},
+        primary_burdens = {
+            "one_human": (
+                {"V2F001", "V2F002"},
+                {"V2F007", "V2F043"},
+            ),
+            "human_mantle": (
+                {"V2F004", "V2F005"},
+                {"V2F006", "V2F009"},
+            ),
+            "synthetic_origin": (
+                {"V2F044"},
+                {"V2F012", "V2F018", "V2F019", "V2F030"},
+            ),
         }
-        if selection in affirmative and not identity_cited & affirmative[selection]:
-            raise ValueError(f"{cid} ballot for {selection} lacks affirmative evidence")
+        if selection in primary_burdens and not all(identity_cited & group for group in primary_burdens[selection]):
+            raise ValueError(f"{cid} ballot for {selection} lacks two independent affirmative evidence chains")
         if selection == "progressive":
             required_groups = (
                 {"V2F001", "V2F007", "V2F043"},
