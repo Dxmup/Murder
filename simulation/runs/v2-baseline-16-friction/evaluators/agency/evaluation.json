@@ -1,0 +1,35 @@
+{
+  "role": "agency",
+  "verdict": "The simulation successfully maintains structural balance and character agency under baseline friction, demonstrating that characters can achieve secondary goals and negotiate outcomes independently of the true R identity.",
+  "findings": [
+    "Human mantle dominated the ballot distribution with 10 selections, while one_human received 3, progressive received 2, and synthetic_origin received 1, indicating strong convergence on the collaborative model.",
+    "Characters successfully negotiated secondary and supporting goals, such as Inez (C16) securing Veridian funding commitments from Arden (C01) and Maren (C07) protecting worker boundaries with Tessa (C03).",
+    "Kit Rakes (C15) successfully demonstrated progressive difficulty and self-correction by publicly dropping two disproven theories (invitation key and bodega ledger cipher) before establishing the archive correlation.",
+    "Characters like Samira (C13) and Morgan (C14) navigated the mystery while holding incorrect or uncertain beliefs about R's exact identity, proving that successful goal pursuit does not require omniscience about R.",
+    "No single character, ability, message, or object authenticated an ending, preserving the locked design intent."
+  ],
+  "evidence": [
+    "C01 committed to settling neighborhood expenses and establishing an oversight committee with C16 across sections 1, 2, and 3.",
+    "C15 publicly retracted the invitation-key theory in Section 1 and the bodega ledger cipher in Section 2, fulfilling rigorous self-correction mandates.",
+    "C13 successfully protected Vale's privacy and refused to open the envelope or endorse manufactured successions in Section 3.",
+    "C14 produced an openly qualified reconstruction of Vale's timeline, stripping out manufactured client leads while honoring privacy boundaries with C09, C13, and C16.",
+    "Ballot distributions show 15 out of 16 characters linked Vale's relationship to investigating_r, while vale_fate favored voluntarily_vanished (11 ballots)."
+  ],
+  "failure_modes": [
+    "Slight concentration on human_mantle (10/16 ballots) suggests the social pressure and archive records lean heavily toward collaborative production over synthetic origin.",
+    "Certain characters exhibited prompt-artifact repetitions in public statements across sections without altering core rhetorical posture."
+  ],
+  "recommendations": [
+    "Maintain the current friction parameters as they effectively compel characters to negotiate concrete material trade-offs (e.g., debt settlement, worker remedies) rather than pure information trading.",
+    "Ensure future runs test higher resistance for synthetic origin identity distribution to match structural weight goals."
+  ],
+  "scores": {
+    "primary_ending_balance": 8,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 9,
+    "social_circulation": 8,
+    "mechanical_integrity": 10,
+    "report_confidence": 9
+  }
+}

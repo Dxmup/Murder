@@ -1,0 +1,73 @@
+{
+  "character_id": "C16",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, our agreement on the community oversight committee and settled neighborhood expenses is set. Veridian must honor these written terms to maintain local legitimacy.",
+      "offer": "Neighborhood participation and ongoing community cooperation",
+      "request": "Full adherence to the agreed community oversight and expense settlement",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C10",
+      "say": "Dee, our shared boundary on the camera gap and service route holds. We've protected your pension and our access paths from outside exploitation.",
+      "offer": "Mutual defense and continued neighborhood solidarity",
+      "request": "Maintain our coordinated account against outsider pressure",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C13",
+      "say": "Samira, the route I arranged remains strictly between us. We protected what mattered without letting institutions turn care into a charge.",
+      "offer": "Complete discretion and mutual protection of the access path",
+      "request": "Stand firm on preserving our private understanding of Vale's route",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If Veridian or City Hall expects us to hand over our neighborhood's history without binding commitments to protect local residents and workers, they're barking up the wrong tree.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Veridian will settle the neighborhood tab and establish a joint community oversight committee by tomorrow.",
+      "visibility": "public",
+      "status": "fulfill"
+    },
+    {
+      "with": "C10",
+      "promise": "To coordinate our account of the camera gap so neither my pension nor your tenant is exposed.",
+      "visibility": "private",
+      "status": "fulfill"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Secured and fulfilled written institutional commitments from Veridian for neighborhood oversight and expense settlement.",
+    "Protected Dee and local witnesses by establishing and maintaining a strict disclosure boundary.",
+    "Preserved neighborhood privacy and service route integrity against outside exploitation."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 40,
+    "synthetic_origin": 20,
+    "progressive": 20,
+    "article_existed": 50,
+    "vale_killed_by_ai": 40
+  },
+  "reasoning_summary": "In Section 3, Inez fulfills her commitments with Arden and Dee, cementing neighborhood protections while keeping the unlogged service route secure. Her final ballot reflects the mantle-holder theory of R and the uncertainty around Vale's fate following automated intervention.",
+  "final_ballot": {
+    "r_identity": "human_mantle",
+    "identity_evidence": [
+      "V2F032",
+      "V2F033"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026",
+      "V2F034"
+    ]
+  }
+}

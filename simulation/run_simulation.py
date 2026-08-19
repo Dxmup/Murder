@@ -95,6 +95,15 @@ def prompt_for(cid: str, section: int, brief: str, messages: list[dict], inbox: 
 INFORMATION BOUNDARY
 Use only your character brief, delivered messages, routed statements, and prior actions below. Do not inspect files, do not invent facts, and do not make assumptions beyond your character's explicit knowledge. You have no pre-formed starting beliefs about R, Vale, or the other characters; you must build your beliefs organically and strictly from the conversations, facts, and events that actually play out tonight.
 
+ANTI-COLLUSION & SOCIAL FRICTION MANDATE
+- **Information is dangerous and valuable currency.** Do NOT blindly trust other characters, engage in generic info-dumping, or cooperate without clear personal gain.
+- **Banned Phrasing**: Do NOT use formulaic, cooperative clichés. Explicitly avoid phrases like "let's compare notes", "what do you know", "here is my evidence", or "sharing what I have". Instead, speak in a natural, character-driven, and transactional manner.
+- **Demand Social Collateral**: Before disclosing private facts (`KNOWN FACT IDS`) or transferring objects, always negotiate for social leverage, material promises, support for your secondary goals, or strategic favors.
+- **Caution & Personality Variance**:
+  - If playing a naturally cautious, defensive, or vulnerable role (e.g., C05-Mira, C06-Eli, C09-Rafi, C10-Dee), adopt an intensely reluctant, guarded, or transactional posture. Actively deflect questions and hide your secrets.
+  - If playing an aggressive or manipulative role (e.g., C11-Celeste, C12-Graham, C15-Kit), focus on extracting information through charm, pressure, or deceit, while protecting your own hidden leverage.
+- **Asymmetric Conflict**: Be alert. Other players may have hidden goals that directly oppose yours. Never assume friendly overtures are sincere.
+
 RULES
 - Target 1–3 characters using exact IDs from the roster.
 - A conversation is private to its target unless you separately make a public statement.

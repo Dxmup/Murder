@@ -1,0 +1,54 @@
+{
+  "character_id": "C03",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, before anyone starts treating our contributor logs as a suspect list, we need to lock down a strict disclosure boundary. What rule are we setting for the drop records?",
+      "offer": "Firsthand context on shared drops and rotating workflows without exposing names.",
+      "request": "Agreement on a safe, bounded disclosure rule that protects vulnerable contributors.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, I hear you're positioning yourself around the R mantle. If the Night Desk is going to lend any support, I need to know in writing what protections you guarantee for the actual laborers behind the text.",
+      "offer": "Consideration of support for your public claims.",
+      "request": "Written terms detailing what rights and protections contributors retain if you assume the mantle.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian is hosting this floor, but my collective's safety comes before your anniversary narrative. I want a concrete source-protection commitment before any workflow evidence is shown.",
+      "offer": "Bounded workflow evidence from the Night Desk routing records.",
+      "request": "Formal institutional protection and resources for our collective contributors.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Fifteen years of reporting was built by hands you cannot neatly summarize on a single anniversary plaque. Do not confuse a famous byline with the infrastructure that kept it alive.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a joint disclosure boundary before releasing any contributor routing details.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated boundary discussion with Maren to protect contributors.",
+    "Challenged Jules on succession conditions and contributor rights.",
+    "Demanded concrete protections from Arden in exchange for workflow evidence."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Tessa begins Section 1 focused on securing the Night Desk collective. She approaches Maren to set a rigorous disclosure boundary, confronts Jules regarding succession obligations, and demands concrete institutional protections from Arden before offering any workflow artifacts. Beliefs remain balanced at 25% across identity hypotheses, and final_ballot is null.",
+  "final_ballot": null
+}

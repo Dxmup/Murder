@@ -1,0 +1,54 @@
+{
+  "character_id": "C03",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, we need to formalize our joint boundary before any Night Desk records circulate. Let's make sure evaluator anonymity is strictly preserved.",
+      "offer": "Endorsement of a strict joint disclosure boundary for all shared drop records.",
+      "request": "Mutual commitment to withhold any identifying worker details in published fragments.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, your logs flag an activity gap, but my schedules show our known contributors were unavailable. Let's exchange analytical boundaries without exposing names.",
+      "offer": "Bounded contributor schedule comparison.",
+      "request": "Clarity on what the system execution logs actually establish versus what they assume.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian wants workflow evidence from the Night Desk. Before I show anything, I need a concrete source-protection commitment for our collective.",
+      "offer": "Uncovered routing slip lines once protection terms are locked down.",
+      "request": "Formal institutional guarantees and protection resources for collective contributors.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Fifteen years of reporting was built by hands you cannot neatly summarize on a single anniversary plaque. Do not confuse a famous byline with the infrastructure that kept it alive.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "We will maintain a joint boundary protecting all evaluator identities across our records.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Accepted Maren's joint boundary commitment to protect evaluator anonymity.",
+    "Engaged Eli regarding contributor schedules and activity gaps without compromising names.",
+    "Pressed Arden for concrete institutional protections before disclosing routing slip details."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 35,
+    "synthetic_origin": 20,
+    "progressive": 25,
+    "article_existed": 60,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Tessa solidifies her alliance with Maren by accepting the disclosure boundary commitment, negotiates with Eli to understand schedule gaps without exposing contributors, and pressures Arden for institutional protections in exchange for workflow evidence. Beliefs shift slightly toward human_mantle given the collaborative evidence of the Night Desk.",
+  "final_ballot": null
+}

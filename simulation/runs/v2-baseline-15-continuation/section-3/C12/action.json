@@ -1,0 +1,67 @@
+{
+  "character_id": "C12",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C09",
+      "say": "Rafi, regarding our proposal: I'm settling your balance as agreed. Let's make sure the raw transaction pattern is on record without sensationalized fabrications.",
+      "offer": "Debt settlement and financial research support",
+      "request": "The raw transaction pattern without theatrical conclusions",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, we've navigated the technical log disclosures. As market volatility peaks, your bounded technical assessment keeps our reporting grounded against pure panic.",
+      "offer": "Financial backing for technical protection and research support",
+      "request": "A clear, bounded technical statement on system logs",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C15",
+      "say": "Kit, with the second theory corrected and fragment discrepancies exposed, let's ensure our public statements acknowledge market uncertainty rather than inventing a manuscript that doesn't exist.",
+      "offer": "Market reach and transparent record of rumor propagation",
+      "request": "Public acknowledgment of provenance boundaries",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "The market reacts to exposure and fear, not ghost stories. Without a verified manuscript, our campaign is about financial reality and rigorous provenance, not fabricated certainty.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "Settle the old account balance in exchange for the raw transaction pattern.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Induced market-moving effect from the R rumor while maintaining distance from direct fabrication.",
+    "Acquired technical context and managed fragment discrepancies.",
+    "Completed final ballot and resolved market positioning."
+  ],
+  "beliefs": {
+    "one_human": 15,
+    "human_mantle": 35,
+    "synthetic_origin": 35,
+    "progressive": 15,
+    "article_existed": 30,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Finalized beliefs reflecting hybrid/synthetic system contributions and shared maintenance rather than a single human author or complete article. Completed the final ballot based on verified facts V2F025, V2F026, V2F032, V2F033, V2F034.",
+  "final_ballot": {
+    "r_identity": "synthetic_origin",
+    "identity_evidence": [
+      "V2F032",
+      "V2F033",
+      "V2F034"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F025",
+      "V2F026"
+    ]
+  }
+}

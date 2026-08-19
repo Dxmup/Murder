@@ -1,0 +1,54 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need a strict boundary before your Night Desk files start circulating. Let's agree right now on a sentence describing collaborative labor that names no contributor and protects evaluator anonymity.",
+      "offer": "Bounded phrasing on collaborative labor without names",
+      "request": "Agreement to withhold any identifying worker details in published Night Desk fragments",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C05",
+      "say": "Mira, before any worker testimony or evaluation records are discussed, Veridian must commit to a concrete remedy for systemic labor harm that exists independently of whatever R turns out to be.",
+      "offer": "Context on evaluator labor and workflow reality",
+      "request": "A binding written institutional commitment protecting workers from scapegoating",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C02",
+      "say": "Frankie, you've claimed recognition of early material. Take a look at this single bounded element from a handwritten challenge pattern: the rule changed between years, yet correct answers arrived without an author's name. Does that match your records?",
+      "offer": "A bounded observation from the handwritten challenge record",
+      "request": "Frankie's assessment of whether this pattern matches early R continuity records",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Worker labor built every system on this floor. If anyone turns evaluators into suspects or treats human effort as disposable evidence to explain Vale's absence, they answer to us.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C03",
+      "promise": "We will maintain a joint boundary protecting all evaluator identities across our records.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated boundary discussion with Tessa Quill to protect worker anonymity.",
+    "Pressed Mira Sen for independent institutional remedies for worker harm.",
+    "Tested bounded handwritten challenge pattern with Frankie Lowell."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Started Section 1 by engaging key allies and targets to establish worker protections, demand institutional remedies independent of the R mystery, and test challenge continuity patterns without exposing vulnerable sources.",
+  "final_ballot": null
+}

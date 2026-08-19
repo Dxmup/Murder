@@ -1,0 +1,50 @@
+{
+  "character_id": "C07",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C03",
+      "say": "Tessa, we need a shared sentence on collaborative labor that names no contributor before anyone starts turning workflow evidence into a spectacle.",
+      "offer": "Bounded workflow context without worker identification.",
+      "request": "Agreement on contributor protection boundaries.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C05",
+      "say": "Mira, worker harm does not depend on an article existing. We will discuss bounded testimony only after hearing a remedy for evaluators that exists independently of R.",
+      "offer": "Organizing context around Parallax continuity evaluators.",
+      "request": "A written institutional protection commitment guaranteeing no worker names are used.",
+      "fact_ids_shared": [
+        "V2F041"
+      ]
+    }
+  ],
+  "public_statement": "Worker anonymity and protection come before any narrative about R or Vale's disappearance. No one becomes anonymous infrastructure or a suspect tonight.",
+  "facts_shared": [
+    "V2F041"
+  ],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C05",
+      "promise": "Commit in writing that no worker name will be used to identify R or explain Vale's disappearance.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Tessa to establish labor boundaries.",
+    "Demanded written institutional protections from Mira for Parallax evaluators."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "In Section 1, Maren focuses on securing concrete worker protections, demanding a written commitment that no worker names are used to explain R or Vale's disappearance, and coordinating with Tessa and Mira.",
+  "final_ballot": null
+}

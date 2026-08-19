@@ -1,0 +1,62 @@
+{
+  "character_id": "C09",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, regarding your request to date the change in the pattern: I will share the bounded transaction strip under our agreed attribution terms, provided you guarantee no customer is named R.",
+      "offer": "Bounded view of the transaction continuity and timing of the shift.",
+      "request": "Strict adherence to customer privacy and no R attribution.",
+      "fact_ids_shared": [
+        "V2F007"
+      ]
+    },
+    {
+      "with": "C12",
+      "say": "Graham, you offered to settle my ledger balance. I want the exact terms of financial help in writing, and in exchange you get the raw pattern without any theatrical conclusions.",
+      "offer": "The raw transaction pattern without sensationalized claims.",
+      "request": "Debt settlement and financial research help.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are poking around camera gaps and service routes. Let's formalize our boundary so nobody trades away local names.",
+      "offer": "Context on local access and route history.",
+      "request": "Enforceable agreement on what neighborhood details remain protected.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If anyone thinks a ledger of coffee runs and package holds proves a ghost or a machine, they are selling stories, not history. The shop keeps records, not myths.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "I will provide bounded ledger access to date the pattern shift once Morgan confirms privacy terms.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C12",
+      "promise": "I will share the raw transaction pattern if Graham settles the old account balance.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Continued negotiations with Morgan on bounded ledger access.",
+    "Engaged Graham regarding ledger debt settlement in exchange for raw patterns.",
+    "Strengthened local protection boundary with Inez."
+  ],
+  "beliefs": {
+    "one_human": 40,
+    "human_mantle": 25,
+    "synthetic_origin": 15,
+    "progressive": 20,
+    "article_existed": 55,
+    "vale_killed_by_ai": 45
+  },
+  "reasoning_summary": "In Section 2, Rafi engages Morgan to advance the bounded ledger access bargain, negotiates with Graham over settling the old shop account, and solidifies customer protection boundaries with Inez. Beliefs shift slightly toward human-centric explanations (one_human) given the mundane physical nature of shop transactions and habits.",
+  "final_ballot": null
+}

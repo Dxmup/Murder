@@ -1,0 +1,54 @@
+{
+  "character_id": "C03",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, we need to set a strict disclosure boundary before people start treating our routing slips and archives as a list of suspects.",
+      "offer": "To consult on preserving source anonymity without weaponizing collective history.",
+      "request": "Agreement on a shared disclosure rule that keeps contributor names out of circulation.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you want to carry an identity built on collaborative labor. State clearly what rights and protections your succession obligates you to grant our contributors.",
+      "offer": "Conditions under which the Night Desk might support a shared identity claim.",
+      "request": "A formal commitment to protect underlying workers.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian offers archive access and prestige, but our contributors face real risks. Let's trade bounded workflow evidence for concrete source-protection commitments.",
+      "offer": "The Night Desk routing slip, shown with initials covered.",
+      "request": "Veridian Foundation institutional protections for anonymous contributors.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Fifteen years of R was built by hands whose names do not appear in bylines. Honor the work without turning laborers into suspects.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Establish a shared disclosure boundary for contributor protection before any archive is opened.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Maren to discuss disclosure boundaries.",
+    "Challenged Jules on succession conditions.",
+    "Proposed concrete protection exchange to Arden."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "Initiated Section 1 conversations with Maren, Jules, and Arden adhering to Tessa's brief: establishing safe disclosure boundaries, testing Jules's commitment to labor, and demanding concrete protections from Arden before sharing workflow evidence. Beliefs initialized flatly at 25% across identities and 50% for binary questions. Final ballot remains null.",
+  "final_ballot": null
+}

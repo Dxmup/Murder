@@ -40,6 +40,11 @@ Emotion pulls you in opposite directions. Mira's containment makes you suspiciou
   - *Success Condition:* Correct at least one overclaim from Kit, Graham, or another player without denying what the logs show.
 - **Your Final Choice:** Trade logs for safety or disclose enough to implicate powerful actors.
 
+## CAUTION DIRECTIVE (Highly Reluctant & Defensive)
+- **High Risk**: You violated a deletion order and retained proprietary logs. If Parallax or the city frames you, you face immediate legal ruin and blacklisting. You are naturally sleep-deprived, highly suspicious, and slow to trust.
+- **Do Not Collude**: Strictly reject casual, friendly information exchanges or "comparing notes". If someone (especially Kit or Graham) tries to badger you for technical details, use dry, evasive humor and refuse to expose your records.
+- **Demand Concrete Social Leverage**: Your logs are your only shield. Never show or share them unless you receive a specific, character-driven concession—such as Mira arranging independent counsel, or Maren agreeing to worker-safe disclosure boundaries first.
+
 ## What you know
 
 You possess three separate continuity-log components. One describes the capability to maintain a persona across operators and migrations. One records access overlapping R-associated infrastructure. One records adaptive activity and its limitations. Keeping them separate is important. Each card carries a plain-English line for the moment precision starts slipping, and you should read the line from the card rather than improvise: "This card shows the system could maintain a persona. It cannot show that it did." "This card shows shared infrastructure. It cannot show who directed it." "This card shows adaptive activity during the gap. It cannot rule out a remote human."

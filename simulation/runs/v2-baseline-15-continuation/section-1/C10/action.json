@@ -1,0 +1,46 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management just flagged our unpreserved camera interval. We need to talk before Morgan starts asking questions about who used the service exit.",
+      "offer": "Exact building rhythms and shift details",
+      "request": "A coordinated response regarding the camera audit context and resident anonymity",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, before I say anything about the service route access or the audit notice, I need to know what fair treatment and a bounded account mean in your report.",
+      "offer": "The audit context and intervention notice details",
+      "request": "A formal commitment of resident anonymity and precise attribution",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If anyone thinks a flagged camera interval or a routine routing glitch equals a conspiracy, they are looking for a culprit instead of the truth.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "To coordinate our account of the camera gap before speaking with management or reporters.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Approached Inez regarding the camera audit and informal tenant protection.",
+    "Initiated contact with Morgan to discuss fair treatment and a bounded account."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 1, Dee Nowak focuses on protecting her pension and her tenant by approaching Inez to discuss the unpreserved camera interval and engaging Morgan to establish terms for a bounded account. Beliefs are initialized as a flat 25% distribution across identity categories.",
+  "final_ballot": null
+}

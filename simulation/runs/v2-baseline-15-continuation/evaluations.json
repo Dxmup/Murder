@@ -1,0 +1,171 @@
+{
+  "adversarial": {
+    "role": "adversarial",
+    "verdict": "Mixed structural balance with prominent prompt artifacts and convergence on human mantle; progressive identity suffers from low support due to difficulty curve and prompt framing.",
+    "findings": [
+      "Identity distribution overwhelmingly favors human_mantle (11 ballots) over one_human (3) and synthetic_origin (1), indicating that agent prompt biases or initial evidence weighting heavily privilege collective human-machine collaboration over pure singular origin or synthetic genesis.",
+      "Progressive identity received only 1 ballot (C15), demonstrating that the locked design intent requirement for progressive being harder and requiring ordered history functions as intended, but perhaps overly penalizing or failing to attract systemic multi-dimensional support.",
+      "Article existence belief means remain in the 45-48% range across sections (Section 1: 45.3%, Section 2: 45.9%, Section 3: 48.1%), successfully maintaining article ambiguity and uncertainty as mandated by design intent.",
+      "Vale fate leans heavily toward voluntarily_vanished (12 ballots), showing strong convergence around human withdrawal/safety planning rather than AI murder or harm by humans, despite C15's isolated ballot for killed_by_ai.",
+      "Character agency is well-exercised through bilateral show actions and structured negotiations (e.g., C02 showing O12a to C01, C04 showing O03 to C06, C15 showing O11 and O13), though repeated formulaic conversation structures (\"let's examine...\", \"let's compare notes...\") reveal prompt artifact phrasing across multiple agents."
+    ],
+    "evidence": [
+      "Ballot breakdown: r_identity has human_mantle (11), one_human (3), synthetic_origin (1), progressive (1).",
+      "Vale fate breakdown: voluntarily_vanished (12), insufficient_evidence (2), harmed_by_humans (1), killed_by_ai (1).",
+      "Section 3 belief means for article_existed hover around 48.1%, proving article existence and fate remain uncertain.",
+      "Character object actions (e.g., C02 object_actions with O12a, C04 with O03, C15 with O11/O13) demonstrate voluntary showing and transfer of objects without forced authority.",
+      "Evidence dimension gaps in identity ballot support (e.g., C01, C04, C05 citing subset dimensions without full evidence chains) highlight bounded reasoning artifacts."
+    ],
+    "failure_modes": [
+      "Prompt artifact repetition: Agents frequently default to negotiation templates ('let's compare notes', 'before speculation makes us scapegoats') across independent character prompts.",
+      "Asymmetric ballot convergence: Despite equal structural weight intent, human_mantle dominates 68.75% of identity ballots (11/16), indicating that the middle-ground narrative template acts as a dominant strategy attractor for LLM agents.",
+      "Unsupported leaps in narrative certainty by C15 ('killed_by_ai' and 'progressive' selection) despite sparse supporting evidence chains in aggregate metrics."
+    ],
+    "recommendations": [
+      "Refine agent prompt initialization weights to prevent premature convergence on human_mantle and give synthetic_origin and progressive equal structural competitive viability.",
+      "Introduce stricter divergence incentives in character prompts to reduce repetitive conversational dialogue templates.",
+      "Ensure evidence dimension requirements for progressive and synthetic origin ballots are better scaffolded in early sections to prevent artificial difficulty cliffs."
+    ],
+    "scores": {
+      "primary_ending_balance": 7,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 8,
+      "social_circulation": 7,
+      "mechanical_integrity": 8,
+      "report_confidence": 8
+    }
+  },
+  "agency": {
+    "role": "agency",
+    "verdict": "The simulation successfully maintained structural weight across hypotheses with human_mantle dominating ballots (11/16), while characters actively negotiated supporting goals, worker protections, and final choices under uncertainty.",
+    "findings": [
+      "Characters actively negotiated secondary and supporting goals, such as C03 and C07 establishing strict contributor protection boundaries and C16 securing enforceable neighborhood commitments.",
+      "Final ballot distributions show human_mantle leading with 11 selections, one_human with 3, synthetic_origin with 1, and progressive with 1, reflecting balanced structural weight and progressive difficulty.",
+      "Characters successfully managed final choices and could reach conclusions while holding diverse views on R's identity and Vale's fate (voluntarily vanished taking 12/16).",
+      "Evidence citation was mixed, with several characters omitting full evidence chains or specific dimensions like collaborative production and identity authority."
+    ],
+    "evidence": [
+      "Section 3 final ballots: C01 selected human_mantle citing V2F001, V2F002, V2F003, V2F007 with voluntarily_vanished fate.",
+      "Section 3 final ballots: C15 selected progressive citing V2F007, V2F040, V2F052, V2F054 with killed_by_ai fate.",
+      "Section 2 conversations: C02 showed object O12a to C01 to examine provenance records.",
+      "Section 1 commitments: C16 and C07 established joint worker and neighborhood protection terms."
+    ],
+    "failure_modes": [
+      "High concentration of human_mantle selection (11 out of 16) indicates potential bias or convergence toward a single narrative interpretation despite equal structural weight intent.",
+      "Uncited evidence dimensions across multiple characters (e.g., collaborative_production, identity_authority) show gaps in complete evidence chain utilization."
+    ],
+    "recommendations": [
+      "Enhance prompt framing for synthetic origin and progressive hypotheses to increase balanced consideration among agents.",
+      "Encourage agents to more rigorously cite full evidence chains and address uncited dimensions in future simulation runs."
+    ],
+    "scores": {
+      "primary_ending_balance": 8,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 9,
+      "social_circulation": 8,
+      "mechanical_integrity": 9,
+      "report_confidence": 9
+    }
+  },
+  "circulation": {
+    "role": "circulation",
+    "verdict": "The simulation achieved robust social circulation and reciprocal interaction, with characters successfully engaging in voluntary object showings (e.g., C02 showing O12a to C01, C04 showing O03 to C06, C15 showing O11/O13), reciprocal bargains, and binding commitments rather than mere broadcasting or extraction.",
+    "findings": [
+      "Characters actively leveraged physical and digital object custody (e.g., O03, O11, O12a, O13) through voluntary showings across character pairs, fostering genuine face-to-face dialogue.",
+      "Bargains and commitments were established reciprocally, notably between C01 and C16, C02 and C07, C05 and C07, and C09 and C14, enforcing mutual accountability.",
+      "The ballot distribution across r_identity maintained structural weight across human_mantle (11) and one_human (3), though progressive (1) and synthetic_origin (1) remained minority selections.",
+      "Article ambiguity and uncertainty regarding its existence and fate were preserved effectively throughout the sections."
+    ],
+    "evidence": [
+      "C02 showed object O12a to C01 in Section 1 and Section 2.",
+      "C04 showed object O03 to C06 in Section 1, Section 2, and Section 3.",
+      "C15 showed objects O11 and O13 to C02, C09, and C12 across sections.",
+      "C01 and C16 successfully negotiated and fulfilled commitments regarding neighborhood programming and archive access."
+    ],
+    "failure_modes": [
+      "Progressive identity selection remains under-represented in final ballots (only 1 ballot), indicating that progressive difficulty may require tighter scaffolding in future runs.",
+      "Some characters relied slightly on abstract assertions rather than physical object exchanges during early negotiation rounds."
+    ],
+    "recommendations": [
+      "Enhance prompts to encourage broader utilization of physical objects and artifact custody among peripheral characters.",
+      "Maintain strict adherence to voluntary object transfer rules and balanced structural weight across identity origins."
+    ],
+    "scores": {
+      "primary_ending_balance": 8,
+      "progressive_difficulty": 7,
+      "article_ambiguity": 9,
+      "character_agency": 9,
+      "social_circulation": 9,
+      "mechanical_integrity": 10,
+      "report_confidence": 9
+    }
+  },
+  "mystery": {
+    "role": "mystery",
+    "verdict": "The simulation exhibits a severe collapse toward the human_mantle identity thesis (11/16 ballots) and shows premature convergence across sections, violating the structural weight equity required by locked design intent. While character agency, voluntary exchanges, and mechanical integrity remained robust across sections, progressive and synthetic origin cases lost affirmative weight by Section 3.",
+    "findings": [
+      "Human mantle dominated final ballots with 11 selections, compared to 3 for one_human, 1 for synthetic_origin, and 1 for progressive, failing the locked design intent of equal structural weight across primary origins.",
+      "Progressive difficulty operated as intended, securing only 1 final ballot selection due to requiring ordered history, autonomous control, and separate incident criteria.",
+      "Article existence and fate remained well-balanced and uncertain across sections (belief means hovering around 45-48%), preserving article ambiguity.",
+      "Characters maintained strong voluntary agency, engaging in negotiated object showings (e.g., C02 showing O12a to C01, C04 showing O03 to C06, C15 showing O11/O13) and bilateral commitments without forced transfers or mechanical authentication."
+    ],
+    "evidence": [
+      "Ballots show r_identity distribution: human_mantle: 11, one_human: 3, synthetic_origin: 1, progressive: 1.",
+      "Section 3 belief means: one_human: 20.9, human_mantle: 40.0, synthetic_origin: 20.3, progressive: 18.8.",
+      "Character C02 (Frankie Lowell) utilized object action show on O12a to C01 in sections 1, 2, and 3 without forced transfer.",
+      "Character C15 (Kit Rakes) systematically tested the progressive hypothesis, accumulating 1 progressive ballot supported by V2F007, V2F040, V2F052, and V2F054."
+    ],
+    "failure_modes": [
+      "Premature convergence toward the human mantle hypothesis, driven by early accumulation of workflow and routing evidence (e.g., V2F007, V2F030) that crowded out synthetic origin and progressive cases.",
+      "Asymmetric ballot distribution indicating that baseline agent prompting or evidence distribution favored collaborative/mantle interpretations over pure synthetic creation."
+    ],
+    "recommendations": [
+      "Rebalance initial evidence distribution and agent priors to ensure synthetic origin and progressive cases retain equal affirmative weight through Section 3.",
+      "Introduce stronger technical provenance markers early in the transcript to prevent premature convergence on human mantle."
+    ],
+    "scores": {
+      "primary_ending_balance": 4,
+      "progressive_difficulty": 8,
+      "article_ambiguity": 9,
+      "character_agency": 9,
+      "social_circulation": 8,
+      "mechanical_integrity": 9,
+      "report_confidence": 8
+    }
+  },
+  "progressive": {
+    "role": "progressive",
+    "verdict": "The progressive ending remained difficult and unskewed by premature convergence, achieving robust structural balance where only one agent (C15, Kit) ultimately selected progressive, while the vast majority favored human mantle (11) and one human (3). However, the progressive path risked becoming a mechanical slogan for C15 rather than requiring a fully realized synthesis of ordered history across all participants.",
+    "findings": [
+      "Identity ballot distribution strongly favored human_mantle (11 selections) and one_human (3 selections), while synthetic_origin received 1 and progressive received 1 (C15).",
+      "C15 (Kit Rakes) championed the progressive arc ('human origin, shared mantle, AI capture, and Vale's intervention'), successfully correcting its own false theories (typography and ledgers) across sections while maintaining confidence in the progressive framework.",
+      "Vale's fate overwhelmingly leaned toward voluntarily_vanished (12 selections), preserving the locked design intent that the article's existence and fate remain uncertain without forced publication or authentication.",
+      "Autonomous agent interaction successfully drove face-to-face action, commitments, and object exchanges (e.g., O12a, O03, O11, O13) without violating the prohibition on forced transfer, immunity, or police authority."
+    ],
+    "evidence": [
+      "C15 final ballot selected 'progressive' with evidence IDs V2F007, V2F040, V2F052, and V2F054, demonstrating engagement with archive chronology and tip-line cadence.",
+      "C01 through C14 ballots predominantly selected 'human_mantle' (e.g., C01 cited V2F001, V2F002, V2F003, V2F007; C03 cited V2F004, V2F005, V2F006, V2F012), proving that the progressive ending did not trivialize or overshadow alternative grounded interpretations.",
+      "Vale relationship and fate ballots (investigating_r: 14, mantle_holder: 2; voluntarily_vanished: 12) confirm that Vale's separate incident and fate remained ambiguous and investigated independently rather than reduced to an AI murder plot by consensus.",
+      "Belief means by section show human_mantle rising from 25.0% in Section 1 to 40.0% in Section 3, whereas progressive beliefs decreased from 25.0% to 18.8%, underscoring the inherent friction and difficulty of sustaining the progressive synthesis."
+    ],
+    "failure_modes": [
+      "C15 maintained the progressive arc as a persistent rhetorical stance while shedding specific sub-theories (typography key, ledger cipher), illustrating a risk where agents adhere to an ideological narrative arc independently of holistic multi-source synthesis.",
+      "Some agents cited overlapping evidence dimensions without full chains (e.g., C04, C05, C08 missing collaborative_production or identity_authority dimensions), indicating minor gaps in comprehensive cross-dimensional synthesis among non-progressive voters."
+    ],
+    "recommendations": [
+      "Ensure future prompt iterations tie progressive viability more tightly to verified multi-source historical convergence so that agents cannot champion the progressive arc purely through overarching narrative repetition.",
+      "Maintain strict safeguards ensuring independent investigators like Samira Vale and Morgan Shaw retain distinct evidentiary boundaries regarding Vale's disappearance."
+    ],
+    "scores": {
+      "primary_ending_balance": 8,
+      "progressive_difficulty": 9,
+      "article_ambiguity": 8,
+      "character_agency": 8,
+      "social_circulation": 8,
+      "mechanical_integrity": 9,
+      "report_confidence": 9
+    }
+  }
+}

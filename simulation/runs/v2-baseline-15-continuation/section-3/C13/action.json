@@ -1,0 +1,67 @@
+{
+  "character_id": "C13",
+  "section": 3,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you asked how succession could be manufactured before the message appeared. Explain what you were trying to set up.",
+      "offer": "My silence on your succession questions and whether you manufactured anything.",
+      "request": "The complete context and provenance of your succession conversation.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, you told Vale R was no longer human based on logs. What exact evidence supported that, and what remains uncertain?",
+      "offer": "Context on how Vale reacted emotionally to your technical logs and R claims.",
+      "request": "Your technical assessment and the logs you showed Vale.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, regarding your route board: no personal route detail enters the timeline without my explicit consent and an uncertainty label.",
+      "offer": "My perspective on whether Vale planned to disappear or if someone is shaping the record.",
+      "request": "To share your route board's uncertainty labels and respect our confidentiality agreement.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If anyone is treating Vale's absence as a convenient plot device or proof of a digital myth, remember that Vale knew real fear and left behind real human mess.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "Maintain strict confidentiality regarding route board uncertainty labels and require explicit consent before any personal route detail enters the timeline.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Vale's actions and fears were rooted in human vulnerability and prior safety planning, not in an abstract digital or corporate script.",
+  "goal_progress": [
+    "Obtained observations from Jules, Eli, and Morgan.",
+    "Corrected false personal claims regarding Vale's motives.",
+    "Completed final disclosure decision and ballot."
+  ],
+  "beliefs": {
+    "one_human": 35,
+    "human_mantle": 25,
+    "synthetic_origin": 15,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 15
+  },
+  "reasoning_summary": "As Samira Vale in Section 3, I finalize my interactions with Jules, Eli, and Morgan, protect Vale's personal privacy by withholding unnecessary exposure while acknowledging prior safety planning, and complete the final ballot reflecting human withdrawal over digital myth.",
+  "final_ballot": {
+    "r_identity": "one_human",
+    "identity_evidence": [
+      "V2F025",
+      "V2F032",
+      "V2F034"
+    ],
+    "vale_relationship": "investigating_r",
+    "vale_fate": "voluntarily_vanished",
+    "vale_evidence": [
+      "V2F028",
+      "V2F034"
+    ]
+  }
+}

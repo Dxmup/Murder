@@ -1,0 +1,50 @@
+{
+  "character_id": "C11",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C05",
+      "say": "Mira, the calendar recovery links us both to Vale's access. If we don't coordinate our disclosure terms now, external inquiries will let the first partial record dictate the story.",
+      "offer": "To align on shared responsibility for the authorization context and protect institutional stability.",
+      "request": "Your agreement on how we jointly frame the calendar records before anyone else seizes control of the narrative.",
+      "fact_ids_shared": [
+        "V2F029",
+        "V2F038"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you're chasing the origins of that manufactured lead, you should understand how institutional routing paths can mimic authentic records. Let's look at the tradecraft patterns without falling into a trap.",
+      "offer": "Context on how routing layers and deniable channels operate in institutional environments.",
+      "request": "Details on the exact delivery path and client profile associated with your anonymous lead.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C13",
+      "say": "Samira, Vale confided in specific people tonight, and City Hall wants to ensure Vale's personal privacy is respected even as we manage the fallout of that off-calendar meeting.",
+      "offer": "A clear privacy boundary regarding Vale's motives and movements.",
+      "request": "Your perspective on what Vale intended and how we can keep disclosures from violating Vale's memory.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Let's ensure our response tonight focuses on enforceable public policy and institutional stability rather than letting speculation dictate our governance.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Dr. Mira Sen regarding shared calendar record coordination and responsibility.",
+    "Approached Morgan Shaw regarding tradecraft patterns and lead provenance.",
+    "Initiated contact with Samira Vale regarding privacy boundaries and Vale's context."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 45,
+    "vale_killed_by_ai": 30
+  },
+  "reasoning_summary": "Executed Section 2 actions for Celeste Park (C11), focusing on managing the calendar recovery with Mira, probing the lead routing with Morgan, and establishing privacy boundaries with Samira. Adjusted beliefs slightly based on new live messages and updated goal progress while keeping the final ballot null for Section 2.",
+  "final_ballot": null
+}

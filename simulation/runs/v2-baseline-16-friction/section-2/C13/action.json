@@ -1,0 +1,54 @@
+{
+  "character_id": "C13",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, you want my assessment of whether your claim stands, but you haven't explained how you manufactured that succession without Vale's direct hand. Give me your complete account of that conversation, and then I will tell you whether your ambition matches what I hold.",
+      "offer": "I will weigh your account against the message I hold regarding how succession was discussed.",
+      "request": "Provide an honest, unvarnished explanation of your succession plans.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, you want Vale's recollection or copy of the material. Before I trade anything, tell me precisely what technical logs you showed Vale and how you interpreted the phrase 'no longer human' without falling into theatrical paranoia.",
+      "offer": "I can share what Vale understood or felt about the logs, provided your technical context is complete.",
+      "request": "Detail exactly what the logs contained and what you concluded from them.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, you want to discuss approach routes into the neighborhood near the former printing floor. I'll hear your verified transit logs, but my terms remain absolute: no personal route detail enters your report without my explicit consent and an uncertainty label.",
+      "offer": "I can help verify whether a route overlaps with an old safety plan.",
+      "request": "Accept my privacy boundary and share your partial transit logs.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale was a person who forgot groceries and feared exposure, not a symbol for your professional narratives or manufactured successions. Stop turning absence into an argument.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "I will discuss route possibilities only if you label all personal route material with uncertainty and obtain my consent.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "Correction: Vale did not leave behind a verified final article or a clean roadmap; attributing certainty to Vale's final days is a fabrication used to manufacture authority.",
+  "goal_progress": [
+    "Responded to Jules, demanding a full account of the succession manufacturing before offering assessment.",
+    "Pressed Eli for the exact technical logs behind the 'no longer human' claim.",
+    "Engaged Morgan on transit routes while maintaining strict privacy boundaries."
+  ],
+  "beliefs": {
+    "one_human": 28,
+    "human_mantle": 24,
+    "synthetic_origin": 24,
+    "progressive": 24,
+    "article_existed": 45,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 2, Samira maintains her guarded, transactional posture in private conversations with Jules, Eli, and Morgan. She demands accountability and clear accounts before trading any leverage, keeping beliefs balanced across origins while leaning slightly toward human identity and skepticism about articles.",
+  "final_ballot": null
+}

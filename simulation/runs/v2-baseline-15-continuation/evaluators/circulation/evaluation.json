@@ -1,0 +1,33 @@
+{
+  "role": "circulation",
+  "verdict": "The simulation achieved robust social circulation and reciprocal interaction, with characters successfully engaging in voluntary object showings (e.g., C02 showing O12a to C01, C04 showing O03 to C06, C15 showing O11/O13), reciprocal bargains, and binding commitments rather than mere broadcasting or extraction.",
+  "findings": [
+    "Characters actively leveraged physical and digital object custody (e.g., O03, O11, O12a, O13) through voluntary showings across character pairs, fostering genuine face-to-face dialogue.",
+    "Bargains and commitments were established reciprocally, notably between C01 and C16, C02 and C07, C05 and C07, and C09 and C14, enforcing mutual accountability.",
+    "The ballot distribution across r_identity maintained structural weight across human_mantle (11) and one_human (3), though progressive (1) and synthetic_origin (1) remained minority selections.",
+    "Article ambiguity and uncertainty regarding its existence and fate were preserved effectively throughout the sections."
+  ],
+  "evidence": [
+    "C02 showed object O12a to C01 in Section 1 and Section 2.",
+    "C04 showed object O03 to C06 in Section 1, Section 2, and Section 3.",
+    "C15 showed objects O11 and O13 to C02, C09, and C12 across sections.",
+    "C01 and C16 successfully negotiated and fulfilled commitments regarding neighborhood programming and archive access."
+  ],
+  "failure_modes": [
+    "Progressive identity selection remains under-represented in final ballots (only 1 ballot), indicating that progressive difficulty may require tighter scaffolding in future runs.",
+    "Some characters relied slightly on abstract assertions rather than physical object exchanges during early negotiation rounds."
+  ],
+  "recommendations": [
+    "Enhance prompts to encourage broader utilization of physical objects and artifact custody among peripheral characters.",
+    "Maintain strict adherence to voluntary object transfer rules and balanced structural weight across identity origins."
+  ],
+  "scores": {
+    "primary_ending_balance": 8,
+    "progressive_difficulty": 7,
+    "article_ambiguity": 9,
+    "character_agency": 9,
+    "social_circulation": 9,
+    "mechanical_integrity": 10,
+    "report_confidence": 9
+  }
+}

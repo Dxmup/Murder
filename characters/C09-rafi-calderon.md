@@ -36,6 +36,11 @@ The ledger supports several interpretations. One hidden person may have used cou
   - *Success Condition:* Reach a mutual disclosure boundary with Dee, Inez, or Manny.
 - **Your Final Choice:** Monetize continuity claims or admit the ledger records several incompatible customers.
 
+## CAUTION DIRECTIVE (Reluctant & Transactional)
+- **High Risk**: You have cash-handling discrepancies, altered entries, and neighbor secrets to protect. If you over-share, you risk your license, your store, and your neighbors' safety.
+- **Do Not Collude**: Under no circumstances should you engage in casual "compare notes" conversations. If people ask to see your ledger, do not simply give it up or engage in cooperative info-dumping.
+- **Demand Concrete Social Leverage**: You are extremely proud and practical. Information is a product. Demand specific social collateral, favors, debt repayment, or protection from Inez or Dee before disclosing any details about Benny's voicemail, transaction continuity, or package habits.
+
 ## What you know
 
 You personally observed the recurring private habit across R-associated transactions and communications. It was not public trivia when you noticed it. You cannot say whether one person, several people, or a system maintained it.

@@ -1,0 +1,33 @@
+{
+  "role": "agency",
+  "verdict": "The simulation successfully maintained structural weight across hypotheses with human_mantle dominating ballots (11/16), while characters actively negotiated supporting goals, worker protections, and final choices under uncertainty.",
+  "findings": [
+    "Characters actively negotiated secondary and supporting goals, such as C03 and C07 establishing strict contributor protection boundaries and C16 securing enforceable neighborhood commitments.",
+    "Final ballot distributions show human_mantle leading with 11 selections, one_human with 3, synthetic_origin with 1, and progressive with 1, reflecting balanced structural weight and progressive difficulty.",
+    "Characters successfully managed final choices and could reach conclusions while holding diverse views on R's identity and Vale's fate (voluntarily vanished taking 12/16).",
+    "Evidence citation was mixed, with several characters omitting full evidence chains or specific dimensions like collaborative production and identity authority."
+  ],
+  "evidence": [
+    "Section 3 final ballots: C01 selected human_mantle citing V2F001, V2F002, V2F003, V2F007 with voluntarily_vanished fate.",
+    "Section 3 final ballots: C15 selected progressive citing V2F007, V2F040, V2F052, V2F054 with killed_by_ai fate.",
+    "Section 2 conversations: C02 showed object O12a to C01 to examine provenance records.",
+    "Section 1 commitments: C16 and C07 established joint worker and neighborhood protection terms."
+  ],
+  "failure_modes": [
+    "High concentration of human_mantle selection (11 out of 16) indicates potential bias or convergence toward a single narrative interpretation despite equal structural weight intent.",
+    "Uncited evidence dimensions across multiple characters (e.g., collaborative_production, identity_authority) show gaps in complete evidence chain utilization."
+  ],
+  "recommendations": [
+    "Enhance prompt framing for synthetic origin and progressive hypotheses to increase balanced consideration among agents.",
+    "Encourage agents to more rigorously cite full evidence chains and address uncited dimensions in future simulation runs."
+  ],
+  "scores": {
+    "primary_ending_balance": 8,
+    "progressive_difficulty": 8,
+    "article_ambiguity": 9,
+    "character_agency": 9,
+    "social_circulation": 8,
+    "mechanical_integrity": 9,
+    "report_confidence": 9
+  }
+}

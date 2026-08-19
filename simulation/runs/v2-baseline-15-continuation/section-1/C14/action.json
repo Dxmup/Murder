@@ -1,0 +1,47 @@
+{
+  "character_id": "C14",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, my client supplied a route segment that looks manufactured, and you know Vale used ambiguity strategically. What boundaries would make a timeline conversation possible between us?",
+      "offer": "To share my route board's uncertainty labels and keep our discussion strictly confidential.",
+      "request": "Your perspective on whether Vale planned to disappear or if someone is shaping the record.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I'm working without police powers here, and I know investigators often leave neighborhood residents holding the risk. What fair-treatment terms would make you willing to talk or offer introductions?",
+      "offer": "Discretion and an agreement to credit local sources accurately without exposing anyone to risk.",
+      "request": "Voluntary accounts from witnesses who remember the neighborhood around the printing floor two days before the gathering.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I'm looking at a very narrow window near the former printing floor two days before the anniversary. What do you remember transacting or observing at that exact location and time?",
+      "offer": "Limited timeline comparisons and careful separation of observation from inference.",
+      "request": "Local context and memory to help fill gaps in the movement record.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If anyone is holding a timeline that looks too neat to be true, let's compare notes before drawing conclusions. I have a route board with plenty of blanks and zero interest in selling a manufactured story.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Samira Vale regarding timeline boundaries and client concerns.",
+    "Approached Inez Baptiste to discuss fair-treatment terms for voluntary neighborhood accounts.",
+    "Engaged Rafi Calder\u00f3n with a narrow time and place inquiry."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Established initial Section 1 conversations with Samira, Inez, and Rafi, aligning with character directives to set boundaries, seek fair-treatment terms, and narrow down movement records. Initialized beliefs neutrally as required.",
+  "final_ballot": null
+}

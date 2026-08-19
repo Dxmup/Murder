@@ -1,0 +1,60 @@
+{
+  "character_id": "C09",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, outsiders are buzzing about the bodega ledgers and outstanding accounts. Before anyone starts mining my counter's records, we need a clear boundary on what stays private to protect the neighbors.",
+      "offer": "My word on what we keep off-limits regarding local pickup routines and customer privacy.",
+      "request": "Your explicit support and agreement to stand with me if outsiders pressure us about ledger alterations or debt details.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, you want a view of the R-associated account records to date the pattern changes. I have transaction continuity details, but I am not handing over raw customer data without terms.",
+      "offer": "A bounded view of transaction patterns and collector timelines from the ledger.",
+      "request": "A binding promise that you will not attribute specific customer identities to R or compromise local privacy.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C15",
+      "say": "Kit, I heard you telling people the ledger encodes R's movements through prices and timestamps. Let's look at the actual book before you build another fairy tale.",
+      "offer": "A line-by-line public reading of the actual ledger entries to set the record straight.",
+      "request": "That you acknowledge the recurring $4.50 is just a bacon-egg-and-cheese and wholesale price taxes rather than espionage coordinates.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If anyone is looking at the bodega books to solve fifteen years of mystery, you are reading a grocery receipt and a coffee tab. My counter kept the neighborhood running on credit and cold mornings, not cipher keys.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Support each other in maintaining neighborhood privacy and resisting outside exploitation of our records.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C14",
+      "promise": "Restrict ledger pattern disclosures strictly under bounded attribution terms.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Inez to secure community protection boundaries.",
+    "Engaged Morgan with strict terms regarding attribution and customer privacy.",
+    "Prepared public demolition of Kit's ledger cipher claims."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "Rafi establishes guarded, transactional postures with Inez and Morgan to protect customer privacy and secure social leverage before sharing ledger details, while confronting Kit's ungrounded cipher claims.",
+  "final_ballot": null
+}

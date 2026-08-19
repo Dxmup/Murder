@@ -1,0 +1,60 @@
+{
+  "character_id": "C16",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C07",
+      "say": "Maren, let's coordinate worker protections and contractor safety before outside investigators start treating local logistics like a crime scene.",
+      "offer": "Neighborhood labor coalition support",
+      "request": "Joint worker and contractor protection agreement",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, outsiders are asking questions about the service route and camera gap. We need a shared boundary so nobody trades away our people.",
+      "offer": "Context on local access and route history",
+      "request": "Agreement on what to share before investigators apply pressure",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C01",
+      "say": "Arden, Veridian wants local legitimacy for this anniversary. If you want neighborhood participation, what concrete, written commitments are you putting on the table tonight?",
+      "offer": "Neighborhood participation and event credibility",
+      "request": "Written institutional commitment to community resources",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Veridian and the city are welcome on this floor, but neighborhood people are constituents, not scenery. Any disclosure or cooperation requires enforceable commitments and shared protection.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C07",
+      "promise": "Coordinate joint worker and neighborhood protection terms before any institutional disclosures are made.",
+      "visibility": "private",
+      "status": "propose"
+    },
+    {
+      "with": "C01",
+      "promise": "Secure written institutional commitments from Veridian in exchange for neighborhood participation.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated discussions with Maren on coordinating worker and neighborhood protections.",
+    "Reached out to Rafi to establish a shared boundary against outside scrutiny.",
+    "Engaged Arden regarding concrete institutional commitments in exchange for local legitimacy."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 1, Inez focuses on establishing neighborhood solidarity and demanding written institutional commitments from Arden and Veridian before granting local legitimacy. She coordinates with Maren to protect workers and checks in with Rafi to secure a unified boundary against outside investigators probing the service routes.",
+  "final_ballot": null
+}

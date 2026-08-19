@@ -1,0 +1,64 @@
+{
+  "character_id": "C02",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, let's stop treating the printing floor like a cocktail lounge. I have the First R Letter packet here. I want Veridian's intake report and your expense records placed right beside it so we can look at the chronology honestly.",
+      "offer": "Viewing of the First R Letter packet and early clippings in exchange for full archive records.",
+      "request": "Provide the official Veridian intake report and your expense ledger entries regarding the early meetings.",
+      "fact_ids_shared": [
+        "V2F045"
+      ]
+    },
+    {
+      "with": "C03",
+      "say": "Tessa, you've argued that celebrated bylines bury the collective labor of translators, researchers, and assistants. I want to know which parts of my old newsroom stories erased real work, but tell me: how do you preserve a singular voice without reducing it to a machine output?",
+      "offer": "My perspective on early newsroom collaborations and the editorial process.",
+      "request": "Your candid critique of which elements of my origin story erased collective labor.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C07",
+      "say": "Maren, I understand you hold the record of the fourteen-year handwritten challenge answered across impossible routes. I am prepared to offer a genuine professional endorsement and my early newsroom insights in exchange for a bounded look at how those challenges were kept.",
+      "offer": "My professional endorsement and early newsroom insights.",
+      "request": "A bounded look at the fourteen-year handwritten challenge records.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Fifteen years ago, a voice arrived on paper that no committee manufactured and no machine synthesized. Before we let corporate archives or anonymous rumors rewrite our history, let's look at the actual evidence and remember who first recognized the spark.",
+  "facts_shared": [
+    "V2F045"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O12a",
+      "action": "show",
+      "to": "C01"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "I will share the First R Letter packet for examination if Arden provides the intake report and expense records.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden Bell regarding the archive records and letter packet provenance.",
+    "Challenged Tessa Quill on collective labor versus editorial preservation.",
+    "Initiated contact with Maren Okafor regarding the fourteen-year handwritten challenge."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "In Section 1, Frankie Lowell opens conversations with Arden Bell to confront archive and expense record contradictions while showing the First R Letter packet (O12a), engages Tessa Quill on collective labor versus individual authorship, and approaches Maren Okafor about the fourteen-year handwritten challenge. Beliefs are initialized as a flat 25% distribution across identity categories in accordance with Section 1 rules.",
+  "final_ballot": null
+}

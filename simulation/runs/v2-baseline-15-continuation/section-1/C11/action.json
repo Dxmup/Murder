@@ -1,0 +1,45 @@
+{
+  "character_id": "C11",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, Veridian needs institutional insulation right now, and City Hall needs a reliable partner. If you make a firm public commitment on labor and community standards tonight, I can help ensure the administration's response protects your operations from panic.",
+      "offer": "Political and administrative protection for Veridian's positioning",
+      "request": "A concrete public commitment on workforce standards",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C05",
+      "say": "Mira, our calendar records on Vale's off-calendar access only tell half the story when viewed separately. We need to compare authorization notes now, before someone else seizes the narrative and leaves us holding the risk.",
+      "offer": "Shared context on the off-calendar meeting and calendar recovery terms",
+      "request": "Your authorization records and alignment on shared responsibility",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, City Hall has a bad habit of offering photo-ops instead of power. Give me one enforceable neighborhood demand with a real deadline, and I will back it with agency access and funding.",
+      "offer": "Agency access, funding paths, and leverage for neighborhood demands",
+      "request": "One concrete, enforceable neighborhood demand with a deadline",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Let's separate established civic obligations from market panic. City Hall is here to ensure that whatever tonight uncovers translates into real policy, not theater.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Initiated coalition-building outreach with Arden, Mira, and Inez."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 25,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Initiated Section 1 by engaging Arden for institutional stability, Mira for calendar alignment regarding Vale's access, and Inez for concrete neighborhood demands, establishing flat initial beliefs and laying groundwork for the policy coalition.",
+  "final_ballot": null
+}

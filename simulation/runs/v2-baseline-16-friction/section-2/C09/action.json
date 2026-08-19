@@ -1,0 +1,60 @@
+{
+  "character_id": "C09",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C14",
+      "say": "Morgan, regarding your request to date the pattern change: I have the transaction continuity details, but I need your binding confirmation on customer attribution limits before you look at anything.",
+      "offer": "A bounded view of the ledger timing and collector timelines.",
+      "request": "A firm agreement in writing that you will not attach specific customer names or expose our local arrangements as R.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C12",
+      "say": "Graham, you offered to settle my shop's account balance, but I am not handing over raw ledger patterns so you can play market games with neighborhood history.",
+      "offer": "To discuss a strictly limited, non-dramatized summary of ordinary counter traffic.",
+      "request": "Upfront financial settlement of the overdue account and an explicit promise not to publish speculative fiction from our records.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, outside interests are circling the bodega books hard. We need to lock down our mutual protection boundary so no one can pressure us about past favors or altered entries.",
+      "offer": "My ongoing silence and local solidarity regarding our service routines and off-book arrangements.",
+      "request": "Your active backing if outsiders try to paint my shop records as part of their conspiracy theories.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If anyone thinks a grocery tab and a delivery receipt are cryptographic keys to fifteen years of mystery, come down to the counter and let's read the prices together before you invent a ghost.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "Mutual defense of neighborhood privacy and resistance against outside exploitation of counter records.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C14",
+      "promise": "Provide bounded ledger access only under strict customer privacy and non-attribution terms.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Morgan with strict terms on ledger viewing and attribution limits.",
+    "Resisted Graham's attempt to exploit raw ledger patterns for market speculation while demanding debt settlement.",
+    "Reinforced privacy boundary with Inez to protect local customers and shop records."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "Rafi maintains a guarded, transactional posture, demanding clear guarantees and debt settlement from Morgan and Graham while reinforcing community protection agreements with Inez.",
+  "final_ballot": null
+}

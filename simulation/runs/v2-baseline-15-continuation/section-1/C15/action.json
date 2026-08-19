@@ -1,0 +1,73 @@
+{
+  "character_id": "C15",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C02",
+      "say": "Frankie, let's look at the oldest roots of R in one breath, and tell me the single oldest observation you still trust while I show you this unreleased cadence page from my tip line.",
+      "offer": "Examine the tip-line draft page cadence",
+      "request": "Share the oldest trusted observation on R's origin",
+      "fact_ids_shared": [
+        "V2F040",
+        "V2F052"
+      ]
+    },
+    {
+      "with": "C06",
+      "say": "Eli, cut the hype and give me a plain technical answer, and in exchange I will publicly retract my claim about the invitation typography containing a machine key.",
+      "offer": "Public correction on the invitation typography theory",
+      "request": "A bounded technical statement regarding system anomalies",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C12",
+      "say": "Graham, where exactly did the supposed article shift from a mere possibility into a certainty across financial and public channels?",
+      "offer": "Rumor-propagation record insights",
+      "request": "Clarity on article rumor provenance and valuation timing",
+      "fact_ids_shared": [
+        "V2F035",
+        "V2F036"
+      ]
+    }
+  ],
+  "public_statement": "Let it be known: my theory that the invitation typography contains a machine key is formally corrected by printer production records. But the core progression\u2014human origin, shared mantle, AI capture, and Vale's intervention\u2014stands untouched.",
+  "facts_shared": [
+    "V2F040"
+  ],
+  "object_actions": [
+    {
+      "object_id": "O11",
+      "action": "show",
+      "to": "C02"
+    },
+    {
+      "object_id": "O13",
+      "action": "show",
+      "to": "C12"
+    }
+  ],
+  "commitments": [
+    {
+      "with": "C06",
+      "promise": "Issue a public correction on the invitation typography theory in exchange for a technical statement.",
+      "visibility": "public",
+      "status": "propose"
+    }
+  ],
+  "correction": "Corrected the false theory regarding the invitation typography containing a machine key based on printer production files.",
+  "goal_progress": [
+    "Initiated conversation with Frankie presenting the complete progression and tip-line artifact.",
+    "Offered Eli a public correction in exchange for a bounded technical answer.",
+    "Asked Graham about the article rumor's shift from possibility to certainty."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 50
+  },
+  "reasoning_summary": "Opened Section 1 by engaging Frankie on R's origin while showing the tip-line draft page, addressing Eli with a proposed public retraction regarding the printer registration error, and pressing Graham on article rumor propagation.",
+  "final_ballot": null
+}

@@ -1,0 +1,47 @@
+{
+  "character_id": "C12",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C15",
+      "say": "Kit, you saw O13 and know about the conflicting descriptions circulating our desks. If a rival desk publishes this discrepancy pinning the amplification on me, your grand theory goes down with my short position. Let's align on how we present these fragments before they bury us.",
+      "offer": "Market reach and financial research analysis",
+      "request": "A joint account reconciling the fragment discrepancy before publication",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I need a precise, bounded technical statement on whether R's infrastructure shows signs of autonomous operation. I can fund your legal protection and advisory work, but I need exact wording I can trust.",
+      "offer": "Financial backing for technical protection and research support",
+      "request": "A bounded statement regarding system logs and operational autonomy",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C04",
+      "say": "Jules, you understand how systems and archives are constructed. We have two conflicting alleged fragments of R's work making the rounds, and market pressure is turning them into weapons. How do we trace their provenance before the market acts on garbage data?",
+      "offer": "Financial market data access and analytical research collaboration",
+      "request": "An objective structural comparison of the conflicting fragments",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "If anyone is trying to weaponize conflicting drafts as a smoking gun, they don't understand provenance\u2014they just want a scapegoat for market volatility. Let's look at actual records instead of manufactured discrepancies.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Kit regarding the conflicting fragment discrepancy and potential exposure.",
+    "Approached Eli to secure bounded technical context on autonomous operations.",
+    "Consulted Jules to analyze document provenance and prevent market panic over conflicting drafts."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 30,
+    "progressive": 20,
+    "article_existed": 40,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Adjusted beliefs slightly to reflect the ambiguity introduced by conflicting fragments and systemic propagation. Focused conversations on managing the rival desk's impending leak regarding incompatible fragments, securing Eli's technical caveats, and working with Kit and Jules to preserve credibility.",
+  "final_ballot": null
+}

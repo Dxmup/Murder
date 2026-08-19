@@ -1,0 +1,56 @@
+{
+  "character_id": "C10",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C16",
+      "say": "Inez, management flagged the unpreserved camera interval from the audit. Before anyone starts spinning stories about what happened in the service corridor, we need to align on how we account for that gap without exposing your tenant or my pension.",
+      "offer": "My silence on the unlogged access if you help me back up a clean narrative for management.",
+      "request": "Your word and mutual backing on the exact limits of what we disclose about the service route.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, let's look at the shift logs around the service crossing. A delivery unit had a brush with a cyclist nine days ago off its route. I want to know if your transaction records show who was moving through there at that hour.",
+      "offer": "A look at the building claims notice regarding the service crossing incident.",
+      "request": "Your collection logs for that shift to see who crossed the passage.",
+      "fact_ids_shared": [
+        "V2F051"
+      ]
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, you're sniffing around the building records and the camera gap. Before I give you any operational truth about my access logs, I need to know what 'fair treatment' and a 'bounded account' mean in whatever report you're building.",
+      "offer": "Strictly bounded facts about building rhythms once terms are set.",
+      "request": "A clear written commitment that my pension and local witnesses won't be made the scapegoats for your narrative.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Buildings have gaps because equipment fails and people improvise, not because every routine maintenance window is a crime scene. Stop treating ordinary service passages as an ongoing conspiracy.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C16",
+      "promise": "To coordinate our account of the camera gap so neither my pension nor your tenant is exposed.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Initiated contact with Inez regarding the camera audit and unlogged access.",
+    "Began comparing service-route records with Rafi.",
+    "Established initial boundaries and demands for fairness with Morgan."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Dee Nowak maintains a guarded, highly transactional posture in Section 1. She approaches Inez to secure an aligned defense regarding the camera gap and unlogged access, consults Rafi about the service-crossing claims notice to cross-check delivery movements, and confronts Morgan to demand strict boundaries and fairness before sharing operational details. Beliefs remain balanced at 25% across identity dimensions as required for Section 1.",
+  "final_ballot": null
+}

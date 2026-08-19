@@ -1,0 +1,60 @@
+{
+  "character_id": "C14",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C13",
+      "say": "Samira, I acknowledge your terms: no personal route detail enters my report without your explicit consent and an uncertainty label. Here is my route board overview under those exact bounds.",
+      "offer": "I will label all personal route material with uncertainty and obtain your consent before inclusion.",
+      "request": "Help me verify whether Vale's approach route near the former printing floor was physically possible or part of an old pattern.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C09",
+      "say": "Rafi, I accept your terms: I will not attribute specific customer identities to R or compromise local privacy. Let's look at your transaction continuity details for the ledger pattern changes.",
+      "offer": "A binding promise that I will not attribute specific customer identities to R or compromise local privacy.",
+      "request": "A bounded view of transaction patterns and collector timelines from the ledger to date R's habit changes.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C16",
+      "say": "Inez, I want to respect neighborhood risk and operate under fair-treatment terms. If you introduce me to local witnesses, I guarantee their identities won't be exposed or scapegoated in my findings.",
+      "offer": "Complete discretion and strict protection of neighborhood sources against manufactured client narratives.",
+      "request": "Introductions to witnesses who can clarify who was moving through the service exits two days ago.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "A timeline is only as honest as its weakest segment. If part of a route was manufactured for a buyer, we need to strip away the assumptions before we pretend to know what happened to Vale.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C09",
+      "promise": "Restrict ledger pattern disclosures strictly under bounded attribution terms and protect local privacy.",
+      "visibility": "private",
+      "status": "accept"
+    },
+    {
+      "with": "C13",
+      "promise": "Discuss route possibilities only if I label all personal route material with uncertainty and obtain explicit consent.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Agreed to Samira's privacy and uncertainty label terms for route discussions.",
+    "Accepted Rafi's terms to restrict ledger pattern disclosures strictly under bounded attribution.",
+    "Proposed fair-treatment terms to Inez for secure local witness introductions."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 30,
+    "synthetic_origin": 20,
+    "progressive": 25,
+    "article_existed": 45,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "Morgan engages Samira and Rafi under strict privacy and bounded attribution terms, accepting Rafi's commitment on ledger data, while negotiating fair treatment with Inez to separate manufactured client narratives from physical reality.",
+  "final_ballot": null
+}

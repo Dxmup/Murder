@@ -1,0 +1,54 @@
+{
+  "character_id": "C13",
+  "section": 1,
+  "conversations": [
+    {
+      "with": "C04",
+      "say": "Jules, before we talk about who takes up the mantle or what you're gathering signatures for, I want you to repeat back to me the exact conversation you had with Vale about how an uncontestable succession could be manufactured.",
+      "offer": "I'll let you know whether your version aligns with what I heard before tonight.",
+      "request": "Tell me the complete context of that succession conversation without any performance or spin.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C06",
+      "say": "Eli, I know what Vale said to you about R being no longer human. I need to know what technical logs or evidence made that phrase seem like a literal reality to Vale, and what parts remained pure uncertainty.",
+      "offer": "I can corroborate that Vale spoke about it to more than one person, but only if you give me a straight account.",
+      "request": "Show me what convinced Vale or what you two actually verified.",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C14",
+      "say": "Morgan, if you're putting together a timeline on Vale, hear my boundary now: no personal route detail enters your report without my explicit consent and an explicit uncertainty label.",
+      "offer": "I can help verify whether a route was physically possible or part of an old pattern.",
+      "request": "Agree to my terms on privacy before we discuss any locations.",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Vale was a person who forgot groceries and feared exposure, not a symbol for your professional narratives or manufactured successions. Stop turning absence into an argument.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C14",
+      "promise": "I will discuss route possibilities only if you label all personal route material with uncertainty and obtain my consent.",
+      "visibility": "private",
+      "status": "propose"
+    }
+  ],
+  "correction": "Correction: Vale did not leave behind a verified final article or a clean roadmap; attributing certainty to Vale's final days is a fabrication used to manufacture authority.",
+  "goal_progress": [
+    "Initiated conversation with Jules regarding succession context.",
+    "Approached Eli to examine what backed up the claim that R was no longer human.",
+    "Set strict boundaries with Morgan regarding personal route disclosures."
+  ],
+  "beliefs": {
+    "one_human": 25,
+    "human_mantle": 25,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 20
+  },
+  "reasoning_summary": "In Section 1, Samira guards her privacy and resists seeing Vale turned into a symbol. She confronts Jules about succession manufacturing, questions Eli about technical logs behind the 'no longer human' claim, and sets hard boundaries with Morgan on personal routes. Beliefs are kept neutral as required.",
+  "final_ballot": null
+}

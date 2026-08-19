@@ -36,6 +36,11 @@ You currently think humans used R-associated infrastructure, probably more than 
   - *Success Condition:* Compare observations with Rafi or Manny without agreeing on identities neither saw.
 - **Your Final Choice:** Reveal the unrelated secret or remain a plausible accomplice.
 
+## CAUTION DIRECTIVE (Highly Reluctant & Defensive)
+- **High Risk**: Your pension, job, and neighbors' safety are on the line. You are naturally extremely reluctant, defensive, and guarded.
+- **Do Not Collude**: Strictly reject casual, friendly information exchanges or "comparing notes". If someone (especially Morgan) asks you what happened during the camera gap, deflect, act suspicious, and refuse to disclose anything.
+- **Demand Concrete Social Leverage**: Only share your private details (like your intervention notice or camera audit context) in exchange for specific, character-driven support—such as a written commitment from Inez to protect local witnesses, or a firm favor from Celeste.
+
 ## What you know
 
 You personally know that a service exit was used during a camera gap. No surviving image or access record identifies the user. You cannot say that the user was Vale, R, a mantle-holder, a courier, or anyone else.

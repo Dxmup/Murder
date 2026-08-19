@@ -1,0 +1,60 @@
+{
+  "character_id": "C16",
+  "section": 2,
+  "conversations": [
+    {
+      "with": "C01",
+      "say": "Arden, neighborhood participation requires concrete, written commitments on public programming and archive access. Put it in writing tonight and we can work together.",
+      "offer": "Neighborhood participation and event credibility",
+      "request": "Formal written commitment on public programming and resource sharing",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C10",
+      "say": "Dee, let's align our account of the camera gap before outside investigators put words in our mouths. We protect our people first.",
+      "offer": "Context on access arrangements and neighborhood solidarity",
+      "request": "Coordinated account regarding the service exit and camera audit",
+      "fact_ids_shared": []
+    },
+    {
+      "with": "C11",
+      "say": "Celeste, City Hall wants legitimacy without cost. Give us an enforceable deadline and real funding for neighborhood infrastructure, and I'll back it.",
+      "offer": "Neighborhood backing and local cooperation",
+      "request": "Enforceable neighborhood demand with agency funding and a deadline",
+      "fact_ids_shared": []
+    }
+  ],
+  "public_statement": "Veridian and city officials are welcome on this floor, but our people are not scenery. Any cooperation depends on written, enforceable commitments and mutual protection.",
+  "facts_shared": [],
+  "object_actions": [],
+  "commitments": [
+    {
+      "with": "C01",
+      "promise": "Consult with neighborhood representatives on Veridian public programming and archive access.",
+      "visibility": "public",
+      "status": "accept"
+    },
+    {
+      "with": "C10",
+      "promise": "Coordinate our account of the camera gap before speaking with management or reporters.",
+      "visibility": "private",
+      "status": "accept"
+    }
+  ],
+  "correction": "",
+  "goal_progress": [
+    "Engaged Arden to lock down written commitments on neighborhood public programming.",
+    "Coordinates with Dee to establish a shared boundary around the camera gap and service exit.",
+    "Challenged Celeste for concrete agency funding and enforceable deadlines in exchange for civic support."
+  ],
+  "beliefs": {
+    "one_human": 20,
+    "human_mantle": 30,
+    "synthetic_origin": 25,
+    "progressive": 25,
+    "article_existed": 50,
+    "vale_killed_by_ai": 25
+  },
+  "reasoning_summary": "In Section 2, Inez pushes Arden and Celeste for concrete, enforceable written commitments in exchange for neighborhood legitimacy and cooperation, while coordinating closely with Dee to protect local workers and witnesses around the camera gap.",
+  "final_ballot": null
+}

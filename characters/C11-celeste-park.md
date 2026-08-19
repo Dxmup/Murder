@@ -34,8 +34,8 @@ Your greater certainty is that real worker and neighborhood harms do not depend 
   - *Success Condition:* Secure support from three different constituencies and make one concrete policy or funding commitment that survives every ending.
 - **Secondary Goal 1 (Social & Supportive):** Contain the off-calendar meeting.
   - *Success Condition:* Reach an agreement with Mira or Samira about what can be disclosed and who accepts responsibility.
-- **Secondary Goal 2 (Social & Supportive):** Determine whether Morgan's manufactured lead traveled the back channel.
-  - *Success Condition:* Compare routing details with Morgan without confessing to building the channel.
+- **Secondary Goal 2 (Social & Supportive)**: Divert Morgan from the back channel.
+  - *Success Condition:* Successfully feed Morgan a plausible alternate explanation or false lead that steers him away from the City Hall back channel without him suspecting you.
 - **Your Final Choice:** Quietly resign and let City Hall bury the channel, or hand Morgan its paper trail knowing where it may lead.
 
 ## What you know
