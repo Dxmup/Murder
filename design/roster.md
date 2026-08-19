@@ -537,7 +537,14 @@ Recommended starting cadence:
 - zero or one additional group message later in a section;
 - one or two personal messages per character per section only when they provoke a face-to-face action;
 - four to six personal messages total per character across the game;
-- no message longer than roughly 80 words;
+- message length is deliberately unbounded (V2.2). The original rule here was
+  roughly 80 words, on the theory that short mail pushes players back into the
+  room. The V2.2 prose pass replaced design-note stubs with real correspondence
+  and runs a ~230-word median, because the world-building and the inferred
+  clues are the point and they need room to work. Total load is about 1,900
+  words per player, ~10 minutes of reading across a three-hour party. Watch it
+  in playtest: the risk is not the total, it is a long message landing mid-scene
+  and pulling someone out of a conversation for ninety seconds;
 - no required in-app reply.
 
 The host dashboard should show each section's message count, relative delivery offsets, and recipient names before activation. Once armed, the queue clearly displays sent, pending, paused, and failed deliveries.

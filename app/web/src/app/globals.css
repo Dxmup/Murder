@@ -1,77 +1,124 @@
 @import "tailwindcss";
 
 /*
- * Semantic tokens, defined once and flipped by the reader's system setting.
- * Components reference the token names only — never a raw neutral — so a
- * colour can never be defined for one theme and missing in the other.
+ * Semantic tokens, defined once in full on bare `:root` and re-declared in
+ * full for the other theme. Components reference the token names only — never
+ * a raw neutral — so a colour can never be defined for one theme and missing
+ * in the other.
  *
- * Neutrals are biased slightly warm toward the amber accent rather than being
- * pure grey, which suits an evening built around newsprint and archives.
+ * DARK IS THE DEFAULT. Players read this on their own handsets in a dim room;
+ * a white screen at arm's length is the single most immersion-breaking thing
+ * the app can do, so the palette a phone gets with no stated preference is the
+ * dark one. Light is a complete, first-class alternative for anyone whose
+ * phone asks for it.
  *
- * Contrast targets: body text well past WCAG AA, and the dimmest text on the
- * screen (read-state snippets) still at or above 4.5:1, because this is read
- * on phones in a dimly lit room.
+ * Contrast targets, measured against the surface each colour sits on:
+ * body text past WCAG AAA, and the dimmest text on the screen (read-state
+ * snippets, `--muted`) at or above 6:1 rather than the 4.5:1 minimum, because
+ * a glance in a dark room is not a reading test under lab light.
  */
 
 :root {
-  color-scheme: light;
+  color-scheme: dark;
 
-  --surface: #fbfaf8;
-  --raised: #ffffff;
-  --sunken: #f2efe9;
-  --line: #e2ddd4;
-  --line-strong: #cec8bc;
+  /* Near-black rather than pure black: pure black on OLED smears during
+     scroll, and the hairlines a mail list depends on vanish into it. */
+  --surface: #0f0f11;
+  --raised: #1a1a1e;
+  --sunken: #17171a;
+  --line: #2a2a30;
+  --line-strong: #3d3d45;
 
-  --strong: #14120d;
-  --body: #2c2921;
-  --muted: #5f594d;
-  --faint: #7d7669;
+  --strong: #f6f5f3;
+  --body: #e4e2de;
+  --muted: #b0aba3;
+  --faint: #8b867e;
 
-  --accent: #7a5c0f;
-  --accent-soft: #fbf3e0;
-  --accent-line: #ddc9a0;
+  /* The mail-client blue. Unread state, links, the primary button — the
+     familiar signal every stock client uses, and deliberately NOT the amber,
+     which is spoken for by archival provenance. */
+  --brand: #a8c7fa;
+  --brand-strong: #c5dcff;
+  --brand-soft: rgba(168, 199, 250, 0.14);
+  --brand-line: rgba(168, 199, 250, 0.34);
+  --brand-fg: #0d1b33;
 
-  --invert-bg: #14120d;
-  --invert-fg: #fbfaf8;
+  /* Newsprint amber: provenance and kept mail, nothing else. */
+  --accent: #e6cda3;
+  --accent-soft: rgba(230, 205, 163, 0.1);
+  --accent-line: rgba(230, 205, 163, 0.3);
 
-  --danger: #8c2118;
-  --danger-soft: #fdf0ee;
-  --danger-line: #f0cdc7;
+  --invert-bg: #f6f5f3;
+  --invert-fg: #14120d;
 
-  /* Status, deliberately separate from the accent: the host has to tell a
+  --danger: #f2a9a0;
+  --danger-soft: rgba(242, 169, 160, 0.12);
+  --danger-line: rgba(242, 169, 160, 0.34);
+
+  /* Status, deliberately separate from both accents: the host has to tell a
      running act from an overrunning one at a glance, across the room. */
-  --ok: #1f6b45;
-  --warn: #9a5a08;
+  --ok: #7cd6a2;
+  --warn: #f2b866;
+
+  /* Sender avatars. Eight hues, picked by a hash of the sender name, which is
+     most of why Gmail and Apple Mail scan as fast as they do: the eye finds a
+     known correspondent by colour before it reads a word. Light tints with
+     dark glyphs in the dark theme, so a circle never glares. */
+  --av-fg: #16140f;
+  --av-1: #f2a49b;
+  --av-2: #f0c274;
+  --av-3: #8fd2a4;
+  --av-4: #93baf5;
+  --av-5: #c9adf0;
+  --av-6: #7fcede;
+  --av-7: #f0a3c6;
+  --av-8: #c2c4c0;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
-    color-scheme: dark;
+    color-scheme: light;
 
-    --surface: #100f11;
-    --raised: #1a191d;
-    --sunken: #08080a;
-    --line: #2c2a30;
-    --line-strong: #403d45;
+    --surface: #ffffff;
+    --raised: #f7f6f4;
+    --sunken: #f1efec;
+    --line: #e3e0da;
+    --line-strong: #c9c4ba;
 
-    --strong: #f6f4ef;
-    --body: #e2ded6;
-    --muted: #a8a196;
-    --faint: #837c71;
+    --strong: #16150f;
+    --body: #2e2b24;
+    --muted: #5c574d;
+    --faint: #6f6a60;
 
-    --accent: #e3caa0;
-    --accent-soft: rgba(227, 202, 160, 0.07);
-    --accent-line: rgba(227, 202, 160, 0.28);
+    --brand: #0b57d0;
+    --brand-strong: #08409b;
+    --brand-soft: #eaf1fd;
+    --brand-line: #b9d0f6;
+    --brand-fg: #ffffff;
 
-    --invert-bg: #f6f4ef;
-    --invert-fg: #14120d;
+    --accent: #7a5c0f;
+    --accent-soft: #fbf4e4;
+    --accent-line: #e2cfa8;
 
-    --danger: #f2a9a0;
-    --danger-soft: rgba(242, 169, 160, 0.09);
-    --danger-line: rgba(242, 169, 160, 0.3);
+    --invert-bg: #16150f;
+    --invert-fg: #fbfaf8;
 
-    --ok: #6fd39b;
-    --warn: #f0b45f;
+    --danger: #8c2118;
+    --danger-soft: #fdf0ee;
+    --danger-line: #f0cdc7;
+
+    --ok: #1f6b45;
+    --warn: #8f5406;
+
+    --av-fg: #ffffff;
+    --av-1: #c5221f;
+    --av-2: #a35200;
+    --av-3: #146c2e;
+    --av-4: #1a56c4;
+    --av-5: #7c30c9;
+    --av-6: #0b6a80;
+    --av-7: #a52a72;
+    --av-8: #5b6066;
   }
 }
 
@@ -87,6 +134,12 @@
   --color-muted: var(--muted);
   --color-faint: var(--faint);
 
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-brand-soft: var(--brand-soft);
+  --color-brand-line: var(--brand-line);
+  --color-brand-fg: var(--brand-fg);
+
   --color-accent: var(--accent);
   --color-accent-soft: var(--accent-soft);
   --color-accent-line: var(--accent-line);
@@ -101,25 +154,47 @@
   --color-ok: var(--ok);
   --color-warn: var(--warn);
 
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-av-fg: var(--av-fg);
+
+  --font-sans: var(--font-ui);
+  --font-mono: var(--font-ui-mono);
+}
+
+/*
+ * The system UI stack, on purpose. A player holding an iPhone sees San
+ * Francisco and a player holding a Pixel sees Roboto — the same face their
+ * real mail is set in. A webfont, however handsome, announces "this is a
+ * website" the moment the list renders. It also means nothing to download.
+ */
+:root {
+  --font-ui:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    "Noto Sans", Arial, sans-serif;
+  --font-ui-mono:
+    ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+}
+
+html {
+  /* Stop iOS inflating text in landscape, which shreds a tuned list layout. */
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
   background: var(--surface);
   color: var(--body);
+  font-family: var(--font-ui);
 }
-
-/*
- * No `antialiased` here on purpose. Subpixel rendering keeps light-on-dark
- * strokes from thinning out, which is the difference between readable and
- * squint-inducing on a phone at a party.
- */
 
 /* A visible keyboard focus ring in both themes. */
 :focus-visible {
-  outline: 2px solid var(--accent);
+  outline: 2px solid var(--brand);
   outline-offset: 2px;
+}
+
+/* Rows are the primary control; a tap must never leave a lingering grey box
+   or a text selection dragged out of a long-press. */
+button {
+  -webkit-tap-highlight-color: transparent;
 }
 
 @media (prefers-reduced-motion: reduce) {

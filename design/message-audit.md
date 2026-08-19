@@ -41,3 +41,28 @@ Every fact now has a delivery vector or lives in a pre-loaded inbox: the previou
 4. The incident chain should raise killed_by_ai above its 0–3 historical band without winning outright; if it wins in most runs, soften the collision message.
 5. The tip-line draft and payment strip should produce at least three distinct Vale-relationship ballot answers.
 6. Kit's correlation beat should visibly change how at least two characters treat Kit after the disproofs.
+
+## V2.2 prose pass
+
+The fifty-four bodies were rewritten from design notes into in-fiction correspondence. `message_id`, `thread_id`, `in_reply_to`, `message_type`, `narrative_date`, `provenance`, `section`, `offset`, `recipient`, `fact_refs`, `purpose`, `expected_face_to_face_action` and `status` are unchanged; `from_display`, `from_address`, `subject` and `body` were rewritten. Every message is now written by a named or institutional sender to its recipient, and no body addresses the player, names the clue, or prescribes a conclusion. Bodies run roughly 50–260 words — longer than the 80-word cadence note in `roster.md`, which was written for design notes rather than correspondence; the two-minute total phone budget still holds because arrivals per character are unchanged.
+
+### Sender-address convention
+
+`from_address` is populated for every sender that is a mailbox and left empty where the sender is not one: an unknown number (V2M003, V2M053, V2M034), a voicemail transcription (V2M045), an encrypted-chat handle (V2M022), a protected source using a relay (V2M039), a local process (V2M029), the player's own unsent drafts (V2M051), and the anonymous group sender (V2M025). Domains hold per organisation: `veridiandynamics.org`, `parallaxsystems.com`, `nightdesk.coop`, `castellane-pm.com` (219 Harrow's managing agent), `rakesfile.show` (Kit's show), `harrowtenants.org`, `shawinvestigations.nyc`, `ptwu.org` (the data-workers' local), and the city's `doitt.nyc.gov` / `law.nyc.gov`. The R-associated account is `r@postmark.nyc` on all three of its sends; the address is consistent, which is exactly what the account association establishes and all it establishes.
+
+### Carry changes
+
+Facts referenced are unchanged. Four items carry slightly more than they did, and one carries it from a different mouth:
+
+- **V2M042** is now a Herald copy-desk memo Frankie kept, rather than a note about the clippings. It adds two observations that strengthen One Human without proving it: the tide-table line survived a copy editor's objection because the writer answered the desk phone in nine seconds, and a reporter sent to the street found the sensory detail correct. Both have ordinary rebuttals (a proxy can answer a phone; a person who stood on a street need not have written the sentence).
+- **V2M016** now also names a second deletion in the same session — a forty-minute item titled "PLLX — posture" — which gives V2F038 (Mira and Celeste planning for a possible R story) a delivery vector it previously lacked in Celeste's inbox.
+- **V2M027** is now a letter from the woman who kept the room used in Vale's earlier disappearance, reporting that somebody has used it again and that she does not know who. This strengthens the voluntary-withdrawal reading of Ballot 3, which the last run's data showed to be the weakest live option, while remaining consistent with V2F028's dual reading — the evidence is a moved kettle and a towel on the wrong hook.
+- **V2M012** and **V2M014** each disclose that a second, unnamed party has made the same records request. No new fact; new social pressure toward finding out who.
+- **V2M023**'s displayed sender changed from "Printer of record," which belonged to the invitation theory rather than the ledger theory. Kit's three staged beats (V2M008, V2M023, V2M054) now all come from one named producer, forming a continuous arc that ends by asking Kit to have Rafi and Graham check the correlation rather than announce it.
+
+### Guardrail re-check after the rewrite
+
+- No body confirms R's identity, Vale's role, or Vale's fate; the three strongest affirmative items (V2M042 for One Human, V2M043 for the Mantle, V2M040 for Synthetic Origin) each state or imply their own limits.
+- No body confirms, describes or resolves the rumoured article. V2M049's tip-line page is a single unbylined sheet ending mid-sentence; V2M030's recovered revision is Vale's private notes; V2M052 hardens the fragment conflict rather than settling it.
+- No group message discloses a private character secret. The Section 3 opener (V2M025) was written without reference to Samira's earlier assistance with a disappearance, which would have broadcast her exposure to the room.
+- The three progressive keys remain split across separate inboxes: identity history (V2M042 / V2M043 / V2M044), autonomous control (V2M029 / V2M031 / V2M032), and the Vale incident (V2M046 / V2M047 / V2M048). No single message assembles two of them.

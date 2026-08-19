@@ -114,6 +114,10 @@ def main() -> int:
                 "narrativeDate": m["narrative_date"],
                 "provenance": m["provenance"],
                 "from": m["from_display"],
+                # Blank for senders that are not mailboxes at all -- an unknown
+                # number, a clippings folder. The UI falls back to the display
+                # name alone rather than inventing an address.
+                "fromAddress": (m.get("from_address") or "").strip() or None,
                 "subject": m["subject"],
                 "body": m["body"],
                 "factRefs": [f for f in m["fact_refs"].split(";") if f],

@@ -40,15 +40,15 @@ export default async function HostPage() {
   const totalQueued = [...queuedBy.values()].reduce((a, b) => a + b, 0);
 
   return (
-    <main className="min-h-dvh bg-surface px-4 py-5 text-strong">
-      <header className="flex items-baseline justify-between">
-        <h1 className="text-base font-medium tracking-tight">Host</h1>
-        <span className="text-xs tabular-nums text-muted">
+    <main className="mx-auto min-h-dvh w-full max-w-2xl bg-surface px-4 py-5 text-strong">
+      <header className="flex items-baseline justify-between gap-3">
+        <h1 className="text-[20px] font-semibold tracking-tight">Host</h1>
+        <span className="text-[13px] tabular-nums text-muted">
           {totalQueued} queued across {characters.length} inboxes
         </span>
       </header>
 
-      <section className="mt-4 space-y-2.5">
+      <section className="mt-4 space-y-3">
         {ACTS.map((act) => {
           const clock = state.acts[act];
           const elapsed = elapsedMinutes(clock, now);
@@ -65,36 +65,40 @@ export default async function HostPage() {
             <div
               key={act}
               className={`relative overflow-hidden rounded-xl border ${
-                running
-                  ? "border-line-strong bg-raised"
-                  : "border-line bg-surface"
+                running ? "border-line-strong bg-raised" : "border-line bg-surface"
               }`}
             >
               <span className={`absolute inset-y-0 left-0 w-1 ${rail}`} aria-hidden />
 
-              <div className={running ? "py-3.5 pl-5 pr-3.5" : "py-2.5 pl-5 pr-3.5"}>
+              <div className={running ? "py-4 pl-5 pr-4" : "py-3 pl-5 pr-4"}>
                 <div className="flex items-center justify-between gap-3">
                   <div className="min-w-0">
                     <div className="flex items-baseline gap-2">
-                      <h2 className="text-sm font-semibold tracking-tight">Act {act}</h2>
+                      <h2 className="text-[15px] font-semibold tracking-tight">Act {act}</h2>
                       <span
-                        className={`text-[10px] font-semibold uppercase tracking-[0.12em] ${
+                        className={`text-[11px] font-semibold uppercase tracking-[0.12em] ${
                           over ? "text-warn" : running ? "text-ok" : "text-muted"
                         }`}
                       >
-                        {running ? (over ? "Running · over" : "Running") : started ? "Paused" : "Not started"}
+                        {running
+                          ? over
+                            ? "Running · over"
+                            : "Running"
+                          : started
+                            ? "Paused"
+                            : "Not started"}
                       </span>
                     </div>
 
                     <div className="mt-0.5 flex items-baseline gap-1.5">
                       <span
                         className={`tabular-nums leading-none ${
-                          running ? "text-[2rem] font-semibold" : "text-lg font-medium text-body"
+                          running ? "text-[2rem] font-semibold" : "text-[20px] font-medium text-body"
                         } ${over ? "text-warn" : ""}`}
                       >
                         {clockText(elapsed)}
                       </span>
-                      <span className="text-xs tabular-nums text-muted">
+                      <span className="text-[13px] tabular-nums text-muted">
                         / {clockText(runway)}
                       </span>
                     </div>
@@ -105,20 +109,14 @@ export default async function HostPage() {
                     <button
                       name="action"
                       value={running ? "pause" : "start"}
-                      className={`rounded-lg px-4 text-sm font-semibold ${
-                        running
-                          ? "h-11 bg-invert-bg text-invert-fg"
-                          : started
-                            ? "h-10 bg-invert-bg text-invert-fg"
-                            : "h-10 bg-invert-bg text-invert-fg"
-                      }`}
+                      className="h-11 rounded-lg bg-brand px-4 text-[15px] font-semibold text-brand-fg active:opacity-80"
                     >
                       {running ? "Pause" : started ? "Resume" : "Start"}
                     </button>
                     <button
                       name="action"
                       value="reset"
-                      className="h-10 rounded-lg border border-line px-2.5 text-[11px] text-muted"
+                      className="h-11 rounded-lg border border-line px-3 text-[13px] text-muted active:bg-sunken"
                     >
                       Reset
                     </button>
@@ -130,7 +128,7 @@ export default async function HostPage() {
                     <div className="h-1 overflow-hidden rounded-full bg-sunken">
                       <div className={`h-full ${rail}`} style={{ width: `${pct}%` }} />
                     </div>
-                    <div className="mt-1.5 text-[11px] tabular-nums text-muted">
+                    <div className="mt-1.5 text-[12px] tabular-nums text-muted">
                       {next === null
                         ? `All Act ${act} mail delivered`
                         : `Next drop at ${clockText(next)} — in ${clockText(next - elapsed)} · ${remaining} left`}
@@ -143,30 +141,28 @@ export default async function HostPage() {
         })}
       </section>
 
-      <section className="mt-7">
-        <h2 className="text-[10px] font-semibold uppercase tracking-[0.14em] text-muted">
-          Inboxes
-        </h2>
-        <ul className="mt-1 divide-y divide-line text-sm">
+      <section className="mt-8">
+        <h2 className="text-[13px] font-semibold text-muted">Inboxes</h2>
+        <ul className="mt-1 divide-y divide-line">
           {characters.map((character) => {
             const queued = queuedBy.get(character.id) ?? 0;
             return (
               <li key={character.id}>
                 <Link
                   href={`/host/inbox/${character.id}`}
-                  className="flex min-h-11 items-center justify-between gap-3 py-1.5"
+                  className="flex min-h-12 items-center justify-between gap-3 py-1.5"
                 >
-                  <span className="flex min-w-0 items-baseline gap-2">
-                    <span className="w-8 shrink-0 text-xs tabular-nums text-faint">
+                  <span className="flex min-w-0 items-baseline gap-2.5">
+                    <span className="w-9 shrink-0 text-[12px] tabular-nums text-faint">
                       {character.id}
                     </span>
-                    <span className="truncate">{character.name}</span>
+                    <span className="truncate text-[15px] text-body">{character.name}</span>
                   </span>
                   <span
                     className={`shrink-0 tabular-nums ${
                       queued > 0
-                        ? "rounded-md bg-sunken px-2 py-0.5 text-xs font-medium text-body"
-                        : "text-xs text-faint"
+                        ? "rounded-md bg-sunken px-2 py-0.5 text-[13px] font-medium text-body"
+                        : "text-[13px] text-faint"
                     }`}
                   >
                     {queued > 0 ? queued : "—"}

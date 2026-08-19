@@ -20,22 +20,22 @@ export default async function HostInboxPage({ params }: { params: Promise<{ cid:
   const pending = pendingFor(cid, state);
 
   return (
-    <main className="min-h-dvh bg-surface px-4 py-5 text-strong">
-      <Link href="/host" className="text-sm text-muted">
+    <main className="mx-auto min-h-dvh w-full max-w-2xl bg-surface px-4 py-5 text-strong">
+      <Link href="/host" className="text-[15px] text-brand">
         ← Host
       </Link>
 
-      <h1 className="mt-3 text-base font-medium tracking-tight">{character.name}</h1>
-      <p className="text-xs text-muted">{character.publicRole}</p>
+      <h1 className="mt-3 text-[20px] font-semibold tracking-tight">{character.name}</h1>
+      <p className="text-[13px] text-muted">{character.publicRole}</p>
 
-      <h2 className="mt-6 text-xs uppercase tracking-wide text-muted">
+      <h2 className="mt-7 text-[13px] font-semibold text-muted">
         Delivered ({delivered.length})
       </h2>
-      <ul className="mt-2 divide-y divide-line">
+      <ul className="mt-1 divide-y divide-line">
         {delivered.map((message) => (
-          <li key={message.id} className="py-2">
-            <div className="text-sm">{message.subject}</div>
-            <div className="text-xs text-muted">
+          <li key={message.id} className="py-2.5">
+            <div className="text-[15px] text-strong">{message.subject}</div>
+            <div className="text-[13px] text-muted">
               {message.from} · act {message.section}
               {message.offset !== null ? ` · +${message.offset}m` : ""}
             </div>
@@ -43,14 +43,14 @@ export default async function HostInboxPage({ params }: { params: Promise<{ cid:
         ))}
       </ul>
 
-      <h2 className="mt-6 text-xs uppercase tracking-wide text-muted">
+      <h2 className="mt-7 text-[13px] font-semibold text-muted">
         Queued ({pending.length})
       </h2>
-      <ul className="mt-2 divide-y divide-line">
+      <ul className="mt-1 divide-y divide-line">
         {pending.map((message) => (
-          <li key={message.id} className="py-2 text-muted">
-            <div className="text-sm">{message.subject}</div>
-            <div className="text-xs text-faint">
+          <li key={message.id} className="py-2.5">
+            <div className="text-[15px] text-muted">{message.subject}</div>
+            <div className="text-[13px] text-faint">
               {message.from} · act {message.section}
               {message.offset !== null ? ` · +${message.offset}m` : ""}
             </div>

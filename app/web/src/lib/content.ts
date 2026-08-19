@@ -35,6 +35,8 @@ export type GameMessage = {
   narrativeDate: string;
   provenance: string;
   from: string;
+  /** Sender mailbox, or null for a sender that has no address (an unknown number). */
+  fromAddress: string | null;
   subject: string;
   body: string;
   factRefs: string[];
@@ -74,6 +76,7 @@ export function briefingFor(characterId: string): GameMessage | null {
     narrativeDate: "Written before the party",
     provenance: "original",
     from: character.name,
+    fromAddress: null,
     subject: "Before tonight",
     body: character.briefing,
     factRefs: [],
