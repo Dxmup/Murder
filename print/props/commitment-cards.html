@@ -1,0 +1,196 @@
+<meta charset="utf-8">
+<title>Commitment Cards</title>
+<style>
+  /* Two-part commitment cards, per design/objects-and-bargains.md.
+     Four per US Letter sheet. Each card is a matched pair either side of a
+     tear line: the same promise written twice, so both parties leave holding
+     one. That duplication is the point -- a promise only one person can
+     produce later is not evidence of anything.
+
+     Print at 100% scale, single-sided, on ordinary paper. Score or fold the
+     centre line so it tears cleanly. Print plenty: most subgoals in this game
+     terminate in a promise, and Grace's worker alone demands two.
+
+     Deliberately plain. This is a thing people scrawl on at a party with a
+     drink in hand, not another beautiful artifact. */
+
+  @page { size: letter; margin: 0.45in; }
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0; background: #6d6862;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    color: #16150F;
+  }
+
+  .sheet {
+    width: 7.6in; margin: 0 auto;
+    display: grid; grid-template-rows: repeat(4, 2.45in);
+    page-break-after: always;
+  }
+
+  .card {
+    display: grid; grid-template-columns: 1fr 1fr;
+    background: #FBF8F1;
+    border: 0.75pt solid #C6BCA6;
+    position: relative;
+  }
+  /* The tear line. Dashed so it reads as "separate these". */
+  .card::after {
+    content: ""; position: absolute; left: 50%; top: 0; bottom: 0;
+    border-left: 0.75pt dashed #B4A88F;
+  }
+
+  .half { padding: 0.17in 0.21in; display: flex; flex-direction: column; }
+
+  .head {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 1.75pt solid #8C2F26; padding-bottom: 3pt; margin-bottom: 7pt;
+  }
+  .title {
+    font-family: "Haettenschweiler", "Arial Narrow", Impact, sans-serif;
+    font-size: 12.5pt; letter-spacing: 0.09em; text-transform: uppercase;
+  }
+  .copy { font-size: 6.5pt; letter-spacing: 0.13em; text-transform: uppercase; color: #8A806E; }
+
+  .row { display: flex; align-items: baseline; gap: 5pt; margin-bottom: 6.5pt; }
+  .lbl {
+    font-size: 6.5pt; letter-spacing: 0.11em; text-transform: uppercase;
+    color: #6E6552; white-space: nowrap;
+  }
+  .line { flex: 1; border-bottom: 0.6pt solid #9E947F; height: 11pt; }
+
+  .promise { flex: 1; }
+  .promise .line { height: 15pt; margin-bottom: 2.5pt; }
+
+  .foot { display: flex; gap: 9pt; margin-top: 2pt; }
+  .foot .row { flex: 1; margin-bottom: 0; }
+
+  .terms {
+    font-size: 6.5pt; letter-spacing: 0.05em; color: #6E6552;
+    margin: 5pt 0 6pt; line-height: 1.35;
+  }
+  .terms b { color: #8C2F26; letter-spacing: 0.09em; text-transform: uppercase; font-size: 6pt; }
+
+  @media print { body { background: #fff; } }
+</style>
+
+<div class="sheet">
+  <!-- Four identical cards. Template repeated rather than scripted so the file
+       stays a single printable artifact with no runtime dependency. -->
+  <div class="card">
+    <div class="half">
+      <div class="head"><span class="title">Commitment</span><span class="copy">Their copy</span></div>
+      <div class="row"><span class="lbl">Between</span><span class="line"></span><span class="lbl">and</span><span class="line"></span></div>
+      <div class="promise">
+        <div class="row"><span class="lbl">Promises</span></div>
+        <div class="line"></div><div class="line"></div><div class="line"></div>
+      </div>
+      <div class="terms"><b>Public / private</b> ________ &nbsp; <b>Performed by</b> ________</div>
+      <div class="foot">
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+      </div>
+    </div>
+    <div class="half">
+      <div class="head"><span class="title">Commitment</span><span class="copy">Your copy</span></div>
+      <div class="row"><span class="lbl">Between</span><span class="line"></span><span class="lbl">and</span><span class="line"></span></div>
+      <div class="promise">
+        <div class="row"><span class="lbl">Promises</span></div>
+        <div class="line"></div><div class="line"></div><div class="line"></div>
+      </div>
+      <div class="terms"><b>Public / private</b> ________ &nbsp; <b>Performed by</b> ________</div>
+      <div class="foot">
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="half">
+      <div class="head"><span class="title">Commitment</span><span class="copy">Their copy</span></div>
+      <div class="row"><span class="lbl">Between</span><span class="line"></span><span class="lbl">and</span><span class="line"></span></div>
+      <div class="promise">
+        <div class="row"><span class="lbl">Promises</span></div>
+        <div class="line"></div><div class="line"></div><div class="line"></div>
+      </div>
+      <div class="terms"><b>Public / private</b> ________ &nbsp; <b>Performed by</b> ________</div>
+      <div class="foot">
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+      </div>
+    </div>
+    <div class="half">
+      <div class="head"><span class="title">Commitment</span><span class="copy">Your copy</span></div>
+      <div class="row"><span class="lbl">Between</span><span class="line"></span><span class="lbl">and</span><span class="line"></span></div>
+      <div class="promise">
+        <div class="row"><span class="lbl">Promises</span></div>
+        <div class="line"></div><div class="line"></div><div class="line"></div>
+      </div>
+      <div class="terms"><b>Public / private</b> ________ &nbsp; <b>Performed by</b> ________</div>
+      <div class="foot">
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="half">
+      <div class="head"><span class="title">Commitment</span><span class="copy">Their copy</span></div>
+      <div class="row"><span class="lbl">Between</span><span class="line"></span><span class="lbl">and</span><span class="line"></span></div>
+      <div class="promise">
+        <div class="row"><span class="lbl">Promises</span></div>
+        <div class="line"></div><div class="line"></div><div class="line"></div>
+      </div>
+      <div class="terms"><b>Public / private</b> ________ &nbsp; <b>Performed by</b> ________</div>
+      <div class="foot">
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+      </div>
+    </div>
+    <div class="half">
+      <div class="head"><span class="title">Commitment</span><span class="copy">Your copy</span></div>
+      <div class="row"><span class="lbl">Between</span><span class="line"></span><span class="lbl">and</span><span class="line"></span></div>
+      <div class="promise">
+        <div class="row"><span class="lbl">Promises</span></div>
+        <div class="line"></div><div class="line"></div><div class="line"></div>
+      </div>
+      <div class="terms"><b>Public / private</b> ________ &nbsp; <b>Performed by</b> ________</div>
+      <div class="foot">
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="half">
+      <div class="head"><span class="title">Commitment</span><span class="copy">Their copy</span></div>
+      <div class="row"><span class="lbl">Between</span><span class="line"></span><span class="lbl">and</span><span class="line"></span></div>
+      <div class="promise">
+        <div class="row"><span class="lbl">Promises</span></div>
+        <div class="line"></div><div class="line"></div><div class="line"></div>
+      </div>
+      <div class="terms"><b>Public / private</b> ________ &nbsp; <b>Performed by</b> ________</div>
+      <div class="foot">
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+      </div>
+    </div>
+    <div class="half">
+      <div class="head"><span class="title">Commitment</span><span class="copy">Your copy</span></div>
+      <div class="row"><span class="lbl">Between</span><span class="line"></span><span class="lbl">and</span><span class="line"></span></div>
+      <div class="promise">
+        <div class="row"><span class="lbl">Promises</span></div>
+        <div class="line"></div><div class="line"></div><div class="line"></div>
+      </div>
+      <div class="terms"><b>Public / private</b> ________ &nbsp; <b>Performed by</b> ________</div>
+      <div class="foot">
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+        <div class="row"><span class="lbl">Signed</span><span class="line"></span></div>
+      </div>
+    </div>
+  </div>
+</div>

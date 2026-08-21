@@ -16,10 +16,12 @@ agrees with it.
 |---|---|---|---|
 | `INVITATION.png` | — | everyone | Letterpress card. The red plate is deliberately misregistered with corner crosshairs — this is what Kit circles as a hidden "machine key" and what Nadia disproves in V2M008 as an ordinary tired press. Print one per guest. |
 | `name-cards.html` | — | everyone | 20 wearable cards, 4×3in, six per sheet. **Print at 100%, not "fit to page."** Open in a browser and print to PDF. |
+| `commitment-cards.html` | — | the host's stack | Blank two-part promise cards, four per sheet, torn down the middle so both parties leave holding the same words. **Print a lot.** See below. |
 | `NAMECARD-reference.png` | — | — | Visual reference only, showing the intended look. The HTML is the thing to print. |
 | `O01.png` | First R Letter | Frankie | Unsigned facsimile. Carries **"what the record will not say for itself" twice** — the construction Bea flags in V2M017 as also appearing in the succession message. |
 | `O02.png` | Night Desk routing slip | Tessa | Five stages, five contributor initials. **Cover the CONTRIBUTOR column with removable label tape before play** so Tessa peels one row at a time as protection is negotiated. Uncovered, the prop is spent in one show-and-tell. |
-| `O03.png` | Succession message printout | Jules | Closes on the same phrase as `O01`. Side by side, that repetition is the whole of Bea's observation — and it has three readings (same author, a copy, or a machine producing a common shape). |
+| `O03.png` | Succession message — body | Jules | Closes on the same phrase as `O01`. Side by side, that repetition is the whole of Bea's observation — and it has three readings (same author, a copy, or a machine producing a common shape). |
+| `O03b.png` | Succession message — header extract | **Eli** | The other half. `objects-and-bargains.md` requires a separately held header supplement so Jules cannot authenticate the message alone; without it Jules holds a claim with no provenance. Giving it to Eli makes each of them useless alone and forces the Jules–Eli conversation that Jules's first subgoal asks for. Note what it says it *cannot* attest. |
 | `O04.png` | Robin's commission card | Robin | Calling card plus the handwritten account of the commission. |
 | `O05a/b/c.png` | Continuity log, three cards | Eli | Capability / access / activity. **Keep them physically separate.** Each carries its own limit line; that separation is what stops Eli dumping one technical proof and what W. Tran's message is about. |
 | `O06.png` | Tony's account strip | Tony | Habit change stamped **WK OF 16 FEB 2025**, matching Kit's notebook. That agreement is V2M054's payoff — "Same week, Kit." If you ever reprint either, keep them in step. |
@@ -79,10 +81,33 @@ Rosa's written list of four asks (V2M069), and Arden's archive intake report
 out the table, those four are the natural additions and none of them touches a
 main-story clue.
 
+### Commitment cards carry the secondary and tertiary missions
+
+Almost every subgoal in `goals.csv` terminates in a promise rather than a
+discovery: Arden needs "a recorded understanding", Tessa "written or witnessed
+conditions", Rosa "a commitment", Nina a remedy offered to Grace, Celeste an
+agreement about who accepts responsibility. Grace's worker is blunter than any
+of them, through D. Ibarra in V2M005 — *"In writing. Not a promise in a hallway.
+In writing, signed, tonight"* — and demands **two separate written promises**,
+because "people will keep the first one and break the second."
+
+Without a card, all of that evaporates into things people said near the bar and
+half-remember at ballot time. With one, a promise becomes an object: portable,
+quotable, and breakable in public. `objects-and-bargains.md` is explicit that the
+host never adjudicates whether a promise was kept — the card is social evidence,
+not a contract, and players revealing broken commitments is a feature.
+
+Both halves say the same thing so each party leaves holding one. A promise only
+one person can produce later proves nothing.
+
+Put the stack somewhere central and obvious. Nobody asks the host for a form
+they have not seen.
+
 ### Pairs that must not start together
 
 - `O07a` Celeste and `O07b` Nina are halves of one recovery.
 - `O10a` Dee and `O10b` Eli are the same incident from two systems.
+- `O03` Jules and `O03b` Eli are the body and the provenance of one message.
 - `O12a` Frankie, `O12b` Tessa and `O12c` Robin are one stylistic arc across
   three inboxes. Nobody may hold two of them at the start.
 
