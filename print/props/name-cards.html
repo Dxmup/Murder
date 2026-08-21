@@ -1,0 +1,139 @@
+<meta charset="utf-8">
+<title>Name Cards</title>
+<style>
+  /* Wearable name cards for the masquerade. Six per US Letter sheet at
+     4in x 3in, which is deliberately larger than a conference badge: the
+     requirement is legibility at arm's length in a dark room, and the whole
+     point of the card is that a masked stranger can be addressed by name.
+
+     Print at 100% scale, no "fit to page" - that is what keeps 4x3 true.
+     Cream or ivory card stock matches the invitation; plain white works. */
+
+  @page { size: letter; margin: 0.5in; }
+
+  :root {
+    --paper: #F2EDE2;
+    --ink: #17150F;
+    --rule: #8C2F26;      /* the invitation's oxblood */
+    --muted: #6B6252;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: #55504a;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  }
+
+  .sheet {
+    display: grid;
+    grid-template-columns: 4in 4in;
+    grid-auto-rows: 3in;
+    gap: 0;
+    width: 8in;
+    margin: 0 auto;
+    page-break-after: always;
+  }
+
+  .card {
+    position: relative;
+    width: 4in;
+    height: 3in;
+    padding: 0.34in 0.3in;
+    background: var(--paper);
+    color: var(--ink);
+    /* Hairline cut guide. Prints faintly; trim on it. */
+    outline: 0.5pt dashed #B9AE99;
+    outline-offset: -0.5pt;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  .rule {
+    width: 2.6in;
+    border-top: 2.5pt solid var(--rule);
+    border-bottom: 0.75pt solid var(--rule);
+    height: 3pt;
+  }
+
+  .name {
+    font-family: "Haettenschweiler", "Arial Narrow", "Oswald", Impact, sans-serif;
+    font-weight: 700;
+    /* Sized for the longest name in the cast (Dr. Farah Haddad) to still fit
+       on one line at arm's length. */
+    font-size: 30pt;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    line-height: 1.05;
+    margin: 0.13in 0 0.1in;
+    text-wrap: balance;
+  }
+
+  .role {
+    font-size: 10.5pt;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    line-height: 1.45;
+    max-width: 3.2in;
+    margin: 0.1in 0 0;
+    text-wrap: balance;
+  }
+
+  /* The registration crosshair from the invitation. A quiet through-line, and
+     the thing Kit believes is a hidden key. */
+  .mark {
+    position: absolute;
+    right: 0.16in;
+    bottom: 0.13in;
+    width: 13px; height: 13px;
+    opacity: 0.5;
+  }
+  .mark::before, .mark::after {
+    content: ""; position: absolute; background: var(--rule);
+  }
+  .mark::before { left: 6px; top: 0; width: 1px; height: 13px; }
+  .mark::after  { top: 6px; left: 0; height: 1px; width: 13px; }
+
+  .opt { position: absolute; left: 0.16in; bottom: 0.13in;
+         font-size: 7pt; letter-spacing: 0.14em; color: #B4A88F; }
+
+  @media print { body { background: #fff; } }
+</style>
+
+<div class="sheet">
+  <div class="card"><div class="rule"></div><h1 class="name">Arden Bell</h1><p class="role">Executive Director<br>Veridian Dynamics</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Frankie Lowell</h1><p class="role">Retired metro editor</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Tessa Quill</h1><p class="role">Organizer<br>The Night Desk Collective</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Jules Kwan</h1><p class="role">Essayist and critic</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Dr. Nina Sen</h1><p class="role">Founder<br>Parallax Systems</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Eli Navarro</h1><p class="role">Former reliability engineer<br>Parallax Systems</p><span class="mark"></span></div>
+</div>
+
+<div class="sheet">
+  <div class="card"><div class="rule"></div><h1 class="name">Grace Okafor</h1><p class="role">Data-worker organizer<br>PTWU Local 3</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Robin Velez</h1><p class="role">Voice performer<br>and synthetic-media artist</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Tony Calderón</h1><p class="role">Bodega and package counter<br>Harrow Street</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Dee Nowak</h1><p class="role">Building superintendent<br>219 Harrow</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Celeste Park</h1><p class="role">City Hall<br>technology office</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Graham Pike</h1><p class="role">Activist short-seller<br>Pike Capital</p><span class="mark"></span></div>
+</div>
+
+<div class="sheet">
+  <div class="card"><div class="rule"></div><h1 class="name">Sam Vale</h1><p class="role">Vale's former partner</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Morgan Shaw</h1><p class="role">Private investigator</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Kit Rakes</h1><p class="role">Broadcaster<br>The Rakes File</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Rosa Baptiste</h1><p class="role">Harrow Street<br>Tenants' Association</p><span class="mark"></span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Ash Salerno</h1><p class="role">Tabloid photographer</p><span class="mark"></span><span class="opt">OPTIONAL</span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Dr. Farah Haddad</h1><p class="role">Digital-preservation archivist<br>New York Public Library</p><span class="mark"></span><span class="opt">OPTIONAL</span></div>
+</div>
+
+<div class="sheet">
+  <div class="card"><div class="rule"></div><h1 class="name">Dorian Ashe</h1><p class="role">Celebrity biographer</p><span class="mark"></span><span class="opt">OPTIONAL</span></div>
+  <div class="card"><div class="rule"></div><h1 class="name">Manny Diallo</h1><p class="role">Delivery cyclist<br>and freelance fixer</p><span class="mark"></span><span class="opt">OPTIONAL</span></div>
+</div>
