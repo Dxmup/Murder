@@ -2,7 +2,7 @@
 
 ## Status and notation
 
-This is the first objective-event scaffold for V2. Dates use `T` for the anniversary gathering and relative offsets because the exact 2027 event date is not yet selected.
+This is the first objective-event scaffold for V2. Dates use `T` for the anniversary gathering and relative offsets. **T is Friday 9 April 2027** — fixed when the physical props were produced, because an invitation has to carry a date and every prop has to agree with it.
 
 Each entry separates:
 
