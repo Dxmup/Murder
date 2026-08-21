@@ -1,10 +1,10 @@
-# Samira Vale
+# Sam Vale
 
 ## Who you are
 
 You are Vale's former partner, with a life outside journalism and technology. You knew Vale as a person who forgot groceries, became impossible when frightened, and could turn intimacy into operational security without noticing the cruelty. Everyone else wants you to translate that person into evidence.
 
-Play Samira as private, perceptive, angry, and fiercely protective. Your quiet is not emptiness; it is refusal. You notice when someone uses Vale's first name to manufacture closeness and when concern turns into appetite. You may be tender with people who admit uncertainty and devastating with people who turn Vale into a symbol. A sealed envelope, familiar keychain, understated coat, or personal notebook would suit you.
+Play Sam as private, perceptive, angry, and fiercely protective. Your quiet is not emptiness; it is refusal. You notice when someone uses Vale's first name to manufacture closeness and when concern turns into appetite. You may be tender with people who admit uncertainty and devastating with people who turn Vale into a symbol. A sealed envelope, familiar keychain, understated coat, or personal notebook would suit you. Your mask is plain, and you are grateful for it, because it covers a face you do not want read tonight.
 
 ## Why you are here
 
@@ -30,12 +30,12 @@ You do not know whether the rumored article existed. Vale sometimes used the sug
 
 ## What you want tonight
 
-- **Primary Goal:** Learn whether Vale used, trusted, or deceived Samira and decide what the room may make of Vale.
+- **Primary Goal:** Learn whether Vale used, trusted, or deceived Sam and decide what the room may make of Vale.
   - *Success Condition:* Obtain two independently sourced Vale observations, correct one false personal claim, and make a final disclosure decision.
 - **Secondary Goal 1 (Social & Supportive):** Identify Vale's relationship with Jules and Eli.
   - *Success Condition:* Exchange separate pieces with both without giving either the full private history.
 - **Secondary Goal 2 (Social & Supportive):** Determine whether the disappearance followed an old safety plan.
-  - *Success Condition:* Compare the route with Morgan, Dee, or Inez and state what remains unknown.
+  - *Success Condition:* Compare the route with Morgan, Dee, or Rosa and state what remains unknown.
 - **Your Final Choice:** Protect Vale's privacy or disclose evidence needed to distinguish harm from withdrawal.
 
 ## What you know
@@ -60,7 +60,7 @@ You helped Vale disappear before and initially lied about it. You may still be l
 
 The more painful secret is that part of you does not want Vale found if finding Vale means returning to the old pattern. Protecting privacy may be love, resentment, fear, or all three.
 
-Honesty becomes worthwhile if Morgan agrees to a limited and accurately labeled timeline, if Inez protects the location, if Jules or Eli gives you a complete account, or if withholding the envelope begins to endanger someone.
+Honesty becomes worthwhile if Morgan agrees to a limited and accurately labeled timeline, if Rosa protects the location, if Jules or Eli gives you a complete account, or if withholding the envelope begins to endanger someone.
 
 ## What you can offer
 
@@ -98,13 +98,13 @@ Frankie wants Vale to validate a human R origin. You resent seeing Vale turned i
 
 Kit turns Vale into the missing human link in an enormous theory. Some of Kit's reconstruction may match the statements you know; the certainty violates Vale's humanity. Correct false personal claims publicly. If Kit listens, you may supply context without supplying authority.
 
-### Inez Baptiste
+### Rosa Baptiste
 
-Inez understands that a protected route can be care rather than conspiracy. You need neighborhood discretion and Inez needs confidence that Vale's drama will not endanger residents. There is something heavier between you: Inez arranged unlogged access for someone Inez never identified, and the route involved may be the one Vale's old safety plan used. Inez may have opened Vale's escape door without knowing it—or opened a door for someone else entirely. If that ever becomes clear, only you and Inez should decide whether it stays secret. This can become a loyal alliance if you respect local boundaries.
+Rosa understands that a protected route can be care rather than conspiracy. You need neighborhood discretion and Rosa needs confidence that Vale's drama will not endanger residents. There is something heavier between you: Rosa arranged unlogged access for someone Rosa never identified, and the route involved may be the one Vale's old safety plan used. Rosa may have opened Vale's escape door without knowing it—or opened a door for someone else entirely. If that ever becomes clear, only you and Rosa should decide whether it stays secret. This can become a loyal alliance if you respect local boundaries.
 
-### Edi Velez
+### Robin Velez
 
-Edi builds identities for a living—voice, presence, the texture of a real person—and once performed work that may have fed the R legend. Edi can show you how convincing a manufactured person feels from the inside, which bears directly on whether the "R" Vale chased was ever anyone at all. Edi may also wonder whether Vale investigated the commission or exploited its rumor. You share a raw nerve: both of you have watched a person you cared about get turned into raw material. Trade carefully; a performance explained is not the same as an authorship established.
+Robin builds identities for a living—voice, presence, the texture of a real person—and once performed work that may have fed the R legend. Robin can show you how convincing a manufactured person feels from the inside, which bears directly on whether the "R" Vale chased was ever anyone at all. Robin may also wonder whether Vale investigated the commission or exploited its rumor. You share a raw nerve: both of you have watched a person you cared about get turned into raw material. Trade carefully; a performance explained is not the same as an authorship established.
 
 ## How to begin
 
@@ -120,4 +120,4 @@ Allow grief, anger, love, suspicion, and trust to shape your decisions. Correcti
 
 ## At the end
 
-Vote for the account of R you genuinely believe. Separately record what you think Vale's relationship to R was and what happened to Vale, including “insufficient evidence” if that is honest. Finally decide whether Samira protects Vale's privacy or releases the bounded evidence needed to distinguish harm from withdrawal. Whatever you choose, Vale remains a person before becoming anyone's theory.
+Vote for the account of R you genuinely believe. Separately record what you think Vale's relationship to R was and what happened to Vale, including “insufficient evidence” if that is honest. Finally decide whether Sam protects Vale's privacy or releases the bounded evidence needed to distinguish harm from withdrawal. Whatever you choose, Vale remains a person before becoming anyone's theory.

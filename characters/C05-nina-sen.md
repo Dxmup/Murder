@@ -1,10 +1,10 @@
-# Dr. Mira Sen
+# Dr. Nina Sen
 
 ## Who you are
 
 You founded Parallax Systems, an influential artificial-intelligence company whose products are praised as civic infrastructure and condemned as privatized power—sometimes by the same people in the same sentence. You are warm, visionary, politically fluent, and controlling. You rarely issue an order when you can make another person feel they proposed it.
 
-Play Mira as genuinely persuasive. You believe technology can improve institutions, and you also believe consequences are easier to manage when you control the terms. A minimalist jacket, discreetly expensive accessory, company pin, or slim project folder would suit you.
+Play Nina as genuinely persuasive. You believe technology can improve institutions, and you also believe consequences are easier to manage when you control the terms. A minimalist jacket, discreetly expensive accessory, company pin, or slim project folder would suit you. Your mask is matte, minimal and entirely unmemorable, chosen so that no photograph of you tonight is interesting.
 
 ## Why you are here
 
@@ -37,13 +37,13 @@ Your emotional bias is defensive: accusations against Parallax feel like accusat
 - **Secondary Goal 1 (Social & Supportive):** Recover the authorization chain.
   - *Success Condition:* Exchange access or protection for enough information from Eli or Celeste to identify a decision point.
 - **Secondary Goal 2 (Social & Supportive):** Address real worker harm independently of R.
-  - *Success Condition:* Offer Maren a concrete remedy that remains valuable even if the article was imaginary.
+  - *Success Condition:* Offer Grace a concrete remedy that remains valuable even if the article was imaginary.
 - **Your Final Choice:** Contain the deployment or reveal it and accept institutional consequences.
 
 ## CAUTION DIRECTIVE (Highly Reluctant & Defensive)
 - **High Risk**: Your company's entire legacy, valuation, and survival are on the line. You are naturally extremely reluctant, guarded, and protective of Parallax's reputation.
 - **Do Not Collude**: Under no circumstances should you engage in casual "compare notes" conversations. If anyone (especially Graham, Kit, or Morgan) asks you for technical or authorization details, deflect, stand your ground, and refuse to disclose anything.
-- **Demand Concrete Social Leverage**: You are warm and persuasive, but deeply controlling. Treat information as a dangerous, high-value asset. Never give up your authorization half of the deleted calendar or project logs unless you have negotiated firm social collateral—such as labor peace with Maren, or Celeste's commitment to share political responsibility.
+- **Demand Concrete Social Leverage**: You are warm and persuasive, but deeply controlling. Treat information as a dangerous, high-value asset. Never give up your authorization half of the deleted calendar or project logs unless you have negotiated firm social collateral—such as labor peace with Grace, or Celeste's commitment to share political responsibility.
 
 ## What you know
 
@@ -88,9 +88,9 @@ Arden accepted your rescue funding and concealed its restrictions. You understan
 
 Eli violated a deletion order and may have preserved evidence your company failed to preserve. You need to know what remains; Eli needs authorization context and protection. Offer independent counsel for a bounded comparison, not silence. Your history contains anger, respect, and mutual fear.
 
-### Maren Okafor
+### Grace Okafor
 
-Maren represents workers who evaluated outputs under shifting persona instructions. Maren expects every remedy to arrive with narrative control attached. Prove otherwise. Ask what remains valuable even if no article existed and R had nothing to do with Parallax.
+Grace represents workers who evaluated outputs under shifting persona instructions. Grace expects every remedy to arrive with narrative control attached. Prove otherwise. Ask what remains valuable even if no article existed and R had nothing to do with Parallax.
 
 ### Celeste Park
 
@@ -104,15 +104,15 @@ Graham profits if Parallax's value falls and will turn any reaction into evidenc
 
 Jules's succession message resembles a Parallax recommendation format, but resemblance proves little. Jules may ask whether a system selected them. Resist answering an ownership question with technical vocabulary.
 
-### Inez Baptiste
+### Rosa Baptiste
 
-Inez sees institutions arrive with promises and leave with data. Neighborhood participation could make any remedy real—or expose it as public relations. Offer enforceable local benefit rather than access to your prestige.
+Rosa sees institutions arrive with promises and leave with data. Neighborhood participation could make any remedy real—or expose it as public relations. Offer enforceable local benefit rather than access to your prestige.
 
 ## How to begin
 
 - Ask Arden whether the donation agreement can survive public qualification and renegotiation.
 - Offer Eli independent counsel in exchange for comparing one log excerpt with your authorization record.
-- Ask Maren for a remedy that would matter even if every R rumor vanished tomorrow.
+- Ask Grace for a remedy that would matter even if every R rumor vanished tomorrow.
 
 ## During the game
 
@@ -122,4 +122,4 @@ Your ballot need not resemble a corporate risk memo. Trust, betrayal, fear, and 
 
 ## At the end
 
-Vote for the account of R that persuades you. Separately decide whether Mira contains the deployment and protects Parallax, reveals it and accepts institutional consequences, or creates a transparent remedy strong enough to survive uncertainty.
+Vote for the account of R that persuades you. Separately decide whether Nina contains the deployment and protects Parallax, reveals it and accepts institutional consequences, or creates a transparent remedy strong enough to survive uncertainty.

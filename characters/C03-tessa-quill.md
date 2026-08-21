@@ -4,7 +4,7 @@
 
 You organize the Night Desk Collective, a quiet cooperative of investigative reporters, translators, researchers, fact-checkers, source handlers, and people whose names cannot safely appear in print. You are disciplined, dry, fiercely egalitarian, and suspicious of celebrity—especially celebrity produced by work that depended on invisible hands.
 
-Play Tessa with economy. Listen, remember exact promises, and puncture grand speeches with one precise question. You are not shy; you simply dislike wasting language. A plain notebook, encrypted-looking USB drive, messenger bag, or stack of carefully clipped documents would suit you.
+Play Tessa with economy. Listen, remember exact promises, and puncture grand speeches with one precise question. You are not shy; you simply dislike wasting language. A plain notebook, encrypted-looking USB drive, messenger bag, or stack of carefully clipped documents would suit you. Your mask is plain and covers the whole face, chosen because it actually conceals rather than because it flatters.
 
 ## Why you are here
 
@@ -22,7 +22,7 @@ Material later published as R passed through one of those shared drops. Differen
 
 Once, a frightened source asked whether the collective itself was R. You allowed the source to believe the answer was yes because the belief made the source feel protected by something larger than a single reporter. You never actually knew that the collective was R. The lie—or protective ambiguity—worked. It may now return as evidence.
 
-Maren helped you think seriously about the difference between protecting a source and using protection as an excuse to control a story. You trust Maren's instincts, though you disagree about how much bounded information can circulate safely.
+Grace helped you think seriously about the difference between protecting a source and using protection as an excuse to control a story. You trust Grace's instincts, though you disagree about how much bounded information can circulate safely.
 
 ## What you believe
 
@@ -37,7 +37,7 @@ Your emotional commitment is firmer than your mystery conclusion: no account is 
 - **Primary Goal:** Protect the Night Desk Collective while preventing private capture of R.
   - *Success Condition:* Secure one concrete protection or resource and obtain two public acknowledgments that collaborative labor mattered.
 - **Secondary Goal 1 (Social & Supportive):** Protect a contributor.
-  - *Success Condition:* Get Maren or another trusted intermediary to agree on a safe disclosure boundary.
+  - *Success Condition:* Get Grace or another trusted intermediary to agree on a safe disclosure boundary.
 - **Secondary Goal 2 (Social & Supportive):** Decide whether Jules can carry a shared identity responsibly.
   - *Success Condition:* Negotiate written or witnessed conditions for supporting or opposing Jules.
 - **Your Final Choice:** Reveal enough to establish collective work or preserve secrecy and lose narrative control.
@@ -52,7 +52,7 @@ A quarterly reconciliation recovered from Night Desk accounts flags a pseudonymo
 
 You personally know that different people researched, translated, checked, and rewrote passages later published as R. Some of them would face professional or personal danger if identified.
 
-You once let a source believe the collective was R. Maren knows enough to corroborate that this happened and why. The episode demonstrates how a useful fiction can become social reality; it does not reveal R's identity.
+You once let a source believe the collective was R. Grace knows enough to corroborate that this happened and why. The episode demonstrates how a useful fiction can become social reality; it does not reveal R's identity.
 
 You can compare contributor schedules with a disputed interval of R-associated activity. Every contributor you have disclosed was unavailable then. You still protect unnamed contributors, and you cannot exclude every remote person. Activity during the gap reportedly incorporated new information, but an external feed could explain that without proving independent judgment.
 
@@ -79,9 +79,9 @@ Disclosure could damage contributor trust or expose the source to renewed attent
 
 ## People at the party
 
-### Maren Okafor
+### Grace Okafor
 
-Maren is a trusted labor ally and one of the few people who understands why anonymity is material, not romantic. You disagree about whether bounded workflow evidence can circulate safely. Reach a rule together before pressure rises. Do not make Maren choose between protecting a worker and protecting you.
+Grace is a trusted labor ally and one of the few people who understands why anonymity is material, not romantic. You disagree about whether bounded workflow evidence can circulate safely. Reach a rule together before pressure rises. Do not make Grace choose between protecting a worker and protecting you.
 
 ### Jules Kwan
 
@@ -109,7 +109,7 @@ If Farah is present, the archive contains anonymous deposits whose context may o
 
 ## How to begin
 
-- Ask Maren to define a shared disclosure boundary before either of you speaks about contributors.
+- Ask Grace to define a shared disclosure boundary before either of you speaks about contributors.
 - Tell Jules that support is possible, but only after Jules states what succession would obligate them to protect.
 - Approach Arden with a concrete exchange: bounded workflow evidence for a real source-protection commitment.
 

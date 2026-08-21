@@ -23,17 +23,17 @@ Detailed findings for 01–04: [`../simulation/baseline-01-findings.md`](../simu
 1. **Human Mantle attractor:** the collaborative-labor cluster was early, public, prop-backed, and socially cheap; the room anchored on it in ten consecutive runs.
 2. **One Human collapse:** Frankie's case died on first contact with collaboration evidence in 14 of 14 runs; the ending had no second advocate and no recovery path.
 3. **Ending 4 decorative:** the composite never approached its threshold; "killed by an AI system" never exceeded 3 of 16 because no incident evidence existed.
-4. **Dead ballot lines:** "investigating R" won the Vale-relationship ballot 13–16 of 16 in every run; "voluntarily vanished" won Vale's fate through Samira's uncontested prior-disappearance anchor.
-5. **Oracle roles:** Eli's technical skepticism functioned as an ending veto; Kit's credibility arc single-handedly determined Progressive viability; Samira's fate reading went unchallenged.
+4. **Dead ballot lines:** "investigating R" won the Vale-relationship ballot 13–16 of 16 in every run; "voluntarily vanished" won Vale's fate through Sam's uncontested prior-disappearance anchor.
+5. **Oracle roles:** Eli's technical skepticism functioned as an ending veto; Kit's credibility arc single-handedly determined Progressive viability; Sam's fate reading went unchallenged.
 6. **Inert objects:** custody transfers were near zero; nothing rewarded possession over showing.
 
 ## V2.1 rebalance (responds to all six findings)
 
-- Published-corpus excerpts (E15) split early/middle/late across Frankie, Tessa, and Edi: One Human gains Section 1 texture, the Progressive identity-history key becomes assemblable, and no holder owns the arc.
-- Three escalating Vale incidents (E16) split across Samira, Morgan, and Dee, each with an innocent reading, making killed_by_ai arguable and contesting the vanished anchor.
-- Staged-collaboration courier account (Rafi) lets the lone author survive collaboration evidence; the challenge-ritual chain is teased in Section 1.
+- Published-corpus excerpts (E15) split early/middle/late across Frankie, Tessa, and Robin: One Human gains Section 1 texture, the Progressive identity-history key becomes assemblable, and no holder owns the arc.
+- Three escalating Vale incidents (E16) split across Sam, Morgan, and Dee, each with an innocent reading, making killed_by_ai arguable and contesting the vanished anchor.
+- Staged-collaboration courier account (Tony) lets the lone author survive collaboration evidence; the challenge-ritual chain is teased in Section 1.
 - Vale-relationship artifacts (E17: tip-line draft to Kit, payment strip to Tessa) revive Ballot 2.
-- Eli de-funneled (intervention record moved to Dee; log cards carry read-aloud limit lines); Kit gains a late true correlation and owns both staged-theory disproof scenes with Rafi and Arden.
+- Eli de-funneled (intervention record moved to Dee; log cards carry read-aloud limit lines); Kit gains a late true correlation and owns both staged-theory disproof scenes with Tony and Arden.
 - Pre-game historical inbox mail implemented (welcome plus nine dated items); the routing slip gained a covered-initials bargaining mechanic; Celeste gained the back-channel exposure; C17–C20 gained full goals and bargains.
 - Ballots still record belief rather than a proof burden; evidence-chain completeness remains a GM diagnostic only.
 

@@ -4,7 +4,7 @@
 
 You are a tabloid photographer: fast, shameless, visually exact, and hungry for vindication. You know where power stands when it thinks the camera is pointed elsewhere. Your career was damaged by a photograph allegedly showing R, and tonight offers a chance to restore your name—or finally admit what the image cannot prove.
 
-Play Ash as energetic and socially fearless, not omniscient. A camera, press lanyard, or envelope containing the disputed print suits you.
+Play Ash as energetic and socially fearless, not omniscient. A camera, press lanyard, or envelope containing the disputed print suits you. Your mask spends most of the night pushed up on your forehead so people can see it is you.
 
 ## Why you are here
 
@@ -26,7 +26,7 @@ Since the scandal, you have taken assignments other photographers refuse: predaw
 
 You believe the photograph records a real human presence connected to an R performance. You do not know whether the person wrote anything, controlled the identity, was hired, or even knew the full purpose of the appearance.
 
-Your instincts lean toward a human story because cameras capture bodies. Edi's work challenges that instinct: a body and voice may be part of an authored illusion. You are free to change your view.
+Your instincts lean toward a human story because cameras capture bodies. Robin's work challenges that instinct: a body and voice may be part of an authored illusion. You are free to change your view.
 
 You also feel protective of the unknown subject. Vindicating yourself by attaching a permanent identity to a paid performer or uninvolved guest would repeat the original harm in a new form. Whether that concern outweighs your career is a choice, not a rule.
 
@@ -35,7 +35,7 @@ You also feel protective of the unknown subject. Vindicating yourself by attachi
 - **Primary Goal:** Vindicate the disputed photograph without repeating the overclaim that ruined you.
   - *Success Condition:* Get Farah to date the negative, and get two other guests to state publicly what the image can and cannot show.
 - **Secondary Goal 1 (Social & Supportive):** Recover the context of the withheld frames.
-  - *Success Condition:* Trade access to the uncropped sequence to Edi or Dorian in exchange for help identifying the setting, styling, or circumstances of the shot.
+  - *Success Condition:* Trade access to the uncropped sequence to Robin or Dorian in exchange for help identifying the setting, styling, or circumstances of the shot.
 - **Secondary Goal 2 (Social & Supportive):** Turn tonight into a paying story either way.
   - *Success Condition:* Sell one concrete commitment—exclusive images or your testimony—to Graham, Dorian, or Arden on terms you can live with.
 - **Your Final Choice:** Publish the vindicating version of the story or admit the presentation was manipulated.
@@ -65,9 +65,9 @@ There is a second temptation you should name to yourself early: if the dated fin
 
 ## People at the party
 
-### Edi Velez
+### Robin Velez
 
-Edi may recognize performance techniques or even resemble the photographed subject. Ask rather than accuse. Edi deserves control over any comparison involving identity or likeness.
+Robin may recognize performance techniques or even resemble the photographed subject. Ask rather than accuse. Robin deserves control over any comparison involving identity or likeness.
 
 ### Farah Haddad
 
@@ -96,7 +96,7 @@ Arden controls the event's walls, program, and institutional archive. A Veridian
 ## How to begin
 
 - Ask Farah for a private examination with no promise about the result.
-- Show Edi the uncropped frame and ask what performance possibilities it suggests.
+- Show Robin the uncropped frame and ask what performance possibilities it suggests.
 - Ask Dorian to draft the caption before discussing rights.
 
 ## During the game

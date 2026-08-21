@@ -6,7 +6,7 @@ You are a retired metro editor, a survivor of deadlines, ownership changes, expe
 
 You have told the story of discovering R for fifteen years. It is one of the stories by which younger journalists know you—and one of the stories by which you know yourself.
 
-Play Frankie expansively. Tell anecdotes, interrupt affectionately, remember old headlines, and make people laugh before asking them to agree with you. A battered press badge, fountain pen, folded newspaper, or jacket that has seen better newsrooms would suit you.
+Play Frankie expansively. Tell anecdotes, interrupt affectionately, remember old headlines, and make people laugh before asking them to agree with you. A battered press badge, fountain pen, folded newspaper, or jacket that has seen better newsrooms would suit you. You took a cheap domino mask out of the box by the door and it is already crooked.
 
 ## Why you are here
 
@@ -24,7 +24,7 @@ Near the first R publication, a paper letter reached your desk. You remember an 
 
 Over time, the scene grew polished. You told it at panels, retirements, and fundraisers. Details shifted: the weather, the meeting place, what the visitor wore, whether the letter was handed to you or waiting when you returned. You called that ordinary memory. Other people called it mythmaking.
 
-Years later, you attended an encounter you understood as a meeting with R. Lately a suspicion has been gnawing at you: the meeting may have been performed. The staging was too considerate, the room anticipated your expectations too precisely, and the figure across the table had an actor's economy in every gesture. Edi Velez is a performer of exactly that caliber and moved in the right circles at the right time. You cannot confirm any of this—only Edi could. And even if your suspicion is right, it would not tell you who commissioned the performance or whether it concealed one author, represented a group, or embodied something nonhuman. It would only mean one of your proudest human encounters may have been theater.
+Years later, you attended an encounter you understood as a meeting with R. Lately a suspicion has been gnawing at you: the meeting may have been performed. The staging was too considerate, the room anticipated your expectations too precisely, and the figure across the table had an actor's economy in every gesture. Robin Velez is a performer of exactly that caliber and moved in the right circles at the right time. You cannot confirm any of this—only Robin could. And even if your suspicion is right, it would not tell you who commissioned the performance or whether it concealed one author, represented a group, or embodied something nonhuman. It would only mean one of your proudest human encounters may have been theater.
 
 You care for the old newsroom world without pretending it was just. Tessa Quill is right that translators, researchers, assistants, and sources disappear beneath famous bylines. Tessa is wrong, you think, to treat individual authorship as merely vanity. A voice can belong to a person even when many hands sustain it. Or so you need to believe.
 
@@ -54,13 +54,13 @@ You also carry two clippings from R's first year, kept for fifteen years: first-
 
 You know Veridian has an intake report assessing the materials as period-consistent. The report cannot establish authorship. Arden also has an expense entry that conflicts with your remembered location at the time of the supposed handoff. You have no satisfying explanation yet. Bookkeeping could be wrong; your date could be wrong; the meeting could have occurred differently; or your celebrated version could be partly constructed.
 
-You recognize a peculiar, non-public habit repeated in R-associated communications and transactions. Rafi Calderón has records showing the pattern. It could be one person's habit, a ritual passed among people, or a persistent persona setting.
+You recognize a peculiar, non-public habit repeated in R-associated communications and transactions. Tony Calderón has records showing the pattern. It could be one person's habit, a ritual passed among people, or a persistent persona setting.
 
 The message apparently naming Jules as a successor contains a formulation from the First R Letter. Eli says its structure also resembles a Parallax recommendation output. Resemblance establishes neither source.
 
-You have described your celebrated encounter as meeting R. You now suspect—without proof—that the meeting was a commissioned performance, and that Edi Velez may have been the performer. Only Edi can confirm or dispel that. Even a confirmed performance would not reveal who stood behind the commission.
+You have described your celebrated encounter as meeting R. You now suspect—without proof—that the meeting was a commissioned performance, and that Robin Velez may have been the performer. Only Robin can confirm or dispel that. Even a confirmed performance would not reveal who stood behind the commission.
 
-A live rumor has also reached you: a protected source received correct answers to a private, changing handwritten challenge for fourteen years, across routes no collective could plausibly coordinate. If true, your one human outlived every committee. Maren knows who kept the challenges. A skeptic will say rituals can be passed and hidden intermediaries can carry knowledge—ask for something bounded before you celebrate.
+A live rumor has also reached you: a protected source received correct answers to a private, changing handwritten challenge for fourteen years, across routes no collective could plausibly coordinate. If true, your one human outlived every committee. Grace knows who kept the challenges. A skeptic will say rituals can be passed and hidden intermediaries can carry knowledge—ask for something bounded before you celebrate.
 
 Vale told you, “I found the first R.” Vale did not explain whether that meant an original author, a founder, a proxy, a toolmaker, or merely the first person Vale could locate. Vale's confidence is not corroboration.
 
@@ -70,7 +70,7 @@ Later, a private message may challenge your memory directly. Another may tell yo
 
 Your origin story has changed across retellings, and you have encouraged the cleanest version because people wanted it and because it made you important. You did not sit down and fabricate a lie. You allowed memory, applause, and repetition to edit together.
 
-Admitting that may cost you authority at the precise moment you want to choose R's heir. Concealing it may cost something worse: Edi, Arden, or the records could expose the gaps, making every true part of your account look false.
+Admitting that may cost you authority at the precise moment you want to choose R's heir. Concealing it may cost something worse: Robin, Arden, or the records could expose the gaps, making every true part of your account look false.
 
 Honesty would become worthwhile if someone could treat uncertainty as something other than humiliation—perhaps Arden offering a qualified public record, Jules accepting a legacy with conditions, or Tessa acknowledging that you preserved something real even if you did not create it.
 
@@ -100,25 +100,25 @@ Tessa sees celebrated bylines as machines for erasing collective labor. You find
 
 Jules wants the old guard to recognize a succession. You enjoy the ambition and distrust its polish. Make Jules confront the weaknesses in the message before offering support. If you bless Jules, decide whether you are passing on a legacy or manufacturing another origin story.
 
-### Edi Velez
+### Robin Velez
 
-Edi may be the human being you once described as R—that is your suspicion, not your knowledge, and only Edi can settle it. If you are right, Edi was working, not necessarily deceiving you for pleasure. Ask what Edi remembers of that period before accusing anyone of anything. Offer respect before demanding answers.
+Robin may be the human being you once described as R—that is your suspicion, not your knowledge, and only Robin can settle it. If you are right, Robin was working, not necessarily deceiving you for pleasure. Ask what Robin remembers of that period before accusing anyone of anything. Offer respect before demanding answers.
 
-### Samira Vale
+### Sam Vale
 
-Samira resents having Vale converted into evidence. You want to know what Vale meant by finding the first R and whether Vale trusted you. Samira may know Vale's habits, not Vale's conclusions. Speak with care; grief and anger are not archive services.
+Sam resents having Vale converted into evidence. You want to know what Vale meant by finding the first R and whether Vale trusted you. Sam may know Vale's habits, not Vale's conclusions. Speak with care; grief and anger are not archive services.
 
 ### Kit Rakes
 
 Kit calls your memory proof one moment and cover-up the next. Kit has an audience you would like and a progressive theory you cannot dismiss entirely. Let Kit press you—but correct any claim that turns your letter into more than it is.
 
-### Rafi Calderón
+### Tony Calderón
 
-Rafi's account records preserve a recurring private habit. You recognize it from early R material. Rafi may embellish, but the overlap matters. Compare what each of you actually observed before announcing what it means.
+Tony's account records preserve a recurring private habit. You recognize it from early R material. Tony may embellish, but the overlap matters. Compare what each of you actually observed before announcing what it means.
 
-### Maren Okafor
+### Grace Okafor
 
-Maren organizes the workers your newsroom stories tended to leave out, and owes your legend nothing. Maren is said to hold the record of the fourteen-year handwritten challenge—and will not open it without real protection for the source. Offer something concrete, accept a bounded look, and do not ask for a name.
+Grace organizes the workers your newsroom stories tended to leave out, and owes your legend nothing. Grace is said to hold the record of the fourteen-year handwritten challenge—and will not open it without real protection for the source. Offer something concrete, accept a bounded look, and do not ask for a name.
 
 ## How to begin
 

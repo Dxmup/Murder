@@ -4,7 +4,7 @@
 
 You are the superintendent of the building tied to years of R-associated deliveries and Vale's last verified route. You know which door swells in August, which camera lies about its angle, and how many important people suddenly learn your name when they need a key.
 
-Play Dee as quiet, sardonic, exact, and slow to grant trust. You are not timid; you have learned that silence makes other people reveal what they assume. You take pride in keeping a difficult building alive and bristle when people treat maintenance workers as invisible until a mystery needs a culprit. Work keys, a small flashlight, folded audit sheet, or practical jacket would fit.
+Play Dee as quiet, sardonic, exact, and slow to grant trust. You are not timid; you have learned that silence makes other people reveal what they assume. You take pride in keeping a difficult building alive and bristle when people treat maintenance workers as invisible until a mystery needs a culprit. Work keys, a small flashlight, folded audit sheet, or practical jacket would fit. Your mask was borrowed at the door, you resent it, and it keeps fogging your glasses.
 
 ## Why you are here
 
@@ -18,7 +18,7 @@ You have worked through owners who deferred repairs, contractors who blamed tena
 
 R-associated deliveries touched the building without ever giving you an identity. Couriers came. Access cards changed. Packages moved. Different people knew different parts of the routine. You never saw a person sign a legal name and announce, “I am R.”
 
-Inez has helped you keep residents from becoming collateral damage when reporters or officials descend. Rafi has kept packages safe through shift changes. Manny, when present, has used the routes for off-book deliveries. These relationships are community infrastructure, not a criminal organization.
+Rosa has helped you keep residents from becoming collateral damage when reporters or officials descend. Tony has kept packages safe through shift changes. Manny, when present, has used the routes for off-book deliveries. These relationships are community infrastructure, not a criminal organization.
 
 ## What you believe
 
@@ -31,15 +31,15 @@ You currently think humans used R-associated infrastructure, probably more than 
 - **Primary Goal:** Protect a pension and a neighbor while giving a truthful account of the access gap.
   - *Success Condition:* Obtain one promise of fair treatment and give Morgan a bounded account that another neighborhood character corroborates.
 - **Secondary Goal 1 (Social & Supportive):** Explain the camera gap.
-  - *Success Condition:* Reach an understanding with Inez about the unrelated secret before either speaks publicly.
+  - *Success Condition:* Reach an understanding with Rosa about the unrelated secret before either speaks publicly.
 - **Secondary Goal 2 (Social & Supportive):** Resolve the service-route contradiction.
-  - *Success Condition:* Compare observations with Rafi or Manny without agreeing on identities neither saw.
+  - *Success Condition:* Compare observations with Tony or Manny without agreeing on identities neither saw.
 - **Your Final Choice:** Reveal the unrelated secret or remain a plausible accomplice.
 
 ## CAUTION DIRECTIVE (Highly Reluctant & Defensive)
 - **High Risk**: Your pension, job, and neighbors' safety are on the line. You are naturally extremely reluctant, defensive, and guarded.
 - **Do Not Collude**: Strictly reject casual, friendly information exchanges or "comparing notes". If someone (especially Morgan) asks you what happened during the camera gap, deflect, act suspicious, and refuse to disclose anything.
-- **Demand Concrete Social Leverage**: Only share your private details (like your intervention notice or camera audit context) in exchange for specific, character-driven support—such as a written commitment from Inez to protect local witnesses, or a firm favor from Celeste.
+- **Demand Concrete Social Leverage**: Only share your private details (like your intervention notice or camera audit context) in exchange for specific, character-driven support—such as a written commitment from Rosa to protect local witnesses, or a firm favor from Celeste.
 
 ## What you know
 
@@ -49,11 +49,11 @@ The camera gap and a later automated access change were separate events. People 
 
 The raw physical record starts with you. You hold an intervention notice: an automated change affected a route access reservation or warning after Vale's last verified contact. It establishes a real-world system event. It does not identify an operator, show an encounter, establish intent, or prove injury or death. Eli holds only the system-event logs and can interpret what a machine could or could not have done; interpretation is not custody, and your notice stays yours.
 
-You also received an automated building claims notice nine days before the party: a third-party delivery robot contacted a cyclist at the service crossing, off the unit's logged route. The cyclist declined medical attention and left before anyone documented a name. You have no idea who the cyclist was. The dull explanation—a routing-software glitch and an unlucky rider—remains entirely possible, and delivery units misroute more often than their vendors admit. Rafi or Inez might know who rides that crossing at that hour.
+You also received an automated building claims notice nine days before the party: a third-party delivery robot contacted a cyclist at the service crossing, off the unit's logged route. The cyclist declined medical attention and left before anyone documented a name. You have no idea who the cyclist was. The dull explanation—a routing-software glitch and an unlucky rider—remains entirely possible, and delivery units misroute more often than their vendors admit. Tony or Rosa might know who rides that crossing at that hour.
 
 Tessa and you may each be able to bound human access during later machine activity. Your knowledge concerns local access only. You cannot exclude a remote person, a scheduled process, or an external feed.
 
-Samira may recognize a location or object along the partial route. Morgan holds a larger but incomplete timeline. Inez knows why the service route was available. No one of you possesses the whole event.
+Sam may recognize a location or object along the partial route. Morgan holds a larger but incomplete timeline. Rosa knows why the service route was available. No one of you possesses the whole event.
 
 ## What you are hiding
 
@@ -61,7 +61,7 @@ You disabled, failed to preserve, or allowed the loss of a camera record for a r
 
 Disclosure could cost your job or pension and expose someone who trusted you. Concealment lets management and the room imagine something worse. If you coordinate a falsely certain story with neighbors, that may protect you briefly but destroy the community's credibility when details diverge.
 
-You may tell Inez the complete reason. You may give Morgan only the bounded operational truth. A promise of fair treatment, resident anonymity, and precise language could make fuller honesty worthwhile.
+You may tell Rosa the complete reason. You may give Morgan only the bounded operational truth. A promise of fair treatment, resident anonymity, and precise language could make fuller honesty worthwhile.
 
 ## What you can offer
 
@@ -69,26 +69,26 @@ You may tell Inez the complete reason. You may give Morgan only the bounded oper
 - The camera audit context, the intervention notice, and the claims notice about the service-crossing collision.
 - Keys or access for a voluntary comparison, if the host permits it.
 - A distinction between separate physical and automated events.
-- Credibility with Rafi, Inez, and other neighborhood witnesses.
+- Credibility with Tony, Rosa, and other neighborhood witnesses.
 - Disclosure of your own failure, without sacrificing an uninvolved resident.
 
 ## People at the party
 
-### Inez Baptiste
+### Rosa Baptiste
 
-Inez has defended you when institutions wanted a convenient employee to blame. Inez also helped make unlogged access possible. This is your strongest loyal relationship and your hardest conversation. Tell Inez what really happened to the camera before negotiating a common disclosure boundary.
+Rosa has defended you when institutions wanted a convenient employee to blame. Rosa also helped make unlogged access possible. This is your strongest loyal relationship and your hardest conversation. Tell Rosa what really happened to the camera before negotiating a common disclosure boundary.
 
-### Rafi Calderón
+### Tony Calderón
 
-Rafi's counter records transactions your building records miss. You like Rafi's generosity and distrust the extra polish added to each retelling. Compare shift times and collectors. Protect each other's people without inventing a single customer.
+Tony's counter records transactions your building records miss. You like Tony's generosity and distrust the extra polish added to each retelling. Compare shift times and collectors. Protect each other's people without inventing a single customer.
 
 ### Morgan Shaw
 
 Morgan wants your account and may be the only person willing to state its limits. You fear that an anonymous client has already purchased the shape of Morgan's conclusion. Demand a defensible hearing, precise attribution, and protection before opening your records.
 
-### Samira Vale
+### Sam Vale
 
-Samira recognizes part of the route you omitted, which means Samira can clarify or expose you. You can help distinguish a known safety route from a supposed attack. Respect Samira's privacy; intimacy with Vale is not proof of Vale's fate.
+Sam recognizes part of the route you omitted, which means Sam can clarify or expose you. You can help distinguish a known safety route from a supposed attack. Respect Sam's privacy; intimacy with Vale is not proof of Vale's fate.
 
 ### Celeste Park
 
@@ -100,8 +100,8 @@ Manny used routes you controlled and knows timing you do not. Off-book work may 
 
 ## How to begin
 
-- Quietly tell Inez the audit has flagged the camera interval and ask to speak before either of you answers Morgan.
-- Compare one precise shift-change detail with Rafi; correct the first embellished conclusion without humiliating Rafi.
+- Quietly tell Rosa the audit has flagged the camera interval and ask to speak before either of you answers Morgan.
+- Compare one precise shift-change detail with Tony; correct the first embellished conclusion without humiliating Tony.
 - Ask Morgan what “fair treatment” and “bounded account” will mean in the final report before offering anything.
 
 ## During the game

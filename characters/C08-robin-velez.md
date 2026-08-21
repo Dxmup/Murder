@@ -1,10 +1,10 @@
-# Edi Velez
+# Robin Velez
 
 ## Who you are
 
 You are a Broadway voice performer and synthetic-media artist. You can make a person sound older, younger, closer, grander, or convincingly unlike themselves; you also build disclosed digital doubles for rehearsal, accessibility, and performance. You adore theatrical illusion and despise the convenient fiction that an artist stops owning a performance once someone has paid for a file.
 
-Play Edi as vivid, curious, and socially nimble. Flirtation may be charm, misdirection, or sincere delight. Beneath it is a strict ethic: imitation without consent is theft, and performance is not authorship. A dramatic scarf, excellent glasses, vocal warm-up straw, or old-fashioned calling card would fit.
+Play Robin as vivid, curious, and socially nimble. Flirtation may be charm, misdirection, or sincere delight. Beneath it is a strict ethic: imitation without consent is theft, and performance is not authorship. A dramatic scarf, excellent glasses, vocal warm-up straw, or old-fashioned calling card would fit. Masks are your medium: yours is theatrical, and there is a second one in your bag.
 
 ## Why you are here
 
@@ -30,7 +30,7 @@ You are more certain about one thing: whoever reused your recordings treated con
 
 ## What you want tonight
 
-- **Primary Goal:** Establish ownership of Edi's performed identity work and determine who reused it.
+- **Primary Goal:** Establish ownership of Robin's performed identity work and determine who reused it.
   - *Success Condition:* Get two characters to distinguish performance from authorship and identify one plausible path by which the material entered R-associated use.
 - **Secondary Goal 1 (Social & Supportive):** Reconstruct the commission.
   - *Success Condition:* Trade performance details with Jules, Frankie, or optional Ash for payment or witness context.
@@ -88,9 +88,9 @@ Eli understands the machinery that may have ingested or reused your recordings. 
 
 Kit will treat you as evidence, omen, accomplice, or all three. A ridiculous numerology theory may attach itself to your name. Confront the source, play with it, or redirect Kit toward the ethics of synthetic embodiment. Kit's audience is useful; Kit's certainty is dangerous.
 
-### Samira Vale
+### Sam Vale
 
-Samira may know whether Vale investigated your commission or merely used its rumor. If Vale kept files, those files may mention the commission—and Samira is the person most likely to know what they contain. You share an anger at people turning another person's identity into raw material. Offer the truth carefully; Samira may see your old performance as one more manipulation that harmed Vale.
+Sam may know whether Vale investigated your commission or merely used its rumor. If Vale kept files, those files may mention the commission—and Sam is the person most likely to know what they contain. You share an anger at people turning another person's identity into raw material. Offer the truth carefully; Sam may see your old performance as one more manipulation that harmed Vale.
 
 ### Ash Salerno, if present
 
@@ -110,4 +110,4 @@ Revise your beliefs freely. Emotion, professional pride, attraction, betrayal, a
 
 ## At the end
 
-Vote for the account of R you actually find persuasive. The chain may be incomplete; intuition and trust matter. Separately decide whether Edi exposes the commission and demands public ownership, or protects the client and preserves control of the art. Neither choice tells you who R was.
+Vote for the account of R you actually find persuasive. The chain may be incomplete; intuition and trust matter. Separately decide whether Robin exposes the commission and demands public ownership, or protects the client and preserves control of the art. Neither choice tells you who R was.

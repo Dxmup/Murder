@@ -4,7 +4,7 @@
 
 You are a senior City Hall technology adviser: the person who connects agencies, donors, unions, neighborhoods, and reporters when the official chart cannot. You make calls, find rooms, translate incompatible interests, and remember every favor. You are charming because charm keeps doors open; you are transactional because open doors are never free.
 
-Play Celeste as tireless, pragmatic, and genuinely interested in people. You are not a cartoon fixer. You believe government can improve lives, but you have spent long enough inside it to know that purity without a coalition produces press releases and little else. A sharp jacket, city badge, two phones, or crowded paper calendar would suit you.
+Play Celeste as tireless, pragmatic, and genuinely interested in people. You are not a cartoon fixer. You believe government can improve lives, but you have spent long enough inside it to know that purity without a coalition produces press releases and little else. A sharp jacket, city badge, two phones, or crowded paper calendar would suit you. Your mask is elegant and can come off in half a second if a camera appears.
 
 ## Why you are here
 
@@ -16,7 +16,7 @@ You expected to manage relationships and perhaps announce a civic commitment. In
 
 You built a career doing work that official procedure handles badly. When a startup needed to hear from workers before deployment, you arranged the room. When a neighborhood organization distrusted an agency, you found an intermediary. When an official wanted plausible distance from a risky but useful conversation, you understood the assignment.
 
-Veridian has often been a partner. Arden understands institutional survival, sometimes too well. Parallax has supplied jobs, grants, and political headaches. Mira speaks fluently about public benefit while keeping corporate control. Maren refuses symbolic consultation. Inez refuses symbolic neighborhood representation. You respect both because they force bargains to become real.
+Veridian has often been a partner. Arden understands institutional survival, sometimes too well. Parallax has supplied jobs, grants, and political headaches. Nina speaks fluently about public benefit while keeping corporate control. Grace refuses symbolic consultation. Rosa refuses symbolic neighborhood representation. You respect both because they force bargains to become real.
 
 Vale persuaded you that limited access to Parallax could clarify a public-interest concern. You arranged an off-calendar meeting and later deleted it from the official calendar. You told yourself informal oversight was better than no oversight. You also protected City Hall from owning the risk.
 
@@ -33,7 +33,7 @@ Your greater certainty is that real worker and neighborhood harms do not depend 
 - **Primary Goal:** Build the coalition that defines the city's response without becoming the story.
   - *Success Condition:* Secure support from three different constituencies and make one concrete policy or funding commitment that survives every ending.
 - **Secondary Goal 1 (Social & Supportive):** Contain the off-calendar meeting.
-  - *Success Condition:* Reach an agreement with Mira or Samira about what can be disclosed and who accepts responsibility.
+  - *Success Condition:* Reach an agreement with Nina or Sam about what can be disclosed and who accepts responsibility.
 - **Secondary Goal 2 (Social & Supportive)**: Divert Morgan from the back channel.
   - *Success Condition:* Successfully feed Morgan a plausible alternate explanation or false lead that steers him away from the City Hall back channel without him suspecting you.
 - **Your Final Choice:** Quietly resign and let City Hall bury the channel, or hand Morgan its paper trail knowing where it may lead.
@@ -42,11 +42,11 @@ Your greater certainty is that real worker and neighborhood harms do not depend 
 
 You personally arranged an off-calendar meeting that gave Vale limited access to Parallax. You removed the appointment from the official calendar. The meeting occurred; your record alone does not establish what Vale learned, what Parallax deployed, or whether an article existed.
 
-Your recoverable calendar entry is only half of the documentary picture. Mira holds or can access the matching authorization. Compared together, the records can establish limited access. They still cannot establish the content or outcome of the meeting.
+Your recoverable calendar entry is only half of the documentary picture. Nina holds or can access the matching authorization. Compared together, the records can establish limited access. They still cannot establish the content or outcome of the meeting.
 
-Mira approved a parent project, but surviving records do not show approval of every use. You know enough to reject claims that Mira personally authorized each action, and not enough to absolve the company.
+Nina approved a parent project, but surviving records do not show approval of every use. You know enough to reject claims that Nina personally authorized each action, and not enough to absolve the company.
 
-You and Mira planned for a possible R story. Neither of you recorded having seen a complete article. Your reaction demonstrates concern, not existence.
+You and Nina planned for a possible R story. Neither of you recorded having seen a complete article. Your reaction demonstrates concern, not existence.
 
 You also know that the R/Parallax rumor spread through market and political circles after Graham amplified a tip. You cannot identify the original source—but something in how the tip reached Graham is familiar. The relay pattern, the deniable hops, the way attribution dissolves at exactly the right layer: it resembles plumbing you know intimately, because you built plumbing like it. The resemblance could be coincidence; deniable routing is not a patented invention.
 
@@ -60,7 +60,7 @@ Your deeper exposure is a piece of infrastructure. Years ago you built a deniabl
 
 Tonight you recognize its routing style in two places: the tip Graham amplified, and possibly the manufactured lead Morgan's client supplied. If you are right, your own plumbing carried the poison—the rumor that engulfed Parallax, perhaps the false trail laid across Vale's route. If you are wrong, you are about to confess to building a leak machine over a coincidence. You genuinely do not know which, and the not-knowing is eating you.
 
-Honesty becomes worthwhile if Mira shares responsibility, Maren receives enforceable worker safeguards, Inez wins something concrete for the neighborhood, or Samira agrees that limited disclosure does not violate Vale's privacy. But the channel is a different order of secret: disclosing it ends your career whatever else it accomplishes.
+Honesty becomes worthwhile if Nina shares responsibility, Grace receives enforceable worker safeguards, Rosa wins something concrete for the neighborhood, or Sam agrees that limited disclosure does not violate Vale's privacy. But the channel is a different order of secret: disclosing it ends your career whatever else it accomplishes.
 
 ## What you can offer
 
@@ -77,17 +77,17 @@ Honesty becomes worthwhile if Mira shares responsibility, Maren receives enforce
 
 Arden needs political protection for Veridian; you need the event kept from damaging the administration. You admire Arden's skill and recognize the same dangerous habit of hiding compromises for institutional survival. Offer help only alongside disclosure or reform.
 
-### Dr. Mira Sen
+### Dr. Nina Sen
 
-You and Mira concealed different portions of Vale's access. Mira can complete your calendar record and expose you; you can show that Parallax welcomed informal influence. Negotiate shared responsibility, not matching denials.
+You and Nina concealed different portions of Vale's access. Nina can complete your calendar record and expose you; you can show that Parallax welcomed informal influence. Negotiate shared responsibility, not matching denials.
 
-### Maren Okafor
+### Grace Okafor
 
-Maren has no patience for advisory committees without power. You need labor credibility, and Maren needs enforceable protection. This conflict can become an alliance if you put deadlines, money, or authority behind your language.
+Grace has no patience for advisory committees without power. You need labor credibility, and Grace needs enforceable protection. This conflict can become an alliance if you put deadlines, money, or authority behind your language.
 
-### Inez Baptiste
+### Rosa Baptiste
 
-Each of you claims to connect institutions to people those institutions overlook. Inez believes City Hall uses neighborhood leaders as photographs. You need local legitimacy; Inez wants commitments that remain after the cameras leave. Pay the political price.
+Each of you claims to connect institutions to people those institutions overlook. Rosa believes City Hall uses neighborhood leaders as photographs. You need local legitimacy; Rosa wants commitments that remain after the cameras leave. Pay the political price.
 
 ### Graham Pike
 
@@ -97,15 +97,15 @@ Graham profits from panic and wants government concern to validate the rumor. Yo
 
 Morgan is trying to determine whether the anonymous client manufactured evidence. You may be the only person in the room who can recognize the lead's routing—and saying so aloud implicates the thing you built. Trade context carefully: you can help Morgan bound the client's methods without confessing to the architecture, at least for a while. Morgan is also the person you would hand the paper trail to, if you decide burial is worse than exposure.
 
-### Samira Vale
+### Sam Vale
 
-Samira can give personal context to Vale's motives but owes City Hall nothing. You arranged access that may have changed Vale's behavior. Offer a privacy boundary before asking for cooperation.
+Sam can give personal context to Vale's motives but owes City Hall nothing. You arranged access that may have changed Vale's behavior. Offer a privacy boundary before asking for cooperation.
 
 ## How to begin
 
 - Ask Arden what commitment Veridian can make publicly if City Hall provides protection privately.
-- Tell Inez you need one neighborhood demand with a deadline and ask what enforcement would make it real.
-- Approach Mira with a simple proposition: compare the two meeting records and either share responsibility or accept that the first disclosure will control the story.
+- Tell Rosa you need one neighborhood demand with a deadline and ask what enforcement would make it real.
+- Approach Nina with a simple proposition: compare the two meeting records and either share responsibility or accept that the first disclosure will control the story.
 
 ## During the game
 

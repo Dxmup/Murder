@@ -7,15 +7,15 @@ The core object set includes:
 - First R Letter packet
 - Night Desk routing slip (with removable strip covering the contributor-initials column)
 - succession-message printout
-- Edi’s commission card
+- Robin’s commission card
 - three separate continuity-log cards (each printed with its plain-English limit line)
-- Rafi’s account strip
+- Tony’s account strip
 - split deleted-calendar recovery
 - Morgan’s route board
-- Samira’s sealed Vale envelope
+- Sam’s sealed Vale envelope
 - split intervention notice (Dee holds the physical claims notice; Eli’s system-event card is delivered in Section 3)
 - Kit’s theory notebook (dated entries, six theories, clip timeline)
-- R corpus excerpts as three separate components: early clippings pair (Frankie), middle draft with three margin hands (Tessa), late pieces pair (Edi)
+- R corpus excerpts as three separate components: early clippings pair (Frankie), middle draft with three margin hands (Tessa), late pieces pair (Robin)
 - Vale-voice draft page (Kit)
 - Night Desk payment strip (Tessa)
 

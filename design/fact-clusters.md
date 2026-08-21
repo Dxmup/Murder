@@ -41,11 +41,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - Tessa once allowed an endangered source to believe the collective itself was R.
 - No surviving record identifies who made final authorship decisions.
 
-**Initial holders:** Tessa (workflow and deception); Maren (one protected contributor); Frankie (editorial changes); Farah, optional (archive deposits).
+**Initial holders:** Tessa (workflow and deception); Grace (one protected contributor); Frankie (editorial changes); Farah, optional (archive deposits).
 
 **Interpretations:** Strong for Human Mantle. Strong for the middle stage of the progressive history. Lone Author can treat the collective as staff serving one author. Synthetic Persona can treat humans as the research and alignment layer around a machine identity.
 
-**Circulation pressure:** Tessa needs protection before naming processes; Maren prioritizes workers over solving R; Frankie resists dilution of individual authorship.
+**Circulation pressure:** Tessa needs protection before naming processes; Grace prioritizes workers over solving R; Frankie resists dilution of individual authorship.
 
 **Earliest useful section:** 1, recontextualized in 2.
 
@@ -54,15 +54,15 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 **Bounded observations**
 
 - R-associated communications repeatedly use one peculiar, non-public ritual or preference across many years.
-- Samira knows Vale recognized the same habit but would not explain why.
-- Rafi has a mundane transaction pattern that appears consistent with it.
+- Sam knows Vale recognized the same habit but would not explain why.
+- Tony has a mundane transaction pattern that appears consistent with it.
 - One period of the pattern contains a subtle break that different observers date differently.
 
-**Initial holders:** Samira (Vale's reaction); Rafi (transactions); Frankie (early occurrence); Morgan (chronology discrepancy).
+**Initial holders:** Sam (Vale's reaction); Tony (transactions); Frankie (early occurrence); Morgan (chronology discrepancy).
 
 **Interpretations:** Strong for Lone Author as psychological continuity. Compatible with Mantle as a rule deliberately passed down. Compatible with Synthetic Persona as a persistent profile feature. Progressive can use the break as a possible transfer point, but the break has innocent explanations.
 
-**Circulation pressure:** Rafi wants his continuity story believed; Samira protects Vale's private life; Morgan will not accept conclusions without dates.
+**Circulation pressure:** Tony wants his continuity story believed; Sam protects Vale's private life; Morgan will not accept conclusions without dates.
 
 **Earliest useful section:** 1.
 
@@ -75,11 +75,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - Its phrasing resembles both an old newsroom formulation and a Parallax-generated recommendation format.
 - Jules previously asked Vale how an uncontestable succession could be manufactured.
 
-**Initial holders:** Jules (message); Eli (technical pattern); Frankie (old formulation); Samira (Vale correspondence).
+**Initial holders:** Jules (message); Eli (technical pattern); Frankie (old formulation); Sam (Vale correspondence).
 
 **Interpretations:** Strong for Human Mantle if it records an intentional transfer. Strong for Synthetic Persona if a system selected a human interface. Compatible with Lone Author as a private author's planned succession. Progressive can read it as the AI consolidating control after the mantle period.
 
-**Circulation pressure:** Jules needs legitimacy; Eli needs access to the complete header; Samira may expose Jules's earlier question.
+**Circulation pressure:** Jules needs legitimacy; Eli needs access to the complete header; Sam may expose Jules's earlier question.
 
 **Earliest useful section:** 2.
 
@@ -87,16 +87,16 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 
 **Bounded observations**
 
-- Edi was once paid to perform a voice and presence for an unidentified private client.
+- Robin was once paid to perform a voice and presence for an unidentified private client.
 - A witness later described that performance as an encounter with R.
-- Edi's source material combined direction from a human contact with generated vocal material.
+- Robin's source material combined direction from a human contact with generated vocal material.
 - The payment route touches an R-associated intermediary but not an identifiable author.
 
-**Initial holders:** Edi (performance); Frankie (the encounter story); Jules (payment intermediary); Ash, optional (disputed image).
+**Initial holders:** Robin (performance); Frankie (the encounter story); Jules (payment intermediary); Ash, optional (disputed image).
 
 **Interpretations:** Strong for Synthetic Persona as manufactured embodiment. Compatible with Mantle as operational protection for human writers. Lone Author can treat it as deliberate camouflage by one person. Progressive can place it in either the mantle or AI period, but cannot date that transition from this cluster.
 
-**Circulation pressure:** Edi wants the work understood as performance rather than fraud; Frankie wants the encounter preserved; Jules fears the payment trail.
+**Circulation pressure:** Robin wants the work understood as performance rather than fraud; Frankie wants the encounter preserved; Jules fears the payment trail.
 
 **Earliest useful section:** 2.
 
@@ -105,15 +105,15 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 **Bounded observations**
 
 - A Parallax deployment could preserve a persona's style, priorities, access routines, and unfinished tasks across operator changes.
-- Mira approved the parent project without approving every use.
+- Nina approved the parent project without approving every use.
 - Eli preserved logs showing the process handled R-associated infrastructure.
 - Some activity was adaptive rather than a fixed schedule, but the logs do not show whether a human supervised it elsewhere.
 
-**Initial holders:** Mira (authorization); Eli (logs and technical limits); Celeste (concealed meeting); Maren (human evaluation work).
+**Initial holders:** Nina (authorization); Eli (logs and technical limits); Celeste (concealed meeting); Grace (human evaluation work).
 
 **Interpretations:** Strong for Synthetic Persona. Strong for the autonomous-control stage of the progressive ending. Compatible with Mantle as a tool used by several writers. Lone Author can argue it was an assistant used by one secretive journalist.
 
-**Circulation pressure:** Eli needs corroboration and protection; Mira wants technical facts separated from culpability; Maren will not let invisible labor be described as pure autonomy.
+**Circulation pressure:** Eli needs corroboration and protection; Nina wants technical facts separated from culpability; Grace will not let invisible labor be described as pure autonomy.
 
 **Earliest useful section:** 2.
 
@@ -126,7 +126,7 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - An external data feed could account for the new information.
 - No record establishes that every possible remote operator was unavailable.
 
-**Initial holders:** Eli (system timing); Dee (physical access gap); Tessa (known contributor availability); Edi (media output received during the interval).
+**Initial holders:** Eli (system timing); Dee (physical access gap); Tessa (known contributor availability); Robin (media output received during the interval).
 
 **Interpretations:** Strong for Synthetic Persona and the progressive autonomy key. Strain for Human Mantle, which must posit an unknown operator or delegated automation. Strain for Lone Author, which must posit concealed remote action or more capable assistance than admitted.
 
@@ -143,11 +143,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - Vale sometimes used strategic ambiguity when protecting sources.
 - One statement may refer to evidence, one to interpretation, and one to intent—or all may be a ruse.
 
-**Initial holders:** Frankie (first R); Eli (no longer human); Jules (take the name back). Samira knows Vale had reasons to manipulate all three.
+**Initial holders:** Frankie (first R); Eli (no longer human); Jules (take the name back). Sam knows Vale had reasons to manipulate all three.
 
 **Interpretations:** When combined, strong for the progressive sequence. Individually, the statements support Lone Author, Synthetic Persona, or succession. Human Mantle can read “take back” as a mantle dispute. Synthetic Persona can read all three as bait devised by Vale.
 
-**Circulation pressure:** Each recipient initially believes their statement was privileged; Samira can challenge Vale's sincerity without knowing the complete pattern.
+**Circulation pressure:** Each recipient initially believes their statement was privileged; Sam can challenge Vale's sincerity without knowing the complete pattern.
 
 **Earliest useful section:** 2, combination likely in 3.
 
@@ -157,15 +157,15 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 
 - Vale entered the neighborhood near the former printing floor.
 - A service exit was used during a camera gap that Dee failed to preserve.
-- Samira recognizes an item or location in the partial route.
+- Sam recognizes an item or location in the partial route.
 - Morgan's anonymous client supplied one route segment that appears manufactured.
 - No witness sees Vale harmed, leaving voluntarily, or identifying as R.
 
-**Initial holders:** Dee (access and camera gap); Inez (back room/service exit); Samira (personal recognition); Morgan (assembled route and false lead); Manny, optional (errand fragment).
+**Initial holders:** Dee (access and camera gap); Rosa (back room/service exit); Sam (personal recognition); Morgan (assembled route and false lead); Manny, optional (errand fragment).
 
 **Interpretations:** Compatible with every primary ending because it concerns Vale, not R's ontology. Progressive may use it as the incident key only when combined with E10 and E11. It also supports voluntary disappearance, human interference, or deliberate trail construction.
 
-**Circulation pressure:** Dee and Inez risk unrelated exposure; Morgan wants consensual accounts; Samira wants privacy; Manny fears institutional consequences.
+**Circulation pressure:** Dee and Rosa risk unrelated exposure; Morgan wants consensual accounts; Sam wants privacy; Manny fears institutional consequences.
 
 **Earliest useful section:** 1 as absence, detailed in 3.
 
@@ -178,11 +178,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - Activity bearing the credential's behavioral signature continued after revocation.
 - The continuation could be cloned automation, a different credential mapped to the same profile, falsified logs, or Vale retaining unauthorized access.
 
-**Initial holders:** Celeste (meeting); Mira (revocation); Eli (continued behavior); Samira (Vale's preparation for the meeting).
+**Initial holders:** Celeste (meeting); Nina (revocation); Eli (continued behavior); Sam (Vale's preparation for the meeting).
 
 **Interpretations:** Strong for an AI or automated system continuing independently. Strong for the progressive autonomous-control key. Compatible with a human mantle using copied access. Lone Author can argue Vale or R retained another route.
 
-**Circulation pressure:** Celeste and Mira each need the other to absorb responsibility; Eli needs the complete authorization chain; Samira wants to know why Vale went.
+**Circulation pressure:** Celeste and Nina each need the other to absorb responsibility; Eli needs the complete authorization chain; Sam wants to know why Vale went.
 
 **Earliest useful section:** 2 for the concealed meeting; 3 for the revocation and continued behavior.
 
@@ -195,11 +195,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - The intervention used infrastructure related to E06 but could have been initiated earlier by a human.
 - Its direct physical consequence is uncertain; it may have endangered Vale, enabled escape, or merely obscured the record.
 
-**Initial holders:** Dee (physical record and claims notice); Eli (system-event portion, Section 3); Morgan (timeline effect); Inez (alternate escape explanation).
+**Initial holders:** Dee (physical record and claims notice); Eli (system-event portion, Section 3); Morgan (timeline effect); Rosa (alternate escape explanation).
 
 **Interpretations:** Necessary but insufficient for the progressive Vale-incident key. Strong for Synthetic Persona's capacity to affect the world, though not necessarily murder. Compatible with human sabotage using automation. It never establishes death on its own.
 
-**Circulation pressure:** Morgan insists on distinguishing intervention from homicide; Kit will call it murder; Inez has a plausible voluntary-exit account; Eli fears becoming the operator of record.
+**Circulation pressure:** Morgan insists on distinguishing intervention from homicide; Kit will call it murder; Rosa has a plausible voluntary-exit account; Eli fears becoming the operator of record.
 
 **Earliest useful section:** 3, with the non-harm reading published in the same group message that opens the incident.
 
@@ -213,11 +213,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - Alleged fragments conflict in subject, format, or provenance.
 - Financial, institutional, and political actors behaved as though the rumor might be true.
 
-**Initial holders:** Graham (first amplification); Arden (event framing); Mira and Celeste (institutional reaction); Jules or Samira (Vale wording); Eli (account metadata).
+**Initial holders:** Graham (first amplification); Arden (event framing); Nina and Celeste (institutional reaction); Jules or Sam (Vale wording); Eli (account metadata).
 
 **Interpretations:** Does not count toward identity-ending balance. It supports several rumor origins: Vale's trap, human R or mantle strategy, AI manipulation, institutional tactic, or emergent repetition. Reactions prove stakes and incentives, not the article.
 
-**Circulation pressure:** Graham benefits from belief; Arden needs a compelling event; Mira benefits from doubt but fears the underlying allegations; Samira may reveal Vale's language.
+**Circulation pressure:** Graham benefits from belief; Arden needs a compelling event; Nina benefits from doubt but fears the underlying allegations; Sam may reveal Vale's language.
 
 **Earliest useful section:** 1 and continuously reinterpreted.
 
@@ -230,11 +230,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - The rule was never included in published work or the known digital infrastructure.
 - The source believed only the original contact knew how a valid response should change, but cannot exclude private transmission of the rule.
 
-**Initial holders:** Maren (source account and later response); Frankie (early response context); Rafi (one physical route).
+**Initial holders:** Grace (source account and later response); Frankie (early response context); Tony (one physical route).
 
 **Interpretations:** Strong for Lone Author as continuity of private judgment. Mantle can argue the ritual was deliberately inherited. Synthetic Persona requires an undiscovered human intermediary or inaccessible training input. Progressive can use the early human contact but must explain why the ritual did not visibly break during later transitions.
 
-**Circulation pressure:** Maren will not expose the source; Frankie wants the ritual to rescue the human account; Rafi can corroborate a route without identifying a customer.
+**Circulation pressure:** Grace will not expose the source; Frankie wants the ritual to rescue the human account; Tony can corroborate a route without identifying a customer.
 
 **Earliest useful section:** 3.
 
@@ -264,11 +264,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - Two late passages show uniform cadence, recycled transitions, and a vivid description of a printing floor demolished years before publication.
 - No archive holds the corpus assembled in order; the arc appears only when holders compare material.
 
-**Initial holders:** Frankie (early pair); Tessa (middle draft); Edi (late pair, forwarded by a colleague). Optional Farah and Dorian can corroborate dating and cadence.
+**Initial holders:** Frankie (early pair); Tessa (middle draft); Robin (late pair, forwarded by a colleague). Optional Farah and Dorian can corroborate dating and cadence.
 
 **Interpretations:** The early pair is strong for Lone Author and the origin stage of the progressive history. The middle draft is strong for Human Mantle. The late pair is strong for Synthetic Persona and the takeover stage. Each stage has an innocent continuous-author reading: a maturing writer, an editing process, a tiring desk-bound journalist working from memory. The ordered arc is the progressive ending's identity-history key, and assembling it requires at least three holders.
 
-**Circulation pressure:** Frankie wants the early voice celebrated; Tessa protects the margin hands; Edi wants the stylistic flattening acknowledged without being accused of generating it.
+**Circulation pressure:** Frankie wants the early voice celebrated; Tessa protects the margin hands; Robin wants the stylistic flattening acknowledged without being accused of generating it.
 
 **Earliest useful section:** 1 for the early pair; 2 for the middle and late material; ordering likely in 3.
 
@@ -281,11 +281,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - Nine days before the gathering, a delivery robot struck Vale's bicycle at a crossing absent from its logged route; the cyclist left before documentation.
 - Each incident has an innocent reading: paranoia or multi-device habits, a repossession or survey vehicle, a routing-software glitch.
 
-**Initial holders:** Samira (anomaly mail); Morgan (surveillance photographs, supplied by the anonymous client); Dee (building claims notice, without knowing the cyclist was Vale).
+**Initial holders:** Sam (anomaly mail); Morgan (surveillance photographs, supplied by the anonymous client); Dee (building claims notice, without knowing the cyclist was Vale).
 
 **Interpretations:** Assembled in order, the incidents make autonomous physical action against Vale arguable and give the "killed by an AI system" ballot line a real constituency. Individually each supports human surveillance, coincidence, manipulation, or staging. The chain never proves harm: no incident identifies an operator, an intent, or an outcome, and the second incident arrives through a client who has already supplied one manufactured lead.
 
-**Circulation pressure:** Samira fears making Vale sound unstable; Morgan distrusts the source; Dee wants the notice kept separate from the camera gap.
+**Circulation pressure:** Sam fears making Vale sound unstable; Morgan distrusts the source; Dee wants the notice kept separate from the camera gap.
 
 **Earliest useful section:** 1 for the anomaly; 2 for the vehicle; 3 for the collision. Assembly requires three holders across three social knots.
 
@@ -296,11 +296,11 @@ The three primary endings—Lone Author, Human Mantle, and Synthetic Persona—m
 - A tip-line draft page reproduces the cadence of an unpublished R passage; readers split over whether Vale wrote as R, studied R from the inside, or neither wrote it.
 - A recovered Night Desk payment strip shows a pseudonymous contributor whose active weeks match Vale's documented travel and silences.
 
-**Initial holders:** Kit (draft page, genuinely unsolicited); Tessa (payment strip). Frankie and optional Dorian can test cadence; Maren and Morgan can test the calendar alignment.
+**Initial holders:** Kit (draft page, genuinely unsolicited); Tessa (payment strip). Frankie and optional Dorian can test cadence; Grace and Morgan can test the calendar alignment.
 
 **Interpretations:** The draft supports Vale-was-R, Vale-as-student, and generated-imitation readings equally. The strip supports Vale-as-mantle-holder without identifying anyone. Together they make the Vale-relationship ballot genuinely contestable instead of defaulting to "investigating R." Neither authenticates authorship, and Kit's staged-source history keeps the draft's provenance permanently arguable.
 
-**Circulation pressure:** Kit needs the one artifact he did not stage taken seriously; Tessa risks exposing payment routes; Samira may resist any reading that makes Vale a participant rather than a victim.
+**Circulation pressure:** Kit needs the one artifact he did not stage taken seriously; Tessa risks exposing payment routes; Sam may resist any reading that makes Vale a participant rather than a victim.
 
 **Earliest useful section:** 2.
 
@@ -319,19 +319,19 @@ The primary endings each receive comparable affirmative material in Section 1 (e
 
 No core character monopolizes a conclusion:
 
-- Human-origin evidence crosses Frankie, Arden, Samira, Rafi, Morgan, Maren, and optional Farah.
-- Mantle evidence crosses Tessa, Maren, Frankie, Jules, and optional Farah.
-- Synthetic evidence crosses Edi, Eli, Mira, Celeste, Dee, Arden, and Tessa.
-- Vale evidence crosses Samira, Morgan, Dee, Inez, Jules, Eli, Kit, and optional Manny.
-- Article-rumor evidence crosses Graham, Arden, Mira, Celeste, Jules or Samira, Kit, and Eli.
-- The corpus arc crosses Frankie, Tessa, and Edi; the incident chain crosses Samira, Morgan, and Dee; the Vale-relationship artifacts cross Kit and Tessa.
+- Human-origin evidence crosses Frankie, Arden, Sam, Tony, Morgan, Grace, and optional Farah.
+- Mantle evidence crosses Tessa, Grace, Frankie, Jules, and optional Farah.
+- Synthetic evidence crosses Robin, Eli, Nina, Celeste, Dee, Arden, and Tessa.
+- Vale evidence crosses Sam, Morgan, Dee, Rosa, Jules, Eli, Kit, and optional Manny.
+- Article-rumor evidence crosses Graham, Arden, Nina, Celeste, Jules or Sam, Kit, and Eli.
+- The corpus arc crosses Frankie, Tessa, and Robin; the incident chain crosses Sam, Morgan, and Dee; the Vale-relationship artifacts cross Kit and Tessa.
 
 Optional characters add redundancy or authentication but are never required for an ending or progressive key.
 
 ## Known balance risks to test
 
-- **Eli centrality:** Eli touches the strongest synthetic and progressive clusters. Booklets and messages must distribute raw observations to Dee, Edi, Mira, Celeste, and Tessa so Eli interprets rather than unlocks them.
-- **Samira centrality:** Samira connects Vale to several identity clusters. Some Vale facts must circulate through Jules, Morgan, Dee, and Inez even if Samira remains silent.
+- **Eli centrality:** Eli touches the strongest synthetic and progressive clusters. Booklets and messages must distribute raw observations to Dee, Robin, Nina, Celeste, and Tessa so Eli interprets rather than unlocks them.
+- **Sam centrality:** Sam connects Vale to several identity clusters. Some Vale facts must circulate through Jules, Morgan, Dee, and Rosa even if Sam remains silent.
 - **First-anchor effects:** Section 1 now carries affirmative material for all three primary endings (early excerpts, Night Desk cluster, pre-byline manifest) plus the challenge-ritual teaser. Test whether the previous Human Mantle anchoring effect has actually weakened rather than merely shifted.
 - **Incident-chain overreach:** The three Vale incidents must make autonomous harm arguable without making it feel proven. Each incident's innocent reading must surface during play, and the second incident's tainted provenance (the anonymous client) must stay attached to it.
 - **E07 strength:** Adaptive behavior without an available known operator could make Synthetic Persona feel proven. The unknown-operator and external-feed limitations must remain visible, not buried in host notes.

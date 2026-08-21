@@ -12,14 +12,26 @@ The host paces the gathering, starts each message section, protects consent and 
 - Prepare the physical objects listed in [`objects-and-bargains.md`](objects-and-bargains.md) and [`data/evidence.csv`](data/evidence.csv).
 - Load the unified inbox records and live schedule from [`data/messages.csv`](data/messages.csv).
 - Verify that the app displays `From:`, `To:`, `Date:`, and `Subject:`, distinguishes individual mail from `Everyone at Fifteen Years of R`, and preserves historical dates and provenance labels.
+- Supply masks. It is a masquerade, and the welcome email tells guests so, but assume a third of the room arrives without one — buy a box of plain half-masks and put it by the door. Nobody should have to choose between an unplanned costume and standing out.
+- Print and hand out **name cards** as guests arrive: character name and public role, large enough to read at arm's length in low light. These are not decoration. Masks plus twenty unfamiliar names is a room where nobody can start a conversation, and the shy players are the ones it silences. The mask conceals R; the card keeps the party playable.
 - Prepare anonymous ballots and print the four read-aloud ending scripts from [`ending-reveals.md`](ending-reveals.md).
-- Print one one-page cheat card per role (goals, three opening moves, prop list) for casual players; booklets run 1,200–1,800 words and the card is what survives the second drink. Kit, Eli, Frankie, and Morgan are the highest-demand roles — cast them onto confident performers, and give shy guests Dee, Samira, Farah, or Manny.
+- Print one one-page cheat card per role (goals, three opening moves, prop list) for casual players; booklets run 1,200–1,800 words and the card is what survives the second drink. Kit, Eli, Frankie, and Morgan are the highest-demand roles — cast them onto confident performers, and give shy guests Dee, Sam, Farah, or Manny.
 
 ## Staging the house
 
 Treat the home as a party venue, not as a game table or a series of encounter stations. Provide several naturally usable conversation zones, including places where two or three people can speak privately without leaving play entirely. Keep hallways and doors clear, make accessibility needs part of the layout, and place refreshments so movement and casual encounters happen without host direction.
 
 Do not assign players to rooms or require location turns. Props begin with their character unless a specific design document says otherwise and travel physically with whoever holds them. The host may establish which household areas are out of play, but movement within the playable space is free.
+
+## Running a masked room
+
+The masquerade is doing real work: this is a story about an identity nobody can attach to a face, and a floor full of masked guests makes that argument without anyone having to state it. Three things follow from it that you should manage rather than discover.
+
+**Recognition is now a resource.** Several beats turn on comparing accounts of having met somebody — the three guests who each describe meeting R, and the commissioned voice-and-presence performance behind one of those encounters. Masks sharpen all of it. R's second message tells the room to ask each other about the hands, and in a masked room that is suddenly practical advice rather than a flourish. Let players discover that; do not explain it.
+
+**Working characters did not buy expensive masks.** Dee came from a shift, Tony sells paper masks by the register, Rosa is wearing one left over from a block-association fundraiser, Manny's is still creased from the packet. That contrast is deliberate and it echoes the story's argument about who pays for other people's evenings. Do not tidy it away by handing everyone matching masks.
+
+**Watch for the drift to anonymity.** Around the first act break, people start treating masks as licence to stop introducing themselves. If conversations are stalling, remind the room that the cards exist. Do not stage an unmasking: nothing in the design pays it off, and Ballot 1 is stronger when the room votes on an identity question with its own faces still covered.
 
 ## Opening briefing
 

@@ -8,7 +8,7 @@
 - Removed internal fact, message, object, cluster, social-mode, and simulation labels from player copy.
 - Preserved uncertainty around R, Vale, autonomous intent, and the rumored article.
 - Preserved Kit’s six theories and firm belief in the complete progression.
-- Preserved Eli’s optional Edi numerology diversion without making it lore or preloading it into Kit’s notebook.
+- Preserved Eli’s optional Robin numerology diversion without making it lore or preloading it into Kit’s notebook.
 - Removed `simulation/build_briefs.py` so generated simulation prose cannot overwrite authored booklets.
 
 ## Validation completed

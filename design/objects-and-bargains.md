@@ -52,13 +52,13 @@ Printed body and partial header of the message naming Jules. A detachable or sep
 
 **Cannot establish:** composer, sender, intent, or legitimacy of succession.
 
-**Natural bargains:** Jules grants inspection in return for qualified support; Eli asks for full headers; Frankie asks for the old phrase to be credited; Samira threatens the earlier Vale correspondence.
+**Natural bargains:** Jules grants inspection in return for qualified support; Eli asks for full headers; Frankie asks for the old phrase to be credited; Sam threatens the earlier Vale correspondence.
 
-### O04 — Edi's commission card
+### O04 — Robin's commission card
 
-**Starts with:** Edi.
+**Starts with:** Robin.
 
-A payment reference, date, performance parameters, and a redacted client route. Source recordings remain Edi's unless voluntarily demonstrated.
+A payment reference, date, performance parameters, and a redacted client route. Source recordings remain Robin's unless voluntarily demonstrated.
 
 **Can establish:** a performed identity event and the use of both human direction and generated material.
 
@@ -78,13 +78,13 @@ A payment reference, date, performance parameters, and a redacted client route. 
 
 **Cannot establish:** personhood, autonomous intent, a complete operator list, control of R, or action against Vale.
 
-**Natural bargains:** authorization records from Mira or Celeste; worker context from Maren; corroboration from Edi, Dee, or Tessa; protection against scapegoating.
+**Natural bargains:** authorization records from Nina or Celeste; worker context from Grace; corroboration from Robin, Dee, or Tessa; protection against scapegoating.
 
 Splitting the logs lets Eli disclose selectively and prevents one all-purpose technical reveal.
 
-### O06 — Rafi's account strip
+### O06 — Tony's account strip
 
-**Starts with:** Rafi.
+**Starts with:** Tony.
 
 A narrow facsimile of recurring transactions showing a stable habit, several collectors, and one disputed change. Private customer details remain covered.
 
@@ -96,7 +96,7 @@ A narrow facsimile of recurring transactions showing a stable habit, several col
 
 ### O07 — Deleted calendar recovery
 
-**Starts split between:** Celeste holds partial recovery **O07a**; Mira holds matching access authorization **O07b**.
+**Starts split between:** Celeste holds partial recovery **O07a**; Nina holds matching access authorization **O07b**.
 
 **Can establish:** an off-calendar Vale meeting and limited Parallax access when the halves are compared.
 
@@ -116,17 +116,17 @@ A foldout timeline with verified, attributed, disputed, and blank segments visua
 
 **Natural bargains:** Morgan adds a witness's account only with consent and attribution terms; witnesses seek protection or correction; Graham may offer money for premature certainty.
 
-### O09 — Samira's sealed Vale envelope
+### O09 — Sam's sealed Vale envelope
 
-**Starts with:** Samira.
+**Starts with:** Sam.
 
-Contains a copied line about preparing to disappear and an image or token Samira recognizes from the route. Samira may open it, show only one item, give it to another player, or keep it sealed.
+Contains a copied line about preparing to disappear and an image or token Sam recognizes from the route. Sam may open it, show only one item, give it to another player, or keep it sealed.
 
 **Can establish:** Vale anticipated disappearance and had a prior safety pattern.
 
 **Cannot establish:** whether the anticipation was sincere, whether Vale followed the plan, or whether Vale survived.
 
-**Natural bargains:** honesty from Jules or Eli; privacy terms from Morgan; a public correction from Kit; neighborhood context from Inez.
+**Natural bargains:** honesty from Jules or Eli; privacy terms from Morgan; a public correction from Kit; neighborhood context from Rosa.
 
 ### O10 — Intervention notice
 
@@ -136,7 +136,7 @@ Contains a copied line about preparing to disappear and an image or token Samira
 
 **Cannot establish:** intent, operator, whether Vale encountered it, harm, or death.
 
-**Natural bargains:** Dee needs protection before comparing it; Eli needs physical corroboration; Morgan supplies chronology; Inez supplies a nonlethal escape interpretation.
+**Natural bargains:** Dee needs protection before comparing it; Eli needs physical corroboration; Morgan supplies chronology; Rosa supplies a nonlethal escape interpretation.
 
 ### O11 — Kit's theory notebook
 
@@ -148,11 +148,11 @@ A battered, dated notebook containing all six theories, clip references, and the
 
 **Cannot establish:** the truth of any theory or the meaning of any correlation.
 
-**Natural bargains:** Kit trades a public retraction for a bounded technical statement; Rafi or Graham verify one dated entry; Morgan cites the propagation timeline with attribution.
+**Natural bargains:** Kit trades a public retraction for a bounded technical statement; Tony or Graham verify one dated entry; Morgan cites the propagation timeline with attribution.
 
 ### O12 — R corpus excerpts
 
-**Starts split among three holders:** Frankie holds the early pair **O12a**; Tessa holds the middle-period draft **O12b**; Edi holds the late pair **O12c**.
+**Starts split among three holders:** Frankie holds the early pair **O12a**; Tessa holds the middle-period draft **O12b**; Robin holds the late pair **O12c**.
 
 - **O12a Early:** first-person street reporting, the tide-table metaphor, sensory detail witnesses recall as accurate.
 - **O12b Middle:** plural sourcing, standardized structure, margin notes in at least three hands.
@@ -174,7 +174,7 @@ The tip-line submission: one draft page, no byline, no date, whose cadence match
 
 **Cannot establish:** the author, the date, or whether imitation ran toward or away from Vale.
 
-**Natural bargains:** Frankie or optional Dorian test the cadence; Samira confirms or denies the handwriting resembles Vale's; Kit trades first look for serious attention.
+**Natural bargains:** Frankie or optional Dorian test the cadence; Sam confirms or denies the handwriting resembles Vale's; Kit trades first look for serious attention.
 
 ### O14 — Night Desk payment strip
 
@@ -186,7 +186,7 @@ A recovered reconciliation strip showing payments to a pseudonymous contributor 
 
 **Cannot establish:** the contributor's identity or any connection to R's authorship.
 
-**Natural bargains:** Morgan matches the weeks against the timeline; Maren protects the payment route; Samira decides whether to confirm the travel dates.
+**Natural bargains:** Morgan matches the weeks against the timeline; Grace protects the payment route; Sam decides whether to confirm the travel dates.
 
 ## Objects deliberately excluded
 

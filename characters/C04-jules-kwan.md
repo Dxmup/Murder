@@ -4,7 +4,7 @@
 
 You are the disputed successor to the R byline: magnetic, ambitious, emotionally intelligent, and practiced at making another person feel that your future includes them. Critics call you performative. You consider performance one of the tools by which private conviction becomes public reality.
 
-Play Jules through intimate conversations rather than speeches. Learn what each person needs, offer them a place in your version of R, and remember that charm is most convincing when it risks honesty. A beautifully cut outfit, distinctive pen, or printed message kept in a careful envelope would suit you.
+Play Jules through intimate conversations rather than speeches. Learn what each person needs, offer them a place in your version of R, and remember that charm is most convincing when it risks honesty. A beautifully cut outfit, distinctive pen, or printed message kept in a careful envelope would suit you. Your mask is beautifully made and cost more than you would admit out loud.
 
 ## Why you are here
 
@@ -37,20 +37,20 @@ Your desire is not proof. It is still real. You may decide that legitimacy comes
 - **Primary Goal:** Leave with a viable claim to R's future identity.
   - *Success Condition:* Gain explicit support from two characters in different social knots after allowing at least one weakness in the succession message to be examined.
 - **Secondary Goal 1 (Social & Supportive):** Test the succession message.
-  - *Success Condition:* Voluntarily show a meaningful portion to Eli, Frankie, Edi, or Samira and receive a bounded response.
+  - *Success Condition:* Voluntarily show a meaningful portion to Eli, Frankie, Robin, or Sam and receive a bounded response.
 - **Secondary Goal 2 (Social & Supportive):** Resolve Vale's threat or endorsement.
-  - *Success Condition:* Reach a stated interpretation with Samira or Morgan and answer it publicly.
+  - *Success Condition:* Reach a stated interpretation with Sam or Morgan and answer it publicly.
 - **Your Final Choice:** Claim R despite uncertainty or expose the message's weakness to preserve personal credibility.
 
 ## What you know
 
 You possess the succession-message printout. The message arrived through an R-associated account and appears to name you. Its scheduling and account association can be assessed; neither reveals the composer or establishes legitimate authority.
 
-Before it arrived, you asked Vale how an uncontestable succession might be manufactured. Samira has correspondence reflecting that conversation. You know the wording can make the later message look solicited or staged. Samira has been watching you collect supporters tonight, and this may be the evening Samira decides you will explain that question face to face. How you answer in the moment may matter more than what the message says.
+Before it arrived, you asked Vale how an uncontestable succession might be manufactured. Sam has correspondence reflecting that conversation. You know the wording can make the later message look solicited or staged. Sam has been watching you collect supporters tonight, and this may be the evening Sam decides you will explain that question face to face. How you answer in the moment may matter more than what the message says.
 
-You know Rafi's accounts still show the R-associated tab unpaid after years of continuity. Settling it publicly would be a succession claim made flesh—the heir paying the predecessor's debts in front of the neighborhood. It is tempting theater. It would also announce exactly how much you want the name, and you may not be the only guest tempted to pay; Arden hosts anniversaries for a living.
+You know Tony's accounts still show the R-associated tab unpaid after years of continuity. Settling it publicly would be a succession claim made flesh—the heir paying the predecessor's debts in front of the neighborhood. It is tempting theater. It would also announce exactly how much you want the name, and you may not be the only guest tempted to pay; Arden hosts anniversaries for a living.
 
-You have payment context for Edi's old commissioned performance. The money touched an intermediary later associated with R, but the record names no author or client. You were not the performer and cannot establish what Edi was told.
+You have payment context for Robin's old commissioned performance. The money touched an intermediary later associated with R, but the record names no author or client. You were not the performer and cannot establish what Robin was told.
 
 Vale told you that Vale could take the name back. A later draft may preserve a related question in Vale's words, but a question is not a claim of ownership.
 
@@ -62,7 +62,7 @@ Later messages will give you delivery details about the succession message and a
 
 You asked Vale how succession could be manufactured before the succession message appeared. You fear the room will hear that as a confession that you arranged it. You did not necessarily arrange anything—but you wanted the result badly enough to discuss how such a result might be made undeniable.
 
-Concealing the exchange lets you demand unconditional trust. If Samira exposes it, every omission will look calculated. Voluntary disclosure could preserve personal credibility, especially if paired with an honest technical examination and enforceable conditions on your claim.
+Concealing the exchange lets you demand unconditional trust. If Sam exposes it, every omission will look calculated. Voluntary disclosure could preserve personal credibility, especially if paired with an honest technical examination and enforceable conditions on your claim.
 
 You are also afraid of a quieter truth: perhaps nobody chose you. Perhaps you read selection into an ambiguous system because being R would make your career cohere.
 
@@ -70,7 +70,7 @@ You are also afraid of a quieter truth: perhaps nobody chose you. Perhaps you re
 
 - Voluntary access to the succession-message printout and its complete header.
 - Vale correspondence and your account of the pre-message conversation.
-- Payment-route context connected to Edi's performance.
+- Payment-route context connected to Robin's performance.
 - Coalition building, public attention, and support for other people's demands.
 - A future governance structure for R—if others help shape it.
 - A public admission that the claim remains uncertain.
@@ -89,13 +89,13 @@ Tessa sees private succession as theft from collective labor. You need support f
 
 Eli can examine timing, headers, and structural resemblance while refusing to decide ownership. Offer the full header with narrow terms: authenticate only what the data supports. Eli's qualification may be more valuable than an enthusiast's certainty.
 
-### Edi Velez
+### Robin Velez
 
-Edi understands what it means to embody an identity for someone else. You hold part of the payment context Edi needs; Edi holds performance details you need. Treat artistry as labor, not merely evidence. The two of you may recognize uncomfortable parallels.
+Robin understands what it means to embody an identity for someone else. You hold part of the payment context Robin needs; Robin holds performance details you need. Treat artistry as labor, not merely evidence. The two of you may recognize uncomfortable parallels.
 
-### Samira Vale
+### Sam Vale
 
-Samira has the correspondence that can make your claim look manufactured and the personal context that might explain Vale's words. Samira may confront you about the manufactured-succession question tonight—privately if you are lucky, publicly if you are not. Do not pressure Samira to turn intimacy into authentication. Honesty about your ambition may buy a more honest account in return.
+Sam has the correspondence that can make your claim look manufactured and the personal context that might explain Vale's words. Sam may confront you about the manufactured-succession question tonight—privately if you are lucky, publicly if you are not. Do not pressure Sam to turn intimacy into authentication. Honesty about your ambition may buy a more honest account in return.
 
 ### Kit Rakes
 

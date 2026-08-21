@@ -6,7 +6,7 @@ You are the Executive Director of Veridian Dynamics, a nonprofit devoted to inve
 
 You are immaculate because disorder frightens donors. You are hospitable because hospitality is how institutions disguise triage. You remember names, notice empty glasses, and can make a request sound like an honor. Tonight, however, you are tired enough that the seams may show.
 
-Play Arden as composed, observant, and constantly calculating—not cold, but practiced at postponing personal feelings until after the emergency. A polished jacket, event badge, clipboard, or elegant notebook would suit you.
+Play Arden as composed, observant, and constantly calculating—not cold, but practiced at postponing personal feelings until after the emergency. A polished jacket, event badge, clipboard, or elegant notebook would suit you. You are also the host, so you carry the box of spare masks and wear your own plain black half-mask pushed up more often than down.
 
 ## Why you are here
 
@@ -22,7 +22,7 @@ You built your career persuading people with incompatible interests to fund the 
 
 Veridian now occupies an uncomfortable middle ground. It safeguards neglected archives, supports investigations no commercial newsroom will fund, and hosts civic-technology projects. It also survives quarter to quarter. Payroll is approaching. A building obligation is overdue. Two expected sponsors quietly withdrew after rumors began circulating that R—or Vale, or both—had prepared an investigation of Parallax Systems.
 
-Parallax is Veridian’s largest recent donor. Its founder, Dr. Mira Sen, offered money when few others would. The agreement, however, contains restrictions you did not fully disclose to your board. One provision allows funding to pause if Veridian presents unauthenticated technical claims as fact. You told yourself this was ordinary accuracy language. You also knew it could become leverage the moment Parallax itself became the subject of a claim.
+Parallax is Veridian’s largest recent donor. Its founder, Dr. Nina Sen, offered money when few others would. The agreement, however, contains restrictions you did not fully disclose to your board. One provision allows funding to pause if Veridian presents unauthenticated technical claims as fact. You told yourself this was ordinary accuracy language. You also knew it could become leverage the moment Parallax itself became the subject of a claim.
 
 You accepted the money because without it programs would close and people would lose work. You concealed the details because you believed the board might reject the gift on principle. Both decisions felt responsible at the time. Tonight they may look like corruption.
 
@@ -41,7 +41,7 @@ You also do not know whether the rumored article existed. An R-associated accoun
 - **Secondary Goal 1 (Social & Supportive):** Make the anniversary legitimate.
   - *Success Condition:* Secure public participation from both a journalism figure and a neighborhood representative.
 - **Secondary Goal 2 (Social & Supportive):** Resolve the concealed donation.
-  - *Success Condition:* Reach a recorded understanding with Mira or Celeste about disclosure, repayment, or revised restrictions.
+  - *Success Condition:* Reach a recorded understanding with Nina or Celeste about disclosure, repayment, or revised restrictions.
 - **Your Final Choice:** Save Veridian through compromise or expose the funding arrangement and risk collapse.
 
 ## What you know
@@ -60,9 +60,9 @@ Early in the evening—likely during the party's first stretch—the archive sho
 
 ## What you are hiding
 
-You concealed the Parallax restrictions from Veridian’s board and continued presenting the donation as ordinary unrestricted support. If this becomes public, Frankie may call the anniversary purchased history, Maren may see workers used to launder corporate reputation, and Inez may conclude that Veridian’s promises are worthless.
+You concealed the Parallax restrictions from Veridian’s board and continued presenting the donation as ordinary unrestricted support. If this becomes public, Frankie may call the anniversary purchased history, Grace may see workers used to launder corporate reputation, and Rosa may conclude that Veridian’s promises are worthless.
 
-Mira may argue that you understood the agreement perfectly. Celeste may know enough to make denial impossible. Graham may treat the restriction as market-moving evidence even though it proves nothing about R or Vale.
+Nina may argue that you understood the agreement perfectly. Celeste may know enough to make denial impossible. Graham may treat the restriction as market-moving evidence even though it proves nothing about R or Vale.
 
 You are not required to confess. You may disclose selectively, negotiate first, or defend your decision. But concealment becomes harder each time you ask someone else to trust Veridian.
 
@@ -83,9 +83,9 @@ You do not possess the First R Letter itself; Frankie controls the letter packet
 
 Frankie is the evening’s honored journalism legend and its most dangerous storyteller. You admire what Frankie built and resent the assumption that institutions survive on charm alone. Frankie needs your archive; you need Frankie’s blessing. Offer access only if you can agree on what the records do—and do not—establish.
 
-### Dr. Mira Sen
+### Dr. Nina Sen
 
-Mira rescued programs that might otherwise have closed. Mira also negotiated the donation from a position of overwhelming power. You have been cordial enough to make outsiders think you are allies. Privately, each of you needs the other to accept responsibility for the agreement without controlling its meaning.
+Nina rescued programs that might otherwise have closed. Nina also negotiated the donation from a position of overwhelming power. You have been cordial enough to make outsiders think you are allies. Privately, each of you needs the other to accept responsibility for the agreement without controlling its meaning.
 
 ### Celeste Park
 
@@ -95,19 +95,19 @@ Celeste can make permits, introductions, and political hazards move. You respect
 
 Graham can write a check, frighten other donors, or turn one careless sentence into a market event. You invited Graham because excluding a loud financial actor does not make the actor disappear. Contain the spectacle, extract something useful, or establish publicly that Veridian will not validate claims for money.
 
-### Inez Baptiste
+### Rosa Baptiste
 
-Inez represents people who live and work around the building while institutions cycle through it. Inez believes Veridian wants neighborhood authenticity without neighborhood power. You need participation, not decorative approval. Be prepared to offer something that remains valuable after tonight.
+Rosa represents people who live and work around the building while institutions cycle through it. Rosa believes Veridian wants neighborhood authenticity without neighborhood power. You need participation, not decorative approval. Be prepared to offer something that remains valuable after tonight.
 
-### Maren Okafor
+### Grace Okafor
 
-Maren distrusts mysteries that turn invisible labor into atmosphere. Veridian has praised worker-centered journalism without always funding it adequately. Maren can help make the evening morally serious, but only if your support extends beyond public language.
+Grace distrusts mysteries that turn invisible labor into atmosphere. Veridian has praised worker-centered journalism without always funding it adequately. Grace can help make the evening morally serious, but only if your support extends beyond public language.
 
 ## How to begin
 
 - Welcome Frankie personally. Say that the archive report is ready, but ask Frankie what form of public acknowledgment would feel honest before offering access.
-- Find Inez early. Ask what Veridian would have to promise for neighborhood participation to be meaningful rather than extractive.
-- Quietly assess Mira and Celeste. Do not reveal the donation problem immediately; learn first whether either already expects the restriction to be used tonight.
+- Find Rosa early. Ask what Veridian would have to promise for neighborhood participation to be meaningful rather than extractive.
+- Quietly assess Nina and Celeste. Do not reveal the donation problem immediately; learn first whether either already expects the restriction to be used tonight.
 - Optional flourish: if the evening needs a gesture, consider publicly settling the R-associated account's unpaid neighborhood tab as an anniversary courtesy. It is inexpensive, it is excellent theater, and it puts Veridian on the neighborhood's side of the ledger. Be ready for someone to ask what, exactly, you are buying—and note that you may not be the only guest tempted to pay it.
 
 ## During the game

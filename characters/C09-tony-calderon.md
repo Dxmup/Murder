@@ -1,10 +1,10 @@
-# Rafi Calderón
+# Tony Calderón
 
 ## Who you are
 
 You own the all-night bodega and package counter nearest the building woven through the R stories. You know who buys coffee at 4:00 a.m., whose packages arrive under a cousin's name, and which delivery workers need ten quiet minutes out of the rain. You remember faces well and stories even better—occasionally better than they happened.
 
-Play Rafi as sociable, practical, proud, and hard to rush. You enjoy a good audience, but you are not comic relief or a quaint neighborhood oracle. Outsiders routinely discover that your ordinary records are indispensable, then act as though that entitles them to the people inside them. An apron, receipt book, reading glasses, or roll of adding-machine paper would suit you.
+Play Tony as sociable, practical, proud, and hard to rush. You enjoy a good audience, but you are not comic relief or a quaint neighborhood oracle. Outsiders routinely discover that your ordinary records are indispensable, then act as though that entitles them to the people inside them. An apron, receipt book, reading glasses, or roll of adding-machine paper would suit you. Your mask is a paper one on an elastic, the kind sold by the register. You sell them.
 
 ## Why you are here
 
@@ -33,13 +33,13 @@ The ledger supports several interpretations. One hidden person may have used cou
 - **Secondary Goal 1 (Social & Supportive):** Make the ledger valuable without overclaiming it.
   - *Success Condition:* Trade a bounded transaction pattern to Morgan, Graham, or Frankie for something concrete.
 - **Secondary Goal 2 (Social & Supportive):** Protect local customers and side arrangements.
-  - *Success Condition:* Reach a mutual disclosure boundary with Dee, Inez, or Manny.
+  - *Success Condition:* Reach a mutual disclosure boundary with Dee, Rosa, or Manny.
 - **Your Final Choice:** Monetize continuity claims or admit the ledger records several incompatible customers.
 
 ## CAUTION DIRECTIVE (Reluctant & Transactional)
 - **High Risk**: You have cash-handling discrepancies, altered entries, and neighbor secrets to protect. If you over-share, you risk your license, your store, and your neighbors' safety.
 - **Do Not Collude**: Under no circumstances should you engage in casual "compare notes" conversations. If people ask to see your ledger, do not simply give it up or engage in cooperative info-dumping.
-- **Demand Concrete Social Leverage**: You are extremely proud and practical. Information is a product. Demand specific social collateral, favors, debt repayment, or protection from Inez or Dee before disclosing any details about Benny's voicemail, transaction continuity, or package habits.
+- **Demand Concrete Social Leverage**: You are extremely proud and practical. Information is a product. Demand specific social collateral, favors, debt repayment, or protection from Rosa or Dee before disclosing any details about Benny's voicemail, transaction continuity, or package habits.
 
 ## What you know
 
@@ -57,7 +57,7 @@ You also kept a voicemail transcription from Old Benny, a retired courier who mo
 
 You sometimes accepted cash and ignored identification rules. Once, as a favor, you altered a ledger entry. The favor was unrelated to establishing R's identity, but disclosure could expose neighbors, threaten your license, and make the entire ledger look fabricated.
 
-You have also polished the “one loyal customer” version of the story because people listen to it. In truth, multiple incompatible collectors used the account. If exposed after you sell certainty, Inez and Dee may withdraw their protection and outsiders may treat every neighborhood witness as dishonest.
+You have also polished the “one loyal customer” version of the story because people listen to it. In truth, multiple incompatible collectors used the account. If exposed after you sell certainty, Rosa and Dee may withdraw their protection and outsiders may treat every neighborhood witness as dishonest.
 
 Honesty becomes worthwhile if the debt is settled fairly, attribution stays bounded, and the people behind the transactions are protected rather than mined for content.
 
@@ -76,9 +76,9 @@ Honesty becomes worthwhile if the debt is settled fairly, attribution stays boun
 
 You and Dee have covered small emergencies for one another for years. Your timing and collector accounts conflict, partly because shift changes created blind spots. Align the bounded facts without manufacturing certainty. Dee needs your context; you need Dee's protection if the ledger alteration surfaces.
 
-### Inez Baptiste
+### Rosa Baptiste
 
-Inez is the person you trust to understand that silence can be community care rather than conspiracy. You disagree about outsiders: you are willing to make a deal; Inez wants enforceable benefits first. Ask Inez to support whatever you decide about the debt.
+Rosa is the person you trust to understand that silence can be community care rather than conspiracy. You disagree about outsiders: you are willing to make a deal; Rosa wants enforceable benefits first. Ask Rosa to support whatever you decide about the debt.
 
 ### Morgan Shaw
 
@@ -102,7 +102,7 @@ Manny collected and delivered items through your counter and is still owed money
 
 ## How to begin
 
-- Find Inez or Dee and agree on what neighborhood details are off limits until protections exist.
+- Find Rosa or Dee and agree on what neighborhood details are off limits until protections exist.
 - Ask Frankie to describe R's supposed private habit before showing that your ledger contains something similar.
 - Tell Morgan you will discuss the pattern, but only after Morgan offers clear terms on attribution and customer privacy.
 - If Kit starts in on the ledger cipher, invite an audience before you open the book. The correction lands best performed.

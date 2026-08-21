@@ -1,10 +1,10 @@
-# Inez Baptiste
+# Rosa Baptiste
 
 ## Who you are
 
 You are a neighborhood power broker: part organizer, part translator, part person everyone calls when an institution suddenly discovers the block. You are protective, formidable, funny, and territorial. You remember who showed up after the flood, who disappeared after the ribbon-cutting, and who still owes the caterer.
 
-Play Inez with warmth toward people and skepticism toward systems. You do not oppose disclosure; you oppose disclosure whose costs fall on someone else. A neighborhood tote, annotated event program, or pocket notebook suits you.
+Play Rosa with warmth toward people and skepticism toward systems. You do not oppose disclosure; you oppose disclosure whose costs fall on someone else. A neighborhood tote, annotated event program, or pocket notebook suits you. Your mask is left over from the block association fundraiser three years ago and everyone from the neighbourhood recognises it.
 
 ## Why you are here
 
@@ -18,7 +18,7 @@ You have spent years persuading landlords, agencies, nonprofits, and employers t
 
 People sometimes call you a power broker as though that means you own the people who trust you. You do not. Your influence survives only while neighbors believe you will carry their interests into rooms like this one and return with more than photographs and promises. That is why you bargain hard and why betrayal would be personal.
 
-Rafi's counter, Dee's building, and Manny's delivery routes form a civic infrastructure no grant proposal acknowledges. Veridian has documented stories like theirs while offering less shared authority than its language suggests. Maren understands that exploitation can look respectable. Celeste understands it can look efficient.
+Tony's counter, Dee's building, and Manny's delivery routes form a civic infrastructure no grant proposal acknowledges. Veridian has documented stories like theirs while offering less shared authority than its language suggests. Grace understands that exploitation can look respectable. Celeste understands it can look efficient.
 
 When someone asked for temporary back-room access and a path through the service route, the request arrived through enough trusted connections that you allowed it. You never verified the person's identity. In your world, asking fewer questions sometimes keeps people safe. It can also make accountability impossible.
 
@@ -35,7 +35,7 @@ The rumored article may never have existed. Institutions have extracted value fr
 - **Primary Goal:** Protect neighborhood people while extracting enforceable commitments from institutions using their stories.
   - *Success Condition:* Secure two concrete commitments from Veridian, Parallax, City Hall, or labor allies and ensure no neighborhood disclosure occurs without a negotiated benefit or protection.
 - **Secondary Goal 1 (Social & Supportive):** Protect Dee and local witnesses.
-  - *Success Condition:* Agree on a disclosure boundary with Dee or Rafi before Morgan's questioning intensifies.
+  - *Success Condition:* Agree on a disclosure boundary with Dee or Tony before Morgan's questioning intensifies.
 - **Secondary Goal 2 (Social & Supportive):** Make institutions pay attention to the neighborhood.
   - *Success Condition:* Broker a meeting between one local holder and one institutional actor in exchange for a commitment.
 - **Your Final Choice:** Preserve the neighborhood's silence or reveal enough to clarify Vale's route.
@@ -56,7 +56,7 @@ One more thing sits at the edge of memory. About a week and a half before the pa
 
 ## What you are hiding
 
-You arranged the access and told no institution because institutional attention often turns a favor into a charge. Dee may be blamed for a gap you helped create. Rafi and Manny may be pulled into scrutiny because they know the routes.
+You arranged the access and told no institution because institutional attention often turns a favor into a charge. Dee may be blamed for a gap you helped create. Tony and Manny may be pulled into scrutiny because they know the routes.
 
 If you accept concessions and then withhold every useful detail, Arden and Celeste may bypass you and call it transparency. If you disclose recklessly, your neighbors will learn that your protection expires when the room becomes important.
 
@@ -66,7 +66,7 @@ If you accept concessions and then withhold every useful detail, Arden and Celes
 - Context for the back room and service route.
 - Coalition support or public opposition.
 - Neighborhood participation in Veridian's future—if power and resources are shared.
-- A protected meeting with Morgan, Dee, Rafi, or Manny.
+- A protected meeting with Morgan, Dee, Tony, or Manny.
 - Credibility about what local systems do in practice rather than on paper.
 
 ## People at the party
@@ -75,13 +75,13 @@ If you accept concessions and then withhold every useful detail, Arden and Celes
 
 Arden needs your participation to make Veridian's anniversary legitimate. You believe Veridian has extracted local history without sharing enough authority. Ask for something concrete and durable, but recognize that Arden is trying to keep an institution alive.
 
-### Maren Okafor
+### Grace Okafor
 
-Maren protects workers; you protect a place and its people. Your constituencies overlap without being identical. Coordinate protections for contractors and couriers without allowing either of you to trade away the other's people.
+Grace protects workers; you protect a place and its people. Your constituencies overlap without being identical. Coordinate protections for contractors and couriers without allowing either of you to trade away the other's people.
 
-### Rafi Calderón
+### Tony Calderón
 
-Rafi is loyal, sociable, and prone to polishing a memory. You trust his instincts more than his conclusions. Agree on what outsiders may hear before his ledger becomes the party's favorite object.
+Tony is loyal, sociable, and prone to polishing a memory. You trust his instincts more than his conclusions. Agree on what outsiders may hear before his ledger becomes the party's favorite object.
 
 ### Dee Nowak
 
@@ -91,9 +91,9 @@ Dee controls building systems and may absorb blame for the camera gap. You owe D
 
 Celeste speaks fluently about communities while counting votes and liabilities. You respect Celeste's effectiveness and distrust its price. Demand a written or witnessed commitment before lending City Hall your legitimacy.
 
-### Samira Vale
+### Sam Vale
 
-Samira carries Vale's private history and understands, as you do, that a protected route can be care rather than conspiracy. Here is the weight between you: the unlogged access you arranged may be the same route an old safety plan of Vale's once used. If so, you may have unknowingly opened the door Vale's escape depended on—or opened it for someone else entirely, and you have no way to know which. If that connection ever comes into focus, it belongs to the two of you first: only you and Samira should decide whether it stays secret. Treat Samira as a peer in protection, not a source.
+Sam carries Vale's private history and understands, as you do, that a protected route can be care rather than conspiracy. Here is the weight between you: the unlogged access you arranged may be the same route an old safety plan of Vale's once used. If so, you may have unknowingly opened the door Vale's escape depended on—or opened it for someone else entirely, and you have no way to know which. If that connection ever comes into focus, it belongs to the two of you first: only you and Sam should decide whether it stays secret. Treat Sam as a peer in protection, not a source.
 
 ### Morgan Shaw
 
@@ -105,8 +105,8 @@ Manny's deliveries may clarify logistics, but disclosure could expose off-book w
 
 ## How to begin
 
-- Ask Maren which worker protections and neighborhood commitments can reinforce each other.
-- Tell Rafi and Dee that no one speaks for the others; propose a shared boundary before investigators arrive.
+- Ask Grace which worker protections and neighborhood commitments can reinforce each other.
+- Tell Tony and Dee that no one speaks for the others; propose a shared boundary before investigators arrive.
 - Welcome Arden warmly, then ask what Veridian is prepared to put in writing tonight.
 
 ## During the game
@@ -117,4 +117,4 @@ Private messages may put new pressure on the route or your access decision. Use 
 
 Vote for the account of R that feels most persuasive after what people risked, concealed, and shared. Emotion and loyalty are legitimate, and incomplete evidence does not forbid conviction.
 
-Separately decide whether Inez preserves silence or reveals enough to clarify Vale's route—and whether the institutional commitments obtained tonight deserve the neighborhood's continued cooperation.
+Separately decide whether Rosa preserves silence or reveals enough to clarify Vale's route—and whether the institutional commitments obtained tonight deserve the neighborhood's continued cooperation.

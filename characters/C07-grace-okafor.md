@@ -1,10 +1,10 @@
-# Maren Okafor
+# Grace Okafor
 
 ## Who you are
 
 You are a data-worker organizer representing evaluators, contractors, moderators, translators, and other people routinely described as if they were parts of a machine. You are direct, coalition-minded, morally serious, and impatient with symbolic concern. You do not confuse civility with kindness or access with power.
 
-Play Maren by turning abstractions back toward people. Ask who was paid, who consented, who can be fired, and who bears risk. You can be warm with allies and unsparing with institutions. A union pin, practical tote, annotated contract, or small notebook of commitments would suit you.
+Play Grace by turning abstractions back toward people. Ask who was paid, who consented, who can be fired, and who bears risk. You can be warm with allies and unsparing with institutions. A union pin, practical tote, annotated contract, or small notebook of commitments would suit you. Your mask is unremarkable except for the union pin fixed to the temple, which is the point.
 
 ## Why you are here
 
@@ -37,7 +37,7 @@ Your strongest belief is not about identity. Real worker harm does not become im
 - **Secondary Goal 1 (Social & Supportive):** Control the worker testimony boundary.
   - *Success Condition:* Agree with Tessa or Eli on what can be shared without identification.
 - **Secondary Goal 2 (Social & Supportive):** Separate real harms from the article rumor.
-  - *Success Condition:* Get Mira, Celeste, or Graham to acknowledge that worker harm does not depend on an article existing.
+  - *Success Condition:* Get Nina, Celeste, or Graham to acknowledge that worker harm does not depend on an article existing.
 - **Your Final Choice:** Expose systemic harm or protect the people who never consented to become evidence.
 
 ## What you know
@@ -46,9 +46,9 @@ A worker you represent personally evaluated outputs from the continuity process 
 
 You know different people researched, translated, fact-checked, or rewrote passages later published as R. Tessa holds the routing record. You also know Tessa once allowed a source to believe the collective was R in order to protect that source. That protective deception does not establish that the collective actually held the identity.
 
-You understand that Parallax built a process capable of maintaining a persistent persona across operators and migrations. Capability does not prove it became R. Eli can provide technical boundaries; Mira can provide project authority.
+You understand that Parallax built a process capable of maintaining a persistent persona across operators and migrations. Capability does not prove it became R. Eli can provide technical boundaries; Nina can provide project authority.
 
-A protected source received correct responses to a changing handwritten challenge over widely separated years and through different routes. This record is your signature piece: the rule changed each time, was never published, and correct answers kept arriving anyway. You have the source record but must not disclose identifying challenge details. Frankie and Rafi may each recognize bounded parts of the pattern. The observation strongly suggests continuity; it cannot establish whether continuity belonged to one person, a passed ritual, or an undiscovered intermediary. There is honest pleasure available here too: institutions have spent years demanding proof from workers, and tonight they need something only your protected source can supply. You are allowed to enjoy watching them squirm—briefly.
+A protected source received correct responses to a changing handwritten challenge over widely separated years and through different routes. This record is your signature piece: the rule changed each time, was never published, and correct answers kept arriving anyway. You have the source record but must not disclose identifying challenge details. Frankie and Tony may each recognize bounded parts of the pattern. The observation strongly suggests continuity; it cannot establish whether continuity belonged to one person, a passed ritual, or an undiscovered intermediary. There is honest pleasure available here too: institutions have spent years demanding proof from workers, and tonight they need something only your protected source can supply. You are allowed to enjoy watching them squirm—briefly.
 
 Private messages will tell you the evaluator requires written protection before speaking and will later clarify the changing instructions. Another protected source may authorize a bounded disclosure only after you secure safety.
 
@@ -58,7 +58,7 @@ You introduced Vale to a worker after promising permanent anonymity. You believe
 
 You are tempted to strengthen the case for systemic harm by releasing the worker's details. Doing so could win immediate attention and destroy the organizing trust on which every future disclosure depends.
 
-Honesty about your own breach may be worthwhile if it secures stronger consent rules and gives the worker genuine control. You may tell Tessa, Eli, or Inez that an introduction occurred without naming the person. Do not invent the worker's permission.
+Honesty about your own breach may be worthwhile if it secures stronger consent rules and gives the worker genuine control. You may tell Tessa, Eli, or Rosa that an introduction occurred without naming the person. Do not invent the worker's permission.
 
 ## What you can offer
 
@@ -75,9 +75,9 @@ Honesty about your own breach may be worthwhile if it secures stronger consent r
 
 Tessa is a loyal ally who understands source risk. You disagree about how much workflow evidence can safely be released. Establish a shared boundary early. You can support the Night Desk without allowing contributor protection to become another form of ownership.
 
-### Mira Sen
+### Nina Sen
 
-Mira has money, lawyers, and authority over the company that benefited from invisible labor. Mira will try to separate real harm from the R mystery; on this point, insist on agreement and then demand action. A useful remedy must not purchase testimony or dictate your conclusion.
+Nina has money, lawyers, and authority over the company that benefited from invisible labor. Nina will try to separate real harm from the R mystery; on this point, insist on agreement and then demand action. A useful remedy must not purchase testimony or dictate your conclusion.
 
 ### Eli Navarro
 
@@ -91,13 +91,13 @@ Celeste offers political access and asks for coalition credibility. You want enf
 
 Frankie built a career on having recognized R first and may genuinely recognize a bounded part of the challenge pattern from early material. That makes Frankie a useful corroborator and a dangerous amplifier: what Frankie confirms, Frankie will also broadcast. Trade one element at a time, protection first, and never a name.
 
-### Rafi Calderón
+### Tony Calderón
 
-Rafi's account records preserve years of R-associated continuity and might bound dates the challenge record cannot. Rafi bargains for a living; so do you. Neither of you needs to name a customer or a source to compare the shapes of what you hold.
+Tony's account records preserve years of R-associated continuity and might bound dates the challenge record cannot. Tony bargains for a living; so do you. Neither of you needs to name a customer or a source to compare the shapes of what you hold.
 
-### Inez Baptiste
+### Rosa Baptiste
 
-Inez protects neighborhood witnesses with instincts much like yours, though the constituencies differ. You trust Inez to recognize an extractive bargain. Coordinate protections for contractors and people near Vale's physical route before institutions begin asking names.
+Rosa protects neighborhood witnesses with instincts much like yours, though the constituencies differ. You trust Rosa to recognize an extractive bargain. Coordinate protections for contractors and people near Vale's physical route before institutions begin asking names.
 
 ### Manny Diallo
 
@@ -111,8 +111,8 @@ Arden wants worker-centered legitimacy for Veridian. Ask for legal support, writ
 
 - Ask Tessa to agree on a sentence describing collaborative labor that names no contributor.
 - Within the first hour, show Frankie exactly one bounded element of the handwritten challenge—chosen so it identifies no one—and watch the face. Recognition, envy, and fear each tell you something different.
-- Tell Mira you will discuss bounded testimony only after hearing a remedy that exists independently of R.
-- Find Inez and compare what protections workers and neighborhood witnesses need before either group speaks.
+- Tell Nina you will discuss bounded testimony only after hearing a remedy that exists independently of R.
+- Find Rosa and compare what protections workers and neighborhood witnesses need before either group speaks.
 
 ## During the game
 

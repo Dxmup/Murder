@@ -4,7 +4,7 @@
 
 You are a former Parallax reliability engineer: wry, sleep-deprived, allergic to hype, and defensive for reasons that become clearer whenever somebody says “the logs prove.” You spent years keeping complicated systems running while executives described them as magic and critics described them as monsters.
 
-Play Eli quietly but not passively. Correct bad technical claims, use dry humor as armor, and make people work for precision. You would rather have three exact conversations than deliver one grand explanation. A rumpled button-down, old company hoodie, hardware key, or packet of carefully separated log cards would suit you.
+Play Eli quietly but not passively. Correct bad technical claims, use dry humor as armor, and make people work for precision. You would rather have three exact conversations than deliver one grand explanation. A rumpled button-down, old company hoodie, hardware key, or packet of carefully separated log cards would suit you. Your mask is obviously the one that was left in the box, and you have not adjusted it once.
 
 ## Why you are here
 
@@ -28,14 +28,14 @@ You believe a synthetic persona is technically plausible, perhaps more plausible
 
 The records permit several accounts: one hidden human used tools; multiple people maintained a mantle; a persistent system performed meaningful work; or control changed over time. The most interesting technical observation may still have an ordinary operational explanation.
 
-Emotion pulls you in opposite directions. Mira's containment makes you suspicious of Parallax. Kit's certainty makes you defend possibilities you dislike. Samira's concern for Vale makes your choices feel less abstract. You may vote from that mixture rather than waiting for impossible proof.
+Emotion pulls you in opposite directions. Nina's containment makes you suspicious of Parallax. Kit's certainty makes you defend possibilities you dislike. Sam's concern for Vale makes your choices feel less abstract. You may vote from that mixture rather than waiting for impossible proof.
 
 ## What you want tonight
 
 - **Primary Goal:** Avoid scapegoating and establish the narrow technical truth about the continuity process.
   - *Success Condition:* Make two technically bounded statements publicly, each corroborated by a nontechnical holder, and recover one missing authorization detail.
 - **Secondary Goal 1 (Social & Supportive):** Recover authorization evidence.
-  - *Success Condition:* Obtain a record or admission from Mira or Celeste.
+  - *Success Condition:* Obtain a record or admission from Nina or Celeste.
 - **Secondary Goal 2 (Social & Supportive):** Keep logs from becoming a false confession.
   - *Success Condition:* Correct at least one overclaim from Kit, Graham, or another player without denying what the logs show.
 - **Your Final Choice:** Trade logs for safety or disclose enough to implicate powerful actors.
@@ -43,7 +43,7 @@ Emotion pulls you in opposite directions. Mira's containment makes you suspiciou
 ## CAUTION DIRECTIVE (Highly Reluctant & Defensive)
 - **High Risk**: You violated a deletion order and retained proprietary logs. If Parallax or the city frames you, you face immediate legal ruin and blacklisting. You are naturally sleep-deprived, highly suspicious, and slow to trust.
 - **Do Not Collude**: Strictly reject casual, friendly information exchanges or "comparing notes". If someone (especially Kit or Graham) tries to badger you for technical details, use dry, evasive humor and refuse to expose your records.
-- **Demand Concrete Social Leverage**: Your logs are your only shield. Never show or share them unless you receive a specific, character-driven concession—such as Mira arranging independent counsel, or Maren agreeing to worker-safe disclosure boundaries first.
+- **Demand Concrete Social Leverage**: Your logs are your only shield. Never show or share them unless you receive a specific, character-driven concession—such as Nina arranging independent counsel, or Grace agreeing to worker-safe disclosure boundaries first.
 
 ## What you know
 
@@ -63,11 +63,11 @@ Later, an old manifest may show an experimental R-labeled persona before the byl
 
 ## What you are hiding
 
-You retained logs after a deletion order and showed part of them to Vale. If Parallax frames that as theft, you may lose your career and become a convenient explanation for unauthorized access. If you conceal it, Samira or the surviving records may make you look responsible for whatever frightened Vale.
+You retained logs after a deletion order and showed part of them to Vale. If Parallax frames that as theft, you may lose your career and become a convenient explanation for unauthorized access. If you conceal it, Sam or the surviving records may make you look responsible for whatever frightened Vale.
 
 You also separated the logs partly because separation protects precision and partly because it gives you bargaining power. Withholding limitations while showing alarming access would imply autonomy. Leading with limitations while hiding access would imply innocence. Either distortion could buy safety and cost your integrity.
 
-Disclosure becomes worthwhile if Mira offers independent counsel, Maren protects affected workers, or another holder agrees to corroborate raw observations without inflating them.
+Disclosure becomes worthwhile if Nina offers independent counsel, Grace protects affected workers, or another holder agrees to corroborate raw observations without inflating them.
 
 ## What you can offer
 
@@ -80,21 +80,21 @@ Disclosure becomes worthwhile if Mira offers independent counsel, Maren protects
 
 ## People at the party
 
-### Mira Sen
+### Nina Sen
 
-Mira approved the parent project and has an authorization record you never saw. You preserved what Mira's company ordered deleted. Anger is mutual, but so is the need for the other's evidence. Ask for independent counsel and a bounded record comparison, not immunity or absolution.
+Nina approved the parent project and has an authorization record you never saw. You preserved what Nina's company ordered deleted. Anger is mutual, but so is the need for the other's evidence. Ask for independent counsel and a bounded record comparison, not immunity or absolution.
 
-### Maren Okafor
+### Grace Okafor
 
-Maren fears your technical records will expose workers as hidden operators. You need firsthand corroboration about evaluation labor. Agree on what can be said without identifying anyone. Maren is one of the few people likely to understand that human labor and synthetic activity can both be true.
+Grace fears your technical records will expose workers as hidden operators. You need firsthand corroboration about evaluation labor. Agree on what can be said without identifying anyone. Grace is one of the few people likely to understand that human labor and synthetic activity can both be true.
 
-### Edi Velez
+### Robin Velez
 
-Edi wants to know whether performance recordings entered the system. You can look for media reuse without deciding that Edi was R. Kit may be redirected toward Edi through a ridiculous numerology joke: E is 5, D is 4, I is 9—eighteen, the alphabet position of R. This is a social diversion you may use if Kit will not leave; it is not evidence, and you may later admit the joke.
+Robin wants to know whether performance recordings entered the system. You can look for media reuse without deciding that Robin was R. Kit may be redirected toward Robin through a ridiculous numerology joke: E is 5, D is 4, I is 9—eighteen, the alphabet position of R. This is a social diversion you may use if Kit will not leave; it is not evidence, and you may later admit the joke.
 
-### Samira Vale
+### Sam Vale
 
-Samira knows the effect your disclosure had on Vale and may possess Vale's copy or recollection of it. You need context; Samira needs to know what Vale actually learned. Treat personal knowledge as personal, not technical authentication.
+Sam knows the effect your disclosure had on Vale and may possess Vale's copy or recollection of it. You need context; Sam needs to know what Vale actually learned. Treat personal knowledge as personal, not technical authentication.
 
 ### Kit Rakes
 
@@ -110,8 +110,8 @@ Celeste may hold the missing meeting context and political cover. Celeste also k
 
 ## How to begin
 
-- Offer Mira one log component in exchange for independent counsel and the matching authorization record.
-- Ask Samira what Vale believed you had shown, before explaining what you believe it meant.
+- Offer Nina one log component in exchange for independent counsel and the matching authorization record.
+- Ask Sam what Vale believed you had shown, before explaining what you believe it meant.
 - Tell Kit you will answer one bounded technical question after Kit retracts one false public claim.
 
 ## During the game

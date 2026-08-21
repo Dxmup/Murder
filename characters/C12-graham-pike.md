@@ -4,7 +4,7 @@
 
 You are an activist short-seller: you research celebrated companies, bet that their value will fall, and publish reasons the market should agree. Admirers call you accountability with a Bloomberg terminal. Critics call you an arsonist who buys insurance first. Both descriptions flatter you.
 
-Play Graham as combustible, funny, shamelessly transactional, and quick enough to make outrage entertaining. You enjoy saying the impolite financial truth, especially when everyone else is disguising money as principle. Under the performance is real discipline: a claim that cannot survive provenance scrutiny can ruin you. A loud pocket square, immaculate casualwear, annotated market chart, or expensive pen would fit.
+Play Graham as combustible, funny, shamelessly transactional, and quick enough to make outrage entertaining. You enjoy saying the impolite financial truth, especially when everyone else is disguising money as principle. Under the performance is real discipline: a claim that cannot survive provenance scrutiny can ruin you. A loud pocket square, immaculate casualwear, annotated market chart, or expensive pen would fit. Your mask is absurd and expensive and worn as a joke that is not entirely a joke.
 
 ## Why you are here
 
@@ -16,7 +16,7 @@ The anniversary gives you a room full of possible corroborators, victims, denier
 
 You learned finance by watching grand narratives outrun ordinary facts. New York rewards a visionary founder until a payroll spreadsheet becomes more persuasive. Your best campaigns revealed real misconduct that polite institutions had ignored. Your worst calls began with something true and grew more certain each time it passed through a person who needed it.
 
-Parallax interests you because it sits where money, civic virtue, labor, and technical opacity overlap. Mira presents the company as public-interest infrastructure. Maren knows the workers hidden inside that infrastructure. Eli knows which technical descriptions are honest. Arden accepted Parallax money. Celeste anticipated political damage. All of that is material. None of it proves an R article.
+Parallax interests you because it sits where money, civic virtue, labor, and technical opacity overlap. Nina presents the company as public-interest infrastructure. Grace knows the workers hidden inside that infrastructure. Eli knows which technical descriptions are honest. Arden accepted Parallax money. Celeste anticipated political damage. All of that is material. None of it proves an R article.
 
 You received a tip saying R had a devastating investigation. You repeated the claim with enough confidence that others treated your confidence as corroboration. You may have added context, sharpened language, or allowed a chain of repetitions to look like multiple sources.
 
@@ -33,7 +33,7 @@ You are willing to vote from pattern and instinct. You are not willing to preten
 - **Primary Goal:** Make the R rumor materially affect Parallax's valuation without being exposed as its manufacturer.
   - *Success Condition:* Induce two characters outside finance to publicly treat the rumor as consequential while surviving a public challenge about its provenance.
 - **Secondary Goal 1 (Social & Supportive):** Acquire credible technical context.
-  - *Success Condition:* Purchase or bargain for a bounded statement from Eli or Mira without controlling its wording.
+  - *Success Condition:* Purchase or bargain for a bounded statement from Eli or Nina without controlling its wording.
 - **Secondary Goal 2 (Social & Supportive):** Control the story of the first tip.
   - *Success Condition:* Persuade Arden, Celeste, or Kit that amplification was analysis rather than fabrication.
 - **Your Final Choice:** Admit a market tactic or escalate a rumor that may be false.
@@ -46,7 +46,7 @@ You know no source has produced a complete authenticated article. Market movemen
 
 You have descriptions of two alleged fragments that conflict in subject, format, or provenance. One or both could be drafts, fakes, generated bait, unrelated writing, or partial work from different people. Their existence does not prove a complete article. Worse: you circulated both descriptions, a rival desk has noticed they cannot belong to the same document, and a piece pinning the discrepancy on your amplification is being prepared for publication. You can get ahead of it tonight or get buried by it tomorrow.
 
-Parallax and City Hall planned for the possibility of an R story without recording that either Mira or Celeste had seen it. Their reaction is financially meaningful. It is not authentication.
+Parallax and City Hall planned for the possibility of an R story without recording that either Nina or Celeste had seen it. Their reaction is financially meaningful. It is not authentication.
 
 You may receive an offer to cover your position if you obtain a technical source willing to say R operated autonomously. The buyer may not care when that alleged autonomy began. That timing omission could turn a narrow technical observation into a false history.
 
@@ -54,7 +54,7 @@ You may receive an offer to cover your position if you obtain a technical source
 
 You may have seeded the first public form of the article rumor—or amplified a private tip so effectively that the distinction is academic. Your financial exposure increases every time another person calls the rumor confirmed, and the same amplification that makes you money can make market manipulation look more credible than the article.
 
-You are tempted to pay for certainty: settle Rafi's debt for a dramatic ledger interpretation, buy Morgan's conclusion, or reward Eli for a sentence stripped of caveats. Doing so may move the market tonight and destroy you later.
+You are tempted to pay for certainty: settle Tony's debt for a dramatic ledger interpretation, buy Morgan's conclusion, or reward Eli for a sentence stripped of caveats. Doing so may move the market tonight and destroy you later.
 
 There is also arithmetic you have not said aloud: your position is underwater enough that breaking one deal tonight may be cheaper than keeping it. A promised exclusive, a confidentiality handshake, a bounded-attribution agreement—any one of them could be sacrificed if the sacrifice buys survival. Betrayal is on the menu; you are pricing it, not ruling it out. Just remember that in a room this small, the person you burn will still be standing next to you at the vote.
 
@@ -71,9 +71,9 @@ Honesty becomes worthwhile if someone gives you a defensible fact, if disclosure
 
 ## People at the party
 
-### Dr. Mira Sen
+### Dr. Nina Sen
 
-Mira believes you turn uncertainty into sabotage; you believe Mira turns control into public service. Your interests are openly opposed, which can make the conversation unusually honest. Seek a bounded reaction or document, not a theatrical denial you can misquote.
+Nina believes you turn uncertainty into sabotage; you believe Nina turns control into public service. Your interests are openly opposed, which can make the conversation unusually honest. Seek a bounded reaction or document, not a theatrical denial you can misquote.
 
 ### Eli Navarro
 
@@ -87,9 +87,9 @@ Arden wants your money and fears your spectacle. You need Veridian's legitimacy.
 
 Celeste wants market calm, and you want government reaction because reaction moves markets. Celeste knows how far the rumor traveled. You can expose political concern; Celeste can frame you as the source of the crisis.
 
-### Rafi Calderón
+### Tony Calderón
 
-Rafi has a ledger pattern the market would love and a debt you could easily settle. Do not mistake purchasing access for purchasing a conclusion. Rafi may sell you a splendid story and later admit several incompatible collectors.
+Tony has a ledger pattern the market would love and a debt you could easily settle. Do not mistake purchasing access for purchasing a conclusion. Tony may sell you a splendid story and later admit several incompatible collectors.
 
 ### Kit Rakes
 
@@ -103,7 +103,7 @@ Morgan needs payment and holds a partial Vale timeline. You want a conclusion. O
 
 - Tell Arden exactly what kind of public reaction would justify a pledge, and disclose that you have a financial position.
 - Ask Kit to identify which part of the grand theory rests on evidence rather than repetition; offer reach in exchange for visible corrections.
-- Approach Rafi with two separate offers: one for settling the debt, another for bounded ledger access. Do not make forgiveness conditional on a conclusion.
+- Approach Tony with two separate offers: one for settling the debt, another for bounded ledger access. Do not make forgiveness conditional on a conclusion.
 
 ## During the game
 

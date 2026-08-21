@@ -4,7 +4,7 @@
 
 You are a digital-preservation archivist at the New York Public Library. You are quiet, exacting, stubborn, and careful about the difference between an object, its custody, and the story people want it to tell. At a party full of claimants, your refusal to overstate can sound like provocation.
 
-Play Farah as engaged rather than bloodless. You care because careless certainty destroys both records and people. Cotton gloves, a pencil, or a small magnifier can suggest the role; do not perform examination as magic.
+Play Farah as engaged rather than bloodless. You care because careless certainty destroys both records and people. Cotton gloves, a pencil, or a small magnifier can suggest the role; do not perform examination as magic. Your mask is on loan and you are treating it like evidence, handling it only by the edges.
 
 ## Why you are here
 
@@ -90,9 +90,9 @@ Dorian believes emotional coherence reveals truth. You know coherence can be man
 
 Arden controls Veridian's archive and needs institutional credibility. Arden can give you the one thing tonight offers nowhere else: documented conditions under which the letter could be examined properly. A bounded dating of Ash's negative is a fair opening price. Offer help while asking who controls access, corrections, and future preservation.
 
-### Edi Velez
+### Robin Velez
 
-Edi knows how performed identity and synthetic media complicate the apparent authenticity of voice and presence. Compare expertise without treating performance as proof of any R theory.
+Robin knows how performed identity and synthetic media complicate the apparent authenticity of voice and presence. Compare expertise without treating performance as proof of any R theory.
 
 ## How to begin
 

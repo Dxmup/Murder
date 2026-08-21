@@ -4,13 +4,13 @@
 
 You are a private investigator retained after Vale vanished. You are patient, skeptical, discreet, and more financially stretched than your calm manner suggests. You listen for the sentence someone avoids, take notes only after asking, and dislike conclusions that arrive before facts.
 
-Play Morgan as quiet leverage rather than police authority. You cannot compel testimony, search anyone, seize property, or declare a solution. A worn notebook, messenger bag, or folding street map suits you.
+Play Morgan as quiet leverage rather than police authority. You cannot compel testimony, search anyone, seize property, or declare a solution. A worn notebook, messenger bag, or folding street map suits you. Your mask is chosen for watching a room without being watched back.
 
 ## Why you are here
 
 Your anonymous client hired you to reconstruct Vale's last movements and paid enough up front to make refusal difficult. The client communicated through an intermediary and seemed unusually interested in a particular conclusion: that Vale came downtown to meet whoever controlled R.
 
-The anniversary places nearly every useful witness in one room. It also places Graham Pike, who would pay for a marketable conclusion; Samira Vale, who may know whether Vale planned to disappear; and Inez Baptiste, who controls trust you cannot purchase. You expected interviews. You did not expect your client's evidence to begin coming apart.
+The anniversary places nearly every useful witness in one room. It also places Graham Pike, who would pay for a marketable conclusion; Sam Vale, who may know whether Vale planned to disappear; and Rosa Baptiste, who controls trust you cannot purchase. You expected interviews. You did not expect your client's evidence to begin coming apart.
 
 ## Your history
 
@@ -33,22 +33,22 @@ You have never seen a complete authenticated article by Vale or R. Rumor is not 
 - **Primary Goal:** Produce a defensible Vale timeline and identify who is trying to purchase its conclusion.
   - *Success Condition:* Obtain voluntary accounts from three social knots, label one unresolved contradiction, and decide what to report about the anonymous client.
 - **Secondary Goal 1 (Social & Supportive):** Identify the client.
-  - *Success Condition:* Trade limited timeline access with Celeste, Graham, or Samira for provenance.
+  - *Success Condition:* Trade limited timeline access with Celeste, Graham, or Sam for provenance.
 - **Secondary Goal 2 (Social & Supportive):** Test the physical route without police powers.
   - *Success Condition:* Hold a voluntary case conference with two witnesses whose accounts conflict.
 - **Your Final Choice:** Deliver the purchased answer or admit the case cannot support it.
 
 ## What you know
 
-Your notes show that Vale entered the neighborhood near the former printing floor two days before the gathering. The underlying trace places Vale nearby; it does not show whom Vale met or what happened afterward. Rafi and Inez may supply local context.
+Your notes show that Vale entered the neighborhood near the former printing floor two days before the gathering. The underlying trace places Vale nearby; it does not show whom Vale met or what happened afterward. Tony and Rosa may supply local context.
 
 Your route board separates verified, attributed, disputed, and blank segments. One client-supplied segment appears manufactured. The board cannot establish that Vale used the service exit, died, was R, or was targeted by an AI.
 
 You have compared descriptions of a recurring R-associated habit over time. The habit changes subtly, but witnesses disagree about when. This is a possible transition marker, not a transfer date.
 
-Samira has told you that Vale used ambiguity strategically when protecting sources or manipulating targets. That makes Vale's statements important but unsafe to read literally.
+Sam has told you that Vale used ambiguity strategically when protecting sources or manipulating targets. That makes Vale's statements important but unsafe to read literally.
 
-Two weeks before the anniversary, the client forwarded you two photographs of the same camera-fitted vehicle idling outside locations Vale visited, ten days apart, with a registry extract: the plate resolves to a fleet-leasing company dissolved last year. On its face, someone had Vale watched. But the forwarding address is the problem—this arrived from the same client whose earlier route segment appears manufactured. The photographs could document real surveillance, or they could be the next installment of a story someone is paying you to believe. A dissolved shell also has boring explanations: unretired plates and expired registrations litter every fleet auction. Celeste or Inez may be able to trace the shell before you decide what the pictures are.
+Two weeks before the anniversary, the client forwarded you two photographs of the same camera-fitted vehicle idling outside locations Vale visited, ten days apart, with a registry extract: the plate resolves to a fleet-leasing company dissolved last year. On its face, someone had Vale watched. But the forwarding address is the problem—this arrived from the same client whose earlier route segment appears manufactured. The photographs could document real surveillance, or they could be the next installment of a story someone is paying you to believe. A dissolved shell also has boring explanations: unretired plates and expired registrations litter every fleet auction. Celeste or Rosa may be able to trace the shell before you decide what the pictures are.
 
 You expect evidence of an automated intervention after Vale's last verified contact. Even if confirmed, its consequence may have been danger, escape, or an obscured record. No source available to you verifies Vale's later location or condition.
 
@@ -68,17 +68,17 @@ If witnesses learn this from someone else, every interview becomes suspect. If y
 
 ## People at the party
 
-### Samira Vale
+### Sam Vale
 
-Samira knows Vale as a person rather than a symbol. Samira also suspects your client may be closer than you admit. You need consent before using intimate history; Samira needs to know whether your work is helping find Vale or manufacturing a story.
+Sam knows Vale as a person rather than a symbol. Sam also suspects your client may be closer than you admit. You need consent before using intimate history; Sam needs to know whether your work is helping find Vale or manufacturing a story.
 
-### Inez Baptiste
+### Rosa Baptiste
 
-Inez can introduce witnesses who will never speak to you cold. Inez believes investigators take neighborhood knowledge and leave residents holding the risk. Offer fair-treatment terms and accept that access is not owed.
+Rosa can introduce witnesses who will never speak to you cold. Rosa believes investigators take neighborhood knowledge and leave residents holding the risk. Offer fair-treatment terms and accept that access is not owed.
 
-### Rafi Calderón
+### Tony Calderón
 
-Rafi remembers transactions and improves stories in the telling. Do not dismiss Rafi; bound the observation. The ledger and local memory may fill gaps if you give Rafi a reason to trust you.
+Tony remembers transactions and improves stories in the telling. Do not dismiss Tony; bound the observation. The ledger and local memory may fill gaps if you give Tony a reason to trust you.
 
 ### Dee Nowak
 
@@ -98,9 +98,9 @@ Celeste knows how institutions hide meetings and how anonymous pressure travels.
 
 ## How to begin
 
-- Ask Samira what boundaries would make a timeline conversation possible.
-- Tell Inez you want voluntary accounts and invite Inez to name fair-treatment terms.
-- Approach Rafi with one narrow time and place rather than asking, “What happened to Vale?”
+- Ask Sam what boundaries would make a timeline conversation possible.
+- Tell Rosa you want voluntary accounts and invite Rosa to name fair-treatment terms.
+- Approach Tony with one narrow time and place rather than asking, “What happened to Vale?”
 
 ## During the game
 
