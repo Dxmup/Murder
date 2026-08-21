@@ -109,23 +109,35 @@ two events have different causes "so far as anybody can currently demonstrate".
 Verified afterwards: no message carries facts from more than one Ending 4 key.
 The three keys sit with six, six, and five holders respectively.
 
-### 3. MEDIUM — every character is below the roster's own message floor
+### 3. RESOLVED (2026-08-21) — every character was below the message floor
 
-`roster.md` specifies four to six personal messages per character across the game.
-Actual counts: Kit 4; Frankie, Tessa, Robin, Tony, Dee, Sam, Morgan, Arden,
-Grace, Graham 3; Jules, Nina, Eli, Celeste, Rosa 2.
+`roster.md` specifies four to six personal messages per character. Counts were
+2–4, and Jules, Nina, Eli and Celeste — the four carrying the Parallax,
+succession and autonomy material — received nothing at all until Act 2, so the
+corporate half of the story had no advocate while the origin-and-mantle half was
+being fed from the opening.
 
-Distribution is also lumpy. Jules, Nina, Eli and Celeste — the four who carry the
-Parallax, succession and autonomy material — receive **nothing until Act 2**. Their
-booklets are live but no mail puts them in motion while Frankie, Tessa, Tony and
-Kit are being fed from the opening.
+Seventeen messages added (V2M055–V2M071), taking every character to four and
+closing the Act 1 dead zone: all four of those characters now have pre-loaded and
+Act 1 mail. Per-act personal counts are now 16 / 17 / 17 / 14.
 
-Consequence: Act 1 belongs to the origin-and-mantle question, and the synthetic
-case arrives late. Given V2.1 existed to revive One Human against a Mantle
-attractor, this risks over-correcting in the other direction.
+The additions are world-building and subgoal pressure, not mystery evidence.
+None carries a `fact_ref`, and none bears on R's identity, Vale's fate, or the
+article. They do carry small, concrete levers for the secondary and tertiary
+goals — the vesting Nina can restore tonight without a board resolution, the
+three other agencies whose procurement paperwork makes Celeste's diversion true,
+the anthology that has no rights holder to sign, the contract clause Robin can
+refuse loudly, the 2011 work order that never existed and gives Dee standing
+against the twelfth floor, the four written asks Rosa can trade for.
 
-Fix: one Act 1 personal message each for Jules, Nina, Eli and Celeste. That also
-brings four characters up to the floor.
+They also carry the lore that grounds the setting: Local 3 chartered in 1947 for
+the compositors on those same four floors and arguing in 1951 about a machine
+that did the work of six men; the service crossing being the width of a paper
+roll because it was the paper feed; the three hundred and ten who worked that
+floor, eleven of whom lived on the block.
+
+Cost: per-player reading rises from ~1,870 to ~2,280 words, about 12.7 minutes
+across a three-hour party, roughly 7% of the evening.
 
 ### 4. LOW — "Partner" reads as Morgan's partner
 
