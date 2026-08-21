@@ -71,18 +71,43 @@ him" changed to "the question you asked V". Remaining gendered pronouns in the
 corpus all belong to NPCs (the dismissed worker, the anonymous caller, Dennis, the
 property lawyer, Ruben) and are intentional.
 
-### 2. HIGH — an identifier collision shortcuts Ending 4
+### 2. RESOLVED (2026-08-21) — identifier collisions shortcut Ending 4
 
-The building's claims reference for the robot/bicycle contact is `HS-4471-C`
-(V2M048, Dee's inbox). Vale's revoked Parallax credential is `ext-4471` (V2M029
-Eli, V2M031 Nina).
+The building's claims reference for the robot/bicycle contact was `HS-4471-C`
+(V2M048, Dee) while Vale's revoked Parallax credential is `ext-4471` (V2M029 Eli,
+V2M031 Nina). Players comparing artifacts would have read the shared number as a
+hard link between the machine that struck Vale's bicycle and Vale's own
+credential — handing them "an autonomous system acted against Vale", which
+`canon.md` guardrail 7 requires the room to assemble.
 
-Players who compare artifacts will read the shared number as a hard link between
-the machine that struck Vale's bicycle and Vale's own credential — i.e. they get
-"an autonomous system acted against Vale" handed to them. `canon.md` guardrail 7
-requires Ending 4 to be assembled from three independent keys and never delivered.
+A second, quieter collision sat beside it: Lodestar's `vendor agreement 7712` in
+the same notice is one digit from `MID 44-7719-C`, the merchant intermediary in
+Robin's settlement (V2M014), which would falsely tie the performance payment to
+the delivery-robot vendor.
 
-Fix: change one of the two numbers. Nothing else depends on either value.
+Fixed: the claims reference is now `HS-3062-C` and the vendor agreement `5530`.
+`ext-4471` is unchanged and remains consistent across its three appearances,
+which is exactly what the account association establishes and all it establishes.
+
+### 2b. RESOLVED (2026-08-21) — the Act 3 broadcast delivered the Vale sequence
+
+V2M025 opened Act 3 by giving all twenty players the Vale-incident chronology in
+order — on the block, the service door during the camera gap, the automated
+intervention, then nothing — carrying five facts including `V2F033`, which
+existed nowhere else. It refused the conclusions but still removed the assembly
+work for a whole Ending 4 key, and it is the likely mechanism behind run finding 4
+(dead ballot lines; "voluntarily vanished" winning through an uncontested anchor):
+a room handed one narrative simultaneously has nothing left to trade.
+
+Rewritten to create the work instead of doing it. The sender now says four people
+each hold one true thing, that at least two will keep it pocketed until asked
+directly, and explicitly refuses to supply the sequence — "if I hand you a
+sequence you will believe the sequence, and you will believe it because I gave it
+to you in order." `V2F033` moved to Dee's V2M028, where Ruth already argues the
+two events have different causes "so far as anybody can currently demonstrate".
+
+Verified afterwards: no message carries facts from more than one Ending 4 key.
+The three keys sit with six, six, and five holders respectively.
 
 ### 3. MEDIUM — every character is below the roster's own message floor
 
