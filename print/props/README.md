@@ -38,6 +38,54 @@ agrees with it.
 | `O13.png` | Vale-voice draft page | Kit | No byline, no slug, no date, ends mid-sentence. |
 | `O14.png` | Night Desk payment strip | Tessa | SORREL's irregular active weeks. |
 
+## Who gets what
+
+Everyone receives the **invitation** before the party and a **name card** at the
+door. Beyond that, objects belong to one character. The act column is when the
+object becomes live in the design; `host-guide.md` has props begin with their
+character unless stated otherwise, so the simplest handling is to give each
+player their full set at the start and let the act column tell you when it is
+likely to matter.
+
+| Character | Gets | Act |
+|---|---|---|
+| **Frankie Lowell** | `O01` First R Letter · `O12a` early corpus | 1 · 1 |
+| **Tessa Quill** | `O02` routing slip · `O12b` middle draft · `O14` payment strip | 1 · 2 · 2 |
+| **Jules Kwan** | `O03` succession printout | 2 |
+| **Dr. Nina Sen** | `O07b` authorisation half | 3 |
+| **Eli Navarro** | `O05a` capability · `O05b` access · `O05c` activity · `O10b` system event | 2 · 2 · 2 · 3 |
+| **Robin Velez** | `O04` commission card · `O12c` late corpus | 2 · 2 |
+| **Tony Calderón** | `O06` account strip | 1 |
+| **Dee Nowak** | `O10a` claims notice | 3 |
+| **Celeste Park** | `O07a` calendar half | 3 |
+| **Sam Vale** | `O09` sealed envelope, containing `O09a` and `O09b` | 3 |
+| **Morgan Shaw** | `O08` route board | 3 |
+| **Kit Rakes** | `O11` theory notebook · `O13` Vale-voice draft | 1 · 2 |
+
+### Characters with no object
+
+**Arden Bell, Grace Okafor, Graham Pike, Rosa Baptiste**, and all four optional
+roles (Ash, Farah, Dorian, Manny) hold nothing physical. This is the design as
+written, not an omission in the prop set — their leverage is access, money,
+testimony and relationships rather than paper.
+
+It is still worth knowing at the table, because a guest who watches five people
+produce documents and has none can read that as being under-equipped. Two things
+help: the one-page cheat cards give everyone something to hold, and four of them
+have an object described in their mail that was never made as a prop — Grace's
+four instruction sheets (V2M020), Graham's two incompatible fragments (V2M052),
+Rosa's written list of four asks (V2M069), and Arden's archive intake report
+(referenced in `O01`'s entry in `objects-and-bargains.md`). If you want to even
+out the table, those four are the natural additions and none of them touches a
+main-story clue.
+
+### Pairs that must not start together
+
+- `O07a` Celeste and `O07b` Nina are halves of one recovery.
+- `O10a` Dee and `O10b` Eli are the same incident from two systems.
+- `O12a` Frankie, `O12b` Tessa and `O12c` Robin are one stylistic arc across
+  three inboxes. Nobody may hold two of them at the start.
+
 ## Prompting notes
 
 Text fidelity is reliable — supply exact wording and it renders verbatim,
