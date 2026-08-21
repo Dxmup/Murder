@@ -26,7 +26,9 @@ agrees with it.
 | `O07a.png` | Calendar recovery — city half | Celeste | |
 | `O07b.png` | Calendar recovery — Parallax half | Nina | Carries `ext-4471`. Deliberately unrelated to `HS-3062-C` on `O10a`. |
 | `O08.png` | Morgan's route board | Morgan | Wednesday 7 April 2027, receipts 04/07/27. The evenly spaced times and the Rutledge Cut query are the tells that the segment was synthesised. |
-| `O09.png` | Sam's sealed envelope | Sam | **Do not open it.** Put something inside so it has weight. Whether it opens is Sam's endgame choice. |
+| `O09.png` | Sam's sealed envelope | Sam | The **outside**. Make a real envelope, seal it, and put the two items below inside. Whether it is ever opened is Sam's endgame choice, so it must be genuinely openable — and genuinely sealed. |
+| `O09a.png` | — envelope contents, item 1 | inside `O09` | The copied line about preparing to disappear. |
+| `O09b.png` | — envelope contents, item 2 | inside `O09` | The corner Sam recognises from the route. **Print these as two loose items, not one sheet.** Sam is allowed to show one and withhold the other, and that choice is the object's whole mechanic. |
 | `O10a.png` | Intervention notice — physical | Dee | Reference **HS-3062-C**, vendor agreement **5530**. A mistyped reprint would hand players the Ending 4 link they are supposed to assemble. |
 | `O10b.png` | Intervention notice — system event | Eli | Print the limit line at the same size as the finding; it is what stops the card reading as a confession. |
 | `O11.png` | Kit's theory notebook | Kit | Six theories, **no corrections pre-written.** The space beside 5 and 6 is deliberately blank — Kit's player writes the disproofs in during play, in red, at the table. That makes each retraction a physical act rather than a line already on the page. |
@@ -45,5 +47,11 @@ reference numbers included. Three things it invents unless pinned:
 2. **Annotations.** The first notebook arrived with Kit's disproofs already
    written in, which would have destroyed both correction scenes. Say
    explicitly when something must be absent.
-3. **Cross-prop agreement.** Nothing checks that two props agree. The account
-   strip and the notebook had to be brought into step by hand.
+3. **Cross-prop agreement.** Nothing checks that two props agree, in either
+   direction. The account strip and the notebook had to be brought into step by
+   hand. The opposite also happens: the first version of `O09b` was given a
+   broken fire-hydrant cap, which collides with "check the hydrant cap and which
+   way it points" in `O01` and would have linked Vale's bolt-hole to the street
+   in R's first published piece — a Ballot 2 conclusion, handed over free.
+   Regenerated without it. Watch for resemblances you did not intend as closely
+   as for contradictions.
