@@ -1,11 +1,51 @@
 # Generated props
 
-Produced with Higgsfield (GPT Image 2), 7 credits each. **Image generation is not
-deterministic** — these exact files cannot be regenerated from the same prompt, so
-they are committed rather than treated as build artifacts.
+**Print from [`../props-flat/`](../props-flat/).** This folder is the original
+set and is kept only as a backup.
 
-Roughly 200 dpi at letter size. Print on matte stock; paper texture is already in
-the image, so gloss fights it.
+The originals are photographs of documents lying on desks, with lamps, cups and
+pens in frame. They look good on a screen and print badly, because you are
+printing a picture of a room. `props-flat/` holds the same documents as
+straight-on scans that fill the page — same wording, same folds, stains and
+print flaws, no room.
+
+Exact wording for every document lives in [`SOURCE.py`](SOURCE.py). Until it
+existed the text was only inside the PNGs, so a reprint depended on whoever
+still had the prompt. Regenerate from there, and keep it in step with
+`design/data/messages.csv`.
+
+## Sticky notes are yours to write
+
+Three props carry sticky notes: **O08**, **O12c** and **O13**. The plates in
+`props-flat/` are printed **clean**, with the space left empty, so you can write
+the notes on real sticky notes and attach them — which reads far better in the
+hand than a printed rectangle pretending to be one.
+
+Write these, one per note:
+
+**O08** — Morgan's route board
+- `SPACING IS TOO EVEN.`
+- `WHO GAVE ME THIS.`
+- `NOT IN ORDER.`
+
+**O12c** — late corpus clippings
+- `that floor was gutted the year before this ran. - B.F.`
+- `four beats, comma, contrast, stop. over and over.`
+
+**O13** — Vale-voice draft page
+- `no byline. no slug. no second page. WHO SENT THIS.`
+
+`<ID>-with-stickies.png` versions exist in `props-flat/` if you would rather
+print them attached.
+
+## Two props stay photographs
+
+`O09` (sealed envelope) and `O11` (open notebook) are three-dimensional objects,
+not documents. A flat scan of a sealed envelope means nothing, so those two are
+photographs and live only in this folder.
+
+Roughly 200 dpi at letter size. Print on matte stock; paper texture is already
+in the image, so gloss fights it.
 
 Event date is **Friday 9 April 2027** (`design/canon-timeline.md`). Every prop
 agrees with it.
