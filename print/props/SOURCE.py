@@ -285,7 +285,10 @@ Don't write this down.'
 I wrote it down.
 """),
 
-"O09b": dict(ar="4:3", look=(
+"O09b": dict(ar="4:3", note="Storefront is a SHOE REPAIR, deliberately not a "
+     "laundromat: V2M009 puts the laundromat on Rosa's block, and a player "
+     "holding both would merge Sam's bolt-hole with Harrow Street, pushing "
+     "Ballot 3 toward voluntarily-vanished. Keep them different trades.", look=(
  "An old colour snapshot print with a white border, drugstore-processed, faded "
  "and warm-shifted with age, one corner soft from handling. The print fills the "
  "frame. The image shows a New York street corner in late afternoon light: a "
