@@ -104,10 +104,54 @@ likely to matter.
 | **Morgan Shaw** | `O08` route board | 3 |
 | **Kit Rakes** | `O11` theory notebook · `O13` Vale-voice draft | 1 · 2 |
 
-### Characters with no object
 
-**Arden Bell, Grace Okafor, Graham Pike, Rosa Baptiste**, and all four optional
-roles (Ash, Farah, Dorian, Manny) hold nothing physical. This is the design as
+### Props for the four who held none (added 2026-08-26)
+
+| File | Object | Starts with |
+|---|---|---|
+| `O15a.png` | Archive intake report | Arden |
+| `O15b.png` | Priya's private note | Arden |
+| `O16a.png` | Instruction sheets 1 and 2 | Grace |
+| `O16b.png` | Instruction sheets 3 and 4 | Grace |
+| `O17a.png` | Fragment A | Graham |
+| `O17b.png` | Fragment B | Graham |
+| `O18.png` | Yaz's list of four asks | Rosa |
+
+None carries a `fact_ref`, and none bears on R, Vale or the article. Each exists
+so its holder has something to put on a table.
+
+**O15a/b — Arden.** `objects-and-bargains.md` says Arden's intake report and
+Frankie's letter "must be compared", so the report is the second half of `O01`.
+It confirms the object is period-consistent and then explicitly refuses to say
+who wrote, addressed or carried it. `O15b` is Priya's separate note about the
+expense binder — she flagged it "to you, not to him, and not to the programme
+committee", so keep it apart from the formal report. It is the sharper of the
+two to trade.
+
+**O16a/b — Grace.** Four sheets, eleven months apart at the ends. **Cut them
+apart and keep them separate** — Grace shows one at a time as protection is
+negotiated, the same mechanic as Tessa's routing slip. Sheet 3 carries different
+supervisor initials (D.K. rather than R.O.); that change of hands mid-programme
+is the point. Sheet 4's attached samples are missing and must stay missing.
+
+**O17a/b — Graham.** Two alleged fragments that cannot both be from one
+document, which is the whole object. They must look nothing alike: A is
+double-column, third person, footnoted, about procurement; B is single column,
+first person, no notes, about a labelling floor in Queens. **Both are visibly
+page one of something longer and stop mid-sentence.** Canon is absolute that no
+player ever receives a complete article — do not let a reprint tidy them into
+finished documents.
+
+**O18 — Rosa.** Not evidence: a bargaining script. Four numbered asks with the
+tell at the bottom — "2 and 3 are the ones I would trade the rest for" — so Rosa
+can negotiate from a written position instead of improvising. Pairs directly
+with the commitment cards.
+
+### Characters with no object (superseded)
+
+This was true until 2026-08-26. Arden, Grace, Graham and Rosa now hold the
+objects listed above. The four optional roles (Ash, Farah, Dorian, Manny) still
+hold nothing physical. This is the design as
 written, not an omission in the prop set — their leverage is access, money,
 testimony and relationships rather than paper.
 

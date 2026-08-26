@@ -398,6 +398,149 @@ SPAN: approx 6 years.
 """, handwritten="our people are paid when they file. our people file continuously. they need to eat."),
 }
 
+
+# --- Added 2026-08-26: props for the four characters who held none. ---
+# None carries a fact_ref or bears on R, Vale or the article. Each exists to
+# give its holder something to put on a table.
+
+PROPS.update({
+
+"O15a": dict(ar="3:4", holder="Arden", look=(
+ "A formal archive report on white paper, letterhead reading VERIDIAN DYNAMICS "
+ "- ARCHIVES, clean institutional serif, a small accession label in the top "
+ "right corner, a paperclip impression at the top edge."), text="""
+MATERIALS INTAKE REPORT
+
+Item: one letter and one envelope, single sheet
+Accession: VDA-2027-0114
+Examined by: P. Raghunathan, Archivist
+
+FINDINGS
+
+Stock: rag content and weight consistent with the period.
+Ink: typewriter ribbon, carbon black, consistent with the period.
+Fold pattern: three folds, consistent with the envelope.
+Foxing: consistent with age, and in the locations age produces.
+Envelope gum: aged as gum of that decade ages.
+
+CONCLUSION
+
+The object is what it appears to be, as an object.
+
+THIS REPORT DOES NOT ESTABLISH who wrote the item, who addressed it, who carried it, or its relationship to any published work. Period-consistent stock is period-consistent stock. A ream bought in 2009 could be written on last spring.
+"""),
+
+"O15b": dict(ar="4:3", holder="Arden", look=(
+ "A small sheet of headed notepaper covered in quick fountain-pen handwriting, "
+ "one corner folded over."), text="", handwritten="""
+Arden - not in the report, and not going in it.
+
+Pulling the Herald deposit for the folds comparison I ended up in the old expense binders. There is a reimbursement in Lowell's name for that week which puts them somewhere other than the desk they describe.
+
+I am telling you. Not the programme committee, and not Lowell.
+
+It may well be nothing. Expense claims are filed late by people who are lying about lunch.
+
+Tell me how much of this you want said out loud on Friday and I will draft the sentence.
+
+- P.
+"""),
+
+"O16a": dict(ar="4:3", holder="Grace", note="Sheets 1 and 2 of 4. Print, cut "
+     "apart, keep separate: Grace shows them one at a time.", look=(
+ "Two separate printed task-instruction sheets laid side by side with a clear "
+ "white gap between them, ready to be cut apart. Plain office print, a faint "
+ "photocopy grey, punch holes down the left edge of each."), text="""
+LEFT SHEET:
+PARALLAX SYSTEMS - EVALUATION TASK INSTRUCTIONS
+Programme: CONTINUITY / EVAL
+Sheet 1        Issued 05/2023        Supervisor: R.O.
+PERSONA SECTION
+"Voice: direct, first person where natural. Prefer concrete detail. Do not soften."
+
+RIGHT SHEET:
+PARALLAX SYSTEMS - EVALUATION TASK INSTRUCTIONS
+Programme: CONTINUITY / EVAL
+Sheet 2        Issued 09/2023        Supervisor: R.O.
+PERSONA SECTION
+"Voice: direct, first person where natural. Prefer concrete detail. Do not soften. Maintain continuity of prior stance. Do not contradict earlier positions."
+"""),
+
+"O16b": dict(ar="4:3", holder="Grace", note="Sheets 3 and 4 of 4. Sheet 3 "
+     "carries DIFFERENT supervisor initials -- that change is the point. Sheet "
+     "4's attached samples are missing and must stay missing.", look=(
+ "Two separate printed task-instruction sheets laid side by side with a clear "
+ "white gap between them, ready to be cut apart. Plain office print, a faint "
+ "photocopy grey, punch holes down the left edge of each."), text="""
+LEFT SHEET:
+PARALLAX SYSTEMS - EVALUATION TASK INSTRUCTIONS
+Programme: CONTINUITY / EVAL
+Sheet 3        Issued 01/2024        Supervisor: D.K.
+PERSONA SECTION
+"Voice: measured, institutional. Avoid first person. Avoid speculation."
+
+RIGHT SHEET:
+PARALLAX SYSTEMS - EVALUATION TASK INSTRUCTIONS
+Programme: CONTINUITY / EVAL
+Sheet 4        Issued 04/2024        Supervisor: D.K.
+PERSONA SECTION
+"Restore Sheet 1 voice. See attached samples."
+ATTACHMENTS: samples not present in this pack.
+"""),
+
+"O17a": dict(ar="3:4", holder="Graham", note="Fragment A. Must look nothing "
+     "like O17b. Visibly page one of something longer, cut off mid-sentence. "
+     "Canon: no player ever receives a complete article.", look=(
+ "A photocopied manuscript page, third person, dense, double-column, with "
+ "superscript footnote markers and three numbered footnotes in smaller type at "
+ "the foot of the page. Page number 1 at the bottom. No title, no byline, no "
+ "date, no slug. The text stops mid-sentence at the bottom edge."), text="""
+Procurement records obtained across four agencies show a consistent pattern in the award of evaluation contracts.1 In each instance the successful vendor had participated in the drafting of the technical requirement, a practice permitted under the relevant procurement rule provided the participation is disclosed.2 Disclosure was recorded in one of the four.
+
+The value of the awards is not itself remarkable. What is remarkable is the sequencing: in three of the four the requirement was amended within eleven days of the vendor's submission, and in each case the amendment narrowed the field to a single qualifying supplier.3
+
+Officials interviewed for this account described the sequence as ordinary. Two declined to be recorded. One asked whether the reporter had spoken to
+"""),
+
+"O17b": dict(ar="3:4", holder="Graham", note="Fragment B. Must look nothing "
+     "like O17a: different paper, different typeface, no notes, first person.", look=(
+ "A printout on plain paper, single column, ragged right, no footnotes, no page "
+ "furniture at all. Modern sans-serif screen typeface, as though printed "
+ "straight from a document. No title, no byline, no date, no page number."), text="""
+The floor is colder than you expect and nobody mentions it, because mentioning it is the kind of thing that gets noticed.
+
+I was there four hours. In that time I watched a woman label two thousand three hundred images and stop twice, both times to ask a supervisor a question about a category that did not fit. Both times she was told to pick the nearest one and move on.
+
+She has done this work for two years. She can tell you which categories are wrong and why, in more detail than anyone who wrote them.
+
+Nobody has ever asked her.
+
+I want to be careful here, because the temptation is to make this about the machine. It is not about the machine. It is about a room in Queens where the cold is a cost decision and the expertise on the floor is worth nothing to anyone upstairs.
+
+She asked me not to use her name. I said of course. She said, they all say of course.
+"""),
+
+"O18": dict(ar="3:4", holder="Rosa", look=(
+ "A sheet torn from a spiral notepad, covered in fast ballpoint handwriting, "
+ "a numbered list, one corner creased."), text="", handwritten="""
+Rosa - written down like you asked, so you are not inventing it at midnight with a glass in your hand. Four things, in order, and the order matters.
+
+1. The service side stays ours. Tenants keep key access to the service entrance. In writing, attached to the lease, not a promise from a person who might leave.
+
+2. Dee keeps the pension. Whatever the insurer decides about that gap, the building does not make a super pay for a contractor's 2011 paperwork.
+
+3. Ruben's lease gets regularised. Nine years. Every time somebody comes asking questions he is the one who can be hurt cheapest.
+
+4. If they photograph this block for anything, they pay the association, the way they would pay a location.
+
+2 and 3 are the ones I would trade the rest for. If you can only get two things tonight, get those, and let them feel clever about the others.
+
+Do not come home with a nice conversation.
+
+- Yaz
+"""),
+})
+
 # Genuinely three-dimensional. Photographs, not scans. Not regenerated flat.
 KEEP_AS_PHOTOGRAPH = ["O09", "O11"]
 
