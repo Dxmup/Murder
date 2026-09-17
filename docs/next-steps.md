@@ -18,6 +18,11 @@ Updated 2026-08-26.
   two objects as photographs, the route board as printable components, plus
   name cards and commitment cards as HTML. Exact wording lives in
   `print/props/SOURCE.py`.
+- **Cheat cards.** One page per role in `print/props/cheat-cards.html`, two per
+  sheet, generated from `print/props/CHEATCARDS.py`. Goal, the first twenty
+  minutes, who to find first, what you hold, what you can trade, what you must
+  never say, and the choice waiting at the end. Every line comes from the
+  character's own booklet.
 - **The app.** Threaded inbox, host act clock, delivery gating, briefings
   rendered from `characters/` rather than duplicated into `messages.csv`.
 
@@ -25,18 +30,14 @@ Updated 2026-08-26.
 
 ### Before a party can run
 
-1. **One-page cheat cards, one per role.** The host guide calls these the thing
-   "that survives the second drink", and booklets run 1,200–1,800 words. Each
-   needs the primary goal, three opening moves, who to find first, and the prop
-   list. Everything they need now exists in `goals.csv` and `evidence.csv`.
-2. **Print everything** — booklets, cheat cards, props, ballots, the four ending
+1. **Print everything** — booklets, cheat cards, props, ballots, the four ending
    scripts, name cards, commitment cards. See `print/README.md`.
-3. **Live playtest.** The simulator cannot measure fun, charisma cascades, or
+2. **Live playtest.** The simulator cannot measure fun, charisma cascades, or
    accidental overhearing. Every remaining design question is a human one.
 
 ### Before it can be deployed
 
-4. **A production state store.** `app/web/src/lib/state.ts` has only
+3. **A production state store.** `app/web/src/lib/state.ts` has only
    `FileStore`, and Vercel's runtime filesystem is read-only, so the host clock
    breaks in production. Local works fine, which is enough to run the party off
    a laptop. `StateStore` is already the seam.

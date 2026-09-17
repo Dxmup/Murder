@@ -1,0 +1,898 @@
+<meta charset="utf-8">
+<title>Cheat Cards</title>
+<style>
+/* Two cards per US Letter sheet at 5.5in x 8.5in. Cut down the middle and
+   they go in a jacket pocket, which is the whole point: the booklet stays on
+   the table and this comes to the bar.
+
+   Print at 100% scale, no "fit to page". Cream stock matches the invitation
+   and the name cards. */
+
+@page { size: letter; margin: 0; }
+
+:root {
+  --paper: #F2EDE2;
+  --ink: #17150F;
+  --rule: #8C2F26;
+  --muted: #655C4C;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: #55504a;
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  color: var(--ink);
+}
+
+.sheet {
+  display: grid;
+  grid-template-columns: 5.5in 5.5in;
+  width: 11in;
+  height: 8.5in;
+  margin: 0 auto;
+  page-break-after: always;
+}
+
+.card {
+  width: 5.5in;
+  height: 8.5in;
+  padding: 0.38in 0.36in 0.3in;
+  background: var(--paper);
+  outline: 0.5pt dashed #B9AE99;
+  outline-offset: -0.5pt;
+  display: flex;
+  flex-direction: column;
+  font-size: 8.7pt;
+  line-height: 1.28;
+  overflow: hidden;
+}
+
+.name {
+  font-family: "Haettenschweiler", "Arial Narrow", "Oswald", Impact, sans-serif;
+  font-weight: 700;
+  font-size: 21pt;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  line-height: 1;
+  margin: 0;
+}
+
+.role {
+  font-size: 8pt;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0.05in 0 0.08in;
+}
+
+.rule {
+  border-top: 2.5pt solid var(--rule);
+  border-bottom: 0.75pt solid var(--rule);
+  height: 3pt;
+  margin-bottom: 0.11in;
+}
+
+.hook { font-style: italic; margin: 0 0 0.06in; }
+
+h2 {
+  font-family: "Arial Narrow", Helvetica, sans-serif;
+  font-size: 7.4pt;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--rule);
+  margin: 0.075in 0 0.03in;
+}
+
+p { margin: 0 0 0.03in; }
+ol, ul { margin: 0; padding-left: 0.17in; }
+li { margin-bottom: 0.028in; }
+ol { counter-reset: none; }
+
+.who { padding-left: 0; list-style: none; }
+.who li { text-indent: -0.14in; padding-left: 0.14in; }
+.who b { font-variant: small-caps; letter-spacing: 0.02em; }
+
+.secret, .never {
+  border-left: 2pt solid var(--rule);
+  padding-left: 0.09in;
+}
+
+.hands { font-size: 8.3pt; }
+.note { color: var(--muted); font-style: italic; }
+
+.foot {
+  margin-top: auto;
+  padding-top: 0.09in;
+  border-top: 0.5pt solid #C9BEA8;
+  font-size: 7.4pt;
+  color: var(--muted);
+  display: flex;
+  justify-content: space-between;
+  gap: 0.1in;
+}
+.foot .choice { font-style: italic; }
+.optional { letter-spacing: 0.08em; text-transform: uppercase; }
+</style>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Arden Bell</div>
+    <div class="role">Executive Director, Veridian Dynamics</div>
+    <div class="rule"></div>
+    <p class="hook">You are the composed, exhausted host, and you have spent fifteen years turning the question of who R is into funding and legitimacy.</p>
+
+    <h2>You win if</h2>
+    <p>Two materially different commitments out of your guests, and a public statement from you on whether the Parallax restrictions are accepted or rejected.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Make the anniversary legitimate: public participation from one journalism figure and one neighborhood representative.</li><li>Reach a recorded understanding with Nina or Celeste about disclosure, repayment or revised terms.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Welcome Frankie personally, say the intake report is ready, and ask what public acknowledgement would feel honest before you offer it.</li><li>Find Rosa early and ask what Veridian would have to promise for neighborhood participation to be real rather than decorative.</li><li>Take Nina and Celeste aside separately and test whether either expects the restriction to be used tonight, without volunteering that you concealed it.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Nina Sen</b> &#183; whether the restriction gets invoked tonight.</li><li><b>Celeste Park</b> &#183; what City Hall was afraid of about this event.</li><li><b>Frankie Lowell</b> &#183; the intake report, for a bounded and honest acknowledgement.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O15a archive intake report; O15b Priya's private note.</p></div>
+
+    <h2>You can trade</h2>
+    <p>Archive access, the expense record, and the print vendor's proof sheet, which kills the theory that the invitation typography hides a machine key.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You hid a Parallax donor restriction from your own board. The gift looks unrestricted, and it can be paused the moment Veridian states an unauthenticated technical claim as fact.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you knew the restriction could be used as leverage when you took the money.</p>
+
+    <h2>Watch for</h2>
+    <p>Graham will turn one careless sentence from you into a market-moving claim. Validate nothing for money or out of panic.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Save Veridian through compromise, or expose the funding arrangement and risk the collapse.</span>
+      
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Frankie Lowell</div>
+    <div class="role">Retired metro editor</div>
+    <div class="rule"></div>
+    <p class="hook">You are funny, grandiose and territorial, and you have told the story of discovering R for fifteen years. Tonight you want to be a witness rather than a storyteller.</p>
+
+    <h2>You win if</h2>
+    <p>Two people citing a bounded part of your account in public, with the expense-record contradiction addressed openly rather than talked past.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Get one provenance assessment and one competing interpretation of the First R Letter.</li><li>Back or reject a claimant to the legacy, out loud, with your reasons stated.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Arden to pull the intake report and the expense record and lay them beside your letter packet.</li><li>Invite Jules to say why a successor deserves recognition, before Jules starts courting you for a blessing.</li><li>Tell Tessa straight that you want to know which parts of your newsroom story erased other people's work.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Robin Velez</b> &#183; what Robin actually remembers about that night.</li><li><b>Tony Calderón</b> &#183; compare the recurring habit in the ledger against what you saw.</li><li><b>Grace Okafor</b> &#183; the fourteen-year handwritten challenge, and who kept it.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O01 the First R Letter; O12a early corpus clippings.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The First R Letter and the two first-year clippings, including the tide-table line no editor put there.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">The meeting you call meeting R may have been a paid performance, and your famous account has drifted with every retelling.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you now doubt your own meeting happened the way you tell it.</p>
+
+    <h2>Watch for</h2>
+    <p>Kit will swing between calling your memory proof and calling it a cover-up. Correct anything that inflates your letter beyond period-consistent paper.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Protect the career-defining story, or admit it may be partly self-authored.</span>
+      
+    </div>
+  </div>
+</div>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Tessa Quill</div>
+    <div class="role">Organizer, the Night Desk Collective</div>
+    <div class="rule"></div>
+    <p class="hook">You are disciplined, dry and unimpressed by celebrity, and you protect the anonymous people whose work keeps surfacing under one byline.</p>
+
+    <h2>You win if</h2>
+    <p>One concrete protection or resource secured, and two public acknowledgements that collaborative labor mattered.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Agree a safe disclosure boundary with Grace or another trusted intermediary.</li><li>Set written or witnessed conditions before you support or oppose Jules.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Grace to set a shared disclosure boundary with you before either of you says anything about contributors.</li><li>Tell Jules that support is possible once Jules states what succession would oblige a successor to protect.</li><li>Offer Arden a direct trade: bounded workflow evidence for a concrete source-protection commitment.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Grace Okafor</b> &#183; what workflow evidence is safe to show.</li><li><b>Eli Navarro</b> &#183; what the activity logs cannot establish, said plainly.</li><li><b>Jules Kwan</b> &#183; what rights contributors keep if Jules becomes R.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O02 Night Desk routing slip; O12b middle draft; O14 payment strip.</p><p class="note">Peel the routing slip's contributor column one row at a time. Uncovered, it is spent in one show-and-tell.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The routing slip, one row at a time, or the middle draft with its three margin hands.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You once let a frightened source believe the collective itself was R, without knowing whether that was true.</p>
+
+    <h2>Never say</h2>
+    <p class="never">Whether the collective was R. Neither confirm nor deny it.</p>
+
+    <h2>Watch for</h2>
+    <p>Kit's collective-origin theory can expose real contributors. Correct the overclaims without ever confirming a name.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Reveal enough to establish the collective work, or keep the secret and lose control of the story.</span>
+      
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Jules Kwan</div>
+    <div class="role">Disputed successor to the R byline</div>
+    <div class="rule"></div>
+    <p class="hook">You are magnetic and ambitious and you make people feel they belong in your future. Tonight you want a claim that survives being examined.</p>
+
+    <h2>You win if</h2>
+    <p>Explicit support from two people in different social groups, after you have let someone examine a genuine weakness in the message.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Show a meaningful part of the message to Eli, Frankie, Robin or Sam and take a bounded response.</li><li>Settle with Sam or Morgan what Vale's involvement means, and answer it in public.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Frankie what responsibility, rather than what flattery, would make a successor worthy.</li><li>Offer Tessa a conversation about contributor rights before you ask Tessa for anything.</li><li>Tell Eli you will show the full header if Eli will give one bounded technical conclusion.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Sam Vale</b> &#183; get ahead of the manufactured-succession question before Sam raises it.</li><li><b>Eli Navarro</b> &#183; the header extract, for one narrow technical read.</li><li><b>Robin Velez</b> &#183; compare the intermediary payment routes.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O03 succession message, body only.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The succession printout, and the Vale correspondence around it.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">Before the succession message arrived you asked Vale how an uncontestable succession could be manufactured.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you asked Vale how to manufacture a succession before the message appeared.</p>
+
+    <h2>Watch for</h2>
+    <p>Kit will cast you as the human reporter taking R back from a machine. That flatters you in public and ruins your claim in fact.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Claim R despite the uncertainty, or expose the message's weakness and keep your own credibility.</span>
+      
+    </div>
+  </div>
+</div>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Dr. Nina Sen</div>
+    <div class="role">Founder of Parallax Systems</div>
+    <div class="rule"></div>
+    <p class="hook">You are warm, visionary and controlling, and tonight you want to keep Parallax from becoming the convenient villain while working out what your own system actually did.</p>
+
+    <h2>You win if</h2>
+    <p>A defensible public position backed by one technical voice and one affected-community voice, neither of them bought with money alone.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Get enough from Eli or Celeste to identify an actual decision point in the authorization chain.</li><li>Offer Grace a remedy that stays worth having even if the article never existed.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Arden whether the donation agreement can survive being publicly qualified rather than collapsing.</li><li>Offer Eli independent counsel in exchange for comparing one log excerpt against your authorization record.</li><li>Ask Grace what remedy would still matter if every rumor about R turned out to be false.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Eli Navarro</b> &#183; what was preserved after the deletion order.</li><li><b>Celeste Park</b> &#183; compare your half of the calendar recovery against the city half.</li><li><b>Grace Okafor</b> &#183; a concrete worker remedy, not contingent on the mystery.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O07b calendar recovery, Parallax half.</p></div>
+
+    <h2>You can trade</h2>
+    <p>Your authorization half of the calendar recovery, counsel, funding, and a bounded technical review.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You approved a continuity project that reached R-associated infrastructure without close supervision, and internally the company prepared for the fallout instead of stopping it.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That the continuity process kept running after Vale's temporary credential was revoked.</p>
+
+    <h2>Watch for</h2>
+    <p>Graham and Kit will bait you into comparing notes casually. Trade only for firm social collateral: labor peace with Grace, shared responsibility with Celeste.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Contain the deployment, or reveal it and take the institutional consequences.</span>
+      
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Eli Navarro</div>
+    <div class="role">Former Parallax reliability engineer</div>
+    <div class="rule"></div>
+    <p class="hook">You are dry, sleep-deprived and hype-averse, and you want the narrow technical truth on the record without becoming the person it lands on.</p>
+
+    <h2>You win if</h2>
+    <p>Two technically bounded statements made in public, each corroborated by someone non-technical, plus one missing authorization detail recovered.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Get a record or an admission out of Nina or Celeste.</li><li>Correct one overclaim from Kit, Graham or anyone else without denying what the logs do show.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Offer Nina one log component for independent counsel and the matching authorization record.</li><li>Ask Sam what Vale believed you had shown, before you explain what you think it meant.</li><li>Tell Kit you will answer one bounded technical question once Kit retracts one false claim in public.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Nina Sen</b> &#183; counsel and the authorization record, for one log.</li><li><b>Sam Vale</b> &#183; what Vale took the disclosure to mean.</li><li><b>Grace Okafor</b> &#183; what can be said about evaluation labor without naming anyone.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O05a/b/c continuity logs; O03b succession header extract; O10b system-event card.</p><p class="note">Keep the three logs physically separate. Each has its own limit line, and that separation is what stops one card reading as proof.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The three logs, one at a time, for real protection or corroboration. The header extract, for what it says it cannot attest.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You kept the logs after a deletion order and showed part of them to Vale.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you broke a deletion order to keep the logs, and showed part of them to Vale.</p>
+
+    <h2>Watch for</h2>
+    <p>Kit will push you toward confirming the whole human-to-mantle-to-machine chain. Parts of it fit your data. None of it proves the chain.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Trade the logs for your own safety, or disclose enough to implicate powerful people.</span>
+      
+    </div>
+  </div>
+</div>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Grace Okafor</div>
+    <div class="role">Data-worker organizer</div>
+    <div class="rule"></div>
+    <p class="hook">You are direct, impatient and morally serious, and you came for protections for the evaluators and contractors everyone treats as parts of a machine.</p>
+
+    <h2>You win if</h2>
+    <p>Two distinct commitments, one institutional and one political or neighborhood, with the protected worker still anonymous at the end of the night.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Agree with Tessa or Eli what can be shared without identifying anyone.</li><li>Get Nina, Celeste or Graham to say that the harm does not depend on an article existing.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Tessa to agree one sentence describing collaborative labor that names no contributor.</li><li>Show Frankie exactly one element of the handwritten-challenge record in the first hour, and watch the face.</li><li>Tell Nina you will discuss bounded testimony only after Nina names a remedy that exists independently of R.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Tessa Quill</b> &#183; a shared disclosure boundary.</li><li><b>Rosa Baptiste</b> &#183; compare what workers and neighborhood witnesses each need.</li><li><b>Eli Navarro</b> &#183; technical truth that does not expose the worker.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O16a/b four instruction sheets.</p><p class="note">Show one instruction sheet at a time, as protection is negotiated. Sheet 4's samples are missing and stay missing.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The instruction sheets, one at a time, with identifying detail withheld, and bounded worker testimony.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You introduced Vale to a protected worker after promising permanent anonymity, and Vale vanished afterwards.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you made a promise of anonymity you may not have been able to keep.</p>
+
+    <h2>Watch for</h2>
+    <p>Nina, Celeste and Graham will offer a remedy conditioned on testimony. Your worker asked for two separate written promises, because people keep the first and break the second.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Expose the system, or protect people who never agreed to become evidence.</span>
+      
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Robin Velez</div>
+    <div class="role">Voice performer and synthetic-media artist</div>
+    <div class="rule"></div>
+    <p class="hook">You are theatrical, observant and rigorous about consent, and you want acknowledgement for work somebody reused without asking.</p>
+
+    <h2>You win if</h2>
+    <p>Two people distinguishing performance from authorship out loud, and one plausible path identified by which your material entered R-associated use.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Trade performance details to Jules, Frankie or Ash for payment or witness context.</li><li>Give one disclosed demonstration that another player can read more than one way.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Frankie to describe the encounter in sensory detail before you say anything about yourself.</li><li>Tell Jules you recognise the shape of an intermediary payment, and offer a private comparison in confidence.</li><li>Invite the most skeptical person present to hear a short disclosed demonstration, then ask what it proves and what it cannot.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Frankie Lowell</b> &#183; what Frankie actually remembers of the encounter.</li><li><b>Jules Kwan</b> &#183; compare the payment route.</li><li><b>Eli Navarro</b> &#183; what path could carry old recordings into later R activity.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O04 commission card; O12c late corpus clippings.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The commission card, a disclosed demonstration, and your professional read on the late pieces.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You took money to let a witness believe you were R, and you never learned who paid.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you took the commission and let a witness believe they had met R.</p>
+
+    <h2>Watch for</h2>
+    <p>Someone will suggest you generated the late R pieces yourself, because you are the room's synthetic-media artist. Your demonstration shows possibility, never proof.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Expose the commission, or protect the client and keep control of the work.</span>
+      
+    </div>
+  </div>
+</div>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Tony Calderón</div>
+    <div class="role">Bodega and package-counter owner</div>
+    <div class="rule"></div>
+    <p class="hook">You are sociable, proud and hard to rush, and you want an old account settled without outsiders taking ownership of the neighborhood's story.</p>
+
+    <h2>You win if</h2>
+    <p>The account resolved by payment, a credible promise or a deliberate public forgiveness, with one neighbor backing whichever you choose.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Trade a bounded transaction pattern to Morgan, Graham or Frankie for something concrete.</li><li>Reach a mutual disclosure boundary with Dee, Rosa or Manny.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Find Rosa or Dee and agree what neighborhood detail stays off limits until there are protections.</li><li>Ask Frankie to describe R's supposed private habit before you mention the ledger holds something similar.</li><li>Tell Morgan you will discuss the pattern once Morgan sets terms on attribution and customer privacy.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Rosa Baptiste</b> &#183; protection agreed before you talk to anyone official.</li><li><b>Morgan Shaw</b> &#183; terms on attribution and privacy.</li><li><b>Kit Rakes</b> &#183; when the ledger-cipher theory arrives, gather an audience before you open the book.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O06 account strip.</p><p class="note">The strip is stamped WK OF 16 FEB 2025. So is Kit's notebook.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The account strip, Old Benny's voicemail about envelopes running through three hands, and the real context on collectors and pickups.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You altered a ledger entry once as a favor, and your one loyal customer papers over several collectors who cannot all be the same person.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you took cash off the books and changed an entry as a favor.</p>
+
+    <h2>Watch for</h2>
+    <p>Kit will read your prices and timestamps as coded movements. The $4.50 is a bacon, egg and cheese, not a coordinate.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Sell the valuable version, or admit the ledger records several incompatible customers.</span>
+      
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Dee Nowak</div>
+    <div class="role">Building superintendent</div>
+    <div class="rule"></div>
+    <p class="hook">You are quiet, sardonic and meticulous, and you want to protect a pension and a neighbor while telling the truth about a gap in the record.</p>
+
+    <h2>You win if</h2>
+    <p>One promise of fair treatment, and a bounded account given to Morgan that another neighborhood witness corroborates.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Settle the unrelated secret with Rosa before either of you speaks publicly.</li><li>Compare observations with Tony or Manny without agreeing on identities neither of you saw.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Tell Rosa quietly that the audit flagged the camera interval, and ask to talk before either of you answers Morgan.</li><li>Compare one precise shift-change detail with Tony, and correct the first embellishment without embarrassing Tony.</li><li>Ask Morgan what fair treatment and a bounded account will actually mean in the final report.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Rosa Baptiste</b> &#183; align on the real reason before anyone speaks publicly.</li><li><b>Morgan Shaw</b> &#183; protection terms first, records second.</li><li><b>Tony Calderón</b> &#183; compare shift times without inventing a customer.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O10a claims notice HS-3062-C.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The camera audit context and the claims notice about the service-crossing collision.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You let a camera record from Vale's route go unpreserved, to protect a tenant's informal use of the building. It had nothing to do with R.</p>
+
+    <h2>Never say</h2>
+    <p class="never">The real, unrelated reason the camera record was not preserved.</p>
+
+    <h2>Watch for</h2>
+    <p>The room will try to fold the camera gap and the later automated access change into one incident. They were separate events.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Reveal the unrelated secret, or stay a plausible accomplice.</span>
+      
+    </div>
+  </div>
+</div>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Celeste Park</div>
+    <div class="role">City Hall technology fixer</div>
+    <div class="rule"></div>
+    <p class="hook">You connect the people the org chart cannot, and tonight you want a coalition that holds without making yourself the story.</p>
+
+    <h2>You win if</h2>
+    <p>Support from three different constituencies, plus one concrete policy or funding commitment that survives whichever ending the room votes.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Agree with Nina or Sam on what can be disclosed and who carries the responsibility.</li><li>Steer Morgan away from the back channel with a plausible alternative, without Morgan noticing the steer.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Arden what Veridian can commit to in public if City Hall protects it in private.</li><li>Tell Rosa you need one neighborhood demand with a deadline on it, and ask what enforcement would make it real.</li><li>Propose to Nina that you compare your two meeting records and split the responsibility rather than both denying.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Nina Sen</b> &#183; compare calendar records before anyone else pairs them.</li><li><b>Graham Pike</b> &#183; ask exactly how the tip reached Graham.</li><li><b>Morgan Shaw</b> &#183; find out what the client's route segment looks like.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O07a calendar recovery, city half.</p></div>
+
+    <h2>You can trade</h2>
+    <p>Introductions, agency access, and your half of the calendar recovery, on your terms.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You erased Vale's off-calendar meeting with Parallax, and the deniable back channel you built at City Hall may be the plumbing under tonight's rumor.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you built the back channel, or that it may sit under both the rumor and the false lead in Vale's route.</p>
+
+    <h2>Watch for</h2>
+    <p>Anyone treating a political or market reaction as proof the article existed. It proves people are frightened, nothing more.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Bury the channel quietly, or hand Morgan its paper trail knowing where it leads.</span>
+      
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Graham Pike</div>
+    <div class="role">Activist short-seller</div>
+    <div class="rule"></div>
+    <p class="hook">You make the impolite financial truth into theatre, and tonight you want the R rumor to move Parallax without anyone tracing the fire back to your match.</p>
+
+    <h2>You win if</h2>
+    <p>Two people outside finance treating the rumor as consequential in public, after you have survived a challenge about where it came from.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Buy a bounded technical statement from Eli or Nina without controlling its wording.</li><li>Convince Arden, Celeste or Kit that what you did was analysis rather than fabrication.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Tell Arden what public reaction would justify a pledge, and disclose your position before anyone finds it.</li><li>Ask Kit which part of the grand theory rests on evidence rather than repetition, and offer reach in exchange for visible corrections.</li><li>Bring Tony two separate offers, one settling the debt and one for bounded ledger access, and keep them separate.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Eli Navarro</b> &#183; buy one bounded technical sentence, in Eli's wording.</li><li><b>Kit Rakes</b> &#183; test which theories are load-bearing.</li><li><b>Tony Calderón</b> &#183; ledger access, priced apart from debt relief.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O17a/b two incompatible fragments.</p></div>
+
+    <h2>You can trade</h2>
+    <p>Money, debt settlement, market access, and an honest account of how the tip spread.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You amplified the first tip past anything you could verify, and a rival desk is about to publish that your two fragment descriptions cannot come from one document.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you may have seeded the rumor yourself, or which handshake you are weighing breaking tonight.</p>
+
+    <h2>Watch for</h2>
+    <p>Anyone offering to cover your position in return for a claim that R acted on its own. That money buys a history, not a fact.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Admit the market tactic, or escalate a rumor that may be false.</span>
+      
+    </div>
+  </div>
+</div>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Sam Vale</div>
+    <div class="role">Vale's former partner</div>
+    <div class="rule"></div>
+    <p class="hook">You are private, perceptive and protective of the person Vale actually was, and tonight you want to know whether Vale used you.</p>
+
+    <h2>You win if</h2>
+    <p>Two Vale observations from independent sources, one false personal claim corrected out loud, and your own decision about what to disclose.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Learn Vale's relationship with Jules and with Eli, giving neither of them the whole private history.</li><li>Compare the route with Morgan, Dee or Rosa and say plainly what is still unknown.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Jules to repeat the whole succession conversation before you show that you already know part of it.</li><li>Tell Eli you know Vale called R no longer human, then ask what evidence made that phrase sayable.</li><li>Set one boundary with Morgan up front: nothing personal enters the timeline without your consent and an uncertainty label.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Jules Kwan</b> &#183; the real succession story, in Jules's own words.</li><li><b>Rosa Baptiste</b> &#183; what the unlogged access was, and for whom.</li><li><b>Morgan Shaw</b> &#183; what the client's evidence actually shows.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O09 sealed envelope (O09a and O09b inside).</p><p class="note">The envelope is genuinely sealed and genuinely openable. Two loose items inside — you may show one and withhold the other.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The sealed envelope, Vale's dated message, and the fact that Vale told three people three different things.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You helped Vale disappear once before and lied about it, and part of you does not want Vale found if this is the same pattern.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you helped Vale vanish before, or that you are not certain you want Vale found.</p>
+
+    <h2>Watch for</h2>
+    <p>Anyone quoting Vale to you as literal truth. Vale used ambiguity as both weapon and shield.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Protect Vale's privacy, or disclose what separates harm from a withdrawal.</span>
+      
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Morgan Shaw</div>
+    <div class="role">Private investigator</div>
+    <div class="rule"></div>
+    <p class="hook">You are patient, skeptical and short of money, and you trust the fewest unsupported steps over the tidiest story.</p>
+
+    <h2>You win if</h2>
+    <p>Voluntary accounts from three different social groups, one contradiction labelled as unresolved rather than solved, and a decision about what to report about the client.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Identify the client by trading limited timeline access to Celeste, Graham or Sam.</li><li>Hold a voluntary case conference with two witnesses whose accounts conflict.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Sam what boundaries would make a timeline conversation possible at all.</li><li>Tell Rosa you want voluntary accounts only, and let Rosa name fair-treatment terms first.</li><li>Bring Tony one narrow time and place rather than the open question of what happened to Vale.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Sam Vale</b> &#183; consent and boundaries before using anything intimate.</li><li><b>Celeste Park</b> &#183; who stands behind your client.</li><li><b>Graham Pike</b> &#183; whether Graham knows the client, without taking the money.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O08 route board.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The route board, shown with its uncertainty labels intact, and a clean line between what you saw and what you infer.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">One route segment your anonymous client supplied looks manufactured, and you left that out of the interim report.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you already know a client segment is manufactured and sat on it.</p>
+
+    <h2>Watch for</h2>
+    <p>Anyone offering to pay for a particular ending. A purchase offer is not corroboration.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Deliver the answer that was bought, or say the case cannot support one.</span>
+      
+    </div>
+  </div>
+</div>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Kit Rakes</div>
+    <div class="role">Conspiracy broadcaster</div>
+    <div class="rule"></div>
+    <p class="hook">You are magnetic, exhausting and certain, and you believe attention is how a buried truth becomes visible.</p>
+
+    <h2>You win if</h2>
+    <p>All six theories explained to the room, both dead ones retracted out loud, and two people recruited to investigate the full progression without taking your word for it.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Get one plain technical statement out of Eli, or provoke a public correction, without calling either one proof.</li><li>Bring early journalism, Parallax and Vale's last route into one voluntary comparison.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Give Frankie the complete theory in one breath, then ask for the single oldest observation Frankie still trusts.</li><li>Offer Eli a public correction in exchange for one bounded technical answer.</li><li>Ask Graham exactly where the article went from possible to certain.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Tony Calderón</b> &#183; read the ledger line by line yourself.</li><li><b>Frankie Lowell</b> &#183; what stays constant across R's changing story.</li><li><b>Eli Navarro</b> &#183; one plain answer, no hype.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O11 theory notebook; O13 Vale-voice draft page.</p><p class="note">Write your retractions into the notebook in red, at the table, in front of people. The space beside theories 5 and 6 is blank for that.</p></div>
+
+    <h2>You can trade</h2>
+    <p>The notebook, the draft page for others to test, your audience, and a correction, which from you is worth more than people expect.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You staged an anonymous source once, and two of your six theories will die in public tonight.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That the ledger cipher and the invitation key are already dead, or that you once staged a source.</p>
+
+    <h2>Watch for</h2>
+    <p>The moment your two theories collapse. Naming them dead, out loud, in front of witnesses, is how you win the room. Calling the correction part of the plot is how you lose it.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Correct the false claims and risk the audience, or sell truth and nonsense in the same package.</span>
+      
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Rosa Baptiste</div>
+    <div class="role">Neighborhood power broker</div>
+    <div class="rule"></div>
+    <p class="hook">You are who the block calls when an institution shows up, and tonight nobody learns your neighbors' names for free.</p>
+
+    <h2>You win if</h2>
+    <p>Two concrete commitments out of Veridian, Parallax, City Hall or labor, and no neighborhood disclosure that did not buy something.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Agree a disclosure boundary with Dee or Tony before Morgan's questioning sharpens.</li><li>Broker one meeting between a local holder and an institution, in exchange for a commitment.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Grace which worker protections and neighborhood demands reinforce each other.</li><li>Tell Tony and Dee that nobody speaks for the others, and propose a shared boundary before the investigator starts.</li><li>Welcome Arden warmly, then ask what Veridian will put in writing tonight.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Dee Nowak</b> &#183; a disclosure boundary before Morgan presses.</li><li><b>Tony Calderón</b> &#183; settle what outsiders are allowed to hear.</li><li><b>Celeste Park</b> &#183; a written commitment before you lend City Hall any legitimacy.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p>O18 Yaz's list of four asks.</p></div>
+
+    <h2>You can trade</h2>
+    <p>An introduction to a neighborhood witness. Never their cooperation, which is not yours to give.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You arranged unlogged back-room and service-route access for someone whose identity you never checked.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That you let an unverified person through the back room and the service exit.</p>
+
+    <h2>Watch for</h2>
+    <p>If Sam connects your route to Vale's old escape plan, that is yours and Sam's to decide, not the room's.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Keep the neighborhood's silence, or clarify Vale's route and spend it.</span>
+      
+    </div>
+  </div>
+</div>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Ash Salerno</div>
+    <div class="role">Tabloid photographer</div>
+    <div class="rule"></div>
+    <p class="hook">You are fast and shameless and you want your photograph vindicated, even though the story you told about it was not true.</p>
+
+    <h2>You win if</h2>
+    <p>Farah dates the negative, and two other people say in public what the image can and cannot show.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Trade the uncropped sequence to Robin or Dorian for help identifying who is in it.</li><li>Sell one commitment for exclusive images or testimony to Graham, Dorian or Arden.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Farah for a private examination of the negative with no promise about the result.</li><li>Show Robin the uncropped frame and ask what performance it would take to stage it.</li><li>Ask Dorian to draft the caption before you talk about rights.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Dr. Farah Haddad</b> &#183; get the negative dated.</li><li><b>Frankie Lowell</b> &#183; does the setting ring a bell, before you name anyone.</li><li><b>Graham Pike</b> &#183; what claim Graham wants to attach, before you sell anything.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p class="note">You hold no documents. Your access, your camera and what you saw are the equipment.</p></div>
+
+    <h2>You can trade</h2>
+    <p>One withheld frame at a time, to one person at a time, and always one held back.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You cropped the image and held back the adjacent frames, which make the encounter look staged and accompanied rather than solitary.</p>
+
+    <h2>Never say</h2>
+    <p class="never">I photographed R. You photographed someone presented as R.</p>
+
+    <h2>Watch for</h2>
+    <p>Kit will wrap your photo in six incompatible theories. Get its limits stated in public before it leaves your hand.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Publish the version that vindicates you, or admit the presentation was manipulated.</span>
+      <span class="optional">optional role</span>
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Dr. Farah Haddad</div>
+    <div class="role">NYPL digital-preservation archivist</div>
+    <div class="rule"></div>
+    <p class="hook">You are exacting about the line between an object, its custody and the story people want it to tell, and tonight an exam you never logged catches up with you.</p>
+
+    <h2>You win if</h2>
+    <p>The First R Letter re-examined under documented conditions, and the anomaly disclosed on your terms rather than someone else's.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Date Ash's negative honestly, in a way that neither vindicates nor destroys Ash.</li><li>Correct two public conflations of dating with authorship, without humiliating the speaker.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Tell Frankie privately that any public statement has to carry the limits of the old examination.</li><li>Ask Arden what documented archive access would require, before you say why you want it.</li><li>Invite Ash to show the uncropped sequence before you discuss authentication at all.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Frankie Lowell</b> &#183; the letter's storage history, which may explain the trace innocently.</li><li><b>Arden Bell</b> &#183; conditions for a documented re-examination.</li><li><b>Ash Salerno</b> &#183; offer a bounded dating of the negative.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p class="note">You hold no documents. Your hands and your instruments are the equipment.</p></div>
+
+    <h2>You can trade</h2>
+    <p>A plain-language statement of what an examination can and cannot establish.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">You examined the First R Letter informally years ago, recorded nothing, and found a trace consistent with a modern optical brightener in the fold.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That the letter is authenticated. You date materials, not authors.</p>
+
+    <h2>Watch for</h2>
+    <p>Dorian wants one precise sentence from you to carry a whole book. Do not let a narrow finding become someone else's certainty.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Disclose the undocumented exam and the anomaly, or keep your neutrality and let the legend stand.</span>
+      <span class="optional">optional role</span>
+    </div>
+  </div>
+</div>
+<div class="sheet">
+  <div class="card">
+    <div class="name">Dorian Ashe</div>
+    <div class="role">Celebrity biographer</div>
+    <div class="rule"></div>
+    <p class="hook">You are charming and invasive, chasing the human story of R and Vale, and you believe a narrative can be true before the paper catches up.</p>
+
+    <h2>You win if</h2>
+    <p>On-record confirmation from two intimates, and survival of one public challenge about where your letters came from.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Get Sam, Frankie or Farah to validate or refute one intimate-looking letter.</li><li>Compare cadence with Kit's draft page and state what that comparison cannot show.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Ask Sam what conditions would make even one private memory usable.</li><li>Offer Ash a caption for the image and watch which word draws the objection.</li><li>Show Farah one item with its uncertainty disclosed, and ask what an examination could actually do.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Sam Vale</b> &#183; editorial control over Vale's portrayal, for a reading of one letter.</li><li><b>Kit Rakes</b> &#183; compare your cadence against the tip-line draft page.</li><li><b>Frankie Lowell</b> &#183; check whether the trove is recycling Frankie's own embellishments.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p class="note">You hold no documents tonight but the letters you brought. Reach and persuasion are the equipment.</p></div>
+
+    <h2>You can trade</h2>
+    <p>Publishing contacts, interview access and narrative reach.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">Your correspondence mixes genuine fragments with pieces you reconstructed or invented, and none of it is labelled.</p>
+
+    <h2>Never say</h2>
+    <p class="never">That the correspondence is authenticated. The custody is incomplete and some of it is yours.</p>
+
+    <h2>Watch for</h2>
+    <p>If Sam or Farah demonstrates a fabrication in front of the room, the book dies. Do not get cornered into a live test.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Publish the moving version, or the true one.</span>
+      <span class="optional">optional role</span>
+    </div>
+  </div>
+  <div class="card">
+    <div class="name">Manny Diallo</div>
+    <div class="role">Delivery cyclist and freelance fixer</div>
+    <div class="rule"></div>
+    <p class="hook">You know the city by loading zones and service entrances, and tonight you want paying for the errand trail without the trail exposing you.</p>
+
+    <h2>You win if</h2>
+    <p>Accounts settled with Tony, and one written protection in hand before you give up any route detail.</p>
+
+    <h2>And also if</h2>
+    <ul><li>Learn from Dee or Rosa what the delivery address connects to before you hand the object to anyone.</li><li>Trade one bounded route confirmation to Morgan or Grace for payment or protection.</li></ul>
+
+    <h2>Your first twenty minutes</h2>
+    <ol><li>Set a disclosure boundary with Grace or Rosa before you mention the object at all.</li><li>Ask Tony to compare one transaction and settle one old balance.</li><li>Ask Dee which route practices can be discussed without exposing tenants or workers.</li></ol>
+
+    <h2>Find these people</h2>
+    <ul class="who"><li><b>Grace Okafor</b> &#183; protection, in writing.</li><li><b>Tony Calderón</b> &#183; reconcile the half-records and settle the unpaid work.</li><li><b>Rosa Baptiste</b> &#183; what the address connects to, before the object moves.</li></ul>
+
+    <h2>In your hands</h2>
+    <div class="hands"><p class="note">You hold no documents. The dispatch history in your head and one undelivered object are the equipment.</p></div>
+
+    <h2>You can trade</h2>
+    <p>One bounded route confirmation, for payment or protection.</p>
+
+    <h2>You are hiding</h2>
+    <p class="secret">Some jobs bypassed app rules and identification, and you are still holding an undelivered object you have never opened.</p>
+
+    <h2>Never say</h2>
+    <p class="never">What is in the undelivered object. You do not know, and guessing costs you.</p>
+
+    <h2>Watch for</h2>
+    <p>Graham will turn a dispatch anomaly into a market claim by morning. Learn what Graham is buying before you speak.</p>
+
+    <div class="foot">
+      <span class="choice">Your choice at the end: Hand the object over, deliver it as dispatched, or destroy it unopened.</span>
+      <span class="optional">optional role</span>
+    </div>
+  </div>
+</div>

@@ -35,6 +35,6 @@ The core object set includes:
 - Vale-voice draft page (Kit)
 - Night Desk payment strip (Tessa)
 
-Also print the sixteen pre-game historical emails from `../design/data/messages.csv` as physical handouts for any player using a paper inbox, the four ending scripts from [`../design/ending-reveals.md`](../design/ending-reveals.md), and one one-page cheat card per role (primary goal, three opening moves, prop list).
+Also print the sixteen pre-game historical emails from `../design/data/messages.csv` as physical handouts for any player using a paper inbox, the four ending scripts from [`../design/ending-reveals.md`](../design/ending-reveals.md), and one one-page cheat card per role from [`props/cheat-cards.html`](props/cheat-cards.html).
 
 The game does not use printed pages from the rumored final article, a publication ballot, arrest or immunity forms, forced-transfer cards, or any prop that authenticates an ending. The R corpus excerpts are interpretive objects from R's published body of work; they must never be presented as the rumored final article.

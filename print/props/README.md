@@ -55,6 +55,7 @@ agrees with it.
 | File | Object | Starts with | Notes |
 |---|---|---|---|
 | `INVITATION.png` | — | everyone | Letterpress card. The red plate is deliberately misregistered with corner crosshairs — this is what Kit circles as a hidden "machine key" and what Nadia disproves in V2M008 as an ordinary tired press. Print one per guest. |
+| `cheat-cards.html` | — | everyone | One page per role: goal, first twenty minutes, who to find first, what you hold, what you never say. Two per sheet at 5.5x8.5in, **printed at 100%** and cut down the middle so it fits a pocket. The booklet stays on the table; this is what comes to the bar. Wording lives in `CHEATCARDS.py`. |
 | `name-cards.html` | — | everyone | 20 wearable cards, 4×3in, six per sheet. **Print at 100%, not "fit to page."** Open in a browser and print to PDF. |
 | `commitment-cards.html` | — | the host's stack | Blank two-part promise cards, four per sheet, torn down the middle so both parties leave holding the same words. **Print a lot.** See below. |
 | `NAMECARD-reference.png` | — | — | Visual reference only, showing the intended look. The HTML is the thing to print. |
