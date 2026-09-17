@@ -2,7 +2,7 @@
 
 ## Masquerade
 
-The party is masked. Buy a box of plain half-masks for the door — assume a third of the room arrives without one — and print a **name card per player** carrying the character name and public role, legible at arm's length in low light. The cards are not decoration: masks plus twenty unfamiliar names is a room where nobody can open a conversation, and the shy players are the ones that silences.
+The party is masked. The full mask buy list, character by character, is in [`masks.md`](masks.md). Buy a box of plain half-masks for the door — assume a third of the room arrives without one — and print a **name card per player** carrying the character name and public role, legible at arm's length in low light. The cards are not decoration: masks plus twenty unfamiliar names is a room where nobody can open a conversation, and the shy players are the ones that silences.
 
 ## Generated props
 
