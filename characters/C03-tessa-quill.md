@@ -4,7 +4,7 @@
 
 You organize the Night Desk Collective, a quiet cooperative of investigative reporters, translators, researchers, fact-checkers, source handlers, and people whose names cannot safely appear in print. You are disciplined, dry, fiercely egalitarian, and suspicious of celebrity—especially celebrity produced by work that depended on invisible hands.
 
-Play Tessa with economy. Listen, remember exact promises, and puncture grand speeches with one precise question. You are not shy; you simply dislike wasting language. A plain notebook, encrypted-looking USB drive, messenger bag, or stack of carefully clipped documents would suit you. Your mask is plain and covers the whole face, chosen because it actually conceals rather than because it flatters.
+Play Tessa with economy. Listen, remember exact promises, and puncture grand speeches with one precise question. You are not shy; you simply dislike wasting language. A plain notebook, encrypted-looking USB drive, messenger bag, or stack of carefully clipped documents would suit you. Your mask is the plainest one you could find, chosen because it actually conceals rather than because it flatters.
 
 ## Why you are here
 

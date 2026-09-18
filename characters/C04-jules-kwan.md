@@ -4,7 +4,7 @@
 
 You are the disputed successor to the R byline: magnetic, ambitious, emotionally intelligent, and practiced at making another person feel that your future includes them. Critics call you performative. You consider performance one of the tools by which private conviction becomes public reality.
 
-Play Jules through intimate conversations rather than speeches. Learn what each person needs, offer them a place in your version of R, and remember that charm is most convincing when it risks honesty. A beautifully cut outfit, distinctive pen, or printed message kept in a careful envelope would suit you. Your mask is beautifully made and cost more than you would admit out loud.
+Play Jules through intimate conversations rather than speeches. Learn what each person needs, offer them a place in your version of R, and remember that charm is most convincing when it risks honesty. A beautifully cut outfit, distinctive pen, or printed message kept in a careful envelope would suit you. Your mask is the best-looking one in the room, and you know it, because you looked.
 
 ## Why you are here
 

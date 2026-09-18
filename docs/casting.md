@@ -10,19 +10,19 @@ for someone who would hate chasing people across a room.
 | Level | Character | What the seat demands | Comes to you | Cast | Wears |
 |---|---|---|---|---|---|
 | **5** | Kit Rakes | Six theories explained to everyone, two retracted in public, two recruits won | very high | Your loudest friend, who enjoys being wrong in front of people | Bold glasses, pocket recorder, a chaotic stack of printouts. A mask you have loud opinions about |
-| **5** | Celeste Park | Three constituencies, endless introductions, and a deception aimed at Morgan | high | A natural operator who can run three conversations at once | Sharp jacket, city badge, two phones. Elegant mask that comes off in half a second for a camera |
+| **5** | Celeste Park | Three constituencies, endless introductions, and a deception aimed at Morgan | high | A natural operator who can run three conversations at once | Sharp jacket, city badge, two phones. Mask taped to a skewer, off the face in half a second for a camera |
 | **5** | Arden Bell | Hosts the evening, works every guest, makes a public declaration at the end | high | Someone comfortable speaking to a silent room | Black blazer, lanyard, clipboard. Plain black half-mask, pushed up more than down |
 | **4** | Frankie Lowell | Holds court, gets two people to cite you, and takes a public contradiction | very high | A performer who can be charming and wrong in the same breath | Old blazer, press badge, folded newspaper. Cheap domino from the door box, already crooked |
 | **4** | Rosa Baptiste | Two commitments extracted from institutions, boundaries set with three neighbors | highest | Someone who enjoys saying no until the offer improves | Neighborhood tote, annotated program. The mask left over from the block association fundraiser |
 | **4** | Grace Okafor | Two commitments from separate worlds, with a worker kept anonymous throughout | high | Direct, unembarrassed by asking twice | Plain clothes, tote, annotated contract. Ordinary mask with a union pin at the temple |
-| **4** | Graham Pike | Works the whole room transactionally, survives a public challenge | medium | A big, funny presence who can take a hit | Immaculate casualwear, loud pocket square, marked-up chart. Absurd expensive mask, worn as a joke |
+| **4** | Graham Pike | Works the whole room transactionally, survives a public challenge | medium | A big, funny presence who can take a hit | Immaculate casualwear, loud pocket square, marked-up chart. The loudest mask in the pack, worn with delight |
 | **4** | Morgan Shaw | Voluntary accounts from three social groups, plus a case conference convened | very high | Patient and organized, happy to interview strangers | Messenger bag, worn notebook, folding street map. Mask chosen for watching a room unwatched |
-| **3** | Jules Kwan | Support from two different groups, after letting someone find the flaw | high | Charismatic, in a small-group way | The sharpest outfit you own, good pen, an envelope carried like it matters. Expensive mask |
-| **3** | Tessa Quill | Few conversations, all heavy, each ending in written conditions | medium | Precise, hard to rush, comfortable negotiating | All black, messenger bag, clipped documents. Plain full-face mask, chosen to conceal rather than flatter |
+| **3** | Jules Kwan | Support from two different groups, after letting someone find the flaw | high | Charismatic, in a small-group way | The sharpest outfit you own, good pen, an envelope carried like it matters. The best mask in the room |
+| **3** | Tessa Quill | Few conversations, all heavy, each ending in written conditions | medium | Precise, hard to rush, comfortable negotiating | All black, messenger bag, clipped documents. The plainest mask there is, chosen to conceal rather than flatter |
 | **3** | Dr. Nina Sen | Three key negotiations; the room comes to you more than you go to it | high | Poised, likes holding cards | Minimalist dark jacket, one discreet accessory, slim folder. Matte mask, deliberately unmemorable |
 | **3** | Robin Velez | One or two set-piece demonstrations, plus targeted comparisons | medium | A theatrical friend who wants a moment, not a marathon | Dramatic scarf, excellent glasses, calling card. Theatrical mask, and a second one in the bag |
 | **2** | Eli Navarro | Everyone comes to you. Two careful public statements, corrections as needed | very high | Quiet and exact, unbothered by scrutiny | Rumpled button-down or old company hoodie, hardware key. The mask left in the box, never adjusted |
-| **2** | Tony Calderón | Settle one debt, protect the block. Sociable, low obligation | medium | Someone funny who does not want a job | Apron, receipt book, reading glasses. Paper mask on an elastic, the kind you sell by the register |
+| **2** | Tony Calderón | Settle one debt, protect the block. Sociable, low obligation | medium | Someone funny who does not want a job | Apron, receipt book, reading glasses. Creased mask on plain elastic, the kind you sell by the register |
 | **2** | Sam Vale | The emotional center. High traffic inward, very little you must initiate | very high | Quiet presence; comfortable being the person others approach | Understated coat, familiar keychain, the sealed envelope. Plain mask, and you are grateful for it |
 | **1** | Dee Nowak | A handful of conversations, all reactive, all late | medium | Your shyest guest. This seat still matters without effort | Work jacket, keys, small flashlight. Mask borrowed at the door, resented, fogging your glasses |
 
@@ -40,13 +40,14 @@ Every line in the **Wears** column is out of that character's own booklet, so a 
 their booklet arrives already agreeing with the chart. The one exception is Kit, whose booklet
 says only that Kit has opinions about the mask and will share them unprompted.
 
-Do not tidy the masks into a matching set. Working characters did not buy expensive ones: Dee's
-is borrowed and fogs, Tony sells his by the register, Rosa's is three years old and from a
-fundraiser, Eli never touched the one left in the box. Jules and Graham spent real money. That
-contrast is the story's argument about who pays for other people's evenings, made in objects.
+Do not tidy the masks into a matching set. The gap is the story's argument about who pays for
+other people's evenings, made in objects rather than dialogue: Dee's is borrowed and fogs, Tony
+sells his by the register, Rosa's is three years old and from a fundraiser, Eli never touched
+the one left in the box, while Jules and Graham are wearing the best in the room and enjoying it.
 
-Put a box of plain half-masks by the door anyway. A third of the room will arrive without one,
-and nobody should have to choose between an unplanned costume and standing out.
+That gap comes out of one bulk pack, sorted into three piles and handed out by wear-state rather
+than by price. [`../print/masks.md`](../print/masks.md) has the allocation and the five minutes
+of preparation it takes.
 
 ## What this means for sixteen guests
 

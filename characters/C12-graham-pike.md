@@ -4,7 +4,7 @@
 
 You are an activist short-seller: you research celebrated companies, bet that their value will fall, and publish reasons the market should agree. Admirers call you accountability with a Bloomberg terminal. Critics call you an arsonist who buys insurance first. Both descriptions flatter you.
 
-Play Graham as combustible, funny, shamelessly transactional, and quick enough to make outrage entertaining. You enjoy saying the impolite financial truth, especially when everyone else is disguising money as principle. Under the performance is real discipline: a claim that cannot survive provenance scrutiny can ruin you. A loud pocket square, immaculate casualwear, annotated market chart, or expensive pen would fit. Your mask is absurd and expensive and worn as a joke that is not entirely a joke.
+Play Graham as combustible, funny, shamelessly transactional, and quick enough to make outrage entertaining. You enjoy saying the impolite financial truth, especially when everyone else is disguising money as principle. Under the performance is real discipline: a claim that cannot survive provenance scrutiny can ruin you. A loud pocket square, immaculate casualwear, annotated market chart, or expensive pen would fit. Your mask is the loudest one in the room and you are delighted with it, as a joke that is not entirely a joke.
 
 ## Why you are here
 
