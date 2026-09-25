@@ -252,22 +252,22 @@ CARDS["C18"] = dict(
     secret="You examined the First R Letter informally years ago, recorded nothing, and found a trace consistent with a modern optical brightener in the fold.",
     win="The First R Letter re-examined under documented conditions, and the anomaly disclosed on your terms rather than someone else's.",
     also=[
-        "Date Ash's negative honestly, in a way that neither vindicates nor destroys Ash.",
+        "Count the hands in Tessa's middle draft and say in public how many and in what order, naming nobody.",
         "Correct two public conflations of dating with authorship, without humiliating the speaker.",
     ],
     opens=[
         "Tell Frankie privately that any public statement has to carry the limits of the old examination.",
         "Ask Arden what documented archive access would require, before you say why you want it.",
-        "Invite Ash to show the uncropped sequence before you discuss authentication at all.",
+        "Ask Tessa what conditions would let you see the middle draft. Promise to count hands, not name them.",
     ],
     find=[
         ("Frankie Lowell", "the letter's storage history, which may explain the trace innocently"),
         ("Arden Bell", "conditions for a documented re-examination"),
-        ("Ash Salerno", "offer a bounded dating of the negative"),
+        ("Tessa Quill", "a look at the middle draft, on Tessa's terms"),
     ],
     trade="A plain-language statement of what an examination can and cannot establish.",
     never="That the letter is authenticated. You date materials, not authors.",
-    watch="Dorian wants one precise sentence from you to carry a whole book. Do not let a narrow finding become someone else's certainty.",
+    watch="Frankie wants one precise sentence from you to carry a whole legend. Do not let a narrow finding become someone else's certainty.",
     choice="Disclose the undocumented exam and the anomaly, or keep your neutrality and let the legend stand.",
 )
 

@@ -62,3 +62,37 @@ Kit is the one piece of casting that decides how the evening goes. Across fiftee
 runs, Kit's credibility arc determined on its own whether the progressive reading got anywhere.
 Kit is also publicly disproven twice by design. Cast someone who can retract in front of people
 and keep going.
+
+## The eighteen-guest run
+
+For the 9 April 2027 party: sixteen core roles plus Farah and Manny. Guests are sorted on the
+host's own 1 to 3 scale, where 3 is the most involved. That scale is separate from the 1 to 5
+seat levels above.
+
+| Guests | Count | Roles (seat level) |
+|---|---|---|
+| Men, 3 | 2 | Kit Rakes (5), Frankie Lowell (4) |
+| Women, 3 | 3 | Celeste Park (5), Arden Bell (5), Morgan Shaw (4) |
+| Men, 2 | 3 | Graham Pike (4), Robin Velez (3), Eli Navarro (2) |
+| Women, 2 | 5 | Rosa Baptiste (4), Grace Okafor (4), Jules Kwan (3), Tessa Quill (3), Dr. Nina Sen (3) |
+| Men, 1 | 2 | Tony Calderón (2), Manny Diallo (optional) |
+| Women, 1 | 3 | Dee Nowak (1), Sam Vale (2), Dr. Farah Haddad (optional) |
+
+Every name is gender-neutral, so the men and women columns are only how the guest list was
+sorted.
+
+Farah and Manny are the optional roles whose conversations run through core characters.
+Farah's route goes through Frankie, Arden and Tessa. Manny's goes through Tony, Dee, Rosa and
+Grace. Ash and Dorian both need a confident player, and each depends on the other optional
+roles.
+
+Eli goes to a guest rated 2, not 1. Everyone comes to Eli, and Eli has to make two careful
+public statements, which is too much for the quietest guests. Manny's main goal is settling accounts with Tony, which gives the
+two quietest men a reason to find each other early.
+
+Each optional role gets four messages (V2M072 to V2M079): one pre-game and one in each section.
+Farah's second goal now runs through Tessa's middle draft, not Ash's negative, so it works
+without Ash.
+
+Manny needs one physical prop: a small sealed parcel, unlabelled apart from job SL-40117. Its
+contents stay undefined. Nobody at the party knows what is inside, and neither does the host.

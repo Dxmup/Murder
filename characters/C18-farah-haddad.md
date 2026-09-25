@@ -8,7 +8,7 @@ Play Farah as engaged rather than bloodless. You care because careless certainty
 
 ## Why you are here
 
-Veridian invited you because the R history contains disputed paper, incomplete digital deposits, and famous gaps. Frankie hopes you will validate the First R Letter. Tessa wants to know what traces of the Night Desk Collective survived. Ash wants a verdict on a photograph. Dorian wants professional authority for an intimate human story.
+Veridian invited you because the R history contains disputed paper, incomplete digital deposits, and famous gaps. Frankie hopes you will validate the First R Letter. Tessa wants to know what traces of the Night Desk Collective survived. If Ash and Dorian come, Ash will want a verdict on a photograph and Dorian professional authority for an intimate human story.
 
 You expected to discuss preservation. Vale's absence and the rumored article have turned every gap into possible evidence—though you know better than most that missing material can result from concealment, neglect, migration failure, or something never existing.
 
@@ -26,7 +26,7 @@ You also know that material later published under R passed through a shared Nigh
 
 You begin with no favored identity for R. A period letter supports an early physical act, not a single continuing author. Shared deposits support human contribution, not necessarily a human-controlled identity. Digital continuity can be created by people, systems, or both.
 
-Your emotional bias is toward explanations that respect uncertainty. Tonight may challenge that neutrality: Frankie made you part of a legend, and Dorian may show you correspondence whose humanity feels persuasive even when custody is weak.
+Your emotional bias is toward explanations that respect uncertainty. Tonight may challenge that neutrality: Frankie made you part of a legend, and Dorian, if present, may show you correspondence whose humanity feels persuasive even when custody is weak.
 
 You have seen no authenticated complete article and cannot infer existence from rumors, fragments, or gaps.
 
@@ -34,8 +34,8 @@ You have seen no authenticated complete article and cannot infer existence from 
 
 - **Primary Goal:** Protect archival integrity while resolving the examination you never documented.
   - *Success Condition:* Get the First R Letter re-examined under documented conditions, and disclose the fold anomaly on your own terms rather than someone else's.
-- **Secondary Goal 1 (Social & Supportive):** Date Ash's negative honestly.
-  - *Success Condition:* Deliver a bounded materials finding that neither vindicates nor destroys Ash.
+- **Secondary Goal 1 (Social & Supportive):** Read the hands in Tessa's middle draft without naming them.
+  - *Success Condition:* Examine the middle-period draft on Tessa's terms, then say in public how many hands it shows and in what order, without identifying anyone.
 - **Secondary Goal 2 (Social & Supportive):** Keep provenance distinct from authorship in public.
   - *Success Condition:* Correct two public conflations of dating with authorship without humiliating the speakers.
 - **Your Final Choice:** Disclose the undocumented exam and the anomaly in the letter's fold, or preserve professional neutrality and let the legend stand.
@@ -78,17 +78,19 @@ Frankie owns the famous early story and wants your authority attached to it. You
 
 Tessa understands the people behind anonymous deposits. You understand what survived. Offer protection and careful language in exchange for context; never turn an archival gap into a list of suspects.
 
-### Ash Salerno
+Tessa holds a paper draft from the middle of the run with margin notes in at least three hands. Counting those hands and putting them in order is a finding nobody has made. Naming them is a betrayal Tessa will not forgive. Ask for the first and refuse the second out loud, so Tessa hears you refuse it.
+
+### Ash Salerno, if present
 
 Ash wants vindication for a disputed image. You can validate narrow technical features without identifying the subject or function. Ask to see the complete sequence, not merely the celebrated crop.
 
-### Dorian Ashe
+### Dorian Ashe, if present
 
 Dorian believes emotional coherence reveals truth. You know coherence can be manufactured. Still, Dorian may hold material worth preserving. Negotiate custody without lending certainty.
 
 ### Arden Bell
 
-Arden controls Veridian's archive and needs institutional credibility. Arden can give you the one thing tonight offers nowhere else: documented conditions under which the letter could be examined properly. A bounded dating of Ash's negative is a fair opening price. Offer help while asking who controls access, corrections, and future preservation.
+Arden controls Veridian's archive and needs institutional credibility. Arden can give you the one thing tonight offers nowhere else: documented conditions under which the letter could be examined properly. A fair opening price is your signature under the limits of Veridian's own intake report, which gives the archive a credibility it cannot give itself. Offer help while asking who controls access, corrections, and future preservation.
 
 ### Robin Velez
 
@@ -98,7 +100,7 @@ Robin knows how performed identity and synthetic media complicate the apparent a
 
 - Tell Frankie privately that any public statement must include the limits of your old examination.
 - Ask Arden what documented archive access would require, before saying why you want it.
-- Invite Ash to show the uncropped sequence before discussing authentication.
+- Ask Tessa what conditions would let you look at the middle draft, and promise to count hands rather than name them.
 
 ## During the game
 
