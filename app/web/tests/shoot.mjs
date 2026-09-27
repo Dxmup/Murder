@@ -15,11 +15,8 @@ import { chromium } from "playwright";
 
 const BASE = process.env.BASE ?? "http://localhost:3000";
 const OUT = process.env.OUT ?? "/tmp/shots";
-const PLAYER = { email: "abell@veridiandynamics.org", password: "pressproofregmarks" };
-const HOST = {
-  email: process.env.HOST_EMAIL ?? "host@veridiandynamics.org",
-  password: process.env.HOST_PASSWORD ?? "fifteenyears",
-};
+const PLAYER = { password: "pressproofregmarks" };
+const HOST = { password: process.env.HOST_PASSWORD ?? "fifteenyears" };
 
 // iPhone-class viewport: the reference is a phone screenshot and every player
 // is on their own handset.
@@ -28,9 +25,8 @@ const VIEWPORT = { width: 390, height: 844 };
 // Only shoot the themes asked for, so a quick dark-only pass stays quick.
 const THEMES = (process.env.THEMES ?? "dark,light").split(",").filter(Boolean);
 
-async function signIn(page, { email, password }) {
+async function signIn(page, { password }) {
   await page.goto(`${BASE}/login`, { waitUntil: "networkidle" });
-  await page.fill("#email", email);
   await page.fill("#password", password);
   await Promise.all([
     page.waitForURL((u) => !u.pathname.startsWith("/login")),

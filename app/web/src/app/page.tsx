@@ -1,27 +1,17 @@
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
+import { recordVisit } from "@/lib/activity";
 import { Avatar, listNameOf } from "@/lib/avatar";
 import { getCharacter } from "@/lib/content";
 import { DeliveredMessage, Thread, threadContaining, threadsFor } from "@/lib/delivery";
 import { previewOf } from "@/lib/mailbody";
+import { MailWatcher } from "@/lib/mailwatch";
+import { READ_COOKIE, READ_MAX, parseRead } from "@/lib/readstate";
 import { requireCharacter } from "@/lib/session";
 import { getStore } from "@/lib/state";
 
 export const dynamic = "force-dynamic";
 export const metadata = { title: "Inbox" };
-
-/**
- * Which messages this handset has already opened. Read state is per-device and
- * disposable — it is a scanning aid for a player standing in a dark room, not
- * game state — so it lives in a plain cookie rather than the shared store.
- */
-const READ_COOKIE = "rmurder_read";
-const READ_MAX = 200;
-
-function parseRead(value: string | undefined): Set<string> {
-  if (!value) return new Set();
-  return new Set(value.split(",").filter(Boolean));
-}
 
 /**
  * Opening a message is a write (it sets the read cookie), so the row is a form
@@ -65,7 +55,7 @@ async function openMessage(formData: FormData) {
 function isArchival(message: DeliveredMessage): boolean {
   // The briefing is also section 0, but it is tonight's preparation rather
   // than kept correspondence, so it never takes the archive treatment.
-  return message.section === 0 && message.type !== "briefing";
+  return message.section === 0 && message.type !== "briefing" && message.type !== "props";
 }
 
 /** The clock time a live message landed. Empty for archival mail. */
@@ -250,18 +240,27 @@ export default async function InboxPage() {
   if (!character) redirect("/login");
 
   const state = await getStore().read();
+  await recordVisit(characterId);
 
   const jar = await cookies();
   const seen = parseRead(jar.get(READ_COOKIE)?.value);
   const isUnread = (t: Thread) => t.messages.some((m) => !seen.has(m.id));
 
   const threads = threadsFor(characterId, state);
-  const briefing = threads.find((t) => t.latest.type === "briefing") ?? null;
-  const tonight = threads.filter((t) => !isArchival(t.latest) && t.latest.type !== "briefing");
+  const deliveredIds = threads.flatMap((t) => t.messages.map((m) => m.id));
+  const unreadCount = deliveredIds.filter((id) => !seen.has(id)).length;
+  // The briefing and the props note are the character's own preparation, so
+  // they sit together above the mail rather than among it.
+  const own = (t: Thread) => t.latest.type === "briefing" || t.latest.type === "props";
+  const preparation = threads
+    .filter(own)
+    .sort((a, b) => (a.latest.type === "briefing" ? -1 : b.latest.type === "briefing" ? 1 : 0));
+  const tonight = threads.filter((t) => !isArchival(t.latest) && !own(t));
   const archive = threads.filter((t) => isArchival(t.latest));
 
   return (
     <main className="min-h-dvh bg-surface pb-20 text-strong">
+      <MailWatcher initialIds={deliveredIds} initialUnread={unreadCount} onInbox />
       {/*
         The app bar every stock client has: where you are on the left, whose
         account you are in on the right. An earlier version stacked an eyebrow,
@@ -281,9 +280,11 @@ export default async function InboxPage() {
         </div>
       </header>
 
-      {briefing ? (
+      {preparation.length > 0 ? (
         <Group label="Your briefing">
-          <Row thread={briefing} unread={isUnread(briefing)} />
+          {preparation.map((thread) => (
+            <Row key={thread.id} thread={thread} unread={isUnread(thread)} />
+          ))}
         </Group>
       ) : null}
 
@@ -320,7 +321,7 @@ export default async function InboxPage() {
           </svg>
           <p className="mt-4 text-[17px] font-medium text-body">No mail yet</p>
           <p className="mt-1.5 max-w-[24rem] text-[15px] leading-relaxed text-muted">
-            Nothing has arrived for you. Leave this open — new mail appears here
+            Nothing has arrived for you. Leave this open; new mail appears here
             as the evening goes on.
           </p>
         </div>

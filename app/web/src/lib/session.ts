@@ -1,5 +1,6 @@
 import { createHmac, timingSafeEqual } from "node:crypto";
 import { cookies } from "next/headers";
+import { getStore } from "@/lib/state";
 
 const COOKIE = "rmurder_session";
 const HOST_ID = "host";
@@ -49,7 +50,10 @@ export async function currentSubject(): Promise<string | null> {
 
 export async function requireCharacter(): Promise<string | null> {
   const subject = await currentSubject();
-  return subject && subject !== HOST_ID ? subject : null;
+  if (!subject || subject === HOST_ID) return null;
+  // A character the host has taken out of play is signed out on the next request.
+  const { disabled } = await getStore().read();
+  return disabled.includes(subject) ? null : subject;
 }
 
 export async function isHost(): Promise<boolean> {

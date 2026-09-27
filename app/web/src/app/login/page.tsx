@@ -48,32 +48,11 @@ export default async function LoginPage({
             Mail
           </h1>
           <p className="mt-2 text-[16px] leading-snug text-muted">
-            Sign in to your account to read your mail.
+            Enter your password to read your mail.
           </p>
         </div>
 
         <form action="/api/login" method="post" className="mt-8 space-y-5">
-          <div>
-            <label htmlFor="email" className={labelClass}>
-              Email address
-            </label>
-            <input
-              id="email"
-              name="email"
-              type="email"
-              required
-              autoFocus
-              inputMode="email"
-              enterKeyHint="next"
-              placeholder="you@example.com"
-              autoComplete="username"
-              autoCapitalize="none"
-              autoCorrect="off"
-              spellCheck={false}
-              className={fieldClass}
-            />
-          </div>
-
           <div>
             <label htmlFor="password" className={labelClass}>
               Password
@@ -83,8 +62,9 @@ export default async function LoginPage({
               name="password"
               type="password"
               required
+              autoFocus
               enterKeyHint="go"
-              placeholder="••••••••"
+              placeholder="From your text message"
               autoComplete="current-password"
               autoCapitalize="none"
               autoCorrect="off"
@@ -98,8 +78,8 @@ export default async function LoginPage({
               role="alert"
               className="rounded-xl border border-danger-line bg-danger-soft px-4 py-3 text-[15px] leading-snug text-danger"
             >
-              That email and password do not match. Check for typos and try
-              again.
+              That password does not match any inbox. Check the spelling
+              in your text and try again.
             </p>
           ) : null}
 
@@ -112,8 +92,8 @@ export default async function LoginPage({
         </form>
 
         <p className="mt-8 text-center text-[15px] leading-relaxed text-muted">
-          Your address and password are on your invitation card. Ask your host
-          if you cannot find them.
+          Your password came by text with this link. Ask your host if you
+          cannot find it.
         </p>
       </div>
     </main>

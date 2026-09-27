@@ -1,7 +1,9 @@
 import Link from "next/link";
 import { redirect } from "next/navigation";
+import { Activity, allActivity } from "@/lib/activity";
 import { actRunway, characters, messages } from "@/lib/content";
 import { pendingFor } from "@/lib/delivery";
+import { ChimeButton } from "@/lib/mailwatch";
 import { isHost } from "@/lib/session";
 import { ACTS, elapsedMinutes, getStore, hasStarted, isRunning } from "@/lib/state";
 
@@ -22,6 +24,31 @@ function upcoming(section: number, elapsed: number) {
   return { next: later[0]?.offset ?? null, remaining: later.length };
 }
 
+/** "just now", "12 min ago", "3 h ago", "2 d ago": the host scans, not reads. */
+function ago(at: number, now: number): string {
+  const minutes = Math.floor((now - at) / 60_000);
+  if (minutes < 2) return "just now";
+  if (minutes < 60) return `${minutes} min ago`;
+  const hours = Math.floor(minutes / 60);
+  if (hours < 48) return `${hours} h ago`;
+  return `${Math.floor(hours / 24)} d ago`;
+}
+
+type Standing = "never" | "unread" | "read";
+
+function standingOf(activity: Activity | undefined): Standing {
+  if (!activity?.firstLogin) return "never";
+  return activity.briefingOpened ? "read" : "unread";
+}
+
+/** One line under a name: where this player stands before the party. */
+function activityLine(activity: Activity | undefined, now: number): string {
+  const standing = standingOf(activity);
+  if (standing === "never") return "Never signed in";
+  const seen = activity?.lastSeen ? `, seen ${ago(activity.lastSeen, now)}` : "";
+  return standing === "unread" ? `Briefing not opened${seen}` : `Read briefing${seen}`;
+}
+
 export default async function HostPage() {
   if (!(await isHost())) redirect("/login");
 
@@ -34,19 +61,31 @@ export default async function HostPage() {
   // eslint-disable-next-line react-hooks/purity
   const now = Date.now();
 
+  const activity = await allActivity();
+  const out = new Set(state.disabled);
+  const inPlay = characters.filter((c) => !out.has(c.id));
   const queuedBy = new Map(
-    characters.map((c) => [c.id, pendingFor(c.id, state, now).length] as const),
+    inPlay.map((c) => [c.id, pendingFor(c.id, state, now).length] as const),
   );
   const totalQueued = [...queuedBy.values()].reduce((a, b) => a + b, 0);
+  const tally = { read: 0, unread: 0, never: 0 };
+  for (const c of inPlay) tally[standingOf(activity[c.id])] += 1;
 
   return (
     <main className="mx-auto min-h-dvh w-full max-w-2xl bg-surface px-4 py-5 text-strong">
       <header className="flex items-baseline justify-between gap-3">
         <h1 className="text-[20px] font-semibold tracking-tight">Host</h1>
         <span className="text-[13px] tabular-nums text-muted">
-          {totalQueued} queued across {characters.length} inboxes
+          {totalQueued} queued across {inPlay.length} inboxes
         </span>
       </header>
+
+      <div className="mt-4 flex items-center justify-between gap-3 rounded-xl border border-line px-4 py-3">
+        <p className="text-[14px] leading-snug text-muted">
+          The sound players hear when mail arrives. Play it at the briefing.
+        </p>
+        <ChimeButton />
+      </div>
 
       <section className="mt-4 space-y-3">
         {ACTS.map((act) => {
@@ -143,31 +182,77 @@ export default async function HostPage() {
 
       <section className="mt-8">
         <h2 className="text-[13px] font-semibold text-muted">Inboxes</h2>
+        <p className="mt-1 text-[14px] leading-snug text-body">
+          <span className="font-semibold tabular-nums">{tally.read}</span> of {inPlay.length} have
+          read their briefing.
+          {tally.unread + tally.never > 0 ? (
+            <span className="text-warn">
+              {" "}
+              Follow up with {tally.unread + tally.never}: {tally.never} never signed in,{" "}
+              {tally.unread} signed in without opening it.
+            </span>
+          ) : null}
+        </p>
         <ul className="mt-1 divide-y divide-line">
           {characters.map((character) => {
+            const playing = !out.has(character.id);
             const queued = queuedBy.get(character.id) ?? 0;
             return (
-              <li key={character.id}>
+              <li key={character.id} className="flex items-center gap-3">
                 <Link
                   href={`/host/inbox/${character.id}`}
-                  className="flex min-h-12 items-center justify-between gap-3 py-1.5"
+                  className="flex min-h-12 min-w-0 flex-1 items-center justify-between gap-3 py-1.5"
                 >
                   <span className="flex min-w-0 items-baseline gap-2.5">
                     <span className="w-9 shrink-0 text-[12px] tabular-nums text-faint">
                       {character.id}
                     </span>
-                    <span className="truncate text-[15px] text-body">{character.name}</span>
+                    <span className="flex min-w-0 flex-col">
+                      <span
+                        className={`truncate text-[15px] ${
+                          playing ? "text-body" : "text-faint line-through"
+                        }`}
+                      >
+                        {character.name}
+                      </span>
+                      {playing ? (
+                        <span
+                          className={`truncate text-[12px] leading-snug ${
+                            standingOf(activity[character.id]) === "read"
+                              ? "text-faint"
+                              : "text-warn"
+                          }`}
+                        >
+                          {activityLine(activity[character.id], now)}
+                        </span>
+                      ) : null}
+                    </span>
                   </span>
                   <span
                     className={`shrink-0 tabular-nums ${
-                      queued > 0
+                      playing && queued > 0
                         ? "rounded-md bg-sunken px-2 py-0.5 text-[13px] font-medium text-body"
                         : "text-[13px] text-faint"
                     }`}
                   >
-                    {queued > 0 ? queued : "—"}
+                    {playing && queued > 0 ? queued : "—"}
                   </span>
                 </Link>
+                <form action="/api/cast" method="post" className="shrink-0">
+                  <input type="hidden" name="id" value={character.id} />
+                  <input type="hidden" name="inPlay" value={playing ? "false" : "true"} />
+                  <button
+                    type="submit"
+                    aria-label={`${character.name} is ${playing ? "in play" : "out of play"}. Switch.`}
+                    className={`h-8 w-[4.5rem] rounded-md border text-[12px] font-semibold ${
+                      playing
+                        ? "border-line-strong bg-raised text-body"
+                        : "border-line bg-sunken text-faint"
+                    } active:opacity-70`}
+                  >
+                    {playing ? "In play" : "Out"}
+                  </button>
+                </form>
               </li>
             );
           })}

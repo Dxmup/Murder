@@ -7,8 +7,9 @@ import { dirname, join } from "node:path";
  * credentials — is static content baked at build time.
  *
  * Local dev persists to a JSON file. Vercel's filesystem is read-only at
- * runtime, so production swaps in the Supabase-backed store; both satisfy
- * `StateStore`, and nothing above this module knows which is in use.
+ * runtime, so when Upstash Redis credentials are present the state lives
+ * there instead; both satisfy `StateStore`, and nothing above this module
+ * knows which is in use.
  */
 
 /** One stretch of wall-clock time during which the act was running. */
@@ -116,11 +117,51 @@ class FileStore implements StateStore {
   }
 }
 
+/**
+ * The whole game state as one JSON value under one key, over Upstash's REST
+ * API so no client library is needed. One host writes, so last write wins.
+ */
+class RedisStore implements StateStore {
+  private static readonly KEY = "murder:state";
+
+  constructor(
+    private readonly url: string,
+    private readonly token: string,
+  ) {}
+
+  private async command(args: string[]): Promise<unknown> {
+    const response = await fetch(this.url, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${this.token}` },
+      body: JSON.stringify(args),
+      cache: "no-store",
+    });
+    if (!response.ok) throw new Error(`Redis ${args[0]} failed: ${response.status}`);
+    return ((await response.json()) as { result: unknown }).result;
+  }
+
+  async read(): Promise<GameState> {
+    const raw = await this.command(["GET", RedisStore.KEY]);
+    if (typeof raw !== "string") return initialState();
+    return { ...initialState(), ...(JSON.parse(raw) as Partial<GameState>) };
+  }
+
+  async write(state: GameState): Promise<void> {
+    await this.command(["SET", RedisStore.KEY, JSON.stringify(state)]);
+  }
+}
+
 let store: StateStore | null = null;
 
 export function getStore(): StateStore {
   if (!store) {
-    store = new FileStore(join(process.cwd(), ".data", "state.json"));
+    // The Vercel marketplace names these KV_*; a direct Upstash setup uses UPSTASH_*.
+    const url = process.env.KV_REST_API_URL ?? process.env.UPSTASH_REDIS_REST_URL;
+    const token = process.env.KV_REST_API_TOKEN ?? process.env.UPSTASH_REDIS_REST_TOKEN;
+    store =
+      url && token
+        ? new RedisStore(url, token)
+        : new FileStore(join(process.cwd(), ".data", "state.json"));
   }
   return store;
 }

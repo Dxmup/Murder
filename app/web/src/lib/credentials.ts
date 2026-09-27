@@ -2,10 +2,10 @@ import { timingSafeEqual } from "node:crypto";
 import { HOST_SUBJECT } from "@/lib/session";
 
 /**
- * In-fiction credentials. These are usernames and passwords for a party game,
- * not real accounts — no mailbox exists behind any address here. They are
- * authored per character (see design notes in credentials JSON) and handed to
- * players ahead of the evening.
+ * In-fiction credentials for a party game, not real accounts; no mailbox
+ * exists behind any address here. Each character's password is authored in
+ * the credentials JSON (some hide a clue) and texted to the player with the
+ * link. The address is kept for the To: line of the fiction.
  */
 export type Credential = {
   id: string;
@@ -26,7 +26,22 @@ export const credentials: Credential[] = [
   ...(partB as Credential[]),
 ].sort((a, b) => a.id.localeCompare(b.id));
 
-const byEmail = new Map(credentials.map((c) => [c.email.toLowerCase(), c]));
+/**
+ * Players get a link and a password by text, so the password alone picks the
+ * inbox. Phones capitalise the first letter and some players will type the
+ * words with spaces, so both are ignored when matching.
+ */
+export function normalisePassword(raw: string): string {
+  return raw.toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+
+const byPassword = new Map<string, Credential>();
+for (const c of credentials) {
+  const key = normalisePassword(c.password);
+  const clash = byPassword.get(key);
+  if (clash) throw new Error(`${c.id} and ${clash.id} share a password`);
+  byPassword.set(key, c);
+}
 
 function constantTimeEqual(a: string, b: string): boolean {
   const left = Buffer.from(a);
@@ -35,22 +50,22 @@ function constantTimeEqual(a: string, b: string): boolean {
 }
 
 /**
- * Resolves a sign-in to a subject id, or null. The host signs in with the
- * address in HOST_EMAIL and the password in HOST_PASSWORD so that the
- * dashboard is never reachable with a character's credentials.
+ * Resolves a password to a subject id, or null. The host password lives in
+ * HOST_PASSWORD, never in the character files, so the dashboard is never
+ * reachable with a character's password.
  */
-export function authenticate(email: string, password: string): string | null {
-  const normalised = email.trim().toLowerCase();
+export function authenticate(password: string): string | null {
+  const key = normalisePassword(password);
+  if (!key) return null;
 
-  const hostEmail = process.env.HOST_EMAIL?.toLowerCase();
   const hostPassword = process.env.HOST_PASSWORD;
-  if (hostEmail && hostPassword && normalised === hostEmail) {
-    return constantTimeEqual(password, hostPassword) ? HOST_SUBJECT : null;
+  if (hostPassword) {
+    const hostKey = normalisePassword(hostPassword);
+    if (byPassword.has(hostKey)) throw new Error("HOST_PASSWORD matches a character password");
+    if (constantTimeEqual(key, hostKey)) return HOST_SUBJECT;
   }
 
-  const record = byEmail.get(normalised);
-  if (!record) return null;
-  return constantTimeEqual(password, record.password) ? record.id : null;
+  return byPassword.get(key)?.id ?? null;
 }
 
 export function credentialFor(id: string): Credential | undefined {

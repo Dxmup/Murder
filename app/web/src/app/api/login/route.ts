@@ -1,16 +1,23 @@
 import { NextResponse } from "next/server";
+import { recordLogin } from "@/lib/activity";
 import { authenticate } from "@/lib/credentials";
 import { HOST_SUBJECT, SESSION_COOKIE, mint } from "@/lib/session";
+import { getStore } from "@/lib/state";
 
 export async function POST(request: Request) {
   const form = await request.formData();
-  const email = String(form.get("email") ?? "");
   const password = String(form.get("password") ?? "");
 
-  const subject = authenticate(email, password);
+  let subject = authenticate(password);
+  if (subject && subject !== HOST_SUBJECT) {
+    const { disabled } = await getStore().read();
+    if (disabled.includes(subject)) subject = null;
+  }
   if (!subject) {
     return NextResponse.redirect(new URL("/login?error=1", request.url), { status: 303 });
   }
+
+  if (subject !== HOST_SUBJECT) await recordLogin(subject);
 
   const destination = subject === HOST_SUBJECT ? "/host" : "/";
   const response = NextResponse.redirect(new URL(destination, request.url), { status: 303 });

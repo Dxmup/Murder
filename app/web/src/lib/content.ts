@@ -1,5 +1,6 @@
 import charactersJson from "@/data/generated/characters.json";
 import messagesJson from "@/data/generated/messages.json";
+import propsJson from "@/data/generated/props.json";
 
 export const EVERYONE = "everyone";
 
@@ -12,7 +13,16 @@ export type Character = {
   briefing: string;
 };
 
-export type MessageType = "welcome" | "historical" | "live" | "final" | "briefing";
+export type MessageType =
+  | "welcome"
+  | "historical"
+  | "live"
+  | "final"
+  | "briefing"
+  | "props";
+
+/** A physical prop, pictured in the inbox of the character who holds it. */
+export type Prop = { id: string; title: string; caption: string };
 
 /** Synthetic id for the private briefing, which has no row in messages.csv. */
 export const BRIEFING_ID = "BRIEFING";
@@ -40,12 +50,21 @@ export type GameMessage = {
   subject: string;
   body: string;
   factRefs: string[];
+  /** Prop ids pictured beneath the body. */
+  attachments: string[];
 };
 
 export const characters = charactersJson as Character[];
 export const messages = messagesJson as GameMessage[];
 
+const props = propsJson as Prop[];
+
 const byId = new Map(characters.map((c) => [c.id, c]));
+const propById = new Map(props.map((p) => [p.id, p]));
+
+export function getProp(id: string): Prop | undefined {
+  return propById.get(id);
+}
 
 export function getCharacter(id: string): Character | undefined {
   return byId.get(id);
@@ -80,6 +99,7 @@ export function briefingFor(characterId: string): GameMessage | null {
     subject: "Before tonight",
     body: character.briefing,
     factRefs: [],
+    attachments: [],
   };
 }
 

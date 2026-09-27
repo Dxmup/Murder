@@ -24,15 +24,15 @@ ids() { curl -s -b "$PLAYER" "$BASE/" | grep -oE '\\"li\\",\\"V2M[0-9]+' | sed '
 
 echo "--- auth ---"
 check "wrong password is rejected" \
-  "$(curl -s -o /dev/null -w '%{redirect_url}' -X POST -d 'email=abell@veridiandynamics.org&password=nope' "$BASE/api/login")" \
+  "$(curl -s -o /dev/null -w '%{redirect_url}' -X POST -d 'password=nope' "$BASE/api/login")" \
   "$BASE/login?error=1"
 
 curl -s -c "$PLAYER" -o /dev/null -X POST \
-  -d 'email=abell@veridiandynamics.org&password=pressproofregmarks' "$BASE/api/login"
+  -d 'password=pressproofregmarks' "$BASE/api/login"
 check "player reaches inbox" "$(code -b "$PLAYER" "$BASE/")" "200"
 
 curl -s -c "$HOST" -o /dev/null -X POST \
-  -d "email=${HOST_EMAIL:-host@veridiandynamics.org}&password=${HOST_PASSWORD:-fifteenyears}" "$BASE/api/login"
+  -d "password=${HOST_PASSWORD:-fifteenyears}" "$BASE/api/login"
 check "host reaches dashboard" "$(code -b "$HOST" "$BASE/host")" "200"
 
 echo "--- host boundary ---"
@@ -45,15 +45,21 @@ check "anonymous cannot drive the clock" \
 echo "--- act gating ---"
 # Regression: offset-0 mail in every act once satisfied `0 >= 0` and shipped
 # before the act had started, exposing act 3's ballot prompt at sign-in.
-check "only pre-loaded mail before any act starts" "$(ids)" "V2M041"
+check "only pre-loaded mail before any act starts" "$(ids)" "V2M041 V2M080 V2M081 V2M087 V2M088 V2M089"
 
 curl -s -b "$HOST" -o /dev/null -X POST -d 'act=1&action=start' "$BASE/api/clock"
-check "act 1 opener arrives once act 1 starts" "$(ids)" "V2M001 V2M041"
+check "act 1 opener arrives once act 1 starts" "$(ids)" "V2M001 V2M041 V2M080 V2M081 V2M087 V2M088 V2M089"
 
 curl -s -b "$HOST" -o /dev/null -X POST -d 'act=1&action=pause' "$BASE/api/clock"
-check "pausing act 1 delivers nothing new" "$(ids)" "V2M001 V2M041"
+check "pausing act 1 delivers nothing new" "$(ids)" "V2M001 V2M041 V2M080 V2M081 V2M087 V2M088 V2M089"
 
 check "undelivered mail 404s by direct id" "$(code -b "$PLAYER" "$BASE/m/V2M037")" "404"
+
+echo "--- props ---"
+check "holder sees own prop" "$(code -b "$PLAYER" "$BASE/api/prop/O15a")" "200"
+check "another player's prop is hidden" "$(code -b "$PLAYER" "$BASE/api/prop/O01")" "404"
+check "signed-out visitor sees no prop" "$(code "$BASE/api/prop/O15a")" "404"
+check "host cannot pull a prop" "$(code -b "$HOST" "$BASE/api/prop/O15a")" "404"
 
 echo "--- briefing ---"
 # The booklet is rendered from characters/, not messages.csv, so it is easy to
@@ -72,7 +78,7 @@ esac
 check "host cannot open a player briefing" "$(code -b "$HOST" "$BASE/m/BRIEFING")" "307"
 
 curl -s -b "$HOST" -o /dev/null -X POST -d 'act=1&action=reset' "$BASE/api/clock"
-check "resetting act 1 withdraws its mail" "$(ids)" "V2M041"
+check "resetting act 1 withdraws its mail" "$(ids)" "V2M041 V2M080 V2M081 V2M087 V2M088 V2M089"
 
 rm -rf "$JAR"
 echo

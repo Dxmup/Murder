@@ -70,6 +70,7 @@ def load_briefings() -> dict[str, str]:
 def main() -> int:
     characters = read_csv(DATA / "characters.csv")
     messages = read_csv(DATA / "messages.csv")
+    props = {p["prop_id"]: p for p in read_csv(DATA / "props.csv")}
     briefings = load_briefings()
 
     by_name = {fold(c["character_name"]): c["character_id"] for c in characters}
@@ -121,8 +122,15 @@ def main() -> int:
                 "subject": m["subject"],
                 "body": m["body"],
                 "factRefs": [f for f in m["fact_refs"].split(";") if f],
+                # Prop ids whose web-size scans ride along with this message.
+                "attachments": [a for a in (m.get("attachments") or "").split(";") if a],
             }
         )
+
+    missing_props = {a for m in out_messages for a in m["attachments"] if a not in props}
+    if missing_props:
+        print(f"error: attachments missing from props.csv: {sorted(missing_props)}", file=sys.stderr)
+        return 1
 
     if unresolved:
         print(f"error: unresolved recipients: {sorted(unresolved)}", file=sys.stderr)
@@ -146,6 +154,14 @@ def main() -> int:
     )
     (OUT / "messages.json").write_text(
         json.dumps(out_messages, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+    )
+
+    out_props = [
+        {"id": p["prop_id"], "title": p["title"], "caption": p["caption"]}
+        for p in props.values()
+    ]
+    (OUT / "props.json").write_text(
+        json.dumps(out_props, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
 
     acts = {s: max((m["offset"] for m in out_messages if str(m["section"]) == s), default=0)

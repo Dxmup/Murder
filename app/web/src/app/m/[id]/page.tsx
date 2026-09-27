@@ -1,10 +1,14 @@
+import { cookies } from "next/headers";
 import Link from "next/link";
 import { notFound, redirect } from "next/navigation";
+import { recordBriefing, recordVisit } from "@/lib/activity";
 import { Avatar } from "@/lib/avatar";
-import { EVERYONE, getCharacter } from "@/lib/content";
+import { EVERYONE, Prop, getCharacter, getProp } from "@/lib/content";
 import { Markdown } from "@/lib/markdown";
 import { MailBody } from "@/lib/mailbody";
-import { DeliveredMessage, threadContaining } from "@/lib/delivery";
+import { DeliveredMessage, inboxFor, threadContaining } from "@/lib/delivery";
+import { MailWatcher } from "@/lib/mailwatch";
+import { READ_COOKIE, parseRead } from "@/lib/readstate";
 import { requireCharacter } from "@/lib/session";
 import { getStore } from "@/lib/state";
 
@@ -62,6 +66,10 @@ export default async function MessagePage({ params }: { params: Promise<{ id: st
   // The newest delivered message heads the screen; earlier ones follow beneath
   // it, so a follow-up always arrives with the exchange it belongs to.
   const message = thread.latest;
+  await Promise.all([
+    recordVisit(characterId),
+    message.type === "briefing" ? recordBriefing(characterId) : null,
+  ]);
   const earlier = thread.messages.slice(0, -1).reverse();
 
   const character = getCharacter(characterId);
@@ -72,7 +80,10 @@ export default async function MessagePage({ params }: { params: Promise<{ id: st
 
   // Pre-loaded mail keeps its narrative date and is labelled as dated, not
   // delivered, so a fifteen-year-old letter never reads as just-arrived.
-  const briefing = message.type === "briefing";
+  // The props note is the character's own, like the briefing, so it takes the
+  // same header; only the booklet itself is rendered as Markdown.
+  const booklet = message.type === "briefing";
+  const briefing = booklet || message.type === "props";
   const historical = message.section === 0 && !briefing;
   const dated = briefing || historical;
 
@@ -83,8 +94,13 @@ export default async function MessagePage({ params }: { params: Promise<{ id: st
 
   const provenance = PROVENANCE[message.provenance];
 
+  const deliveredIds = inboxFor(characterId, state).map((m) => m.id);
+  const seen = parseRead((await cookies()).get(READ_COOKIE)?.value);
+  const unreadCount = deliveredIds.filter((d) => !seen.has(d)).length;
+
   return (
     <main className="flex min-h-dvh flex-col bg-surface text-strong">
+      <MailWatcher initialIds={deliveredIds} initialUnread={unreadCount} onInbox={false} />
       <header className="sticky top-0 z-10 border-b border-line bg-surface/95 backdrop-blur">
         <Link
           href="/"
@@ -177,7 +193,7 @@ export default async function MessagePage({ params }: { params: Promise<{ id: st
         ) : null}
 
         <div className="mt-5 border-t border-line pt-6" id="body">
-          {briefing ? (
+          {booklet ? (
             // The booklet is authored Markdown; every other message is plain
             // text and must not be run through a parser that could reinterpret
             // an asterisk in the fiction as formatting.
@@ -186,6 +202,12 @@ export default async function MessagePage({ params }: { params: Promise<{ id: st
             <MailBody source={message.body} />
           )}
         </div>
+
+        {message.attachments.length > 0 ? (
+          <Attachments
+            props={message.attachments.map(getProp).filter((p): p is Prop => Boolean(p))}
+          />
+        ) : null}
 
         {earlier.length > 0 ? (
           <section className="mt-12 border-t border-line pt-6">
@@ -224,5 +246,36 @@ export default async function MessagePage({ params }: { params: Promise<{ id: st
         ) : null}
       </article>
     </main>
+  );
+}
+
+/**
+ * Prop scans beneath the body, full width so the print on them is legible on a
+ * phone. Tapping one opens the scan alone, where the phone's own zoom works.
+ */
+function Attachments({ props }: { props: Prop[] }) {
+  return (
+    <section className="mt-10 border-t border-line pt-6">
+      <h2 className="text-[13px] font-semibold text-muted">
+        {props.length === 1 ? "1 attachment" : `${props.length} attachments`}
+      </h2>
+      <ol className="mt-4 space-y-8">
+        {props.map((prop) => (
+          <li key={prop.id}>
+            <a href={`/api/prop/${prop.id}`} target="_blank" rel="noopener" className="block">
+              {/* eslint-disable-next-line @next/next/no-img-element -- served by an auth-checked route, not next/image */}
+              <img
+                src={`/api/prop/${prop.id}`}
+                alt={prop.title}
+                loading="lazy"
+                className="w-full rounded-lg border border-line bg-raised"
+              />
+            </a>
+            <p className="mt-3 text-[16px] font-semibold leading-snug text-strong">{prop.title}</p>
+            <p className="mt-1 text-[15px] leading-relaxed text-muted">{prop.caption}</p>
+          </li>
+        ))}
+      </ol>
+    </section>
   );
 }
