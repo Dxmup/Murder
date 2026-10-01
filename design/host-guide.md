@@ -79,12 +79,9 @@ Players may cite what influenced them, but do not reject a ballot for incomplete
 
 ### Ending 4 threshold
 
-The identity ballot's winner selects Endings 1–3 unless the composite threshold is met. Ending 4 plays when either:
+The identity ballot's winner selects Endings 1–3 unless the composite threshold is met. Ending 4 plays only when **all three** of the following hold: Progressive receives at least one quarter of identity votes; "killed by an AI system" wins the Vale-fate ballot or ties for the win; and during the evening the room publicly connected all three composite keys (an ordered identity history, autonomous system control, and a distinct Vale incident). The host judges the keys from the final discussion, not from any checklist shown to players.
 
-1. **Progressive wins the identity ballot outright**, or
-2. **all three** of the following hold: Progressive receives at least one quarter of identity votes; "killed by an AI system" wins the Vale-fate ballot or ties for the win; and during the evening the room publicly connected all three composite keys (an ordered identity history, autonomous system control, and a distinct Vale incident) — the host judges this from the final discussion, not from any checklist shown to players.
-
-If Progressive wins the ballot but the room never assembled the keys, still play Ending 4 — the ballot is sovereign — but lean on the script's language of reconstruction rather than revelation.
+If Progressive wins the ballot but the threshold was not met, do not play Ending 4. Read the ending matching the strongest single identity component and say so plainly, as [`ending-reveals.md`](ending-reveals.md) instructs.
 
 ## Ending reveal
 
