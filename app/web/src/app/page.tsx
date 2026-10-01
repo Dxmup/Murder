@@ -47,6 +47,9 @@ async function openMessage(formData: FormData) {
   redirect(`/m/${id}`);
 }
 
+/** The character's own preparation, in the order it sits above the mail. */
+const OWN_TYPES: string[] = ["briefing", "cheatsheet", "props"];
+
 /**
  * Pre-loaded mail (section 0) carries a narrative date. It is never rendered
  * in the clock slot: a phrase like "Six days before the anniversary" is not a
@@ -55,7 +58,7 @@ async function openMessage(formData: FormData) {
 function isArchival(message: DeliveredMessage): boolean {
   // The briefing is also section 0, but it is tonight's preparation rather
   // than kept correspondence, so it never takes the archive treatment.
-  return message.section === 0 && message.type !== "briefing" && message.type !== "props";
+  return message.section === 0 && !OWN_TYPES.includes(message.type);
 }
 
 /** The clock time a live message landed. Empty for archival mail. */
@@ -73,7 +76,7 @@ function clockTime(message: DeliveredMessage): string {
  * sender column already carries the character's name.
  */
 function snippet(message: DeliveredMessage, limit = 190): string {
-  if (message.type !== "briefing") return previewOf(message.body, limit);
+  if (message.type !== "briefing" && message.type !== "cheatsheet") return previewOf(message.body, limit);
 
   const flat = message.body
     .split("\n")
@@ -249,12 +252,12 @@ export default async function InboxPage() {
   const threads = threadsFor(characterId, state);
   const deliveredIds = threads.flatMap((t) => t.messages.map((m) => m.id));
   const unreadCount = deliveredIds.filter((id) => !seen.has(id)).length;
-  // The briefing and the props note are the character's own preparation, so
-  // they sit together above the mail rather than among it.
-  const own = (t: Thread) => t.latest.type === "briefing" || t.latest.type === "props";
+  // The briefing, cheat sheet and props note are the character's own
+  // preparation, so they sit together above the mail rather than among it.
+  const own = (t: Thread) => OWN_TYPES.includes(t.latest.type);
   const preparation = threads
     .filter(own)
-    .sort((a, b) => (a.latest.type === "briefing" ? -1 : b.latest.type === "briefing" ? 1 : 0));
+    .sort((a, b) => OWN_TYPES.indexOf(a.latest.type) - OWN_TYPES.indexOf(b.latest.type));
   const tonight = threads.filter((t) => !isArchival(t.latest) && !own(t));
   const archive = threads.filter((t) => isArchival(t.latest));
 

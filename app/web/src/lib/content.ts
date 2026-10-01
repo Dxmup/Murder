@@ -19,7 +19,8 @@ export type MessageType =
   | "live"
   | "final"
   | "briefing"
-  | "props";
+  | "props"
+  | "cheatsheet";
 
 /** A physical prop, pictured in the inbox of the character who holds it. */
 export type Prop = { id: string; title: string; caption: string };

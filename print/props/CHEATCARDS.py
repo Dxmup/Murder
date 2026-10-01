@@ -13,6 +13,10 @@ booklet changes, change the card here and regenerate.
 
     python3 CHEATCARDS.py        # writes cheat-cards.html beside this file
 
+`markdown_card()` renders the same card as Markdown for the inbox copy each
+player gets before the party (messages V2M107-V2M124, type `cheatsheet`). If
+a card changes, regenerate those bodies too.
+
 Print at 100% scale, one card per page, single sided.
 """
 
@@ -763,6 +767,49 @@ def render_card(cid):
       {tag}
     </div>
   </div>"""
+
+
+def markdown_card(cid):
+    c = CARDS[cid]
+    props = PROPS[cid]
+    lines = [
+        f"# {c['name']}",
+        "",
+        "This is your cheat sheet: the short version of your booklet. You will get it as a printed card at the party, sized for a pocket, so you do not need to print or memorise it. It is here early so you can read it before Saturday.",
+        "",
+        f"**{c['role']}.** {c['you_are']}",
+        "",
+        "## You win if",
+        "",
+        c["win"],
+        "",
+        "## And also if",
+        "",
+        *[f"- {a}" for a in c["also"]],
+        "",
+        "## Your first twenty minutes",
+        "",
+        *[f"{i}. {o}" for i, o in enumerate(c["opens"], 1)],
+        "",
+        "## Find these people",
+        "",
+        *[f"- **{n}**: {ask}." for n, ask in c["find"]],
+        "",
+        "## In your hands",
+        "",
+    ]
+    if props:
+        lines += ["; ".join(props) + ".", ""]
+    if PROP_NOTE.get(cid):
+        lines += [PROP_NOTE[cid], ""]
+    lines += [
+        "## You can trade", "", c["trade"], "",
+        "## You are hiding", "", c["secret"], "",
+        "## Never say", "", c["never"], "",
+        "## Watch for", "", c["watch"], "",
+        "## Your choice at the end", "", c["choice"],
+    ]
+    return "\n".join(lines)
 
 
 def build():

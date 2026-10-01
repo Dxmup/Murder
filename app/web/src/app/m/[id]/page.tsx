@@ -80,9 +80,10 @@ export default async function MessagePage({ params }: { params: Promise<{ id: st
 
   // Pre-loaded mail keeps its narrative date and is labelled as dated, not
   // delivered, so a fifteen-year-old letter never reads as just-arrived.
-  // The props note is the character's own, like the briefing, so it takes the
-  // same header; only the booklet itself is rendered as Markdown.
-  const booklet = message.type === "briefing";
+  // The props note and cheat sheet are the character's own, like the
+  // briefing, so they take the same header. The booklet and the cheat sheet
+  // are authored Markdown; the props note is plain text.
+  const booklet = message.type === "briefing" || message.type === "cheatsheet";
   const briefing = booklet || message.type === "props";
   const historical = message.section === 0 && !briefing;
   const dated = briefing || historical;
@@ -194,7 +195,7 @@ export default async function MessagePage({ params }: { params: Promise<{ id: st
 
         <div className="mt-5 border-t border-line pt-6" id="body">
           {booklet ? (
-            // The booklet is authored Markdown; every other message is plain
+            // The booklet and cheat sheet are authored Markdown; every other message is plain
             // text and must not be run through a parser that could reinterpret
             // an asterisk in the fiction as formatting.
             <Markdown source={message.body} stripTitle />
